@@ -1,0 +1,149 @@
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	background: #E4E0E7 url(../images/chalk_light.jpg) fixed;
+	color: #000000;
+	font-size: 200%;
+	margin-left:1.0em;
+	margin-right:1.0em;
+	margin-top:1.0em;
+}
+h1, h2, h3, h4,h5,h6 {
+	text-align: left;
+	color: #444444;
+	background: transparent;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:1.0em;
+	margin-right:1.0em;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+h2 {
+	margin-left:3.0em;
+	padding-bottom: 0.1em;
+}
+h2.shortlist {
+	font-size: 125%;
+	text-align: left;
+	margin:0px;
+	padding:0px;
+}
+hr {
+	color: #cc0000;
+	background: transparent;
+	width: 75%;
+	height: 0.1em;
+}
+hr.wide {
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.center {
+	text-align:center;
+}
+.right {
+	text-align:right;
+}
+.italic {
+	font-style:italic
+}
+a {
+	padding:0.5em;
+}
+a:link {
+	color:#444444;
+}
+a:visited {
+	color:#000000;
+}
+a:hover {
+	color:#000000;
+	background: #C4C1C7 url(../images/chalk_dark.jpg) fixed;
+}
+a:active {
+	color:#000000;
+	background: #C4C1C7 url(../images/chalk_dark.jpg) fixed;
+}
+p { 
+	font-family: "Trebuchet MS", sans-serif;
+}
+p.source {
+	margin-top: 0;
+	padding-top: 0;
+}
+p.quote {
+	font-style:italic;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+p.shortlist {
+	margin:0px;
+	padding:0px;
+}
+p.center { 
+	text-align: center;
+}
+p.margin {
+	margin-left: 5ex;
+}
+p.small {
+	margin-top: 0;
+	font-size: 70%;
+}
+table {
+	border-collapse:collapse;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:1.0em;
+}
+table, th, td {
+	border: 1px solid black;
+}
+td {
+	padding: 0.2em;
+}
+td.stripnumber {
+	text-align:right;
+	padding-right:1.0em;
+	width:3.0em;
+}
+td.stripid {
+	text-align:right;
+	padding-right:1.0em;
+	width:3.0em;
+}
+td.boolean {
+	width:1.0em;
+}
+img.boolean {
+	width:1.0em;
+	height:1.0em;
+}
+img.center {
+    display: block;
+    margin: 0 auto; }
+th {
+	color: #555555;
+}
+ul.linklist {
+	line-height: 2.0;
+}
+ol.linklist {
+	line-height: 2.0;
+}
+code {
+	font-family: monotype;
+}
+div.note {
+	margin-right : 1cm;
+	background-image : url(../images/chalk_dark.jpg);
+	padding : 0.3cm 0.3cm 0.3cm 0.3cm;
+	margin : 0.3cm 0.3cm 0.3cm 0.3cm;
+	background-color : #C4C1C7;
+}
+div.dangling {
+	position : absolute;
+	bottom : 0px;
+}
