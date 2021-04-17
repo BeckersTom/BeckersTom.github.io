@@ -1,6 +1,6 @@
 ---
 date: "2021-05-01"
-title: "My new fancy updated post"
+title: "My new new fancy updated post"
 tags: [csharp, azure, dotnet]
 ---
 
