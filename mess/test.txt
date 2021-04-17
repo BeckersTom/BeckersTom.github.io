@@ -1,8 +1,188 @@
----
-date: "2021-05-01"
-title: "My new new new fancy updated post"
-tags: [csharp, azure, dotnet]
----
-
-The heading for my first post
-
+[
+  {
+    "id": null,
+    "date": "2021-04-17T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": null,
+    "date": "2021-04-17T00:00:00",
+    "type": "vlees",
+    "menu1": "Rogvleugel met kappertjessaus, fris tuinslaatje en peterselie aardappelen"
+  },
+  {
+    "id": null,
+    "date": "2021-04-17T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Ovengroenten Aubergine, courgette, rode ui en venkel"
+  },
+  {
+    "id": null,
+    "date": "2021-04-18T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": null,
+    "date": "2021-04-18T00:00:00",
+    "type": "vlees",
+    "menu1": "Lamsfilet met gegrilde asperges, gremolata en krieltjes uit de oven"
+  },
+  {
+    "id": null,
+    "date": "2021-04-19T00:00:00",
+    "type": "soep",
+    "menu1": "Erwtensoep met munt en ijsbergsla"
+  },
+  {
+    "id": null,
+    "date": "2021-04-19T00:00:00",
+    "type": "veggie",
+    "menu1": "Zoete aardappel met taco vulling en gemengde sla"
+  },
+  {
+    "id": null,
+    "date": "2021-04-19T00:00:00",
+    "type": "vlees",
+    "menu1": "Spaghetti Bolognaise"
+  },
+  {
+    "id": null,
+    "date": "2021-04-19T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-20T00:00:00",
+    "type": "soep",
+    "menu1": "Tomatensoep met balletjes"
+  },
+  {
+    "id": null,
+    "date": "2021-04-20T00:00:00",
+    "type": "veggie",
+    "menu1": "Paprika risotto met gebakken geitenkaas"
+  },
+  {
+    "id": null,
+    "date": "2021-04-20T00:00:00",
+    "type": "vlees",
+    "menu1": "Fishburger met rode ui, saus van zure room en dille, uiringen en frietjes"
+  },
+  {
+    "id": null,
+    "date": "2021-04-20T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-21T00:00:00",
+    "type": "soep",
+    "menu1": "Mulligatawny Soep"
+  },
+  {
+    "id": null,
+    "date": "2021-04-21T00:00:00",
+    "type": "veggie",
+    "menu1": "Indische linzenschotel met rijst en sojascheuten"
+  },
+  {
+    "id": null,
+    "date": "2021-04-21T00:00:00",
+    "type": "vlees",
+    "menu1": "Schnitzel, gebakken aardappelen met spek en ui, champignonsaus en sla"
+  },
+  {
+    "id": null,
+    "date": "2021-04-21T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-22T00:00:00",
+    "type": "soep",
+    "menu1": "Tom Yam Kung"
+  },
+  {
+    "id": null,
+    "date": "2021-04-22T00:00:00",
+    "type": "veggie",
+    "menu1": "Gevulde paprika met spinazie en feta met broccolipuree"
+  },
+  {
+    "id": null,
+    "date": "2021-04-22T00:00:00",
+    "type": "vlees",
+    "menu1": "Mexicaanse ovenschotel met kip en nacho’s"
+  },
+  {
+    "id": null,
+    "date": "2021-04-22T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-23T00:00:00",
+    "type": "soep",
+    "menu1": "Wortelsoep met sinaas"
+  },
+  {
+    "id": null,
+    "date": "2021-04-23T00:00:00",
+    "type": "veggie",
+    "menu1": "Romige tomaat/basilicum pasta met parmezaan en rucola"
+  },
+  {
+    "id": null,
+    "date": "2021-04-23T00:00:00",
+    "type": "vlees",
+    "menu1": "Caesarsalade met garnalen en gepocheerd eitje"
+  },
+  {
+    "id": null,
+    "date": "2021-04-23T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-24T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": null,
+    "date": "2021-04-24T00:00:00",
+    "type": "vlees",
+    "menu1": "Varkenshaasje met knolseldergratin en gebakken champignons en witloof"
+  },
+  {
+    "id": null,
+    "date": "2021-04-24T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  },
+  {
+    "id": null,
+    "date": "2021-04-25T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": null,
+    "date": "2021-04-25T00:00:00",
+    "type": "vlees",
+    "menu1": "Salade niçoise met gegrilde zalm en aardappelschijven"
+  },
+  {
+    "id": null,
+    "date": "2021-04-25T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken champignons"
+  }
+]
