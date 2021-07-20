@@ -1,188 +1,350 @@
 [
   {
-    "id": null,
-    "date": "2021-04-17T00:00:00",
+    "id": 1241,
+    "date": "2021-07-11T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "dag soep"
   },
   {
-    "id": null,
-    "date": "2021-04-17T00:00:00",
+    "id": 1242,
+    "date": "2021-07-11T00:00:00Z",
     "type": "vlees",
-    "menu1": "Rogvleugel met kappertjessaus, fris tuinslaatje en peterselie aardappelen"
+    "menu1": "Kipfilet met gebakken champignons, roomsaus, sla en kroketten"
   },
   {
-    "id": null,
-    "date": "2021-04-17T00:00:00",
+    "id": 1243,
+    "date": "2021-07-11T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Ovengroenten Aubergine, courgette, rode ui en venkel"
+    "menu1": "Oventomaat"
   },
   {
-    "id": null,
-    "date": "2021-04-18T00:00:00",
+    "id": 1244,
+    "date": "2021-07-12T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "Spaanse soep met kikkererwten en chorizo"
   },
   {
-    "id": null,
-    "date": "2021-04-18T00:00:00",
-    "type": "vlees",
-    "menu1": "Lamsfilet met gegrilde asperges, gremolata en krieltjes uit de oven"
-  },
-  {
-    "id": null,
-    "date": "2021-04-19T00:00:00",
-    "type": "soep",
-    "menu1": "Erwtensoep met munt en ijsbergsla"
-  },
-  {
-    "id": null,
-    "date": "2021-04-19T00:00:00",
+    "id": 1245,
+    "date": "2021-07-12T00:00:00Z",
     "type": "veggie",
-    "menu1": "Zoete aardappel met taco vulling en gemengde sla"
+    "menu1": "Tagliatelle met arrabiata saus en aubergine, courgette, tomaat en ui"
   },
   {
-    "id": null,
-    "date": "2021-04-19T00:00:00",
+    "id": 1246,
+    "date": "2021-07-12T00:00:00Z",
     "type": "vlees",
-    "menu1": "Spaghetti Bolognaise"
+    "menu1": "Gebakken koolvis met een salade caprese (tomaten, basilicum), pesto en tortellini"
   },
   {
-    "id": null,
-    "date": "2021-04-19T00:00:00",
+    "id": 1247,
+    "date": "2021-07-12T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Gebakken champignons"
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
   },
   {
-    "id": null,
-    "date": "2021-04-20T00:00:00",
+    "id": 1248,
+    "date": "2021-07-13T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dahlsoep (wortel, selder, ui, linzen ) met muntyoghurt"
+  },
+  {
+    "id": 1249,
+    "date": "2021-07-13T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Huisbereid groententaartje met venkel, tomaat en geitenkaas"
+  },
+  {
+    "id": 1250,
+    "date": "2021-07-13T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Vol au vent met gemengde sla en frieten"
+  },
+  {
+    "id": 1251,
+    "date": "2021-07-13T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
+  },
+  {
+    "id": 1252,
+    "date": "2021-07-13T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza Salami"
+  },
+  {
+    "id": 1253,
+    "date": "2021-07-14T00:00:00Z",
+    "type": "soep",
+    "menu1": "Courgettesoep, groene curry en cocos"
+  },
+  {
+    "id": 1254,
+    "date": "2021-07-14T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gevulde courgette met groentjes (tomaten, courget, aubergine, ajuin, rode paprika groene paprika)  en ebly"
+  },
+  {
+    "id": 1255,
+    "date": "2021-07-14T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Loempia met currysaus, chop choy groenten en rijst (Ajuin, Wortel, Prei, Rode paprika &amp; Groene paprika)"
+  },
+  {
+    "id": 1256,
+    "date": "2021-07-14T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
+  },
+  {
+    "id": 1257,
+    "date": "2021-07-15T00:00:00Z",
+    "type": "soep",
+    "menu1": "Groente&gt;Slasoep met lente ui"
+  },
+  {
+    "id": 1258,
+    "date": "2021-07-15T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Bretoense boekweitpannen-koek met esdoornsiroop, appel, nootjes en waldorfsalade (groene selder)"
+  },
+  {
+    "id": 1259,
+    "date": "2021-07-15T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Gravedlax met aardappel-appelsalade met groentenchips en mosterd-dilledressing"
+  },
+  {
+    "id": 1260,
+    "date": "2021-07-15T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
+  },
+  {
+    "id": 1261,
+    "date": "2021-07-15T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza Salami"
+  },
+  {
+    "id": 1262,
+    "date": "2021-07-16T00:00:00Z",
+    "type": "soep",
+    "menu1": "Roomsoep Andalouse (tomaat, ui, selder, wortel en prei)"
+  },
+  {
+    "id": 1263,
+    "date": "2021-07-16T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Quinoa met granaatappel, kruidige tofu, blauwe bessen en limoensaus"
+  },
+  {
+    "id": 1264,
+    "date": "2021-07-16T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Slaatje met roergebakken kip, spek en appel, curry dressing en broodje"
+  },
+  {
+    "id": 1265,
+    "date": "2021-07-16T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
+  },
+  {
+    "id": 1266,
+    "date": "2021-07-17T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dag soep"
+  },
+  {
+    "id": 1267,
+    "date": "2021-07-17T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Slavink met mosterdsaus, erwten en wortelen met perselie-aardapelen"
+  },
+  {
+    "id": 1268,
+    "date": "2021-07-17T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder en venkelzaadjes"
+  },
+  {
+    "id": 1269,
+    "date": "2021-07-18T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dag soep"
+  },
+  {
+    "id": 1270,
+    "date": "2021-07-18T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Brochette met roomsaus, gebakken champignons en frietjes"
+  },
+  {
+    "id": 1271,
+    "date": "2021-07-18T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool met bleekselder  en venkelzaadjes"
+  },
+  {
+    "id": 1272,
+    "date": "2021-07-19T00:00:00Z",
+    "type": "soep",
+    "menu1": "Champignonsoep"
+  },
+  {
+    "id": 1273,
+    "date": "2021-07-19T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gnocchi in tomatensaus met parmezaan en rucola"
+  },
+  {
+    "id": 1274,
+    "date": "2021-07-19T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Ovenschotel met gehakt, gele courgette, kerstomaat, spinazie en Griekse pasta"
+  },
+  {
+    "id": 1275,
+    "date": "2021-07-19T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Erwten en wortelen"
+  },
+  {
+    "id": 1276,
+    "date": "2021-07-20T00:00:00Z",
+    "type": "soep",
+    "menu1": "Kippen crème soep met julienne van wortel, prei en selder."
+  },
+  {
+    "id": 1277,
+    "date": "2021-07-20T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Polenta met champignon-mengeling met krokantje van pompoenpitten en noten"
+  },
+  {
+    "id": 1278,
+    "date": "2021-07-20T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Burrito met guacamole, zure room, Mexicaanse salade (komkommer, tomaten, maïs, courget, paprika en wedges"
+  },
+  {
+    "id": 1279,
+    "date": "2021-07-20T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Erwten en wortelen"
+  },
+  {
+    "id": 1280,
+    "date": "2021-07-20T00:00:00Z",
+    "type": "grill",
+    "menu1": "Zalmburger met inktvisringen, sla, tomatensalsa, tartaar en fijne frietjes"
+  },
+  {
+    "id": 1281,
+    "date": "2021-07-21T00:00:00Z",
+    "type": "soep",
+    "menu1": "Bloemkoolsoep"
+  },
+  {
+    "id": 1282,
+    "date": "2021-07-21T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Groenten loempia met bami goreng(prei, wortel, selder en curry saus"
+  },
+  {
+    "id": 1283,
+    "date": "2021-07-21T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Tatjespuree met kabeljauw, bloemkool, grijze garnalen en gepocheerd ei"
+  },
+  {
+    "id": 1284,
+    "date": "2021-07-21T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Erwten en wortelen"
+  },
+  {
+    "id": 1285,
+    "date": "2021-07-22T00:00:00Z",
     "type": "soep",
     "menu1": "Tomatensoep met balletjes"
   },
   {
-    "id": null,
-    "date": "2021-04-20T00:00:00",
+    "id": 1286,
+    "date": "2021-07-22T00:00:00Z",
     "type": "veggie",
-    "menu1": "Paprika risotto met gebakken geitenkaas"
+    "menu1": "Griekse salade(komkommer, tomaten, rode ui) met tzatziki (komkommer), granaatappel en gefrituurd pitabrood en halloumifrietjes"
   },
   {
-    "id": null,
-    "date": "2021-04-20T00:00:00",
+    "id": 1287,
+    "date": "2021-07-22T00:00:00Z",
     "type": "vlees",
-    "menu1": "Fishburger met rode ui, saus van zure room en dille, uiringen en frietjes"
+    "menu1": "Balletjes in tomatensaus met frietjes en gebakken champignons"
   },
   {
-    "id": null,
-    "date": "2021-04-20T00:00:00",
+    "id": 1288,
+    "date": "2021-07-22T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Gebakken champignons"
+    "menu1": "Erwten en wortelen"
   },
   {
-    "id": null,
-    "date": "2021-04-21T00:00:00",
+    "id": 1289,
+    "date": "2021-07-23T00:00:00Z",
     "type": "soep",
-    "menu1": "Mulligatawny Soep"
+    "menu1": "Romanescosoep"
   },
   {
-    "id": null,
-    "date": "2021-04-21T00:00:00",
+    "id": 1290,
+    "date": "2021-07-23T00:00:00Z",
     "type": "veggie",
-    "menu1": "Indische linzenschotel met rijst en sojascheuten"
+    "menu1": "Courgette pannenkoeken, salade van radijs, spinazie, kruiden en zure room met geitenkaas"
   },
   {
-    "id": null,
-    "date": "2021-04-21T00:00:00",
+    "id": 1291,
+    "date": "2021-07-23T00:00:00Z",
     "type": "vlees",
-    "menu1": "Schnitzel, gebakken aardappelen met spek en ui, champignonsaus en sla"
+    "menu1": "Paprikaschnitzel met gestoofde boontjes en peterselie aardappelen"
   },
   {
-    "id": null,
-    "date": "2021-04-21T00:00:00",
+    "id": 1292,
+    "date": "2021-07-23T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Gebakken champignons"
+    "menu1": "Erwten en wortelen"
   },
   {
-    "id": null,
-    "date": "2021-04-22T00:00:00",
-    "type": "soep",
-    "menu1": "Tom Yam Kung"
-  },
-  {
-    "id": null,
-    "date": "2021-04-22T00:00:00",
-    "type": "veggie",
-    "menu1": "Gevulde paprika met spinazie en feta met broccolipuree"
-  },
-  {
-    "id": null,
-    "date": "2021-04-22T00:00:00",
-    "type": "vlees",
-    "menu1": "Mexicaanse ovenschotel met kip en nacho’s"
-  },
-  {
-    "id": null,
-    "date": "2021-04-22T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Gebakken champignons"
-  },
-  {
-    "id": null,
-    "date": "2021-04-23T00:00:00",
-    "type": "soep",
-    "menu1": "Wortelsoep met sinaas"
-  },
-  {
-    "id": null,
-    "date": "2021-04-23T00:00:00",
-    "type": "veggie",
-    "menu1": "Romige tomaat/basilicum pasta met parmezaan en rucola"
-  },
-  {
-    "id": null,
-    "date": "2021-04-23T00:00:00",
-    "type": "vlees",
-    "menu1": "Caesarsalade met garnalen en gepocheerd eitje"
-  },
-  {
-    "id": null,
-    "date": "2021-04-23T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Gebakken champignons"
-  },
-  {
-    "id": null,
-    "date": "2021-04-24T00:00:00",
+    "id": 1293,
+    "date": "2021-07-24T00:00:00Z",
     "type": "soep",
     "menu1": "Dagsoep"
   },
   {
-    "id": null,
-    "date": "2021-04-24T00:00:00",
+    "id": 1294,
+    "date": "2021-07-24T00:00:00Z",
     "type": "vlees",
-    "menu1": "Varkenshaasje met knolseldergratin en gebakken champignons en witloof"
+    "menu1": "Cordon blue met erwten en wortelen met natuur aardappelen"
   },
   {
-    "id": null,
-    "date": "2021-04-24T00:00:00",
+    "id": 1295,
+    "date": "2021-07-24T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Gebakken champignons"
+    "menu1": "Erwten en wortelen"
   },
   {
-    "id": null,
-    "date": "2021-04-25T00:00:00",
+    "id": 1296,
+    "date": "2021-07-25T00:00:00Z",
     "type": "soep",
     "menu1": "Dagsoep"
   },
   {
-    "id": null,
-    "date": "2021-04-25T00:00:00",
+    "id": 1297,
+    "date": "2021-07-25T00:00:00Z",
     "type": "vlees",
-    "menu1": "Salade niçoise met gegrilde zalm en aardappelschijven"
+    "menu1": "Tongrolletjes duglerè met witte asperges en krieltjes"
   },
   {
-    "id": null,
-    "date": "2021-04-25T00:00:00",
+    "id": 1298,
+    "date": "2021-07-25T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Gebakken champignons"
+    "menu1": "Erwten en wortelen"
   }
 ]
