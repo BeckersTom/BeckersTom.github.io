@@ -1,314 +1,332 @@
 [
   {
-    "id": 1560,
-    "date": "2021-09-14T00:00:00Z",
+    "id": 1612,
+    "date": "2021-09-27T00:00:00Z",
     "type": "soep",
-    "menu1": "Erwtensoep"
+    "menu1": "Witte koolsoep met curry"
   },
   {
-    "id": 1561,
-    "date": "2021-09-14T00:00:00Z",
+    "id": 1613,
+    "date": "2021-09-27T00:00:00Z",
     "type": "veggie",
-    "menu1": "Geitenkaas in filodeeg met gedroogd fruit, venkelsalade met citrus en samengestelde salade (sla, wortel, knolselder, tomaat, rode biet)"
+    "menu1": "Toast met gebakken champignons in roomsaus"
   },
   {
-    "id": 1562,
-    "date": "2021-09-14T00:00:00Z",
+    "id": 1614,
+    "date": "2021-09-27T00:00:00Z",
     "type": "vlees",
-    "menu1": "Lamsbrochette met lamsjus en Griekse ovenschotel, boureki (aardappel, courgette, feta)"
+    "menu1": "Zwarte en witte pens met appelcompote en peterselie aardappelen"
   },
   {
-    "id": 1563,
-    "date": "2021-09-14T00:00:00Z",
+    "id": 1615,
+    "date": "2021-09-27T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
+    "menu1": "Savooikool"
   },
   {
-    "id": 1564,
-    "date": "2021-09-14T00:00:00Z",
+    "id": 1616,
+    "date": "2021-09-28T00:00:00Z",
+    "type": "soep",
+    "menu1": "Minestronesoep (wortel, tomaten, sperziebonen, savooikool, courgette, prei,  selder.)"
+  },
+  {
+    "id": 1617,
+    "date": "2021-09-28T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Nasi gorengrol met curry en gebakken noedels en wokgroenten (wortel, prei, selder, chinese kool, ui, sojascheuten)"
+  },
+  {
+    "id": 1618,
+    "date": "2021-09-28T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Koninginnenhapje met tuinkers en frietjes"
+  },
+  {
+    "id": 1619,
+    "date": "2021-09-28T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool"
+  },
+  {
+    "id": 1620,
+    "date": "2021-09-28T00:00:00Z",
     "type": "grill",
-    "menu1": "Pizza jalapeno, peperoni, paprika en rode ui"
+    "menu1": "Pizza 4-kazen"
   },
   {
-    "id": 1565,
-    "date": "2021-09-15T00:00:00Z",
+    "id": 1621,
+    "date": "2021-09-29T00:00:00Z",
     "type": "soep",
-    "menu1": "Roomsoep Dubarry (bloemkool)"
+    "menu1": "Preisoep"
   },
   {
-    "id": 1566,
-    "date": "2021-09-15T00:00:00Z",
+    "id": 1622,
+    "date": "2021-09-29T00:00:00Z",
     "type": "veggie",
-    "menu1": "Warme pastasalade (courgette, kerstomaat, rucola, pesto, parmezaan en groentenballetjes"
+    "menu1": "Shepard’s pie met komkommer rellish"
   },
   {
-    "id": 1567,
-    "date": "2021-09-15T00:00:00Z",
+    "id": 1623,
+    "date": "2021-09-29T00:00:00Z",
     "type": "vlees",
-    "menu1": "Gefruite vis met gemengde salade (sla, wortel, knolselder, tomaat, rode biet) huisbereide tartaarsaus en aardappelpuree met lente ui"
+    "menu1": "Pasta kip met pesto, zongedroogde tomaatjes en rucola"
   },
   {
-    "id": 1568,
-    "date": "2021-09-15T00:00:00Z",
+    "id": 1624,
+    "date": "2021-09-29T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
+    "menu1": "Savooikool"
   },
   {
-    "id": 1569,
-    "date": "2021-09-16T00:00:00Z",
+    "id": 1625,
+    "date": "2021-09-30T00:00:00Z",
+    "type": "soep",
+    "menu1": "Portugese soep"
+  },
+  {
+    "id": 1626,
+    "date": "2021-09-30T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Tajine met citroen, koriander, olijven met couscous en 7 groenten (wortel, courget, aubergine, tomaat ui, paprika, selder)"
+  },
+  {
+    "id": 1627,
+    "date": "2021-09-30T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Stoofvlees Cross &amp; Blackwell met kroketten en boontjes"
+  },
+  {
+    "id": 1628,
+    "date": "2021-09-30T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Bloemkool"
+  },
+  {
+    "id": 1629,
+    "date": "2021-09-30T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza 4-kazen"
+  },
+  {
+    "id": 1630,
+    "date": "2021-10-01T00:00:00Z",
+    "type": "soep",
+    "menu1": "Witloofsoep"
+  },
+  {
+    "id": 1631,
+    "date": "2021-10-01T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gevulde pasta met kastanjes, champignons en pompoen"
+  },
+  {
+    "id": 1632,
+    "date": "2021-10-01T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Gegratineerde witloofrolletjes met puree"
+  },
+  {
+    "id": 1633,
+    "date": "2021-10-01T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Savooikool of bloemkool"
+  },
+  {
+    "id": 1634,
+    "date": "2021-10-02T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dag soep"
+  },
+  {
+    "id": 1635,
+    "date": "2021-10-02T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Scampi met curry, groene groenten (sluimererwten, boontjes en erwten) en rijst"
+  },
+  {
+    "id": 1636,
+    "date": "2021-10-02T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Savooikool of bloemkool"
+  },
+  {
+    "id": 1637,
+    "date": "2021-10-03T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 1638,
+    "date": "2021-10-03T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Kalfslapje met tagliatelle en tomatensaus"
+  },
+  {
+    "id": 1639,
+    "date": "2021-10-03T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Savooikool of bloemkool"
+  },
+  {
+    "id": 1640,
+    "date": "2021-10-04T00:00:00Z",
+    "type": "soep",
+    "menu1": "Parmentiersoep (prei, ui, aardappel)"
+  },
+  {
+    "id": 1641,
+    "date": "2021-10-04T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gegratineerde Cannelloni met gegrilde groenten (aubergine, courgette, paprika, ui)"
+  },
+  {
+    "id": 1642,
+    "date": "2021-10-04T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Cordon blue met Robertsaus, gebakken witloof en peterselie aardappelen"
+  },
+  {
+    "id": 1643,
+    "date": "2021-10-04T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Spruiten"
+  },
+  {
+    "id": 1644,
+    "date": "2021-10-05T00:00:00Z",
+    "type": "soep",
+    "menu1": "Courgettesoep"
+  },
+  {
+    "id": 1645,
+    "date": "2021-10-05T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Lasagne van pompoen, spinazie en ricotta"
+  },
+  {
+    "id": 1646,
+    "date": "2021-10-05T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Rundsbrochette Stroganoff met frieten en gemengde salade"
+  },
+  {
+    "id": 1647,
+    "date": "2021-10-05T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza paprika, kebabvlees, rode ui en looksaus"
+  },
+  {
+    "id": 1648,
+    "date": "2021-10-06T00:00:00Z",
+    "type": "soep",
+    "menu1": "Knolseldersoep"
+  },
+  {
+    "id": 1649,
+    "date": "2021-10-06T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Stoofpotje van seitan, wortel en zilverui met frietjes en witloofsalade"
+  },
+  {
+    "id": 1650,
+    "date": "2021-10-06T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Zalm met nantuasaus, spinazie en aardappelen"
+  },
+  {
+    "id": 1651,
+    "date": "2021-10-06T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Spruiten"
+  },
+  {
+    "id": 1652,
+    "date": "2021-10-07T00:00:00Z",
     "type": "soep",
     "menu1": "Pompoensoep"
   },
   {
-    "id": 1570,
-    "date": "2021-09-16T00:00:00Z",
+    "id": 1653,
+    "date": "2021-10-07T00:00:00Z",
     "type": "veggie",
-    "menu1": "Groentenquiche (broccoli, ui, wortel, paprika en tofu) met notensalade"
+    "menu1": "Curryschotel met zoete aardappel, linzen, paksoi en champignons"
   },
   {
-    "id": 1571,
-    "date": "2021-09-16T00:00:00Z",
+    "id": 1654,
+    "date": "2021-10-07T00:00:00Z",
     "type": "vlees",
-    "menu1": "Rundsstoofvlees met frietjes en witloofsalade met radijsjes"
+    "menu1": "Gevulde paprika met tomatensaus en gegratineerde Griekse pasta"
   },
   {
-    "id": 1572,
-    "date": "2021-09-16T00:00:00Z",
+    "id": 1655,
+    "date": "2021-10-07T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
+    "menu1": "Pastinaak"
   },
   {
-    "id": 1573,
-    "date": "2021-09-16T00:00:00Z",
+    "id": 1656,
+    "date": "2021-10-07T00:00:00Z",
     "type": "grill",
-    "menu1": "Gegrilde beenham, bearnaise saus, gebakken krieltjes en little gems"
+    "menu1": "Pizza paprika, kebabvlees, rode ui en looksaus"
   },
   {
-    "id": 1574,
-    "date": "2021-09-17T00:00:00Z",
+    "id": 1657,
+    "date": "2021-10-08T00:00:00Z",
     "type": "soep",
-    "menu1": "Rode linzensoep"
+    "menu1": "Rammenassoep met croutons en spek"
   },
   {
-    "id": 1575,
-    "date": "2021-09-17T00:00:00Z",
+    "id": 1658,
+    "date": "2021-10-08T00:00:00Z",
     "type": "veggie",
-    "menu1": "Portobello/ cheeseburger met steakhouse frieten"
+    "menu1": "Spaghetti met Mediterrane groenten en mascarpone saus"
   },
   {
-    "id": 1576,
-    "date": "2021-09-17T00:00:00Z",
+    "id": 1659,
+    "date": "2021-10-08T00:00:00Z",
     "type": "vlees",
-    "menu1": "Paella met kip/vis en schaaldieren"
+    "menu1": "Tongschar met broccolipuree en citroen/botersaus"
   },
   {
-    "id": 1577,
-    "date": "2021-09-17T00:00:00Z",
+    "id": 1660,
+    "date": "2021-10-08T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
+    "menu1": "Spruiten of pastinaak"
   },
   {
-    "id": 1578,
-    "date": "2021-09-18T00:00:00Z",
+    "id": 1661,
+    "date": "2021-10-09T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "Dag soep"
   },
   {
-    "id": 1579,
-    "date": "2021-09-18T00:00:00Z",
+    "id": 1662,
+    "date": "2021-10-09T00:00:00Z",
     "type": "vlees",
-    "menu1": "Saltimbocca van vis met champignon-risotto en vissaus"
+    "menu1": "Gentse waterzooi van kip (prei, wortel en selder)"
   },
   {
-    "id": 1580,
-    "date": "2021-09-18T00:00:00Z",
+    "id": 1663,
+    "date": "2021-10-09T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
+    "menu1": "Spruiten of pastinaak"
   },
   {
-    "id": 1581,
-    "date": "2021-09-19T00:00:00Z",
+    "id": 1664,
+    "date": "2021-10-10T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "Dag soep"
   },
   {
-    "id": 1582,
-    "date": "2021-09-19T00:00:00Z",
+    "id": 1665,
+    "date": "2021-10-10T00:00:00Z",
     "type": "vlees",
-    "menu1": "Konijn met pruimen, gefruite aardappelen en appeltje uit de oven"
+    "menu1": "Visfilet Florentine met bieslook-aardappelen"
   },
   {
-    "id": 1583,
-    "date": "2021-09-19T00:00:00Z",
+    "id": 1666,
+    "date": "2021-10-10T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "Snijboontjes met ui"
-  },
-  {
-    "id": 1584,
-    "date": "2021-09-20T00:00:00Z",
-    "type": "soep",
-    "menu1": "Bloemkoolsoep"
-  },
-  {
-    "id": 1585,
-    "date": "2021-09-20T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Surinaamse bonenschotel (paprika, selder) met jasmijnrijst"
-  },
-  {
-    "id": 1586,
-    "date": "2021-09-20T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Tonijn op Siciliaanse wijze (tomaat) met volkorenpasta"
-  },
-  {
-    "id": 1587,
-    "date": "2021-09-20T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Groenen bonen met tomaat en look"
-  },
-  {
-    "id": 1588,
-    "date": "2021-09-21T00:00:00Z",
-    "type": "soep",
-    "menu1": "Champignonsoep"
-  },
-  {
-    "id": 1589,
-    "date": "2021-09-21T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Kikkererwten-salade met courgetburger, tsatsiki (komkommer)"
-  },
-  {
-    "id": 1590,
-    "date": "2021-09-21T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kipspiesje met komkommersalsa en krieltjes"
-  },
-  {
-    "id": 1591,
-    "date": "2021-09-21T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Broccoli"
-  },
-  {
-    "id": 1592,
-    "date": "2021-09-22T00:00:00Z",
-    "type": "soep",
-    "menu1": "Zoete aardappelsoep"
-  },
-  {
-    "id": 1593,
-    "date": "2021-09-22T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Salade met zoete aardappel, spinazie, spruitjes en halloumi met veenbessen volkorenbroodje"
-  },
-  {
-    "id": 1594,
-    "date": "2021-09-22T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Met honing geroosterde zalm met courget, radijs, paprika en quinoa"
-  },
-  {
-    "id": 1595,
-    "date": "2021-09-22T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Groenen bonen met tomaat en look"
-  },
-  {
-    "id": 1596,
-    "date": "2021-09-23T00:00:00Z",
-    "type": "soep",
-    "menu1": "Seldersoep"
-  },
-  {
-    "id": 1597,
-    "date": "2021-09-23T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Chlil sin carne (wortel, maïs, peulvruchten) met guacamole en bruine rijst"
-  },
-  {
-    "id": 1598,
-    "date": "2021-09-23T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Stoofschotel van kalfsvlees (bleekselder, wortel, ui) met bruine rijst"
-  },
-  {
-    "id": 1599,
-    "date": "2021-09-23T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Broccoli"
-  },
-  {
-    "id": 1600,
-    "date": "2021-09-24T00:00:00Z",
-    "type": "soep",
-    "menu1": "Wortelsoep"
-  },
-  {
-    "id": 1601,
-    "date": "2021-09-24T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Linzenschotel met zoete aardappel, paprika spinazie, cashewnoten en bulgur"
-  },
-  {
-    "id": 1602,
-    "date": "2021-09-24T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kabeljauw met notenkorst en spinaziestoemp"
-  },
-  {
-    "id": 1603,
-    "date": "2021-09-24T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Groenen bonen met tomaat en look"
-  },
-  {
-    "id": 1604,
-    "date": "2021-09-25T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 1605,
-    "date": "2021-09-25T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Quinoa met paprika, doperwten en walnoten"
-  },
-  {
-    "id": 1606,
-    "date": "2021-09-25T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kip Stroganoff (paprika, champignons) met Jasmijnrijst"
-  },
-  {
-    "id": 1607,
-    "date": "2021-09-25T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Broccoli OF Groenen bonen met tomaat en look"
-  },
-  {
-    "id": 1608,
-    "date": "2021-09-26T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 1609,
-    "date": "2021-09-26T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Gepofte zoete aardappel met tofu en pecannotenmet een slaatje van jonge spinazie"
-  },
-  {
-    "id": 1610,
-    "date": "2021-09-26T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Mediterrane vis uit de oven met courget, aubergine, paprika en ui met natuur aardappelen"
-  },
-  {
-    "id": 1611,
-    "date": "2021-09-26T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Broccoli OF Groenen bonen met tomaat en look"
+    "menu1": "Spruiten of pastinaak"
   }
 ]
