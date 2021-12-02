@@ -1,420 +1,90 @@
 [
   {
-    "id": 2030,
-    "date": "2021-11-18T00:00:00Z",
-    "type": "soep",
-    "menu1": "Broccoli-spinaziesoep"
-  },
-  {
-    "id": 2031,
-    "date": "2021-11-18T00:00:00Z",
-    "type": "veggie",
-    "menu1": "VEGAN: Seitan stoofpotje met pompoen en raapjes"
-  },
-  {
-    "id": 2032,
-    "date": "2021-11-18T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Stoofvlees op z’n Vlaams met frieten en witloofsla"
-  },
-  {
-    "id": 2033,
-    "date": "2021-11-18T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geroosterde pompoenblokjes"
-  },
-  {
-    "id": 2034,
-    "date": "2021-11-19T00:00:00Z",
-    "type": "soep",
-    "menu1": "Bloemkool-kerriesoep"
-  },
-  {
-    "id": 2035,
-    "date": "2021-11-19T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Lasagne van shiitake, pompoen en prei"
-  },
-  {
-    "id": 2036,
-    "date": "2021-11-19T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Burrito met chili con carne, guacamole, zure room en salsa rossa , aardappel wedges"
-  },
-  {
-    "id": 2037,
-    "date": "2021-11-19T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geroosterde knolselder of Geroosterde pompoenblokjes"
-  },
-  {
-    "id": 2038,
-    "date": "2021-11-20T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 2039,
-    "date": "2021-11-20T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Braadworst, rode kool met appel en pompoenpuree"
-  },
-  {
-    "id": 2040,
-    "date": "2021-11-20T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geroosterde knolselder of Geroosterde pompoenblokjes"
-  },
-  {
-    "id": 2041,
-    "date": "2021-11-21T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 2042,
-    "date": "2021-11-21T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Roodbaars met dillesaus, aardappelen en juliennegroente"
-  },
-  {
-    "id": 2043,
-    "date": "2021-11-21T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geroosterde knolselder of Geroosterde pompoenblokjes"
-  },
-  {
-    "id": 2044,
-    "date": "2021-11-22T00:00:00Z",
-    "type": "soep",
-    "menu1": "Broccolisoep"
-  },
-  {
-    "id": 2045,
-    "date": "2021-11-22T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Quiche met pompoen en pastinaak met krieltjes"
-  },
-  {
-    "id": 2046,
-    "date": "2021-11-22T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kipschnitzel met champignons en spek met pomme risolé"
-  },
-  {
-    "id": 2047,
-    "date": "2021-11-22T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geglaceerde wortelen"
-  },
-  {
-    "id": 2048,
-    "date": "2021-11-23T00:00:00Z",
-    "type": "soep",
-    "menu1": "Wortelsoep met kokos en curry"
-  },
-  {
-    "id": 2049,
-    "date": "2021-11-23T00:00:00Z",
-    "type": "veggie",
-    "menu1": "VEGAN: Bloemkoolrisotto met krokante tofoe en groene kruiden"
-  },
-  {
-    "id": 2050,
-    "date": "2021-11-23T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Balletjes in tomatensaus met seldersla en frieten"
-  },
-  {
-    "id": 2051,
-    "date": "2021-11-23T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Gebakken schorseneren"
-  },
-  {
-    "id": 2052,
-    "date": "2021-11-23T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza BBQ kip"
-  },
-  {
-    "id": 2053,
-    "date": "2021-11-24T00:00:00Z",
-    "type": "soep",
-    "menu1": "Pikante vissoep met venkel"
-  },
-  {
-    "id": 2054,
-    "date": "2021-11-24T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Tagliatelle met artisjok en gepocheerd ei"
-  },
-  {
-    "id": 2055,
-    "date": "2021-11-24T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Zalmfilet met dillesaus, gebakken bloemkool en natuuraardappelen"
-  },
-  {
-    "id": 2056,
-    "date": "2021-11-24T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geglaceerde wortelen"
-  },
-  {
-    "id": 2057,
-    "date": "2021-11-25T00:00:00Z",
-    "type": "soep",
-    "menu1": "Champignonsoep"
-  },
-  {
-    "id": 2058,
-    "date": "2021-11-25T00:00:00Z",
-    "type": "veggie",
-    "menu1": "VEGAN: Spaghetti met rijkelijke groenten saus"
-  },
-  {
-    "id": 2059,
-    "date": "2021-11-25T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Spaghetti Bolognaise"
-  },
-  {
-    "id": 2060,
-    "date": "2021-11-25T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Gebakken schorseneren"
-  },
-  {
-    "id": 2061,
-    "date": "2021-11-25T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza BBQ kip"
-  },
-  {
-    "id": 2062,
-    "date": "2021-11-26T00:00:00Z",
-    "type": "soep",
-    "menu1": "Knolselder vélouté"
-  },
-  {
-    "id": 2063,
-    "date": "2021-11-26T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Curry met linzen, bloemkool, zoete aardappel en spinaziemet jasmijnrijst"
-  },
-  {
-    "id": 2064,
-    "date": "2021-11-26T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Tongrolletjes met champignon, prei, selder en krieltjes"
-  },
-  {
-    "id": 2065,
-    "date": "2021-11-26T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geglaceerde  wortelen"
-  },
-  {
-    "id": 2066,
-    "date": "2021-11-27T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 2067,
-    "date": "2021-11-27T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Provençaalse kip met couscous"
-  },
-  {
-    "id": 2068,
-    "date": "2021-11-27T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geglaceerde  wortelen en/ of Gebakken schorseneren"
-  },
-  {
-    "id": 2069,
-    "date": "2021-11-28T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 2070,
-    "date": "2021-11-28T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Steak bearnaise met broccoli en bloemkool en steakhouse frieten"
-  },
-  {
-    "id": 2071,
-    "date": "2021-11-28T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Geglaceerde  wortelen en/ of Gebakken schorseneren"
-  },
-  {
-    "id": 2072,
-    "date": "2021-11-29T00:00:00Z",
-    "type": "soep",
-    "menu1": "Spruitensoep met croutons"
-  },
-  {
-    "id": 2073,
-    "date": "2021-11-29T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Curryschotel met linzen en kikkererwten"
-  },
-  {
-    "id": 2074,
-    "date": "2021-11-29T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kippengyros met paprika en rijst"
-  },
-  {
-    "id": 2075,
-    "date": "2021-11-29T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Schorseneren in bechamelsaus"
-  },
-  {
-    "id": 2076,
-    "date": "2021-11-30T00:00:00Z",
-    "type": "soep",
-    "menu1": "Pittige rode linzensoep"
-  },
-  {
-    "id": 2077,
-    "date": "2021-11-30T00:00:00Z",
-    "type": "veggie",
-    "menu1": "VEGAN: Risotto met spinazie en champignons met look uit de oven"
-  },
-  {
-    "id": 2078,
-    "date": "2021-11-30T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Linguine met pompoensaus, spek, rucola en parmesaan"
-  },
-  {
-    "id": 2079,
-    "date": "2021-11-30T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Witte kool in saus"
-  },
-  {
-    "id": 2080,
-    "date": "2021-11-30T00:00:00Z",
-    "type": "grill",
-    "menu1": "Burger met rundvlees, camembert, chutney van rode ui, rucola, appel, walnoot en balsamicocreme"
-  },
-  {
-    "id": 2081,
-    "date": "2021-12-01T00:00:00Z",
-    "type": "soep",
-    "menu1": "Bloemkoolsoep met champignons"
-  },
-  {
-    "id": 2082,
-    "date": "2021-12-01T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Wrap met “kip’, biet, rode kool en jonge spinazie en wedges"
-  },
-  {
-    "id": 2083,
-    "date": "2021-12-01T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Pitaschotel met verschillende sauzen, aardappelwedges, koolsalade en broodje"
-  },
-  {
-    "id": 2084,
-    "date": "2021-12-01T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Schorseneren in bechamelsaus"
-  },
-  {
-    "id": 2085,
+    "id": 2100,
     "date": "2021-12-02T00:00:00Z",
     "type": "soep",
     "menu1": "Chinese Tomatensoep"
   },
   {
-    "id": 2086,
+    "id": 2101,
     "date": "2021-12-02T00:00:00Z",
     "type": "veggie",
     "menu1": "Eenpansgerecht met courgette, sugar snaps, zoete aardappel, feta, falafel en citroenmayo"
   },
   {
-    "id": 2087,
+    "id": 2102,
     "date": "2021-12-02T00:00:00Z",
     "type": "vlees",
     "menu1": "Balletjes in tomatensaus met preipuree"
   },
   {
-    "id": 2088,
+    "id": 2103,
     "date": "2021-12-02T00:00:00Z",
     "type": "groentvdw",
     "menu1": "Witte kool in saus"
   },
   {
-    "id": 2089,
+    "id": 2104,
     "date": "2021-12-02T00:00:00Z",
     "type": "grill",
     "menu1": "Burger met rundvlees, camembert, chutney van rode ui, rucola, appel, walnoot en balsamicocreme"
   },
   {
-    "id": 2090,
+    "id": 2105,
     "date": "2021-12-03T00:00:00Z",
     "type": "soep",
     "menu1": "Pastinaaksoep"
   },
   {
-    "id": 2091,
+    "id": 2106,
     "date": "2021-12-03T00:00:00Z",
     "type": "veggie",
     "menu1": "Biet  bourguignon met aardappelpuree"
   },
   {
-    "id": 2092,
+    "id": 2107,
     "date": "2021-12-03T00:00:00Z",
     "type": "vlees",
     "menu1": "Alaska pollak met gratin van venkel en courgette met krieltjes"
   },
   {
-    "id": 2093,
+    "id": 2108,
     "date": "2021-12-03T00:00:00Z",
     "type": "groentvdw",
     "menu1": "Schorseneren in bechamelsaus"
   },
   {
-    "id": 2094,
+    "id": 2109,
     "date": "2021-12-04T00:00:00Z",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": 2095,
+    "id": 2110,
     "date": "2021-12-04T00:00:00Z",
     "type": "vlees",
     "menu1": "Vislasagne met spinazie, aardpeer en champignons met een slaatje van veldsla"
   },
   {
-    "id": 2096,
+    "id": 2111,
     "date": "2021-12-04T00:00:00Z",
     "type": "groentvdw",
     "menu1": "Schorseneren en / of Witte kool  in bechamelsaus"
   },
   {
-    "id": 2097,
+    "id": 2112,
     "date": "2021-12-05T00:00:00Z",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": 2098,
+    "id": 2113,
     "date": "2021-12-05T00:00:00Z",
     "type": "vlees",
     "menu1": "Steak met choronsaus, tomatensalade en friet"
   },
   {
-    "id": 2099,
+    "id": 2114,
     "date": "2021-12-05T00:00:00Z",
     "type": "groentvdw",
     "menu1": "Schorseneren en / of Witte kool  in bechamelsaus"
