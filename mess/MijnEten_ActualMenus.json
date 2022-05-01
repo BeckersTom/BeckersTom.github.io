@@ -1,248 +1,206 @@
 [
   {
-    "id": 2805,
-    "date": "2022-04-22T00:00:00Z",
-    "type": "soep",
-    "menu1": "Erwtensoep met croutons"
-  },
-  {
-    "id": 2806,
-    "date": "2022-04-22T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Parelcouscous met gegrilde groenten en falafals"
-  },
-  {
-    "id": 2807,
-    "date": "2022-04-22T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Romige tortelloni met witte asperges en zalm"
-  },
-  {
-    "id": 2808,
-    "date": "2022-04-22T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Bloemkool"
-  },
-  {
-    "id": 2809,
-    "date": "2022-04-23T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 2810,
-    "date": "2022-04-23T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Spaghetti carbonara"
-  },
-  {
-    "id": 2811,
-    "date": "2022-04-23T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Bloemkool of knolselder met appel"
-  },
-  {
-    "id": 2812,
-    "date": "2022-04-24T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 2813,
-    "date": "2022-04-24T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Koninginnehapje met mousselinesaus en aardappelpuree"
-  },
-  {
-    "id": 2814,
-    "date": "2022-04-24T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Bloemkool of knolselder met appel"
-  },
-  {
-    "id": 2815,
-    "date": "2022-04-25T00:00:00Z",
-    "type": "soep",
-    "menu1": "Wortelsoep"
-  },
-  {
-    "id": 2816,
-    "date": "2022-04-25T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Groenteburger met jonge wortelen, aardappelen en jus van tijm"
-  },
-  {
-    "id": 2817,
-    "date": "2022-04-25T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Varkensschnitzel met jonge wortelen, aardappelen en jus van tijm"
-  },
-  {
-    "id": 2818,
-    "date": "2022-04-25T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Trio van roosjes"
-  },
-  {
-    "id": 2819,
-    "date": "2022-04-25T00:00:00Z",
-    "type": "grill",
-    "menu1": "Gegrilde steak met Provençaalse saus, kruidenslaatje en aardappel in de schil"
-  },
-  {
-    "id": 2820,
-    "date": "2022-04-26T00:00:00Z",
-    "type": "soep",
-    "menu1": "Broccolisoep"
-  },
-  {
-    "id": 2821,
-    "date": "2022-04-26T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Rijkelijke vegetarische groenten bolognaise saus en volkorenpasta"
-  },
-  {
-    "id": 2822,
-    "date": "2022-04-26T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Spaghetti Bolognaise"
-  },
-  {
-    "id": 2823,
-    "date": "2022-04-26T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Spinazie in roomsaus"
-  },
-  {
-    "id": 2824,
-    "date": "2022-04-26T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza Margherita"
-  },
-  {
-    "id": 2825,
-    "date": "2022-04-27T00:00:00Z",
-    "type": "soep",
-    "menu1": "Komkommersoep met dille"
-  },
-  {
-    "id": 2826,
-    "date": "2022-04-27T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Quiche met gegrilde groenten, boursin met fijne kruiden en kruidenslaatje"
-  },
-  {
-    "id": 2827,
-    "date": "2022-04-27T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Gebakken heekfilet, mediterrane groenten, patatas brava en saffraan saus"
-  },
-  {
-    "id": 2828,
-    "date": "2022-04-27T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "trio van roosjes"
-  },
-  {
-    "id": 2829,
-    "date": "2022-04-27T00:00:00Z",
-    "type": "grill",
-    "menu1": "Verse sushischotel (6 stuks) + garnituren"
-  },
-  {
-    "id": 2830,
-    "date": "2022-04-28T00:00:00Z",
-    "type": "soep",
-    "menu1": "Kervelsoep"
-  },
-  {
-    "id": 2831,
-    "date": "2022-04-28T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Curry van Thaise groenten en tofu met gele rijst"
-  },
-  {
-    "id": 2832,
-    "date": "2022-04-28T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Chili con carne met gepofte aardappel, zure room, guacamole en nacho’s"
-  },
-  {
-    "id": 2833,
-    "date": "2022-04-28T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Spinazie in roomsaus"
-  },
-  {
-    "id": 2834,
-    "date": "2022-04-28T00:00:00Z",
-    "type": "grill",
-    "menu1": "Gegrilde steak met Provençaalse saus, kruidenslaatje en aardappel in de schil"
-  },
-  {
-    "id": 2835,
-    "date": "2022-04-29T00:00:00Z",
-    "type": "soep",
-    "menu1": "Minestrone met kaas"
-  },
-  {
-    "id": 2836,
-    "date": "2022-04-29T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Vegetarische pitareepjes met diverse sauzen, wedges en wortel-koolsalade"
-  },
-  {
-    "id": 2837,
-    "date": "2022-04-29T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Waterzooi van kip met gestoomde krielaardappelen"
-  },
-  {
-    "id": 2838,
-    "date": "2022-04-29T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "trio van roosjes"
-  },
-  {
-    "id": 2839,
-    "date": "2022-04-29T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza Margherita"
-  },
-  {
-    "id": 2840,
-    "date": "2022-04-30T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 2841,
-    "date": "2022-04-30T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Vogelnestje met Madeirasaus, champignons en gebakken aardappelen"
-  },
-  {
-    "id": 2842,
-    "date": "2022-04-30T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "Spinazie in roomsaus / trio van roosjes"
-  },
-  {
-    "id": 2843,
+    "id": 2846,
     "date": "2022-05-01T00:00:00Z",
     "type": "soep",
     "menu1": "Dagsoep"
   },
   {
-    "id": 2844,
+    "id": 2847,
     "date": "2022-05-01T00:00:00Z",
     "type": "vlees",
     "menu1": "Gebakken kabeljauw met verse tartaar en puree van rucola en zongedroogde tomaat"
   },
   {
-    "id": 2845,
+    "id": 2848,
     "date": "2022-05-01T00:00:00Z",
     "type": "groentvdw",
     "menu1": "Spinazie in roomsaus / trio van roosjes"
+  },
+  {
+    "id": 2849,
+    "date": "2022-05-02T00:00:00Z",
+    "type": "soep",
+    "menu1": "Juliennesoep"
+  },
+  {
+    "id": 2850,
+    "date": "2022-05-02T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Rijst met vegetarische balletjes, boerenkool, knoflook en tomatensaus"
+  },
+  {
+    "id": 2851,
+    "date": "2022-05-02T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Kalkoenrollade met sinaasappelsaus, polenta en romanesco roosjes"
+  },
+  {
+    "id": 2852,
+    "date": "2022-05-02T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "erwten &amp; wortelen"
+  },
+  {
+    "id": 2853,
+    "date": "2022-05-02T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza tonijn, kappertjes en rode ui"
+  },
+  {
+    "id": 2854,
+    "date": "2022-05-03T00:00:00Z",
+    "type": "soep",
+    "menu1": "Courgettensoep"
+  },
+  {
+    "id": 2855,
+    "date": "2022-05-03T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Vidée met boschampignons en schorseneren en waterkers, gebakken aardappelen"
+  },
+  {
+    "id": 2856,
+    "date": "2022-05-03T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Jockeyburger met gebakken aardappelen en komkommersalade"
+  },
+  {
+    "id": 2857,
+    "date": "2022-05-03T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Prei in roomsaus"
+  },
+  {
+    "id": 2858,
+    "date": "2022-05-03T00:00:00Z",
+    "type": "grill",
+    "menu1": "Gegrilde gemengde vleesbrochette met frieten, gegrild tomaatje, béarnaise saus, samengestelde salade"
+  },
+  {
+    "id": 2859,
+    "date": "2022-05-04T00:00:00Z",
+    "type": "soep",
+    "menu1": "Aspergesoep"
+  },
+  {
+    "id": 2860,
+    "date": "2022-05-04T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Romige pasta, vegetarische kipstukjes met Italiaanse roerbakgroente"
+  },
+  {
+    "id": 2861,
+    "date": "2022-05-04T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Chipolata met gegratineerde bloemkool en aardappelen"
+  },
+  {
+    "id": 2862,
+    "date": "2022-05-04T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Erwten &amp; wortelen."
+  },
+  {
+    "id": 2863,
+    "date": "2022-05-04T00:00:00Z",
+    "type": "grill",
+    "menu1": "Japanse ramen met keuze uit :   1.Vegetarisch    2.Kip     3.Scampi"
+  },
+  {
+    "id": 2864,
+    "date": "2022-05-05T00:00:00Z",
+    "type": "soep",
+    "menu1": "Rode paprikasoep"
+  },
+  {
+    "id": 2865,
+    "date": "2022-05-05T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Kruiden-couscous met gegrilde groene asperges en geitenkaas"
+  },
+  {
+    "id": 2866,
+    "date": "2022-05-05T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Pasta met champignons, gestoofde prei en gebakken koolvisfilet"
+  },
+  {
+    "id": 2867,
+    "date": "2022-05-05T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Prei in roomsaus"
+  },
+  {
+    "id": 2868,
+    "date": "2022-05-05T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza tonijn, kappertjes en rode ui"
+  },
+  {
+    "id": 2869,
+    "date": "2022-05-06T00:00:00Z",
+    "type": "soep",
+    "menu1": "Uiensoep"
+  },
+  {
+    "id": 2870,
+    "date": "2022-05-06T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Lenteburger met wortel-ruccolasla en zoete aardappelfrieten"
+  },
+  {
+    "id": 2871,
+    "date": "2022-05-06T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Luikse salade"
+  },
+  {
+    "id": 2872,
+    "date": "2022-05-06T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "erwten &amp; wortelen"
+  },
+  {
+    "id": 2873,
+    "date": "2022-05-06T00:00:00Z",
+    "type": "grill",
+    "menu1": "Gegrilde gemengde vleesbrochette met frieten, gegrild tomaatje, béarnaise saus, samengestelde salade"
+  },
+  {
+    "id": 2874,
+    "date": "2022-05-07T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 2875,
+    "date": "2022-05-07T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Lasagne Bolognaise"
+  },
+  {
+    "id": 2876,
+    "date": "2022-05-07T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Prei in roomsaus / erwten &amp; wortelen."
+  },
+  {
+    "id": 2877,
+    "date": "2022-05-08T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 2878,
+    "date": "2022-05-08T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Pepersteak met pepersaus, frieten samengestelde salade"
+  },
+  {
+    "id": 2879,
+    "date": "2022-05-08T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "Prei in roomsaus / erwten &amp; wortelen."
   }
 ]
