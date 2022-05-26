@@ -1,308 +1,92 @@
 [
   {
-    "id": 2965,
-    "date": "2022-05-16T00:00:00Z",
-    "type": "soep",
-    "menu1": "Spinaziesoep"
-  },
-  {
-    "id": 2966,
-    "date": "2022-05-16T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Ovenschotel van prei, champignons, Griekse yoghurt en tomaat met rozemarijn aardappelen"
-  },
-  {
-    "id": 2967,
-    "date": "2022-05-16T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Stoofvlees op zijn Vlaams met frieten en fris slaatje"
-  },
-  {
-    "id": 2968,
-    "date": "2022-05-16T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli, 2. Erwten, 3 Champignons"
-  },
-  {
-    "id": 2969,
-    "date": "2022-05-16T00:00:00Z",
-    "type": "grill",
-    "menu1": "Gegrilde zalmfilet met gepofte aardappel, dressing van zure room, ijsberg slaatje met komkommer en rode ui."
-  },
-  {
-    "id": 2970,
-    "date": "2022-05-17T00:00:00Z",
-    "type": "soep",
-    "menu1": "Aspergesoep"
-  },
-  {
-    "id": 2971,
-    "date": "2022-05-17T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Stoofpotje van seitan, worteltjes, zilveruitjes en  champignons met kasteelbier en frieten"
-  },
-  {
-    "id": 2972,
-    "date": "2022-05-17T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Zweedse balletjes met puree en romige komkommersalade"
-  },
-  {
-    "id": 2973,
-    "date": "2022-05-17T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2974,
-    "date": "2022-05-17T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza 4 kazen"
-  },
-  {
-    "id": 2975,
-    "date": "2022-05-18T00:00:00Z",
-    "type": "soep",
-    "menu1": "Tomaten-paprikasoep met balletjes"
-  },
-  {
-    "id": 2976,
-    "date": "2022-05-18T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Thaise auberginecurry met zoete aardappelfriet en spiegelei"
-  },
-  {
-    "id": 2977,
-    "date": "2022-05-18T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Schartongrolletjes met dugleresaus, witte asperges en gestoomde aardappelen"
-  },
-  {
-    "id": 2978,
-    "date": "2022-05-18T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2979,
-    "date": "2022-05-18T00:00:00Z",
-    "type": "grill",
-    "menu1": "Sushi met garnituren"
-  },
-  {
-    "id": 2980,
-    "date": "2022-05-19T00:00:00Z",
-    "type": "soep",
-    "menu1": "Champignonsoep"
-  },
-  {
-    "id": 2981,
-    "date": "2022-05-19T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Penne Arrabiata met olijven, kappertjes verse oregano &amp; basilicum + ruccola"
-  },
-  {
-    "id": 2982,
-    "date": "2022-05-19T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Varkensbrochette met champignonsaus, gepofte aardappel en gegrilde groenten"
-  },
-  {
-    "id": 2983,
-    "date": "2022-05-19T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2984,
-    "date": "2022-05-19T00:00:00Z",
-    "type": "grill",
-    "menu1": "Gegrilde zalmfilet met gepofte aardappel, dressing van zure room, ijsberg slaatje met komkommer en rode ui."
-  },
-  {
-    "id": 2985,
-    "date": "2022-05-20T00:00:00Z",
-    "type": "soep",
-    "menu1": "Bloemkool - kerriesoep"
-  },
-  {
-    "id": 2986,
-    "date": "2022-05-20T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Lentesla met assortiment kaas- kroketten en gefruite peterselie en notenbroodje"
-  },
-  {
-    "id": 2987,
-    "date": "2022-05-20T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Jambalaya met Black Tiger garnalen en chorizo"
-  },
-  {
-    "id": 2988,
-    "date": "2022-05-20T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2989,
-    "date": "2022-05-20T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza 4 kazen"
-  },
-  {
-    "id": 2990,
-    "date": "2022-05-21T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 2991,
-    "date": "2022-05-21T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Spaghetti Bolognaise"
-  },
-  {
-    "id": 2992,
-    "date": "2022-05-21T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2993,
-    "date": "2022-05-22T00:00:00Z",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 2994,
-    "date": "2022-05-22T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Rundstong in Madeira met erwten en wortelen en kroketten"
-  },
-  {
-    "id": 2995,
-    "date": "2022-05-22T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. Broccoli 2. Erwten 3. Champignons"
-  },
-  {
-    "id": 2996,
-    "date": "2022-05-23T00:00:00Z",
-    "type": "soep",
-    "menu1": "Wortelsoep"
-  },
-  {
-    "id": 2997,
-    "date": "2022-05-23T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Moussaka met zuiders gegrilde groenten"
-  },
-  {
-    "id": 2998,
-    "date": "2022-05-23T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kalkoenrollade met rode paprikacoulis, groenteweelde en gebakken aardappelen"
-  },
-  {
-    "id": 2999,
-    "date": "2022-05-23T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. ½ tomaat ut de oven 2. Boontjes  3. Romanesco"
-  },
-  {
-    "id": 3000,
-    "date": "2022-05-23T00:00:00Z",
-    "type": "grill",
-    "menu1": "Salade Niçoise met kort gegrilde tonijn"
-  },
-  {
-    "id": 3001,
-    "date": "2022-05-24T00:00:00Z",
-    "type": "soep",
-    "menu1": "Waterkerssoep"
-  },
-  {
-    "id": 3002,
-    "date": "2022-05-24T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Gevulde courgette met ricotta en munt, basilicum en pijnboompitten met jasmijnrijst"
-  },
-  {
-    "id": 3003,
-    "date": "2022-05-24T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Kippenpasteitje met frieten en samengestelde salade"
-  },
-  {
-    "id": 3004,
-    "date": "2022-05-24T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
-  },
-  {
-    "id": 3005,
-    "date": "2022-05-24T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza Funghi"
-  },
-  {
-    "id": 3006,
-    "date": "2022-05-25T00:00:00Z",
-    "type": "soep",
-    "menu1": "Gele paprikasoep"
-  },
-  {
-    "id": 3007,
-    "date": "2022-05-25T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Pittige linzenschotel met spinaziesalade en kerstomaten"
-  },
-  {
-    "id": 3008,
-    "date": "2022-05-25T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Gevulde paprika met gehakt, tomatencoulis aardappelpuree met spitskool"
-  },
-  {
-    "id": 3009,
-    "date": "2022-05-25T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
-  },
-  {
-    "id": 3010,
-    "date": "2022-05-25T00:00:00Z",
-    "type": "grill",
-    "menu1": "Japanse ramen met keuze uit : 1. Vegetarisch  2.Kip  3. Scampi"
-  },
-  {
-    "id": 3011,
+    "id": 3016,
     "date": "2022-05-26T00:00:00Z",
     "type": "soep",
     "menu1": "Agnes sorelsoep"
   },
   {
-    "id": 3012,
+    "id": 3017,
     "date": "2022-05-26T00:00:00Z",
     "type": "veggie",
-    "menu1": "Geitenkaas in filodeeg met gedroogd fruit en samengestelde salade met venkel en citrusvruchten"
+    "menu1": "Geitenkaas in een jasje met erwtenrisotto en zongedroogde tomaten en lente-ui"
   },
   {
-    "id": 3013,
+    "id": 3018,
     "date": "2022-05-26T00:00:00Z",
     "type": "vlees",
     "menu1": "Gebakken zalm met erwtenrisotto en zongedroogde tomaten en lente-ui"
   },
   {
-    "id": 3014,
+    "id": 3019,
     "date": "2022-05-26T00:00:00Z",
     "type": "groentvdw",
     "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
   },
   {
-    "id": 3015,
-    "date": "2022-05-26T00:00:00Z",
+    "id": 3020,
+    "date": "2022-05-27T00:00:00Z",
+    "type": "soep",
+    "menu1": "Groene aspergesoep"
+  },
+  {
+    "id": 3021,
+    "date": "2022-05-27T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gegratineerde cannelloni met ricotta en spinazie en tomatensaus"
+  },
+  {
+    "id": 3022,
+    "date": "2022-05-27T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Gehaktballetjes in tomatensaus met aardappelpuree, gestoofde witte selder"
+  },
+  {
+    "id": 3023,
+    "date": "2022-05-27T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
+  },
+  {
+    "id": 3024,
+    "date": "2022-05-27T00:00:00Z",
     "type": "grill",
-    "menu1": "Salade Niçoise met kort gegrilde tonijn"
+    "menu1": "Pizza Funghi"
+  },
+  {
+    "id": 3025,
+    "date": "2022-05-28T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 3026,
+    "date": "2022-05-28T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Varkens-wangetjes met witlof- veldsla salade en kroketten"
+  },
+  {
+    "id": 3027,
+    "date": "2022-05-28T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
+  },
+  {
+    "id": 3028,
+    "date": "2022-05-29T00:00:00Z",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 3029,
+    "date": "2022-05-29T00:00:00Z",
+    "type": "vlees",
+    "menu1": "Schnitzel op Milanese wijze met tagliatelle"
+  },
+  {
+    "id": 3030,
+    "date": "2022-05-29T00:00:00Z",
+    "type": "groentvdw",
+    "menu1": "1. ½ tomaat uit de oven 2. Boontjes  3.\tRomanesco"
   }
 ]
