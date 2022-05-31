@@ -1,92 +1,110 @@
 [
   {
-    "id": 3016,
-    "date": "2022-05-26T00:00:00Z",
+    "id": 3031,
+    "date": "2022-05-31T00:00:00Z",
     "type": "soep",
-    "menu1": "Agnes sorelsoep"
+    "menu1": "Vanwege nationale staking is er geen catering!"
   },
   {
-    "id": 3017,
-    "date": "2022-05-26T00:00:00Z",
+    "id": 3032,
+    "date": "2022-05-31T00:00:00Z",
     "type": "veggie",
-    "menu1": "Geitenkaas in een jasje met erwtenrisotto en zongedroogde tomaten en lente-ui"
+    "menu1": "Vanwege nationale staking is er geen catering!"
   },
   {
-    "id": 3018,
-    "date": "2022-05-26T00:00:00Z",
+    "id": 3033,
+    "date": "2022-05-31T00:00:00Z",
     "type": "vlees",
-    "menu1": "Gebakken zalm met erwtenrisotto en zongedroogde tomaten en lente-ui"
+    "menu1": "Vanwege nationale staking is er geen catering!"
   },
   {
-    "id": 3019,
-    "date": "2022-05-26T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
-  },
-  {
-    "id": 3020,
-    "date": "2022-05-27T00:00:00Z",
+    "id": 3034,
+    "date": "2022-06-01T00:00:00Z",
     "type": "soep",
-    "menu1": "Groene aspergesoep"
+    "menu1": "Broccoli-courgettensoep"
   },
   {
-    "id": 3021,
-    "date": "2022-05-27T00:00:00Z",
+    "id": 3035,
+    "date": "2022-06-01T00:00:00Z",
     "type": "veggie",
-    "menu1": "Gegratineerde cannelloni met ricotta en spinazie en tomatensaus"
+    "menu1": "Cheese/groenten-burger met spicy saus en wedges"
   },
   {
-    "id": 3022,
-    "date": "2022-05-27T00:00:00Z",
+    "id": 3036,
+    "date": "2022-06-01T00:00:00Z",
     "type": "vlees",
-    "menu1": "Gehaktballetjes in tomatensaus met aardappelpuree, gestoofde witte selder"
+    "menu1": "Papillot van kabeljauw met witloof, prei, fijne kruiden en puree"
   },
   {
-    "id": 3023,
-    "date": "2022-05-27T00:00:00Z",
+    "id": 3037,
+    "date": "2022-06-01T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
+    "menu1": "- Bloemkool - Gestoofde prei - Venkel"
   },
   {
-    "id": 3024,
-    "date": "2022-05-27T00:00:00Z",
+    "id": 3038,
+    "date": "2022-06-01T00:00:00Z",
     "type": "grill",
-    "menu1": "Pizza Funghi"
+    "menu1": "Sushi met zijn garnituren"
   },
   {
-    "id": 3025,
-    "date": "2022-05-28T00:00:00Z",
+    "id": 3039,
+    "date": "2022-06-02T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "Portugese soep"
   },
   {
-    "id": 3026,
-    "date": "2022-05-28T00:00:00Z",
+    "id": 3040,
+    "date": "2022-06-02T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Gevulde paprika met vegan gehakt en fijne groenten (wortel, courget, champignons) met tomatensaus en tarwe"
+  },
+  {
+    "id": 3041,
+    "date": "2022-06-02T00:00:00Z",
     "type": "vlees",
-    "menu1": "Varkens-wangetjes met witlof- veldsla salade en kroketten"
+    "menu1": "Spaghetti Bolognaise"
   },
   {
-    "id": 3027,
-    "date": "2022-05-28T00:00:00Z",
+    "id": 3042,
+    "date": "2022-06-02T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven  2. Boontjes  3.\tRomanesco"
+    "menu1": "- Bloemkool - Gestoofde prei - Venkel"
   },
   {
-    "id": 3028,
-    "date": "2022-05-29T00:00:00Z",
+    "id": 3043,
+    "date": "2022-06-02T00:00:00Z",
+    "type": "grill",
+    "menu1": "Pizza Capricciosa"
+  },
+  {
+    "id": 3044,
+    "date": "2022-06-03T00:00:00Z",
     "type": "soep",
-    "menu1": "Dagsoep"
+    "menu1": "Maïssoep"
   },
   {
-    "id": 3029,
-    "date": "2022-05-29T00:00:00Z",
+    "id": 3045,
+    "date": "2022-06-03T00:00:00Z",
+    "type": "veggie",
+    "menu1": "Vegetarische lasagne met courgette en spinazie met roomsaus"
+  },
+  {
+    "id": 3046,
+    "date": "2022-06-03T00:00:00Z",
     "type": "vlees",
-    "menu1": "Schnitzel op Milanese wijze met tagliatelle"
+    "menu1": "Quesadilla’s met gehakt, lookdressing, Salsa van tomaat en guacamole"
   },
   {
-    "id": 3030,
-    "date": "2022-05-29T00:00:00Z",
+    "id": 3047,
+    "date": "2022-06-03T00:00:00Z",
     "type": "groentvdw",
-    "menu1": "1. ½ tomaat uit de oven 2. Boontjes  3.\tRomanesco"
+    "menu1": "- Bloemkool  - Gestoofde prei   - Venkel"
+  },
+  {
+    "id": 3048,
+    "date": "2022-06-03T00:00:00Z",
+    "type": "grill",
+    "menu1": "Caprese burger (rundsburger met ruccola, gedroogde tomaat, mozzarella, balsamicocréme) en zoete aardappel frietjes"
   }
 ]
