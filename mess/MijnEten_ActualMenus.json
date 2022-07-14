@@ -1,336 +1,276 @@
 [
   {
-    "id": 3286,
-    "date": "2022-07-12T00:00:00Z",
-    "type": "soep",
-    "menu1": "Gele paprikasoep"
-  },
-  {
-    "id": 3287,
-    "date": "2022-07-12T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Veggie Pad Thai met vegan stukjes kip"
-  },
-  {
-    "id": 3288,
-    "date": "2022-07-12T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Spaghetti Blognaise"
-  },
-  {
-    "id": 3289,
-    "date": "2022-07-12T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "-Courget -Spinazie -Prei"
-  },
-  {
-    "id": 3290,
-    "date": "2022-07-12T00:00:00Z",
-    "type": "grill",
-    "menu1": "Burger op de grill met smokey shrirachasaus, coleslaw en steakhouse frietjes"
-  },
-  {
-    "id": 3291,
-    "date": "2022-07-13T00:00:00Z",
-    "type": "soep",
-    "menu1": "Minestronesoep (wortel, tomaten, boontjes, erwten, savooikool, courgette) met kaas"
-  },
-  {
-    "id": 3292,
-    "date": "2022-07-13T00:00:00Z",
-    "type": "veggie",
-    "menu1": "Gegratineerde cannelloni met gegrilde groenten (aubergine, courgette, rode ui en venkel)"
-  },
-  {
-    "id": 3293,
-    "date": "2022-07-13T00:00:00Z",
-    "type": "vlees",
-    "menu1": "Graved lax met aardappelsalade, truffelchips,  mosterd dressing en gemengde sla"
-  },
-  {
-    "id": 3294,
-    "date": "2022-07-13T00:00:00Z",
-    "type": "groentvdw",
-    "menu1": "-Courget -Spinazie -Prei"
-  },
-  {
-    "id": 3295,
-    "date": "2022-07-13T00:00:00Z",
-    "type": "grill",
-    "menu1": "Pizza BBQ chicken"
-  },
-  {
-    "id": 3296,
+    "id": 3342,
     "date": "2022-07-14T00:00:00Z",
     "type": "soep",
     "menu1": "Rode linzensoep"
   },
   {
-    "id": 3297,
+    "id": 3343,
     "date": "2022-07-14T00:00:00Z",
     "type": "veggie",
     "menu1": "Aubergine met limoen en ricotta en krieltjes in de oven"
   },
   {
-    "id": 3298,
+    "id": 3344,
     "date": "2022-07-14T00:00:00Z",
     "type": "vlees",
     "menu1": "Gemarineerde rundsbrochette met aardappelwedges, zomerse sla en Provençaalse saus"
   },
   {
-    "id": 3299,
+    "id": 3345,
     "date": "2022-07-14T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-Courget -Spinazie -Prei"
   },
   {
-    "id": 3300,
+    "id": 3346,
     "date": "2022-07-14T00:00:00Z",
     "type": "grill",
     "menu1": "Burger op de grill met smokey shrirachasaus, coleslaw en steakhouse frietjes"
   },
   {
-    "id": 3301,
+    "id": 3347,
     "date": "2022-07-15T00:00:00Z",
     "type": "soep",
     "menu1": "Uiensoep met kaas"
   },
   {
-    "id": 3302,
+    "id": 3348,
     "date": "2022-07-15T00:00:00Z",
     "type": "veggie",
     "menu1": "Vegetarische paella (paprika, wortel en erwtjes, cherrytomaten)"
   },
   {
-    "id": 3303,
+    "id": 3349,
     "date": "2022-07-15T00:00:00Z",
     "type": "vlees",
     "menu1": "Caesar salade (romeinse sla, kerstomaten) met tandoori kip en focaccia brood"
   },
   {
-    "id": 3304,
+    "id": 3350,
     "date": "2022-07-15T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-Courget -Spinazie -Prei"
   },
   {
-    "id": 3305,
+    "id": 3351,
     "date": "2022-07-15T00:00:00Z",
     "type": "grill",
     "menu1": "Pizza BBQ chicken"
   },
   {
-    "id": 3306,
+    "id": 3352,
     "date": "2022-07-16T00:00:00Z",
     "type": "soep",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3307,
+    "id": 3353,
     "date": "2022-07-16T00:00:00Z",
     "type": "vlees",
     "menu1": "Varkenshaasje met blackwellsaus, gebakken bloemkool en -aardappelen"
   },
   {
-    "id": 3308,
+    "id": 3354,
     "date": "2022-07-16T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-Courget -Spinazie -Prei"
   },
   {
-    "id": 3309,
+    "id": 3355,
     "date": "2022-07-17T00:00:00Z",
     "type": "soep",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3310,
+    "id": 3356,
     "date": "2022-07-17T00:00:00Z",
     "type": "vlees",
     "menu1": "Salade Niçoise (sla, groene boontjes, kerstomaten) met gegrilde tonijn"
   },
   {
-    "id": 3311,
+    "id": 3357,
     "date": "2022-07-17T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-Courget -Spinazie -Prei"
   },
   {
-    "id": 3312,
+    "id": 3358,
     "date": "2022-07-18T00:00:00Z",
     "type": "soep",
     "menu1": "Komkommersoep"
   },
   {
-    "id": 3313,
+    "id": 3359,
     "date": "2022-07-18T00:00:00Z",
     "type": "veggie",
     "menu1": "Ravioli 4 kazen met rucola"
   },
   {
-    "id": 3314,
+    "id": 3360,
     "date": "2022-07-18T00:00:00Z",
     "type": "vlees",
     "menu1": "Kipbrochette pepersaus met frietjes"
   },
   {
-    "id": 3315,
+    "id": 3361,
     "date": "2022-07-18T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel  -aubergine, courgette en artisjok  -peultjes"
   },
   {
-    "id": 3316,
+    "id": 3362,
     "date": "2022-07-18T00:00:00Z",
     "type": "grill",
     "menu1": "Dunne lende met choronsaus en luciferfrieten"
   },
   {
-    "id": 3317,
+    "id": 3363,
     "date": "2022-07-19T00:00:00Z",
     "type": "soep",
     "menu1": "Champignonsoep"
   },
   {
-    "id": 3318,
+    "id": 3364,
     "date": "2022-07-19T00:00:00Z",
     "type": "veggie",
     "menu1": "Orzorisotto met asperges en funghi"
   },
   {
-    "id": 3319,
+    "id": 3365,
     "date": "2022-07-19T00:00:00Z",
     "type": "vlees",
     "menu1": "Gegrilde zalm met groenten (broccoli, boontjes) in pesto en penne"
   },
   {
-    "id": 3320,
+    "id": 3366,
     "date": "2022-07-19T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel  -aubergine, courgette en artisjok  -peultjes"
   },
   {
-    "id": 3321,
+    "id": 3367,
     "date": "2022-07-19T00:00:00Z",
     "type": "grill",
     "menu1": "Pizza spek, rode ui, champignon, looksaus en mozzarella"
   },
   {
-    "id": 3322,
+    "id": 3368,
     "date": "2022-07-20T00:00:00Z",
     "type": "soep",
     "menu1": "Broccolisoep"
   },
   {
-    "id": 3323,
+    "id": 3369,
     "date": "2022-07-20T00:00:00Z",
     "type": "veggie",
     "menu1": "Noedelsalade met gewokte groenten (sperziebonen, broccoli, champignons, paprika, taugé, paksoi, kool) en gebakken tofu"
   },
   {
-    "id": 3324,
+    "id": 3370,
     "date": "2022-07-20T00:00:00Z",
     "type": "vlees",
     "menu1": "Pittareepjes met verschillende sauzen, wedges en gemengde sla"
   },
   {
-    "id": 3325,
+    "id": 3371,
     "date": "2022-07-20T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel -aubergine, artisjok en courgette   -peultjes"
   },
   {
-    "id": 3326,
+    "id": 3372,
     "date": "2022-07-20T00:00:00Z",
     "type": "grill",
     "menu1": "Dunne lende met choronsaus en luciferfrieten"
   },
   {
-    "id": 3327,
+    "id": 3373,
     "date": "2022-07-21T00:00:00Z",
     "type": "soep",
     "menu1": "Venkelsoep"
   },
   {
-    "id": 3328,
+    "id": 3374,
     "date": "2022-07-21T00:00:00Z",
     "type": "veggie",
     "menu1": "Italiaanse gnocchischotel"
   },
   {
-    "id": 3329,
+    "id": 3375,
     "date": "2022-07-21T00:00:00Z",
     "type": "vlees",
     "menu1": "Moussaka (aubergine) met Griekse salade (sla tomaten en komkommer)"
   },
   {
-    "id": 3330,
+    "id": 3376,
     "date": "2022-07-21T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel -aubergine, artisjok en courgette   -peultjes"
   },
   {
-    "id": 3331,
+    "id": 3377,
     "date": "2022-07-21T00:00:00Z",
     "type": "grill",
     "menu1": "Pizza spek, rode ui, champignon, looksaus en mozzarella"
   },
   {
-    "id": 3332,
+    "id": 3378,
     "date": "2022-07-22T00:00:00Z",
     "type": "soep",
     "menu1": "Mexicaanse tomatensoep"
   },
   {
-    "id": 3333,
+    "id": 3379,
     "date": "2022-07-22T00:00:00Z",
     "type": "veggie",
     "menu1": "Quinoa met gebakken butternut en courgette met feta"
   },
   {
-    "id": 3334,
+    "id": 3380,
     "date": "2022-07-22T00:00:00Z",
     "type": "vlees",
     "menu1": "Salade van gebakken kipreepjes, peer en blauwe kaas"
   },
   {
-    "id": 3335,
+    "id": 3381,
     "date": "2022-07-22T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel -aubergine, artisjok en courgette   -peultjes"
   },
   {
-    "id": 3336,
+    "id": 3382,
     "date": "2022-07-23T00:00:00Z",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": 3337,
+    "id": 3383,
     "date": "2022-07-23T00:00:00Z",
     "type": "vlees",
     "menu1": "Zalm in bladerdeeg met courgette"
   },
   {
-    "id": 3338,
+    "id": 3384,
     "date": "2022-07-23T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel -aubergine, artisjok en courgette   -peultjes"
   },
   {
-    "id": 3339,
+    "id": 3385,
     "date": "2022-07-24T00:00:00Z",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": 3340,
+    "id": 3386,
     "date": "2022-07-24T00:00:00Z",
     "type": "vlees",
     "menu1": "Paprikaschnitzel gebakken champignons, -aardappelen en sla"
   },
   {
-    "id": 3341,
+    "id": 3387,
     "date": "2022-07-24T00:00:00Z",
     "type": "groentvdw",
     "menu1": "-wortel -aubergine, artisjok en courgette   -peultjes"
