@@ -1,474 +1,474 @@
 [
   {
-    "id": 3607,
+    "id": 3686,
     "date": "2022-08-25T00:00:00Z",
     "type": "soep-final",
     "menu1": "Wortelsoep met sinaas, kokos en koriander"
   },
   {
-    "id": 3608,
+    "id": 3687,
     "date": "2022-08-25T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Portobelloburger met zoete aardappel frieten"
   },
   {
-    "id": 3609,
+    "id": 3688,
     "date": "2022-08-25T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Oostends stoofpotje met vidé en hertoginnen aardappelen"
   },
   {
-    "id": 3610,
+    "id": 3689,
     "date": "2022-08-25T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Wortel en erwten - Romanesco - Savooikool"
   },
   {
-    "id": 3611,
+    "id": 3690,
     "date": "2022-08-26T00:00:00Z",
     "type": "soep-final",
     "menu1": "Andalousische soep"
   },
   {
-    "id": 3612,
+    "id": 3691,
     "date": "2022-08-26T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Risotto met asperges, erwten en munt"
   },
   {
-    "id": 3613,
+    "id": 3692,
     "date": "2022-08-26T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Gevulde courgette met gehakt en een bulgursalade"
   },
   {
-    "id": 3614,
+    "id": 3693,
     "date": "2022-08-26T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Wortel en erwten - Romanesco - Savooikool"
   },
   {
-    "id": 3615,
+    "id": 3694,
     "date": "2022-08-27T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dag soep"
   },
   {
-    "id": 3616,
+    "id": 3695,
     "date": "2022-08-27T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Kalkoenrollade Veronique met groentekrans (bloemkool, oventomaat, wortel) en gefruite aardappelbolletjes"
   },
   {
-    "id": 3617,
+    "id": 3696,
     "date": "2022-08-27T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Wortel en erwten - Romanesco - Savooikool"
   },
   {
-    "id": 3618,
+    "id": 3697,
     "date": "2022-08-28T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3619,
+    "id": 3698,
     "date": "2022-08-28T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Zalm met witloof, champignons en truffelpasta en -saus"
   },
   {
-    "id": 3620,
+    "id": 3699,
     "date": "2022-08-28T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Wortel en erwten - Romanesco - Savooikool"
   },
   {
-    "id": 3621,
+    "id": 3700,
     "date": "2022-08-29T00:00:00Z",
     "type": "soep-final",
     "menu1": "Vissoep met venkel"
   },
   {
-    "id": 3622,
+    "id": 3701,
     "date": "2022-08-29T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Kokos-kikkererwten curry met tomaat, broccoli en zoete aardappel. (VEGAN"
   },
   {
-    "id": 3623,
+    "id": 3702,
     "date": "2022-08-29T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Gegratineerde ovenschotel met kip, champignons en prei"
   },
   {
-    "id": 3624,
+    "id": 3703,
     "date": "2022-08-29T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3625,
+    "id": 3704,
     "date": "2022-08-30T00:00:00Z",
     "type": "soep-final",
     "menu1": "Thaise pompoensoep"
   },
   {
-    "id": 3626,
+    "id": 3705,
     "date": "2022-08-30T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Butternut gevuld met kikkererwten, spinazie, quinoa en graatappel"
   },
   {
-    "id": 3627,
+    "id": 3706,
     "date": "2022-08-30T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Rundsstoofschotel “Stroganoff” met paprika en champignons en rijst"
   },
   {
-    "id": 3628,
+    "id": 3707,
     "date": "2022-08-30T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3629,
+    "id": 3708,
     "date": "2022-08-31T00:00:00Z",
     "type": "soep-final",
     "menu1": "Broccolisoep"
   },
   {
-    "id": 3630,
+    "id": 3709,
     "date": "2022-08-31T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Fussili met boerenkool, kerstomaat, champignons en geroosterde noten"
   },
   {
-    "id": 3631,
+    "id": 3710,
     "date": "2022-08-31T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Gegrilde zalm met bearnaisesaus, oventomaat en tagliatelle"
   },
   {
-    "id": 3632,
+    "id": 3711,
     "date": "2022-08-31T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3633,
+    "id": 3712,
     "date": "2022-09-01T00:00:00Z",
     "type": "soep-final",
     "menu1": "Paprikasoep"
   },
   {
-    "id": 3634,
+    "id": 3713,
     "date": "2022-09-01T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Gevulde aubergine met sojascheuten, kerstomaat en taboulé"
   },
   {
-    "id": 3635,
+    "id": 3714,
     "date": "2022-09-01T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Kipfilet met champignonsaus, tijmwortelen en aardappelnootjes"
   },
   {
-    "id": 3636,
+    "id": 3715,
     "date": "2022-09-01T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3637,
+    "id": 3716,
     "date": "2022-09-02T00:00:00Z",
     "type": "soep-final",
     "menu1": "Courgettensoep"
   },
   {
-    "id": 3638,
+    "id": 3717,
     "date": "2022-09-02T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Quiche met pompoen, rode ui en feta met krieltjes"
   },
   {
-    "id": 3639,
+    "id": 3718,
     "date": "2022-09-02T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Gepaneerde visfilet met tartaarsaus, puree en duo van courget"
   },
   {
-    "id": 3640,
+    "id": 3719,
     "date": "2022-09-02T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3641,
+    "id": 3720,
     "date": "2022-09-03T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3642,
+    "id": 3721,
     "date": "2022-09-03T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Varkenslapje met blackwellsaus, snijboontjes en natuur-aardappelen"
   },
   {
-    "id": 3643,
+    "id": 3722,
     "date": "2022-09-03T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3644,
+    "id": 3723,
     "date": "2022-09-04T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3645,
+    "id": 3724,
     "date": "2022-09-04T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Steak met bbq-saus, zoete aardappel en paprikasalade"
   },
   {
-    "id": 3646,
+    "id": 3725,
     "date": "2022-09-04T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "*Broccoli,  *Geglaceerde wortels,  *Gebakken courget."
   },
   {
-    "id": 3647,
+    "id": 3726,
     "date": "2022-09-05T00:00:00Z",
     "type": "soep-final",
     "menu1": "Witte koolsoep met curry"
   },
   {
-    "id": 3648,
+    "id": 3727,
     "date": "2022-09-05T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Stoofpotje van seitan met frietjes en witloofsalade"
   },
   {
-    "id": 3649,
+    "id": 3728,
     "date": "2022-09-05T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Osso bucco met gremoulata, Milanese saus en tagliatelle"
   },
   {
-    "id": 3650,
+    "id": 3729,
     "date": "2022-09-05T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3651,
+    "id": 3730,
     "date": "2022-09-05T00:00:00Z",
     "type": "grill-final",
     "menu1": "Dunne lende met choronsaus, frietjes en slaatje"
   },
   {
-    "id": 3652,
+    "id": 3731,
     "date": "2022-09-06T00:00:00Z",
     "type": "soep-final",
     "menu1": "Portugese tomatensoep"
   },
   {
-    "id": 3653,
+    "id": 3732,
     "date": "2022-09-06T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Pasta pesto met oven gedroogde tomaten, rucola en Parmezaanse kaas"
   },
   {
-    "id": 3654,
+    "id": 3733,
     "date": "2022-09-06T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Konijn met pruimen, appelcompote, kroketten en tuinkers"
   },
   {
-    "id": 3655,
+    "id": 3734,
     "date": "2022-09-06T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3656,
+    "id": 3735,
     "date": "2022-09-06T00:00:00Z",
     "type": "grill-final",
     "menu1": "Pizza 4 kazen"
   },
   {
-    "id": 3657,
+    "id": 3736,
     "date": "2022-09-07T00:00:00Z",
     "type": "soep-final",
     "menu1": "Preisoep"
   },
   {
-    "id": 3658,
+    "id": 3737,
     "date": "2022-09-07T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Quornsteak Veronique met vergeten groenten (Pastinaak, knolselder  gele en  oranje wortel pompoen, aardpeer, rode ui) en gebakken aardappelen"
   },
   {
-    "id": 3659,
+    "id": 3738,
     "date": "2022-09-07T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Kip met pindasaus, Atjar tjampoer (witte kool en wortel), kroepoek en roergebakken groentenrijst"
   },
   {
-    "id": 3660,
+    "id": 3739,
     "date": "2022-09-07T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3661,
+    "id": 3740,
     "date": "2022-09-07T00:00:00Z",
     "type": "grill-final",
     "menu1": "Dunne lende met choronsaus, frietjes en slaatje"
   },
   {
-    "id": 3662,
+    "id": 3741,
     "date": "2022-09-08T00:00:00Z",
     "type": "soep-final",
     "menu1": "Uiensoep met huisgemaakte diablotins"
   },
   {
-    "id": 3663,
+    "id": 3742,
     "date": "2022-09-08T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Tajine met koriander, olijven, gezouten citroen met couscous en 7 groenten"
   },
   {
-    "id": 3664,
+    "id": 3743,
     "date": "2022-09-08T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Surf en turf wrap met wedges en mangochutney"
   },
   {
-    "id": 3665,
+    "id": 3744,
     "date": "2022-09-08T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "&gt;groente&gt;Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3666,
+    "id": 3745,
     "date": "2022-09-08T00:00:00Z",
     "type": "grill-final",
     "menu1": "Pizza 4 kazen"
   },
   {
-    "id": 3667,
+    "id": 3746,
     "date": "2022-09-09T00:00:00Z",
     "type": "soep-final",
     "menu1": "Venkelsoep"
   },
   {
-    "id": 3668,
+    "id": 3747,
     "date": "2022-09-09T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Moussaka met herdersalade (sla, komkommer, tomaat, rode ui)"
   },
   {
-    "id": 3669,
+    "id": 3748,
     "date": "2022-09-09T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3670,
+    "id": 3749,
     "date": "2022-09-10T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3671,
+    "id": 3750,
     "date": "2022-09-10T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Rundsstoofvlees met natuuraardappelen en gestoofde wortels"
   },
   {
-    "id": 3672,
+    "id": 3751,
     "date": "2022-09-10T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3673,
+    "id": 3752,
     "date": "2022-09-11T00:00:00Z",
     "type": "soep-final",
     "menu1": "Dagsoep"
   },
   {
-    "id": 3674,
+    "id": 3753,
     "date": "2022-09-11T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Gegrilde zalm met bearnaisesaus en oven aardappelen"
   },
   {
-    "id": 3675,
+    "id": 3754,
     "date": "2022-09-11T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "Rode kool - Duo van courgette - Halve tomaat"
   },
   {
-    "id": 3676,
+    "id": 3755,
     "date": "2022-09-12T00:00:00Z",
     "type": "soep-final",
     "menu1": "Pittige rode linzensoep"
   },
   {
-    "id": 3677,
+    "id": 3756,
     "date": "2022-09-12T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Surinaamse bonenschotel (paprika, selder) met jasmijnrijst"
   },
   {
-    "id": 3678,
+    "id": 3757,
     "date": "2022-09-12T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Blinde vink met preiin roomsaus en peterselie aardappelen"
   },
   {
-    "id": 3679,
+    "id": 3758,
     "date": "2022-09-12T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "-Snijbonen -Spinazie -Bloemkool"
   },
   {
-    "id": 3680,
+    "id": 3759,
     "date": "2022-09-12T00:00:00Z",
     "type": "grill-final",
     "menu1": "Pizza jalapeno, peperoni, paprika en rode ui"
   },
   {
-    "id": 3681,
+    "id": 3760,
     "date": "2022-09-13T00:00:00Z",
     "type": "soep-final",
     "menu1": "Kervelsoep met balletjes"
   },
   {
-    "id": 3682,
+    "id": 3761,
     "date": "2022-09-13T00:00:00Z",
     "type": "veggie-final",
     "menu1": "Portobello/ cheeseburger met steakhouse frieten"
   },
   {
-    "id": 3683,
+    "id": 3762,
     "date": "2022-09-13T00:00:00Z",
     "type": "vlees-final",
     "menu1": "Steak met groene pepersaus, gemengde sla (sla, wortel, knolselder, tomaat, rode biet) en frieten"
   },
   {
-    "id": 3684,
+    "id": 3763,
     "date": "2022-09-13T00:00:00Z",
     "type": "groentvdw-final",
     "menu1": "-Snijbonen -Spinazie -Bloemkool"
   },
   {
-    "id": 3685,
+    "id": 3764,
     "date": "2022-09-13T00:00:00Z",
     "type": "grill-final",
     "menu1": "Bagel met gegrilde kipfilet, tomaat, gekonfijte ajuin, cheddar en pepersaus met een jacket potato"
