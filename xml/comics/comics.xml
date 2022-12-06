@@ -178,6 +178,16 @@
 									<title>Aposimz 07</title>
 									<present>true</present>
 									<read>false</read>
+								</comic><comic>
+									<number>8</number>
+									<title>Aposimz 08</title>
+									<present>false</present>
+									<read>false</read>
+								</comic><comic>
+									<number>9</number>
+									<title>Aposimz 09</title>
+									<present>false</present>
+									<read>false</read>
 								</comic></comicseries><comicseries>
 									<title>Batman</title>
 									<comic>
@@ -416,7 +426,7 @@
 								</comic><comic>
 									<number>12-1</number>
 									<title>Season Twelve: The Reckoning</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>S1</number>
@@ -457,6 +467,11 @@
 									<number>S8</number>
 									<title>The High School Years: Parental Parasite</title>
 									<present>true</present>
+									<read>false</read>
+								</comic><comic>
+									<number>S9</number>
+									<title>Hellmouth</title>
+									<present>false</present>
 									<read>false</read>
 								</comic></comicseries><comicseries>
 									<title>Discworld</title>
@@ -765,12 +780,12 @@
 								</comic><comic>
 									<number>10</number>
 									<title>Firefly: New Sheriff in the 'Verse 2</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>11</number>
 									<title>Firefly: Blue Sun Rising 1 SC</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>12</number>
@@ -790,6 +805,26 @@
 								</comic><comic>
 									<number>15</number>
 									<title>Firefly: Return to Earth That Was 1</title>
+									<present>false</present>
+									<read>false</read>
+								</comic><comic>
+									<number>16</number>
+									<title>Firefly: Return to Earth That Was 2</title>
+									<present>false</present>
+									<read>false</read>
+								</comic><comic>
+									<number>17</number>
+									<title>Firefly: Return to Earth That Was 3</title>
+									<present>false</present>
+									<read>false</read>
+								</comic><comic>
+									<number>18</number>
+									<title>Firefly: The Gospel According to Jayne</title>
+									<present>false</present>
+									<read>false</read>
+								</comic><comic>
+									<number>19</number>
+									<title>Firefly: River Run</title>
 									<present>false</present>
 									<read>false</read>
 								</comic><comic>
@@ -991,6 +1026,11 @@
 								</comic><comic>
 									<number>M7</number>
 									<title>Gunnm Mars Chronicle 7</title>
+									<present>true</present>
+									<read>false</read>
+								</comic><comic>
+									<number>M8</number>
+									<title>Gunnm Mars Chronicle 8</title>
 									<present>false</present>
 									<read>false</read>
 								</comic><comic>
@@ -1274,7 +1314,7 @@
 								</comic><comic>
 									<number>N26</number>
 									<title>The Curse of the Constantines</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>S1</number>
@@ -1840,7 +1880,7 @@
 								</comic><comic>
 									<number>L4</number>
 									<title>Lucifer: The Devil at Heart</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>M0</number>
@@ -1860,16 +1900,26 @@
 								</comic><comic>
 									<number>M3</number>
 									<title>Books of Magic: Dwelling in Possibility</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>JC1</number>
 									<title>John Constantine, Hellblazer: Marks of Woe</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>JC2</number>
 									<title>John Constantine, Hellblazer: The Best Version of You</title>
+									<present>true</present>
+									<read>false</read>
+								</comic><comic>
+									<number>DWH</number>
+									<title>The Dreaming: Waking Hours</title>
+									<present>true</present>
+									<read>false</read>
+								</comic><comic>
+									<number>LK</number>
+									<title>Locke &amp; Key: Hell &amp; Gone</title>
 									<present>false</present>
 									<read>false</read>
 								</comic></comicseries><comicseries>
