@@ -1,222 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2022-12-16T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Champignons  -Pastinaak -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-16T00:00:00",
-    "type": "soep",
-    "menu1": "Raapjessoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-16T00:00:00",
-    "type": "veggie",
-    "menu1": "Parelcouscous met pompoen, pompoenpitten, champignons en feta"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-16T00:00:00",
-    "type": "vlees",
-    "menu1": "Tartiflette van gerookt spek, Reblochon kaas en fris herfstslaatje"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-17T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Champignons  -Pastinaak -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-17T00:00:00",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-17T00:00:00",
-    "type": "vlees",
-    "menu1": "Gebakken zalm met erwtenrisotto, zongedroogde tomaten en lentui"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-18T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Champignons  -Pastinaak -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-18T00:00:00",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-18T00:00:00",
-    "type": "vlees",
-    "menu1": "Kippenpasteitje met tuinkers, frieten"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-19T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-19T00:00:00",
-    "type": "soep",
-    "menu1": "Pompoensoep met curry"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-19T00:00:00",
-    "type": "veggie",
-    "menu1": "Groentelasagne met pompoen en pastinaak"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-19T00:00:00",
-    "type": "vlees",
-    "menu1": "Macaroni met kaas, hesp, champignons en prei"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-20T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-20T00:00:00",
-    "type": "soep",
-    "menu1": "Kervelsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-20T00:00:00",
-    "type": "veggie",
-    "menu1": "Veggie loempia met groenterijst en zoetzure saus"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-20T00:00:00",
-    "type": "vlees",
-    "menu1": "Entrecote, vleesjus, veldsla met witloof, aardappel in de oven met kruidenboter"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-21T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-21T00:00:00",
-    "type": "soep",
-    "menu1": "Wortelsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-21T00:00:00",
-    "type": "veggie",
-    "menu1": "Stoofpotje van pompoen in kokoskerrie saus, groenteburger en tarwe"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-21T00:00:00",
-    "type": "vlees",
-    "menu1": "Zuurkoolschotel met vleesgarnituur en aardappelpuree"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-22T00:00:00",
-    "type": "grill",
-    "menu1": "DESSERT:     Kerstbuche"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-22T00:00:00",
-    "type": "soep",
-    "menu1": "Pompoensoep met hazelnoot en kastanje"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-22T00:00:00",
-    "type": "veggie",
-    "menu1": "Quiche met vijgen en blauwe kaas met aardappelnootjes"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-22T00:00:00",
-    "type": "vlees",
-    "menu1": "Parelhoen met gebakken witloof, gemarineerd peertje en aardappelnootjes"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-23T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-23T00:00:00",
-    "type": "soep",
-    "menu1": "Kippensoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-23T00:00:00",
-    "type": "veggie",
-    "menu1": "Falafal met  samengestelde salade en begeleidende sauzen, aardappelwedges"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-23T00:00:00",
-    "type": "vlees",
-    "menu1": "Chili con carne met guacamole, zure room en aardappel wedges"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-24T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-24T00:00:00",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-24T00:00:00",
-    "type": "vlees",
-    "menu1": "Lasagne bolognaise"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-25T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool -Gestoofde wortel -Schorseneer"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-25T00:00:00",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": 0,
-    "date": "2022-12-25T00:00:00",
-    "type": "vlees",
-    "menu1": "Wildstoverij met witloof, appel met veenbessen en aardappelgratin"
-  },
-  {
-    "id": 0,
     "date": "2022-12-26T00:00:00",
     "type": "groentvdw",
     "menu1": "-Witte kool in roomsaus  -Broccoli  -Geroosterde knolselder"
@@ -442,5 +226,185 @@
     "date": "2023-01-04T00:00:00",
     "type": "vlees",
     "menu1": "Braadworst met  rode kool met appeltjes en gekookte aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-05T00:00:00",
+    "type": "groentvdw",
+    "menu1": "- Witloof - Gestoofde Wortels - Spruiten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-05T00:00:00",
+    "type": "soep",
+    "menu1": "Bloemkool-pastinaaksoep met amandelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-05T00:00:00",
+    "type": "veggie",
+    "menu1": "Quiche met pompoen, boerenkool, fetakaas met witte koolsalade, frieten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-05T00:00:00",
+    "type": "vlees",
+    "menu1": "Pita schotel met diverse sauzen en witte koolsalade en frieten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-06T00:00:00",
+    "type": "groentvdw",
+    "menu1": "- Witloof - Gestoofde Wortels - Spruiten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-06T00:00:00",
+    "type": "soep",
+    "menu1": "Paprikasoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-06T00:00:00",
+    "type": "veggie",
+    "menu1": "Quinoa met flespompoen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-06T00:00:00",
+    "type": "vlees",
+    "menu1": "Kabeljauwfilet Duglere met gestoofde prei en krieltjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-07T00:00:00",
+    "type": "groentvdw",
+    "menu1": "- Witloof - Gestoofde Wortels - Spruiten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-07T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-07T00:00:00",
+    "type": "vlees",
+    "menu1": "Gegratineerde visfilet met ratatouille groenten en aardappelpuree"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-08T00:00:00",
+    "type": "groentvdw",
+    "menu1": "- Witloof - Gestoofde Wortels - Spruiten"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-08T00:00:00",
+    "type": "soep",
+    "menu1": "Dagsoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-08T00:00:00",
+    "type": "vlees",
+    "menu1": "Orloffgebraad, champignonsaus, gestoofd witloof en aardappelnootjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-09T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Geroosterde pompoen -Gestoofde prei -Groene  kool"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-09T00:00:00",
+    "type": "soep",
+    "menu1": "Romige preisoep met croutons"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-09T00:00:00",
+    "type": "veggie",
+    "menu1": "Lasagne met boerenkool, linzen, champignon en pompoensaus"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-09T00:00:00",
+    "type": "vlees",
+    "menu1": "Gehaktbrood met ajuinsaus, spruiten met spekjes en natuur aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-10T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Geroosterde pompoen -Gestoofde prei -Groene  kool"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-10T00:00:00",
+    "type": "soep",
+    "menu1": "Knolselderijsoep met gebakken paddenstoelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-10T00:00:00",
+    "type": "veggie",
+    "menu1": "Gele curry van bloemkool met geroosterde kikkererwten, raita en naanbrood"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-10T00:00:00",
+    "type": "vlees",
+    "menu1": "Gebakken Alaska pollak reepjes met huisbereide tartaar, wintersalade en puree"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-11T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Geroosterde pompoen -Gestoofde prei -Groene  kool"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-11T00:00:00",
+    "type": "soep",
+    "menu1": "Kippensoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-11T00:00:00",
+    "type": "veggie",
+    "menu1": "Pasta pesto met rucola en Parmezaan"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-11T00:00:00",
+    "type": "vlees",
+    "menu1": "Gehaktballetjes met noordkrieken en aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-12T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Geroosterde pompoen -Gestoofde prei -Groene  kool"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-12T00:00:00",
+    "type": "soep",
+    "menu1": "Pompoen pastinaaksoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-12T00:00:00",
+    "type": "veggie",
+    "menu1": "Marokkaans stoofpotje met kikkererwten, zoete aardappel en couscous met nootjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-01-12T00:00:00",
+    "type": "vlees",
+    "menu1": "Kipfilet met pepersaus, gebakken champignons en frietjes"
   }
 ]
