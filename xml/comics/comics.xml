@@ -181,12 +181,12 @@
 								</comic><comic>
 									<number>8</number>
 									<title>Aposimz 08</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>9</number>
 									<title>Aposimz 09</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic></comicseries><comicseries>
 									<title>Batman</title>
@@ -471,7 +471,7 @@
 								</comic><comic>
 									<number>S9</number>
 									<title>Hellmouth</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic></comicseries><comicseries>
 									<title>Discworld</title>
@@ -800,7 +800,7 @@
 								</comic><comic>
 									<number>14</number>
 									<title>Firefly: Watch How I Soar</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>15</number>
@@ -825,7 +825,7 @@
 								</comic><comic>
 									<number>19</number>
 									<title>Firefly: River Run</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>S1</number>
@@ -1031,7 +1031,7 @@
 								</comic><comic>
 									<number>M8</number>
 									<title>Gunnm Mars Chronicle 8</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>S1</number>
@@ -1584,7 +1584,7 @@
 								</comic><comic>
 									<number>7</number>
 									<title>The Tempest</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>N1</number>
