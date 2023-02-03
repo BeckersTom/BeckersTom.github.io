@@ -815,7 +815,7 @@
 								</comic><comic>
 									<number>17</number>
 									<title>Firefly: Return to Earth That Was 3</title>
-									<present>false</present>
+									<present>true</present>
 									<read>false</read>
 								</comic><comic>
 									<number>18</number>
@@ -1835,28 +1835,28 @@
 										<number>D1</number>
 										<title>The Dreaming: Pathways and Emanations</title>
 										<present>true</present>
-										<read>false</read>
+										<read>true</read>
 									</comic>
 								<comic>
 									<number>D2</number>
 									<title>The Dreaming: Empty Shells</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>D3</number>
 									<title>The Dreaming: One Magical Movement</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>W1</number>
 									<title>House of Whispers: The Power Divided</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>W2</number>
 									<title>House of Whispers: Ananse</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>W3</number>
 									<title>House of Whispers: Watching the Watchers</title>
@@ -1891,17 +1891,17 @@
 									<number>M1</number>
 									<title>Books of Magic: Moveable Type</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>M2</number>
 									<title>Books of Magic: Second Quarto</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>M3</number>
 									<title>Books of Magic: Dwelling in Possibility</title>
 									<present>true</present>
-									<read>false</read>
+									<read>true</read>
 								</comic><comic>
 									<number>JC1</number>
 									<title>John Constantine, Hellblazer: Marks of Woe</title>
