@@ -1,302 +1,242 @@
 [
   {
-    "id": "ec4ca17a-638e-49c2-a62e-2c27f40585cf",
-    "date": "2023-02-15T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Tonijn: Tomatensaus, mozzarella, tonijn, rode ui, zwarte olijven &amp; verse spinazie"
-  },
-  {
-    "id": "0d04e717-b9ff-46a0-876d-a07c48793e11",
-    "date": "2023-02-15T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Courgettes -Schorseneren"
-  },
-  {
-    "id": "9cd9c9d7-5b5a-46ee-af52-a1694c4e9900",
-    "date": "2023-02-15T00:00:00",
-    "type": "soep",
-    "menu1": "Uiensoep met kaas"
-  },
-  {
-    "id": "d063162c-deac-4116-b1e3-cd6a2307835f",
-    "date": "2023-02-15T00:00:00",
-    "type": "veggie",
-    "menu1": "Quiche met pompoen, prei en champignons, gemengde wintersla"
-  },
-  {
-    "id": "6920ac5a-bfbf-4984-930a-fd4bf05d2729",
-    "date": "2023-02-15T00:00:00",
-    "type": "vlees",
-    "menu1": "Visfilet in ham met stamppot van groene kool en prei"
-  },
-  {
-    "id": "065b6b03-0ad7-4d8c-8418-fd4ff981c392",
-    "date": "2023-02-16T00:00:00",
-    "type": "grill",
-    "menu1": "Smash 'n Onion op een Sesam Hamburger Bun"
-  },
-  {
-    "id": "296e914c-1711-4f8e-b560-5ba362bb9c21",
-    "date": "2023-02-16T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Courgettes -Schorseneren"
-  },
-  {
-    "id": "584f1e9d-1a90-4cf1-af81-7e4d41c84a38",
-    "date": "2023-02-16T00:00:00",
-    "type": "soep",
-    "menu1": "Spruitensoep"
-  },
-  {
-    "id": "caaa3b18-06bf-49c3-80ee-f127d95a0450",
-    "date": "2023-02-16T00:00:00",
-    "type": "veggie",
-    "menu1": "Frittata met paprika en ui met tomatensalade en rucola"
-  },
-  {
-    "id": "d59482a1-00fb-44ef-a600-050083e392fc",
-    "date": "2023-02-16T00:00:00",
-    "type": "vlees",
-    "menu1": "Konijn met pruimen, gestoofd witloof en kroketten"
-  },
-  {
-    "id": "53ff1bb6-faeb-4b22-a0af-814949fd6216",
-    "date": "2023-02-17T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Courgettes -Schorseneren"
-  },
-  {
-    "id": "72cebecd-1c70-4292-916b-305f40f1ef48",
-    "date": "2023-02-17T00:00:00",
-    "type": "soep",
-    "menu1": "Parmentier-soep (aardappel-prei)"
-  },
-  {
-    "id": "f39711ba-5425-4d5b-b954-c9f161cae8c4",
-    "date": "2023-02-17T00:00:00",
-    "type": "veggie",
-    "menu1": "Luikse salade met vegetarische kipstukjes"
-  },
-  {
-    "id": "f793b522-122e-4ba2-9a7a-56956a6d9fa4",
-    "date": "2023-02-17T00:00:00",
-    "type": "vlees",
-    "menu1": "Macaroni met ham, Brugse kaas, champignons en broccoli"
-  },
-  {
-    "id": "089ebc8e-da12-4be1-84b1-fc403535e634",
-    "date": "2023-02-18T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Courgettes -Schorseneren"
-  },
-  {
-    "id": "e6f350fc-498a-4163-a980-04a94566b357",
-    "date": "2023-02-18T00:00:00",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": "9ccac60b-5516-4afb-a3d1-84e6d94981aa",
-    "date": "2023-02-18T00:00:00",
-    "type": "vlees",
-    "menu1": "Pastabar Keuze uit verschillende pasta’s en sauzen"
-  },
-  {
-    "id": "8d50f8f2-b0c0-40e1-8f95-ae7b25ee2344",
-    "date": "2023-02-19T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Courgettes -Schorseneren"
-  },
-  {
-    "id": "e42a2328-bf4b-493c-a95b-5a7e53fc20d3",
-    "date": "2023-02-19T00:00:00",
-    "type": "soep",
-    "menu1": "Dagsoep"
-  },
-  {
-    "id": "f9b6fc13-6298-427f-a09c-1eeed040a0c9",
-    "date": "2023-02-19T00:00:00",
-    "type": "vlees",
-    "menu1": "Oostends vispannetje met pomme duches"
-  },
-  {
-    "id": "47f958c3-8a88-47f9-be74-6466336dfe87",
-    "date": "2023-02-20T00:00:00",
-    "type": "grill",
-    "menu1": "Beefburger met bearnaisesaus op een Pretzel Hamburger Bun"
-  },
-  {
-    "id": "e680b0d7-9583-4bb0-91c7-709c8198c959",
-    "date": "2023-02-20T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Gebakken koolrabi -Gestoofde wortels -Bloemkool"
-  },
-  {
-    "id": "c7e8a5bf-fb24-4d82-a393-883600015d50",
-    "date": "2023-02-20T00:00:00",
-    "type": "soep",
-    "menu1": "Zoete aardappelsoep"
-  },
-  {
-    "id": "eaccce5c-f4e2-44ab-b1d0-fc0536f9aae1",
-    "date": "2023-02-20T00:00:00",
-    "type": "veggie",
-    "menu1": "Bulgur met gegrilde aubergines, courgettes, vijgen en halloumi"
-  },
-  {
-    "id": "3445ab89-75cf-4297-a8b2-35ca74da1cca",
-    "date": "2023-02-20T00:00:00",
-    "type": "vlees",
-    "menu1": "Stoofpotje kip tikka masala met couscous"
-  },
-  {
-    "id": "5d60aee3-d4ba-46b0-ba63-de8e864fa06b",
-    "date": "2023-02-21T00:00:00",
-    "type": "grill",
-    "menu1": "PIZZA FORESTIERE Tomatensaus, mozzarella, plakjes spek, gegrilde ham &amp; champignons"
-  },
-  {
-    "id": "90de966f-e404-441f-981e-4b26c9e73b15",
-    "date": "2023-02-21T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken koolrabi -Gestoofde wortels - Bloemkool"
-  },
-  {
-    "id": "14bb1e16-c30f-4ff5-8adf-bd2264cef6cd",
-    "date": "2023-02-21T00:00:00",
-    "type": "soep",
-    "menu1": "Juliennesoep met vermicelli"
-  },
-  {
-    "id": "468ae420-7da3-4076-bcc3-d137a2204956",
-    "date": "2023-02-21T00:00:00",
-    "type": "veggie",
-    "menu1": "Groenteschotel Stroganoff met pompoen en witte bonen, bruine rijst"
-  },
-  {
-    "id": "88a34fee-bd71-48b2-bbd3-0e33f61b0825",
-    "date": "2023-02-21T00:00:00",
-    "type": "vlees",
-    "menu1": "Balletjes in tomatensaus en aardappelpuree"
-  },
-  {
-    "id": "ac71b53c-87ba-418a-8aff-e06c702920bf",
-    "date": "2023-02-22T00:00:00",
-    "type": "grill",
-    "menu1": "Beefburger met bearnaisesaus op een Pretzel Hamburger Bun"
-  },
-  {
-    "id": "48edde34-79dc-42ae-9245-d617e61cd805",
-    "date": "2023-02-22T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken koolrabi -Gestoofde wortels -Bloemkool"
-  },
-  {
-    "id": "1b9108a5-b7db-4299-9b2d-56f5f1e6e6b5",
-    "date": "2023-02-22T00:00:00",
-    "type": "soep",
-    "menu1": "Venkelsoep met courgette"
-  },
-  {
-    "id": "030c0ede-1d5e-4cd1-86de-1a22a6ef12e3",
-    "date": "2023-02-22T00:00:00",
-    "type": "veggie",
-    "menu1": "Wrap met falafel, hummus en sriracha-mayonaise"
-  },
-  {
-    "id": "9e7410be-0d3e-4a41-9cc5-e2a2bf07ee0c",
-    "date": "2023-02-22T00:00:00",
-    "type": "vlees",
-    "menu1": "Paprika schnitzel met gestoofde prei en mosterdsaus"
-  },
-  {
-    "id": "fad17ef5-e85a-4922-aeab-7a7a7fb30130",
-    "date": "2023-02-23T00:00:00",
-    "type": "grill",
-    "menu1": "PIZZA FORESTIERE Tomatensaus, mozzarella, plakjes spek, gegrilde ham &amp; champignons"
-  },
-  {
-    "id": "f6f0c37d-3ed5-4fa5-80da-1b1f58c485e1",
-    "date": "2023-02-23T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken koolrabi -Gestoofde wortels -Bloemkool"
-  },
-  {
-    "id": "ac8efba3-2a42-4978-b75c-e98b0c7b9ac8",
-    "date": "2023-02-23T00:00:00",
-    "type": "soep",
-    "menu1": "Kippensoep"
-  },
-  {
-    "id": "9dff48c8-0378-403b-a87e-85e62358d091",
-    "date": "2023-02-23T00:00:00",
-    "type": "veggie",
-    "menu1": "Spaghetti met gebakken knolselder, champignons en saus van kruidenkaas"
-  },
-  {
-    "id": "86d3d73a-fc93-4e23-8ca7-46c95175930e",
-    "date": "2023-02-23T00:00:00",
-    "type": "vlees",
-    "menu1": "Steak bearnaise met witoofsla en frieten"
-  },
-  {
-    "id": "f5940869-89a1-4c8e-be1e-875dcedf18f9",
+    "id": "8975d37e-95c5-44ab-bc3f-91c522934aba",
     "date": "2023-02-24T00:00:00",
     "type": "groentvdw",
     "menu1": "-Gebakken koolrabi -Gestoofde wortels -Bloemkool"
   },
   {
-    "id": "cd4ac145-3ca4-4034-b84b-1847a74bed3f",
+    "id": "75d305a4-e50b-4439-bc83-22deebf498df",
     "date": "2023-02-24T00:00:00",
     "type": "soep",
     "menu1": "Seldersoep"
   },
   {
-    "id": "f1b16da0-db99-4418-bfb2-7d230b14a3b0",
+    "id": "f8462e1c-2682-4ce5-a038-09bd9c654cfd",
     "date": "2023-02-24T00:00:00",
     "type": "veggie",
     "menu1": "Salade van boerenkool, gegrilde pompoen, granaatappel en geitenkaas"
   },
   {
-    "id": "6f6e9c34-e517-4015-9f5b-51045600010b",
+    "id": "ab3e9562-eea4-436b-85a8-a4455cbb3c1a",
     "date": "2023-02-24T00:00:00",
     "type": "vlees",
     "menu1": "Lamsnavarin met groenten en couscous"
   },
   {
-    "id": "deb197e8-097d-44ae-895f-3f0cbdc0a51a",
+    "id": "7983b35c-7449-4dcf-a0f9-960b0d9fcf33",
     "date": "2023-02-25T00:00:00",
     "type": "groentvdw",
     "menu1": "-Gebakken koolrabi -Gestoofde wortels -Bloemkool"
   },
   {
-    "id": "b918209e-1818-419a-a013-cb825540dadf",
+    "id": "1bd3d580-2f88-4bd9-8679-a9937435745b",
     "date": "2023-02-25T00:00:00",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": "72806514-5199-4ae4-8027-65f94f6a9bc4",
+    "id": "823f7317-f5f9-4521-9b51-120ac2ef2159",
     "date": "2023-02-25T00:00:00",
     "type": "vlees",
     "menu1": "Paella met kip en scampi"
   },
   {
-    "id": "ecadeec4-81ed-4b24-a0fc-ded389e1da2b",
+    "id": "46a4bafc-2613-44f5-a265-d4fa90151602",
     "date": "2023-02-26T00:00:00",
     "type": "groentvdw",
     "menu1": "-Gebakken koolrabi -Gestoofde wortels -Bloemkool"
   },
   {
-    "id": "39858858-9d57-49c8-897f-4435edc07ae9",
+    "id": "7ff0c258-e6f9-4186-b88b-3a7f405ed217",
     "date": "2023-02-26T00:00:00",
     "type": "soep",
     "menu1": "Dag soep"
   },
   {
-    "id": "692dd387-30e3-44b3-8f12-fd9a6794c0a2",
+    "id": "60618064-0307-4586-baed-3a22185c66bf",
     "date": "2023-02-26T00:00:00",
     "type": "vlees",
     "menu1": "Gegrilde zalm met beignet van broccoli en aardappel in de schil met kruidenboter"
+  },
+  {
+    "id": "29b59144-4537-4292-a2c5-0ed518c00c6b",
+    "date": "2023-02-27T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza creme aubergine, rode ui, basilicum en rucola"
+  },
+  {
+    "id": "b012a73f-37dd-4f69-83c1-bf644c5700d6",
+    "date": "2023-02-27T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "b1b29932-8473-4658-89e5-fa7e6708cfa9",
+    "date": "2023-02-27T00:00:00",
+    "type": "soep",
+    "menu1": "Courgettesoep met chorizo"
+  },
+  {
+    "id": "cf823422-df39-45c1-b300-03b8c9e0342e",
+    "date": "2023-02-27T00:00:00",
+    "type": "veggie",
+    "menu1": "Quesadilla met guacamole, zure room en Mexicaanse salade"
+  },
+  {
+    "id": "98ea970c-8a05-4026-b94b-5f5f4b88d64b",
+    "date": "2023-02-27T00:00:00",
+    "type": "vlees",
+    "menu1": "Kip gyros met Griekse pasta en - salade"
+  },
+  {
+    "id": "594b430a-421c-4935-bedb-b1d3bc51f964",
+    "date": "2023-02-28T00:00:00",
+    "type": "grill",
+    "menu1": "Gegrilde kip en scampi wrap met Mexicaanse salade en wedges"
+  },
+  {
+    "id": "a918034d-60eb-48b4-9ded-4d29fa13e1c3",
+    "date": "2023-02-28T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "1c003688-9766-4ec4-a777-209f9bb40531",
+    "date": "2023-02-28T00:00:00",
+    "type": "soep",
+    "menu1": "Champignonsoep met kruidenkaas"
+  },
+  {
+    "id": "2cb39c11-2d56-48fd-b75d-d7a397681f31",
+    "date": "2023-02-28T00:00:00",
+    "type": "veggie",
+    "menu1": "Quinoasalade met witte selder, quornfilet, granaatappel en hazelnoot"
+  },
+  {
+    "id": "a01e2da4-3211-4ad7-9da5-c3ce4f072174",
+    "date": "2023-02-28T00:00:00",
+    "type": "vlees",
+    "menu1": "Pasta pesto met gegrilde zalm en Italiaanse groentemix"
+  },
+  {
+    "id": "54a491b7-6afb-410e-bb59-5562d222ac43",
+    "date": "2023-03-01T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza creme aubergine, rode ui, basilicum en rucola"
+  },
+  {
+    "id": "29e62b57-6e4f-4354-a314-61ffbe7d1b6e",
+    "date": "2023-03-01T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "95bae2df-39bb-4026-bada-bd8eb76275b0",
+    "date": "2023-03-01T00:00:00",
+    "type": "soep",
+    "menu1": "Erwtensoep"
+  },
+  {
+    "id": "91bb6687-4fff-4566-b318-5070519f63ea",
+    "date": "2023-03-01T00:00:00",
+    "type": "veggie",
+    "menu1": "Huisbereide strudel met spinazie, broccoli en oud Brugge kaas"
+  },
+  {
+    "id": "ba1294ac-1033-42fb-8038-c19602fc6b75",
+    "date": "2023-03-01T00:00:00",
+    "type": "vlees",
+    "menu1": "Moussaka met gegrilde groenten (Paprika, ajuin, courgette, aubergine)"
+  },
+  {
+    "id": "bc7d8d06-ff90-4d89-82c6-6db94bb2b46d",
+    "date": "2023-03-02T00:00:00",
+    "type": "grill",
+    "menu1": "Gegrilde kip en scampi wrap met Mexicaanse salade en wedges"
+  },
+  {
+    "id": "ed811838-b8aa-4d77-b6e3-ebd1f799adbf",
+    "date": "2023-03-02T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "105bbc23-4f10-4f7b-93a7-734e3854db2e",
+    "date": "2023-03-02T00:00:00",
+    "type": "soep",
+    "menu1": "Minestronesoep"
+  },
+  {
+    "id": "ac0f1e5b-d97a-4998-8668-371e260d91c5",
+    "date": "2023-03-02T00:00:00",
+    "type": "veggie",
+    "menu1": "Pappardelle met aubergine-paddenstoelen-tomatensaus"
+  },
+  {
+    "id": "3eea4f58-0840-4f51-85d5-85f289afe468",
+    "date": "2023-03-02T00:00:00",
+    "type": "vlees",
+    "menu1": "Kalkoensteak met groene pepersaus, frisse salade en frieten"
+  },
+  {
+    "id": "953e7faf-55c2-44fe-8dfb-51b770f082a3",
+    "date": "2023-03-03T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "f2433f13-7593-412d-a469-7bdcc3cdf5e0",
+    "date": "2023-03-03T00:00:00",
+    "type": "soep",
+    "menu1": "Indische bloemkoolsoep"
+  },
+  {
+    "id": "61571396-2ae7-462b-9ef4-e02548e5db80",
+    "date": "2023-03-03T00:00:00",
+    "type": "veggie",
+    "menu1": "Pompoencurry met mangochutney en naanbrood"
+  },
+  {
+    "id": "a3370840-01ac-40cc-a28f-da96fa8b5b8d",
+    "date": "2023-03-03T00:00:00",
+    "type": "vlees",
+    "menu1": "Jambalaya"
+  },
+  {
+    "id": "2a0382ff-926e-4c7e-a4f3-ae927db26631",
+    "date": "2023-03-04T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "5d590a86-707f-4f0a-9318-487a6975f94c",
+    "date": "2023-03-04T00:00:00",
+    "type": "soep",
+    "menu1": "Dag soep"
+  },
+  {
+    "id": "0a9d5b63-9d57-4830-a3cc-c7bfa656b1db",
+    "date": "2023-03-04T00:00:00",
+    "type": "vlees",
+    "menu1": "Visfilet met Hollandaise, wortelen en erwten met peterselie aardappelen"
+  },
+  {
+    "id": "00083800-0770-42fa-b14c-f000366ccd3a",
+    "date": "2023-03-05T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Prei in roomsaus -Witloof -Spruiten"
+  },
+  {
+    "id": "b6b4359f-39af-4c57-bad9-119128972f46",
+    "date": "2023-03-05T00:00:00",
+    "type": "soep",
+    "menu1": "Dag soep"
+  },
+  {
+    "id": "c37f8ead-2d12-4554-8de0-6e80a7e28215",
+    "date": "2023-03-05T00:00:00",
+    "type": "vlees",
+    "menu1": "Gegrild varkenshaasje met gestoofd witloof en aardappelnootjes"
   }
 ]
