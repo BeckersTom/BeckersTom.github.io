@@ -1,1 +1,46 @@
-<Reeks><ID>247</ID><Titel>Agent 327 (Integraal)</Titel><Strip><ID>3154</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3155</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3172</ID><Nummer>3</Nummer><Titel>Deel 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3197</ID><Nummer>4</Nummer><Titel>Deel 4</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3262</ID><Nummer>5</Nummer><Titel>Deel 5</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3304</ID><Nummer>6</Nummer><Titel>Deel 6</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3342</ID><Nummer>7</Nummer><Titel>Deel 7</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>247</Id>
+  <Titel>Yiu</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4198</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de hel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Yiu_1_4198.jpg</Afbeelding>
+      <ReeksId>247</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4199</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De belofte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Yiu_2_4199.jpg</Afbeelding>
+      <ReeksId>247</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4200</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>247</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4201</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>247</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

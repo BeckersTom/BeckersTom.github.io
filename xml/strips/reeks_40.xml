@@ -1,1 +1,58 @@
-<Reeks><ID>40</ID><Titel>Sjors &amp; Sjimmie</Titel><Strip><ID>1133</ID><Nummer>1</Nummer><Titel>Van dik hout...</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1134</ID><Nummer>2</Nummer><Titel>Schuift het?</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1135</ID><Nummer>3</Nummer><Titel>Knalwit!</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1136</ID><Nummer>4</Nummer><Titel>Uit de hoogte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1137</ID><Nummer>5</Nummer><Titel>Een bord voor de kop</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>40</Id>
+  <Titel>Betelgeuze</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1487</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De planeet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Betelgeuze_1_1487.jpg</Afbeelding>
+      <ReeksId>40</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1488</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De overlevenden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Betelgeuze_2_1488.jpg</Afbeelding>
+      <ReeksId>40</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1489</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De expeditie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Betelgeuze_3_1489.jpg</Afbeelding>
+      <ReeksId>40</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1490</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grotten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Betelgeuze_4_1490.jpg</Afbeelding>
+      <ReeksId>40</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1491</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ander</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Betelgeuze_5_1491.jpg</Afbeelding>
+      <ReeksId>40</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

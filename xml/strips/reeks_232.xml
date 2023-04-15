@@ -1,1 +1,27 @@
-<Reeks><ID>232</ID><Titel>Retroworld</Titel><Strip><ID>2971</ID><Nummer>1</Nummer><Titel>Integraal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>232</Id>
+  <Titel>Vuur</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4090</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het reptielenkind</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vuur_1_4090.jpg</Afbeelding>
+      <ReeksId>232</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4091</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>232</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

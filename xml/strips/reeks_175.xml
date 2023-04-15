@@ -1,1 +1,58 @@
-<Reeks><ID>175</ID><Titel>Final Incal</Titel><Strip><ID>2422</ID><Nummer>1</Nummer><Titel>De vier John Difools</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2423</ID><Nummer>2</Nummer><Titel>Loez van Garra</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2777</ID><Nummer>3</Nummer><Titel>Gorgo de smerige</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>175</Id>
+  <Titel>Overlevenden</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3177</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>1e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Overlevenden_1_3177.jpg</Afbeelding>
+      <ReeksId>175</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3178</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>2e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Overlevenden_2_3178.jpg</Afbeelding>
+      <ReeksId>175</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3179</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>3e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Overlevenden_3_3179.jpg</Afbeelding>
+      <ReeksId>175</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3180</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>4e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Overlevenden_4_3180.jpg</Afbeelding>
+      <ReeksId>175</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3181</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>5e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Overlevenden_5_3181.jpg</Afbeelding>
+      <ReeksId>175</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

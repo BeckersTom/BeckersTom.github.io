@@ -1,1 +1,28 @@
-<Reeks><ID>158</ID><Titel>Alfa - Eerste Wapenfeiten</Titel><Strip><ID>2330</ID><Nummer>1</Nummer><Titel>Vuurdoop</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2433</ID><Nummer>2</Nummer><Titel>Solo</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2991</ID><Nummer>3</Nummer><Titel>De volgende ronde</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2992</ID><Nummer>4</Nummer><Titel>Matroesjka’s</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3235</ID><Nummer>5</Nummer><Titel>Het uur waarop de hyena's drinken</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>158</Id>
+  <Titel>Mutations</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2845</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Mutations_1_2845.jpg</Afbeelding>
+      <ReeksId>158</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2846</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Mutations_2_2846.jpg</Afbeelding>
+      <ReeksId>158</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

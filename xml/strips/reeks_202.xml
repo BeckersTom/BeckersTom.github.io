@@ -1,1 +1,98 @@
-<Reeks><ID>202</ID><Titel>Zentak</Titel><Strip><ID>2661</ID><Nummer>1</Nummer><Titel>Het pad van de Ardonauten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2662</ID><Nummer>2</Nummer><Titel>De blauwe rotsen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2663</ID><Nummer>3</Nummer><Titel>Digital Nation</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>202</Id>
+  <Titel>Sammy, De nieuwe avonturen van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3790</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vriendendienst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_1_3790.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3791</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten en apenstreken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_2_3791.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3792</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mae West</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_3_3792.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3793</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten op de dansvloer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_4_3793.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3794</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Papy Day</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_5_3794.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3795</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lady "O"</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_6_3795.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3796</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten in Parijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_7_3796.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3797</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Meiden zonder medelijden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_8_3797.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3798</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Boy</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammynieuweavonturenvan_9_3798.jpg</Afbeelding>
+      <ReeksId>202</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,88 @@
-<Reeks><ID>218</ID><Titel>Niourk</Titel><Strip><ID>2828</ID><Nummer>1</Nummer><Titel>Het zwarte kind</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2829</ID><Nummer>2</Nummer><Titel>De stad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2830</ID><Nummer>3</Nummer><Titel>Alpha</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>218</Id>
+  <Titel>Technovaders, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3909</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lagere pan-technoschool</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_1_3909.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3910</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tuchtschool van Nohope</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_2_3910.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3911</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Planeta Games</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_3_3911.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3912</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hallkattraz, de ster van de beulen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_4_3912.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3913</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sekte van de technobisschoppen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_5_3913.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3914</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De geheimen van het techno-vaticaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_6_3914.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3915</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het perfecte spel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_7_3915.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3916</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De beloofde melkweg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Technovaders_8_3916.jpg</Afbeelding>
+      <ReeksId>218</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,58 @@
-<Reeks><ID>146</ID><Titel>Arctica</Titel><Strip><ID>2206</ID><Nummer>1</Nummer><Titel>Tienduizend jaar onder het ijs</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2266</ID><Nummer>2</Nummer><Titel>Het geheim van de diepte</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2360</ID><Nummer>3</Nummer><Titel>De passagier uit de prehistorie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2405</ID><Nummer>4</Nummer><Titel>Onthullingen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2437</ID><Nummer>5</Nummer><Titel>Bestemming Aarde</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2624</ID><Nummer>6</Nummer><Titel>De voortvluchtigen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2779</ID><Nummer>7</Nummer><Titel>Boodschapper uit de kosmos</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2993</ID><Nummer>8</Nummer><Titel>Ultimatum</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3037</ID><Nummer>9</Nummer><Titel>Zwart commando</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3112</ID><Nummer>10</Nummer><Titel>Het complot</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3306</ID><Nummer>11</Nummer><Titel>Invasie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3408</ID><Nummer>12</Nummer><Titel>De laatste man</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>146</Id>
+  <Titel>Mermaid Project</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2720</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MermaidProject_1_2720.jpg</Afbeelding>
+      <ReeksId>146</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2721</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MermaidProject_2_2721.jpg</Afbeelding>
+      <ReeksId>146</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2722</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MermaidProject_3_2722.jpg</Afbeelding>
+      <ReeksId>146</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2723</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MermaidProject_4_2723.jpg</Afbeelding>
+      <ReeksId>146</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2724</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MermaidProject_5_2724.jpg</Afbeelding>
+      <ReeksId>146</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

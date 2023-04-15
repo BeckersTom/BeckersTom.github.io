@@ -1,1 +1,38 @@
-<Reeks><ID>85</ID><Titel>Murena</Titel><Strip><ID>1582</ID><Nummer>1</Nummer><Titel>Purper en goud</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1583</ID><Nummer>2</Nummer><Titel>Zand en bloed</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1584</ID><Nummer>3</Nummer><Titel>Een volmaakte moeder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1585</ID><Nummer>4</Nummer><Titel>Voor hen die gaan sterven</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2016</ID><Nummer>5</Nummer><Titel>De zwarte godin</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2134</ID><Nummer>6</Nummer><Titel>Het bloed van de beesten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2292</ID><Nummer>7</Nummer><Titel>Een leven van vuur</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2367</ID><Nummer>8</Nummer><Titel>De wraak van as</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2665</ID><Nummer>9</Nummer><Titel>Doornen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3091</ID><Nummer>10</Nummer><Titel>Het banket</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>85</Id>
+  <Titel>Final Incal</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1996</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vier John Difools</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FinalIncal_1_1996.jpg</Afbeelding>
+      <ReeksId>85</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1997</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Loez van Garra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FinalIncal_2_1997.jpg</Afbeelding>
+      <ReeksId>85</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1998</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gorgo de smerige</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FinalIncal_3_1998.jpg</Afbeelding>
+      <ReeksId>85</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

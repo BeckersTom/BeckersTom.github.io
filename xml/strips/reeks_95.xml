@@ -1,1 +1,48 @@
-<Reeks><ID>95</ID><Titel>Vlad</Titel><Strip><ID>1833</ID><Nummer>1</Nummer><Titel>Igor, m'n broer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1834</ID><Nummer>2</Nummer><Titel>De meester van Novijanka</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1835</ID><Nummer>3</Nummer><Titel>Rode zone</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1836</ID><Nummer>4</Nummer><Titel>Laatste uitweg</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1837</ID><Nummer>5</Nummer><Titel>Taiga</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1906</ID><Nummer>6</Nummer><Titel>Operatie zondvloed</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2018</ID><Nummer>7</Nummer><Titel>15 November</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>95</Id>
+  <Titel>Groom Lake</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2118</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De psychoanalyse van de vergetelheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GroomLake_1_2118.jpg</Afbeelding>
+      <ReeksId>95</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2119</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hun groot geheim</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GroomLake_2_2119.jpg</Afbeelding>
+      <ReeksId>95</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2120</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De legende van Blarney Stone</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GroomLake_3_2120.jpg</Afbeelding>
+      <ReeksId>95</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2121</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Monoloog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GroomLake_4_2121.jpg</Afbeelding>
+      <ReeksId>95</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,168 @@
-<Reeks><ID>46</ID><Titel>XIII</Titel><Strip><ID>1214</ID><Nummer>1</Nummer><Titel>Zwarte vrijdag</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1215</ID><Nummer>2</Nummer><Titel>Waar de indiaan gaat</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1216</ID><Nummer>3</Nummer><Titel>Alle tranen van de hel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1217</ID><Nummer>4</Nummer><Titel>Spads</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1218</ID><Nummer>5</Nummer><Titel>Rood alarm</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1219</ID><Nummer>6</Nummer><Titel>Het dossier Jason Fly</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1220</ID><Nummer>7</Nummer><Titel>De nacht van 3 augustus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1221</ID><Nummer>8</Nummer><Titel>Dertien tegen een</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1222</ID><Nummer>9</Nummer><Titel>Voor Maria</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1223</ID><Nummer>10</Nummer><Titel>El cascador</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1224</ID><Nummer>11</Nummer><Titel>De drie zilveren horloges</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1225</ID><Nummer>12</Nummer><Titel>Het vonnis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1226</ID><Nummer>13</Nummer><Titel>Het onderzoek</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1250</ID><Nummer>14</Nummer><Titel>Staatsgevaarlijk !</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1297</ID><Nummer>15</Nummer><Titel>Laat de honden los !</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1817</ID><Nummer>16</Nummer><Titel>Operatie Montechristo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1932</ID><Nummer>17</Nummer><Titel>Het goud van Maximiliaan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2091</ID><Nummer>18</Nummer><Titel>De Ierse versie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2092</ID><Nummer>19</Nummer><Titel>De laatste ronde</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2419</ID><Nummer>20</Nummer><Titel>Mayflower Day</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2570</ID><Nummer>21</Nummer><Titel>Het lokaas</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2686</ID><Nummer>22</Nummer><Titel>Terug naar Greenfalls</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2746</ID><Nummer>23</Nummer><Titel>De boodschap van de martelaar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2747</ID><Nummer>24</Nummer><Titel>De erfenis van Jason MacLane</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3252</ID><Nummer>25</Nummer><Titel>The XIII History</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3253</ID><Nummer>26</Nummer><Titel>2132 meter</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3325</ID><Nummer>27</Nummer><Titel>Geheugen opgeladen</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3358</ID><Nummer>28</Nummer><Titel>Cuba, waar alles begon</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>46</Id>
+  <Titel>Bob Morane (uitg. Claude Lefrancq)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1614</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vuurvogel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_1_1614.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1615</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de zuidpool</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_2_1615.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1616</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De groene terreur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_3_1616.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1617</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kristallen torens</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_4_1617.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1618</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het halsnoer van Shiva</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_5_1618.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1619</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het olifantenspoor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_6_1619.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1620</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tegenslag voor de zwarte hand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_7_1620.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1621</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De helse vallei</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_8_1621.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1622</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De jacht op dinosaurussen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_9_1622.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1623</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verzonken galei</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_10_1623.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1624</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het eiland van het verleden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_11_1624.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1625</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vijand onder zee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_12_1625.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1626</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zijden maskers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_13_1626.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1627</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De club van de lange messen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_14_1627.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1628</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van Nosferat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_15_1628.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1629</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zielenpikkers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgClaudeLefrancq_16_1629.jpg</Afbeelding>
+      <ReeksId>46</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

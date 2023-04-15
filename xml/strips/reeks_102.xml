@@ -1,1 +1,108 @@
-<Reeks><ID>102</ID><Titel>Professor Bell</Titel><Strip><ID>1943</ID><Nummer>1</Nummer><Titel>De Mexicaan met de twee hoofden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1944</ID><Nummer>2</Nummer><Titel>De poppen van Jeruzalem</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1945</ID><Nummer>3</Nummer><Titel>Het vrachschip van de apenkoning</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1958</ID><Nummer>4</Nummer><Titel>Promenade des Anglaises</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>102</Id>
+  <Titel>Ian Kaledine</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2186</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De witte nacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IanKaledine_1_2186.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2187</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de taiga</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IanKaledine_2_2187.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2188</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheugen uit de diepte van het oog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IanKaledine_3_2188.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2189</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Shan Pacha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IanKaledine_4_2189.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2190</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De fee Peri</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IanKaledine_5_2190.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2191</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het gloeiende mes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IanKaledine_6_2191.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2192</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het grote komplot</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IanKaledine_7_2192.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2193</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte samoerai</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IanKaledine_8_2193.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2194</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van kasteel Flambard</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IanKaledine_9_2194.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2195</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dottore Serpenti</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IanKaledine_10_2195.jpg</Afbeelding>
+      <ReeksId>102</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

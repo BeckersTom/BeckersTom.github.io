@@ -1,1 +1,155 @@
-<Reeks><ID>127</ID><Titel>Carmen McCallum</Titel><Strip><ID>2073</ID><Nummer>1</Nummer><Titel>Jukurpa</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2074</ID><Nummer>2</Nummer><Titel>Mare Tranquillitatis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2075</ID><Nummer>3</Nummer><Titel>Indringing</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2076</ID><Nummer>4</Nummer><Titel>Samuel Earp</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2077</ID><Nummer>5</Nummer><Titel>Deus ex machina</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2078</ID><Nummer>6</Nummer><Titel>De zesde vinger van de Pendjab</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2446</ID><Nummer>7</Nummer><Titel>De oproep van Baikonoer</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2447</ID><Nummer>8</Nummer><Titel>In de leegte van Kirkwood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2448</ID><Nummer>9</Nummer><Titel>Vendetta</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2449</ID><Nummer>10</Nummer><Titel>Mazzere</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2450</ID><Nummer>11</Nummer><Titel>Nouméa-Tchamba</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2580</ID><Nummer>12</Nummer><Titel>Het water van Golan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3040</ID><Nummer>13</Nummer><Titel>Bandiagara</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3041</ID><Nummer>14</Nummer><Titel>Radioactiviteit</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3042</ID><Nummer>15</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3043</ID><Nummer>16</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3312</ID><Nummer>17</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3313</ID><Nummer>18</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>127</Id>
+  <Titel>Kookaburra Universe</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2451</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van Sniper</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KookaburraUniverse_1_2451.jpg</Afbeelding>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2452</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Taman Kha</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KookaburraUniverse_2_2452.jpg</Afbeelding>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2453</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mano Kha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KookaburraUniverse_3_2453.jpg</Afbeelding>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2454</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2455</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2456</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2457</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2458</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2459</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2460</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2461</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2462</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2463</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2464</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2465</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2466</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>127</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

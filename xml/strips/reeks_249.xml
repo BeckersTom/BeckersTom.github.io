@@ -1,1 +1,178 @@
-<Reeks><ID>249</ID><Titel>Terug naar Aldebaran</Titel><Strip><ID>3163</ID><Nummer>1</Nummer><Titel>Episode 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3298</ID><Nummer>2</Nummer><Titel>Episode 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3322</ID><Nummer>3</Nummer><Titel>Episode 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>249</Id>
+  <Titel>Ythaq</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4233</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onbekende wereld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_1_4233.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4234</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dubbelgangers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_2_4234.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4235</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geluid van de sterren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_3_4235.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4236</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schaduw van Khengis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_4_4236.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4237</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste toevlucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_5_4237.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4238</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Pionnen in opstand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_6_4238.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4239</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het teken van de Ythen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_7_4239.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4240</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spiegel van de schijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_8_4240.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4241</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De onmogelijke waarheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ythaq_9_4241.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4242</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Terugkeer naar Nehorf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_10_4242.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4243</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De langste adem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_11_4243.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4244</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sleutels van het niets</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_12_4244.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4245</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verre horizon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_13_4245.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4246</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een juweel van een brein</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_14_4246.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4247</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Imperator Express</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_15_4247.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4248</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het beleg van Kluit</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_16_4248.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4249</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grot der blikken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ythaq_17_4249.jpg</Afbeelding>
+      <ReeksId>249</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

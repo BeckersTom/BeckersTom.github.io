@@ -1,1 +1,28 @@
-<Reeks><ID>53</ID><Titel>Mick Mac Adam, De nieuwe avonturen van</Titel><Strip><ID>1282</ID><Nummer>1</Nummer><Titel>De onthoofde geliefden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1284</ID><Nummer>2</Nummer><Titel>De barbaarse koning</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1888</ID><Nummer>3</Nummer><Titel>De knockers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3139</ID><Nummer>4</Nummer><Titel>De amazone der duisternis</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3140</ID><Nummer>5</Nummer><Titel>Verdun</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>53</Id>
+  <Titel>Buck Danny One-shot</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1757</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Blackbirds 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyOneshot_1_1757.jpg</Afbeelding>
+      <ReeksId>53</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1758</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Blackbirds 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyOneshot_2_1758.jpg</Afbeelding>
+      <ReeksId>53</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,48 @@
-<Reeks><ID>63</ID><Titel>Chinees Rood</Titel><Strip><ID>1486</ID><Nummer>1</Nummer><Titel>Drakenstad</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1487</ID><Nummer>2</Nummer><Titel>Maskers</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1488</ID><Nummer>3</Nummer><Titel>Zhan Zheng</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1489</ID><Nummer>4</Nummer><Titel>De Val</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>63</Id>
+  <Titel>Chinees Rood</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1893</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Drakenstad</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChineesRood_1_1893.jpg</Afbeelding>
+      <ReeksId>63</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1894</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Maskers</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChineesRood_2_1894.jpg</Afbeelding>
+      <ReeksId>63</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1895</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zhan Zheng</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChineesRood_3_1895.jpg</Afbeelding>
+      <ReeksId>63</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1896</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Val</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChineesRood_4_1896.jpg</Afbeelding>
+      <ReeksId>63</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

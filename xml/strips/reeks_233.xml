@@ -1,1 +1,48 @@
-<Reeks><ID>233</ID><Titel>Laatste grens, De</Titel><Strip><ID>3012</ID><Nummer>1</Nummer><Titel>Episode 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3013</ID><Nummer>2</Nummer><Titel>Episode 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3014</ID><Nummer>3</Nummer><Titel>Episode 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3015</ID><Nummer>4</Nummer><Titel>Episode 4</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>233</Id>
+  <Titel>Ward</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4092</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gestrand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ward_1_4092.jpg</Afbeelding>
+      <ReeksId>233</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4093</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het labyrint</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ward_2_4093.jpg</Afbeelding>
+      <ReeksId>233</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4094</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kapers op de kust</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ward_3_4094.jpg</Afbeelding>
+      <ReeksId>233</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4095</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stilte voor de storm</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ward_4_4095.jpg</Afbeelding>
+      <ReeksId>233</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

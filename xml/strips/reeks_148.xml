@@ -1,1 +1,108 @@
-<Reeks><ID>148</ID><Titel>XIII Mystery</Titel><Strip><ID>2219</ID><Nummer>1</Nummer><Titel>De mangoest</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2220</ID><Nummer>2</Nummer><Titel>Irina</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2365</ID><Nummer>3</Nummer><Titel>Little Jones</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2420</ID><Nummer>4</Nummer><Titel>Kolonel Amos</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2556</ID><Nummer>5</Nummer><Titel>Steve Rowland</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2685</ID><Nummer>6</Nummer><Titel>Billy Stockton</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2706</ID><Nummer>7</Nummer><Titel>Betty Barnowski</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2806</ID><Nummer>8</Nummer><Titel>Martha Shoebridge</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2807</ID><Nummer>9</Nummer><Titel> Felicity Brown</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2980</ID><Nummer>10</Nummer><Titel>Calvin Wax</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3009</ID><Nummer>11</Nummer><Titel> Jonathan Fly</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3192</ID><Nummer>12</Nummer><Titel>Alan Smith</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3193</ID><Nummer>13</Nummer><Titel>Judith Warner</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>148</Id>
+  <Titel>Metabaronnen, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2732</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het voorouderlijk huis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_0_2732.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2733</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Othon de betovergrootvader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_1_2733.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2734</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Honorata de betovergrootmoeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_2_2734.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2735</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aghnar de overgrootvader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_3_2735.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2736</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oda de overgrootmoede</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_4_2736.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2737</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Staalkop de grootvader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_5_2737.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2738</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dona Vicenta de grootmoeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_6_2738.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2739</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aghora de vader-moeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_7_2739.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2740</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zondernaam</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Metabaronnen_8_2740.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2741</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wapens van de Metabaronnen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Metabaronnen_9_2741.jpg</Afbeelding>
+      <ReeksId>148</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

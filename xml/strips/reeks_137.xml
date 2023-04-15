@@ -1,1 +1,88 @@
-<Reeks><ID>137</ID><Titel>Metabaronnen, De - Castaka</Titel><Strip><ID>2141</ID><Nummer>1</Nummer><Titel>Dayal, de eerste voorouder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2720</ID><Nummer>2</Nummer><Titel>De rivalen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>137</Id>
+  <Titel>Lanfeust van de sterren</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2554</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Planeet Troy</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_1_2554.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2555</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De torens van Meirrion</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_2_2555.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2556</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De woestijnen van Abraxar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_3_2556.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2557</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Smerige tijd voor vliegen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_4_2557.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2558</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bacterieplaag</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_5_2558.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2559</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schreeuw van de vrijbuiter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_6_2559.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2560</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de dolfanten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_7_2560.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2561</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kometenbloed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lanfeustvandesterren_8_2561.jpg</Afbeelding>
+      <ReeksId>137</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

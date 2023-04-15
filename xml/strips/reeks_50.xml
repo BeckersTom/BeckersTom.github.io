@@ -1,1 +1,598 @@
-<Reeks><ID>50</ID><Titel>Bob Morane (uitg. Claude Lefrancq)</Titel><Strip><ID>208</ID><Nummer>1</Nummer><Titel>De vuurvogel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>209</ID><Nummer>2</Nummer><Titel>Het geheim van de zuidpool</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>210</ID><Nummer>3</Nummer><Titel>De groene terreur</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>211</ID><Nummer>4</Nummer><Titel>De kristallen torens</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>212</ID><Nummer>5</Nummer><Titel>Het halsnoer van Shiva</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>213</ID><Nummer>6</Nummer><Titel>Het olifantenspoor</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>214</ID><Nummer>7</Nummer><Titel>Tegenslag voor de zwarte hand</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>215</ID><Nummer>8</Nummer><Titel>De helse vallei</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>216</ID><Nummer>9</Nummer><Titel>De jacht op dinosaurussen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>217</ID><Nummer>10</Nummer><Titel>De verzonken galei</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>218</ID><Nummer>11</Nummer><Titel>Het eiland van het verleden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>219</ID><Nummer>12</Nummer><Titel>De vijand onder zee</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>220</ID><Nummer>13</Nummer><Titel>De zijden maskers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1710</ID><Nummer>14</Nummer><Titel>De club van de lange messen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1711</ID><Nummer>15</Nummer><Titel>De vloek van Nosferat</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1921</ID><Nummer>16</Nummer><Titel>De zielenpikkers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>50</Id>
+  <Titel>Buck Danny</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1690</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jappen vallen aan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_1_1690.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1691</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De geheimen van Midway</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_2_1691.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1692</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zonen des hemels</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_3_1692.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1693</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vliegende tijgers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_4_1693.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1694</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte draak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_5_1694.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1695</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aanval op Birma</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_6_1695.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1696</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Smokkelaars van de Rode Zee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_7_1696.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1697</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De woestijnrovers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_8_1697.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1698</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De petroleumgangsters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_9_1698.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1699</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Testpiloten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_10_1699.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1700</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In Korea</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_11_1700.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1701</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onbemande vliegtuigen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_12_1701.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1702</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een vliegtuig wordt vermist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_13_1702.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1703</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Patroelje bij dageraad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_14_1703.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1704</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>NC 22654 antwoordt niet meer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_15_1704.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1705</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gevaar in het Noorden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_16_1705.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1706</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Buck Danny tegen Lady X</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_17_1706.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1707</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aanval op Malakka</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_18_1707.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1708</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijger van Malakka</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_19_1708.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1709</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>S.O.S. Vliegende schotels</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_20_1709.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1710</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een prototype is verdwenen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_21_1710.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1711</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Geheime opdracht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_22_1711.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1712</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vlucht naar de verloren vallei</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_23_1712.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1713</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Proefmodel FX 13</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_24_1713.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1714</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het ZZ eskader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_25_1714.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1715</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vliegende tijgers komen terug</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_26_1715.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1716</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vliegende tijgers schieten te hulp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_27_1716.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1717</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vliegende tijgers tegen piraten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_28_1717.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1718</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie Mercury</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_29_1718.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1719</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De satellietdieven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_30_1719.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1720</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>X-15</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_31_1720.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1721</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alarm te Cape Kennedy</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_32_1721.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1722</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de spookvliegtuigen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_33_1722.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1723</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Atoomalarm</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_34_1723.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1724</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het dodeneskadrille</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_35_1724.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1725</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blauwe engelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_36_1725.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1726</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De piloot met het leren masker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_37_1726.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1727</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het dodelijke groene dal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_38_1727.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1728</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Haaien in de Chinese zee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_39_1728.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1729</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ghost Queen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_40_1729.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1730</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opdracht Apocalypsis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_41_1730.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1731</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De helle-piloten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_42_1731.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1732</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vuur uit de hemel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_43_1732.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1733</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De deserteur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_44_1733.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1734</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De geheimen van de Zwarte zee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_45_1734.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1735</Id>
+      <Nummer>46</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spooksquadron</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_46_1735.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1736</Id>
+      <Nummer>47</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verboden Gebied</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_47_1736.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1737</Id>
+      <Nummer>48</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Strijd boven de bergen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_48_1737.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1738</Id>
+      <Nummer>49</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De nacht van de slang</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_49_1738.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1739</Id>
+      <Nummer>50</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sabotage in Texas</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_50_1739.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1740</Id>
+      <Nummer>51</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mysterie in Antarctica</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_51_1740.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1741</Id>
+      <Nummer>52</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vermist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BuckDanny_52_1741.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1742</Id>
+      <Nummer>53</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zwarte cobra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_53_1742.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1743</Id>
+      <Nummer>54</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een schaduw in de nacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_54_1743.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1744</Id>
+      <Nummer>55</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Defcon one!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_55_1744.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1745</Id>
+      <Nummer>56</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vostok antwoordt niet meer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_56_1745.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1746</Id>
+      <Nummer>57</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie Vektor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_57_1746.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1747</Id>
+      <Nummer>58</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het pact</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_58_1747.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4312</Id>
+      <Nummer>59</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Skyborg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_59_4312.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,86 @@
-<Reeks><ID>125</ID><Titel>Antares</Titel><Strip><ID>2068</ID><Nummer>1</Nummer><Titel>1e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2251</ID><Nummer>2</Nummer><Titel>2e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2328</ID><Nummer>3</Nummer><Titel>3e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2435</ID><Nummer>4</Nummer><Titel>4e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2681</ID><Nummer>5</Nummer><Titel>5e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2808</ID><Nummer>6</Nummer><Titel>6e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>125</Id>
+  <Titel>Kookaburra</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2440</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Planeet Dakoï</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_1_2440.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2441</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sektor WBH3</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_2_2441.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2442</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Projekt Equinox</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_3_2442.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2443</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Systeem Ragnarok</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_4_2443.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2444</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Terug naar Terradoes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_5_2444.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2445</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verbinding met de toekomst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kookaburra_6_2445.jpg</Afbeelding>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2446</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>125</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2447</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>125</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

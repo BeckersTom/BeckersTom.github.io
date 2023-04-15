@@ -1,1 +1,38 @@
-<Reeks><ID>228</ID><Titel>Moeder Rusland</Titel><Strip><ID>2950</ID><Nummer>1</Nummer><Titel>De amazones van Basajev</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2951</ID><Nummer>2</Nummer><Titel>De duiven van Grozny</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>228</Id>
+  <Titel>Valstrik op Zarkas</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4070</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een rups voor twee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ValstrikopZarkas_1_4070.jpg</Afbeelding>
+      <ReeksId>228</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4071</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nieuw Pondichery mijn lief!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ValstrikopZarkas_2_4071.jpg</Afbeelding>
+      <ReeksId>228</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4072</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gaia wegwezen!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ValstrikopZarkas_3_4072.jpg</Afbeelding>
+      <ReeksId>228</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

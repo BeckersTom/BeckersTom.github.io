@@ -1,1 +1,688 @@
-<Reeks><ID>60</ID><Titel>Dees Dubbel, De daverende daden van</Titel><Strip><ID>1435</ID><Nummer>1</Nummer><Titel>De sprekende doedelzak</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1862</ID><Nummer>2</Nummer><Titel>Het verkleinwater</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1863</ID><Nummer>3</Nummer><Titel>Het zwarte zwaard</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>60</Id>
+  <Titel>Chick Bill</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1817</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Chick Bill tegen de onzichtbare</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_1_1817.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1818</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kat in de zak</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_2_1818.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1819</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Doorbraak naar het westen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_3_1819.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1820</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kid Ordinn komt in opstand</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_4_1820.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1821</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zonderlinge Casy-Moto</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_5_1821.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1822</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De pijpekop</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_6_1822.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1823</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ko-klox-klan</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_7_1823.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1824</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de grot</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_8_1824.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1825</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het monster van het meer</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_9_1825.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1826</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alarm te Marracas</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_10_1826.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1827</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schat van de groene Boeddha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_11_1827.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1828</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Neptunus is verdwenen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_12_1828.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1829</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste van de Buls</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_13_1829.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1830</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 100 dubbelgangers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_14_1830.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1831</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rivalen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_15_1831.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1832</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Patratomac beeft</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_16_1832.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1833</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De miljoenen van Kid Ordinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_17_1833.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1834</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Territorium 22</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_18_1834.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1835</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>36 Sterren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_19_1835.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1836</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Roze stormwind</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_20_1836.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1837</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De waterkoorts</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_21_1837.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1838</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Cowboys tegen musketiers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_22_1838.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1839</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het teken van de graaf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_23_1839.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1840</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het raadselachtige Tibet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_24_1840.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1841</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheime wapen van Kid Ordinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_25_1841.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1842</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schatgravers in de woestijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_26_1842.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1843</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bij ruilen moet er een huilen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_27_1843.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1844</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De beelden van het eiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_28_1844.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1845</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gevangene van Schotsj</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_29_1845.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1846</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bende van Kid Ordinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_30_1846.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1847</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een "onschuldige" in het dorp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_31_1847.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1848</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ijzeren cowboy</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_32_1848.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1849</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hard tegen hard</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_33_1849.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1850</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een stem als een klok</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_34_1850.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1851</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Casanova Kid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_35_1851.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1852</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Grapjassen werden gapjassen...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_36_1852.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1853</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Spook-ranch</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_37_1853.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1854</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Montana Kid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_38_1854.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1855</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kale-mannen-tikker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_39_1855.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1856</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De getuige van Rio Grande</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_40_1856.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1857</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paniek in de K. O. corral</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_41_1857.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1858</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 6e desperado</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_42_1858.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1859</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dubbelziende helderziende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_43_1859.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1860</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het huis van de sterkste</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_44_1860.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1861</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sheriff te koop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_45_1861.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1862</Id>
+      <Nummer>46</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kop tegen de muur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_46_1862.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1863</Id>
+      <Nummer>47</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De goudmijn van Dog Bull</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_47_1863.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1864</Id>
+      <Nummer>48</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blauwe terreur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_48_1864.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1865</Id>
+      <Nummer>49</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het kruitvat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_49_1865.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1866</Id>
+      <Nummer>50</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rattevergif</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_50_1866.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1867</Id>
+      <Nummer>51</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De deserteurs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_51_1867.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1868</Id>
+      <Nummer>52</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gier van Wood City</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_52_1868.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1869</Id>
+      <Nummer>53</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Drie schoten voor de senator</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_53_1869.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1870</Id>
+      <Nummer>54</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vier woestijnratten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_54_1870.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1871</Id>
+      <Nummer>55</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kid-de-revolverheld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_55_1871.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1872</Id>
+      <Nummer>56</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bittere wraak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_56_1872.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1873</Id>
+      <Nummer>57</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rode konvooi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_57_1873.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1874</Id>
+      <Nummer>58</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De twee gezichten van Kid Ordinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_58_1874.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1875</Id>
+      <Nummer>59</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verloofde van Kid Ordinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ChickBill_59_1875.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1876</Id>
+      <Nummer>60</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte vriend</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_60_1876.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1877</Id>
+      <Nummer>61</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kid Aladinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_61_1877.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1878</Id>
+      <Nummer>62</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dwaas en daas</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_62_1878.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1879</Id>
+      <Nummer>63</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het schotse spook</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_63_1879.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1880</Id>
+      <Nummer>64</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wie niet dik is, moet slim zijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_64_1880.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1881</Id>
+      <Nummer>65</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dochter van de maniak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_65_1881.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1882</Id>
+      <Nummer>66</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Koning Kaaskop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_66_1882.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1883</Id>
+      <Nummer>67</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Klaartje, de oosterse Mata Hari</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_67_1883.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4315</Id>
+      <Nummer>68</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De onweerstaanbare Zorfelin</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ChickBill_68_4315.jpg</Afbeelding>
+      <ReeksId>60</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

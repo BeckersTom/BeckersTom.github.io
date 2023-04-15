@@ -1,1 +1,68 @@
-<Reeks><ID>56</ID><Titel>Natasja</Titel><Strip><ID>1285</ID><Nummer>1</Nummer><Titel>Luchtstewardess</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1286</ID><Nummer>2</Nummer><Titel>en de maharadja</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1287</ID><Nummer>3</Nummer><Titel>Het metalen geheugen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1288</ID><Nummer>4</Nummer><Titel>Een troon uit de lucht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1289</ID><Nummer>5</Nummer><Titel>Kaapvlucht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1373</ID><Nummer>6</Nummer><Titel>De dertiende apostel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1374</ID><Nummer>7</Nummer><Titel>De vlucht van de Mona Lisa</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1375</ID><Nummer>8</Nummer><Titel>Opnamen voor Caltech</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1376</ID><Nummer>9</Nummer><Titel>De raadselachtige gedaanten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1377</ID><Nummer>10</Nummer><Titel>Een afgelegen eiland</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1378</ID><Nummer>11</Nummer><Titel>De weddenschap</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1379</ID><Nummer>12</Nummer><Titel>De brute koekjes</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1776</ID><Nummer>13</Nummer><Titel>Asiel in de ruimte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1777</ID><Nummer>14</Nummer><Titel>Luchtspiegelingen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1778</ID><Nummer>15</Nummer><Titel>De riem van professor Dyffuus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1779</ID><Nummer>16</Nummer><Titel>De blonde engel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1780</ID><Nummer>17</Nummer><Titel>De zwarte weduwe</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1781</ID><Nummer>18</Nummer><Titel>De dinosauriers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1890</ID><Nummer>19</Nummer><Titel>De rotsenzee</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2136</ID><Nummer>20</Nummer><Titel>Atoll 66</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2357</ID><Nummer>21</Nummer><Titel>De blik van het verleden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2717</ID><Nummer>22</Nummer><Titel>De blauwe sperwer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2718</ID><Nummer>23</Nummer><Titel>In het spoor van de blauwe sperwer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3289</ID><Nummer>24</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>56</Id>
+  <Titel>Carthago Adventures</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1789</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bluff Creek</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_1_1789.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1790</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Chipekwe</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_2_1790.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1791</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aipaloovik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_3_1791.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1792</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Amarok</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_4_1792.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1793</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zana</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_5_1793.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1794</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bron</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CarthagoAdventures_6_1794.jpg</Afbeelding>
+      <ReeksId>56</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

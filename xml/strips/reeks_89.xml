@@ -1,1 +1,108 @@
-<Reeks><ID>89</ID><Titel>Blacksad</Titel><Strip><ID>1603</ID><Nummer>1</Nummer><Titel>Ergens tussen de schaduwen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1604</ID><Nummer>2</Nummer><Titel>Arctic-Nation</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1956</ID><Nummer>3</Nummer><Titel>Rode ziel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2359</ID><Nummer>4</Nummer><Titel>De hel, de stilte</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2679</ID><Nummer>5</Nummer><Titel>Amarillo</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3372</ID><Nummer>6</Nummer><Titel>De maskers vallen - Eerste deel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>89</Id>
+  <Titel>Gen Barrevoets in Hiroshima</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2063</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bom</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_1_2063.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2064</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De levende doden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_2_2064.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2065</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een nieuw bestaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_3_2065.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2066</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Uit de as herrezen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_4_2066.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2067</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oorlog zonder einde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_5_2067.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2068</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Niets dan de waarheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_6_2068.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2069</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tot stof vergaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_7_2069.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2070</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kooplui des doods</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_8_2070.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2071</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Grenzen doorbreken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_9_2071.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2072</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nooit opgeven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GenBarrevoetsinHiroshima_10_2072.jpg</Afbeelding>
+      <ReeksId>89</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

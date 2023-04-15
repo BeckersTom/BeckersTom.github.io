@@ -1,1 +1,28 @@
-<Reeks><ID>98</ID><Titel>Vuur</Titel><Strip><ID>1907</ID><Nummer>1</Nummer><Titel>Het reptielenkind</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2167</ID><Nummer>2</Nummer><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>98</Id>
+  <Titel>Hel, De avonturen van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2152</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De koffers van Raz Fadraz</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Helavonturenvan_1_2152.jpg</Afbeelding>
+      <ReeksId>98</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2153</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Sibylle-codex</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Helavonturenvan_2_2153.jpg</Afbeelding>
+      <ReeksId>98</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

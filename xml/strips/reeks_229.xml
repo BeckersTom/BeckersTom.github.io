@@ -1,1 +1,57 @@
-<Reeks><ID>229</ID><Titel>Lady Mechanika</Titel><Strip><ID>2965</ID><Nummer>1</Nummer><Titel>Het mysterie van het mechanische lijk 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2966</ID><Nummer>2</Nummer><Titel>Het mysterie van het mechanische lijk 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2967</ID><Nummer>3</Nummer><Titel>Het mysterie van het mechanische lijk 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2984</ID><Nummer>4</Nummer><Titel>Het tablet van het lot 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2985</ID><Nummer>5</Nummer><Titel>Het tablet van het lot 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2986</ID><Nummer>6</Nummer><Titel>Het tablet van het lot 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3030</ID><Nummer>7</Nummer><Titel>De wezen van West Abbey 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3116</ID><Nummer>8</Nummer><Titel>La dama de la muerte 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3117</ID><Nummer>9</Nummer><Titel>La dama de la muerte 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3127</ID><Nummer>10</Nummer><Titel>De moordautomaat 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3128</ID><Nummer>11</Nummer><Titel>De moordautomaat 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3226</ID><Nummer>12</Nummer><Titel>La belle dame sans merci 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3227</ID><Nummer>13</Nummer><Titel>La belle dame sans merci 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3301</ID><Nummer>14</Nummer><Titel>Bloed 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3302</ID><Nummer>15</Nummer><Titel>Bloed 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>229</Id>
+  <Titel>Veroveraars van Troy, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4073</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verbanning naar Bloemhaven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>VeroveraarsvanTroy_1_4073.jpg</Afbeelding>
+      <ReeksId>229</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4074</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Eckmül de Hakker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>VeroveraarsvanTroy_2_4074.jpg</Afbeelding>
+      <ReeksId>229</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4075</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De slag om Bloemhaven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>VeroveraarsvanTroy_3_4075.jpg</Afbeelding>
+      <ReeksId>229</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4076</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Adelaarsberg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>VeroveraarsvanTroy_4_4076.jpg</Afbeelding>
+      <ReeksId>229</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4077</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ijsdraak</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>229</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

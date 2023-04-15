@@ -1,1 +1,48 @@
-<Reeks><ID>88</ID><Titel>Woogee (vzw Arcadia)</Titel><Strip><ID>1594</ID><Nummer>1</Nummer><Titel>De Samaritaan van Yosemite</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>88</Id>
+  <Titel>Geheim van de tijd</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2059</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het gat in de cirkel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Geheimvandetijd_1_2059.jpg</Afbeelding>
+      <ReeksId>88</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2060</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Eerste tekens</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Geheimvandetijd_2_2060.jpg</Afbeelding>
+      <ReeksId>88</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2061</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijdwachters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Geheimvandetijd_3_2061.jpg</Afbeelding>
+      <ReeksId>88</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2062</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een nieuw begin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Geheimvandetijd_4_2062.jpg</Afbeelding>
+      <ReeksId>88</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

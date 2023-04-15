@@ -1,1 +1,78 @@
-<Reeks><ID>213</ID><Titel>Waterwereld Askell</Titel><Strip><ID>2785</ID><Nummer>1</Nummer><Titel>De Balsem van Fortuin</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2786</ID><Nummer>2</Nummer><Titel>Terugkeer naar Vocable</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2787</ID><Nummer>3</Nummer><Titel>Bloedkoraal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>213</Id>
+  <Titel>Storm, De kronieken van Roodhaar</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3876</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De legende van Krill</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_1_3876.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3877</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vijfde toren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_2_3877.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3878</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ark van Noorach</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_3_3878.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3879</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het zwevende gewest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_4_3879.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3880</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De reuzen van het gebroken rif</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_5_3880.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4289</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het jaar van de tweeling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_6_4289.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4357</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De parasiet van Danakill</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>StormkroniekenvanRoodhaar_7_4357.jpg</Afbeelding>
+      <ReeksId>213</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

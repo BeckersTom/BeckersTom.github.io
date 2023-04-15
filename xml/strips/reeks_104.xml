@@ -1,1 +1,108 @@
-<Reeks><ID>104</ID><Titel>Narvalo</Titel><Strip><ID>2135</ID><Nummer>1</Nummer><Titel>Vorstelijke huurlingen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>104</Id>
+  <Titel>Imago mundi</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2198</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op het spoor van Atlantis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_1_2198.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2199</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schat van de diepzee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_2_2199.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2200</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 25e rune</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_3_2200.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2201</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De odysseus-hypothese</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_4_2201.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2202</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het babel-effect</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_5_2202.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2203</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Codenaam Babylon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_6_2203.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2204</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Natuurgeweld op Simushir</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_7_2204.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2205</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De erfenis van de Jomons</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_8_2205.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2206</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gewonde heuvel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_9_2206.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2207</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tweede cirkel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Imagomundi_10_2207.jpg</Afbeelding>
+      <ReeksId>104</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

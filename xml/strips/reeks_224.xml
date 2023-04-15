@@ -1,1 +1,198 @@
-<Reeks><ID>224</ID><Titel>Kookaburra K</Titel><Strip><ID>2922</ID><Nummer>1</Nummer><Titel>Big Bang baby</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2923</ID><Nummer>2</Nummer><Titel>De planeet van de schijnbeelden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3069</ID><Nummer>3</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>224</Id>
+  <Titel>Trigië (uitg. Big Balloon)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3984</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Strijd om Trigië</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_1_3984.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3985</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Laatste uur voor Elekton</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_2_3985.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3986</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stad onder vuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_3_3986.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3987</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kolonie in opstand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_4_3987.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3988</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Slag om Trigopolis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_5_3988.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3989</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Duel met de dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_6_3989.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3990</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zonen van de Keizer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_7_3990.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3991</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verboden stad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_8_3991.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3992</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Strijd om de Macht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_9_3992.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3993</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Plaatsvervanger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_10_3993.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3994</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dreiging uit het heelal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_11_3994.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3995</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gewetenloze bediende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_12_3995.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3996</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wraak van een vriend</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_13_3996.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3997</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gestolen formule</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_14_3997.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3998</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van de mummie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_15_3998.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3999</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dubbelganger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_16_3999.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4000</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het boze oog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_17_4000.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4001</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De genezende gokker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_18_4001.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4002</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vergeten vallei</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TrigieuitgBigBalloon_19_4002.jpg</Afbeelding>
+      <ReeksId>224</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

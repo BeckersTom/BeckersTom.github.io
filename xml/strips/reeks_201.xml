@@ -1,1 +1,318 @@
-<Reeks><ID>201</ID><Titel>Prometheus</Titel><Strip><ID>2654</ID><Nummer>1</Nummer><Titel>Atlantis</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2655</ID><Nummer>2</Nummer><Titel>Blue beam project</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2656</ID><Nummer>3</Nummer><Titel>Exogenese</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2657</ID><Nummer>4</Nummer><Titel>Mantiek</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2658</ID><Nummer>5</Nummer><Titel>De sarcofaag</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2659</ID><Nummer>6</Nummer><Titel>De boog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2694</ID><Nummer>7</Nummer><Titel>De theorie van de 100ste aap</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2956</ID><Nummer>8</Nummer><Titel>Necromanteion</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2957</ID><Nummer>9</Nummer><Titel>In het duister 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3006</ID><Nummer>10</Nummer><Titel>In het duister 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3095</ID><Nummer>11</Nummer><Titel>De dertiende dag</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3096</ID><Nummer>12</Nummer><Titel>Providence</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3097</ID><Nummer>13</Nummer><Titel>Contact</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3098</ID><Nummer>14</Nummer><Titel>De verloren zielen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3099</ID><Nummer>15</Nummer><Titel>Het dorp</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3100</ID><Nummer>16</Nummer><Titel>Dissident</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3258</ID><Nummer>17</Nummer><Titel>De Spartaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3259</ID><Nummer>18</Nummer><Titel>De theorie van de graankorrel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3260</ID><Nummer>19</Nummer><Titel>Artefact</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3261</ID><Nummer>20</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3320</ID><Nummer>21</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3395</ID><Nummer>22</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>201</Id>
+  <Titel>Sammy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3759</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oudjes voor lijfwachten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_1_3759.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3760</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rhum row</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_2_3760.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3761</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>El presidente</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_3_3761.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3762</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten en bonkige boksers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_4_3762.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3763</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lijfwacht met acht poten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_5_3763.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3764</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lijfwachten zijn knetter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_6_3764.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3765</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwacht in de kostschool</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_7_3765.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3766</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten en koning Dollar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_8_3766.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3767</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Heibel in de woestijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_9_3767.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3768</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten en draculanten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_10_3768.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3769</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwacht-verhalen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_11_3769.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3770</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het jeugdelixir</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_12_3770.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3771</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het schroeifenomeen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_13_3771.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3772</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Voetbal is oorlog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_14_3772.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3773</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten in Hollywood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_15_3773.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3774</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ku-klux-klan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_16_3774.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3775</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Baby's en Blaffers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_17_3775.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3776</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paniek in het Vaticaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_18_3776.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3777</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten in de ring</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_19_3777.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3778</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ma Attaway</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_20_3778.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3779</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Miss Kay</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_21_3779.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3780</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opdracht voor een knekelman</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_22_3780.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3781</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diva</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_23_3781.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3782</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hoogspanning</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_24_3782.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3783</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mandarijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_25_3783.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3784</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Crash in Wall street</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_26_3784.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3785</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een hondebaantje</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_27_3785.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3786</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sigaretten en whisky</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_28_3786.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3787</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten en malle meiden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_29_3787.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3788</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lijfwachten op hoge hakken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sammy_30_3788.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3789</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Foezel en blauwe bonen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Sammy_31_3789.jpg</Afbeelding>
+      <ReeksId>201</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

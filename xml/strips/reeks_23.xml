@@ -1,1 +1,418 @@
-<Reeks><ID>23</ID><Titel>Guust Flater</Titel><Strip><ID>443</ID><Nummer>0</Nummer><Titel>Gadgets en gags</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>444</ID><Nummer>1</Nummer><Titel>Flaters Archief</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>445</ID><Nummer>2</Nummer><Titel>Flaterfestijn</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>446</ID><Nummer>3</Nummer><Titel>Flagrante flappende flaters</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>447</ID><Nummer>4</Nummer><Titel>Heet van de flater</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>448</ID><Nummer>5</Nummer><Titel>Daverende flaters te koop</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>449</ID><Nummer>6</Nummer><Titel>Hoed je voor flaters</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>450</ID><Nummer>7</Nummer><Titel>Flaters schade</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>451</ID><Nummer>8</Nummer><Titel>Flaters bij de vleet!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>452</ID><Nummer>9</Nummer><Titel>Van flaters gesproken...</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>453</ID><Nummer>10</Nummer><Titel>Flaters van formaat</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>454</ID><Nummer>11</Nummer><Titel>Welterusten, Flater</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>455</ID><Nummer>12</Nummer><Titel>Het geval Flater</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>456</ID><Nummer>13</Nummer><Titel>Die reuze Flater</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>457</ID><Nummer>14</Nummer><Titel>Flaters, floppen en flouzen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1748</ID><Nummer>15</Nummer><Titel>De Flaterbende</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2675</ID><Nummer>16</Nummer><Titel>Flater verdient een optater</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2676</ID><Nummer>17</Nummer><Titel>De Flatersaga</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>23</Id>
+  <Titel>Alex</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1223</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alex de onversaagde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_1_1223.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1224</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gouden sfinx</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_2_1224.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1225</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vervloekte eiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_3_1225.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1226</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tiara van Oribal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_4_1226.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1227</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte klauw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_5_1227.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1228</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verloren legioenen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_6_1228.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1229</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste Spartaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_7_1229.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1230</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Etruskische graf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_8_1230.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1231</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het afgodsbeeld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_9_1231.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1232</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Iorix de grote</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_10_1232.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1233</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De prins van de Nijl</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_11_1233.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1234</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zoon van Spartacus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_12_1234.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1235</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spook van Carthago</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_13_1235.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1236</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De prooien van de vulkaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_14_1236.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1237</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een kind van Athene</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_15_1237.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1238</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De toren van Babel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_16_1238.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1239</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De keizer van China</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_17_1239.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1240</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vercingetorix</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_18_1240.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1241</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het paard van Troje</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_19_1241.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1242</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>O Alexandrie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_20_1242.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1243</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De barbaren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Alex_21_1243.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1244</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De val van Icarus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_22_1244.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1245</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De groene rivier</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_23_1245.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1246</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Roma, Roma...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_24_1246.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1247</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het was in Khorsabad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_25_1247.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1248</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Iberier</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_26_1248.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1249</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivel van Pharos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_27_1249.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1250</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verdwenen stad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_28_1250.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1251</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het testament van Caesar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_29_1251.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1252</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het complot van Baal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_30_1252.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1253</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schaduw van Sarapis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_31_1253.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1254</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste verovering</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_32_1254.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1255</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Britannia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_33_1255.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1256</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aan de overkant van de Styx</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_34_1256.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1257</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het goud van Saturnus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_35_1257.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1258</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De eed van de gladiator</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_36_1258.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1259</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Veni vidi vici</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_37_1259.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1260</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Helvetii</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_38_1260.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1261</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De god zonder naam</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_39_1261.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4296</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het oog van de minotaurus</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_40_4296.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4365</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De koning van de amazones</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_41_4365.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

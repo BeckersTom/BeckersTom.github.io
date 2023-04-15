@@ -1,1 +1,288 @@
-<Reeks><ID>115</ID><Titel>Spiegel van Alice, De</Titel><Strip><ID>1991</ID><Nummer>1</Nummer><Titel>De vijand in mezelf</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>115</Id>
+  <Titel>Jerome K. Jerome Bloks</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2295</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dodende schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_1_2295.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2296</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Papieren droom</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_2_2296.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2297</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op leven en dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_3_2297.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2298</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schaduw van het verleden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_4_2298.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2299</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De regel van drie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_5_2299.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2300</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zelda</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_6_2300.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2301</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vol pension</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_7_2301.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2302</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de naam van de vader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_8_2302.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2303</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Met thuis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_9_2303.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2304</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een baby op de vlucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_10_2304.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2305</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het hart rechts</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_11_2305.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2306</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schuilplaats</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_12_2306.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2307</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het pact</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_13_2307.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2308</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een gekooid beest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_14_2308.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2309</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gravin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_15_2309.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2310</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De brief</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_16_2310.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2311</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De marionet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_17_2311.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2312</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een stukje paradijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_18_2312.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2313</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verkeerd verbonden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_19_2313.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2314</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Einde contract</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_20_2314.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2315</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vluchtmisdrijf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_21_2315.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2316</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mathias</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_22_2316.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2317</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Post mortem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_23_2317.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2318</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kluizenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_24_2318.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2319</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aïna</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_25_2319.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2320</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het mes in de boom</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_26_2320.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2321</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Namaak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_27_2321.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2322</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In goede en slechte tijden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_28_2322.jpg</Afbeelding>
+      <ReeksId>115</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

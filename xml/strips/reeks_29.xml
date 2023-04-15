@@ -1,1 +1,125 @@
-<Reeks><ID>29</ID><Titel>Largo Winch</Titel><Strip><ID>601</ID><Nummer>1</Nummer><Titel>De erfgenaam</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>602</ID><Nummer>2</Nummer><Titel>Groep W</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>603</ID><Nummer>3</Nummer><Titel>O.O.B.</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>604</ID><Nummer>4</Nummer><Titel>Business Blues</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>605</ID><Nummer>5</Nummer><Titel>H</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>606</ID><Nummer>6</Nummer><Titel>Dutch connection</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>607</ID><Nummer>7</Nummer><Titel>De burcht van Makiling</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>608</ID><Nummer>8</Nummer><Titel>Het uur van de tijger</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>609</ID><Nummer>9</Nummer><Titel>Venetie zien...</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>610</ID><Nummer>10</Nummer><Titel>...en sterven</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1256</ID><Nummer>11</Nummer><Titel>Golden Gate</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1381</ID><Nummer>12</Nummer><Titel>Shadow</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1885</ID><Nummer>13</Nummer><Titel>De prijs van het geld</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1925</ID><Nummer>14</Nummer><Titel>De wet van de dollar</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2040</ID><Nummer>15</Nummer><Titel>De drie ogen van de bewakers van de Tao</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2217</ID><Nummer>16</Nummer><Titel>De weg en de deugd</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2358</ID><Nummer>17</Nummer><Titel>Zwarte zee</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2576</ID><Nummer>18</Nummer><Titel>Rode woede</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2757</ID><Nummer>19</Nummer><Titel>Cross Fire</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2849</ID><Nummer>20</Nummer><Titel>20 Seconden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2850</ID><Nummer>21</Nummer><Titel>Morning Star</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3216</ID><Nummer>22</Nummer><Titel>Scharlaken zeilen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3287</ID><Nummer>23</Nummer><Titel>De Karmanlijn</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>29</Id>
+  <Titel>Androiden</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1295</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Heropstanding</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_1_1295.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1296</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gelukkig hij die als Odysseus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_2_1296.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1297</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Invasie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_3_1297.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1298</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tranen van Kielko</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_4_1298.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1299</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Synn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_5_1299.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1300</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De deserteurs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_6_1300.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1301</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste der engelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Androiden_7_1301.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1302</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Odissey</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Androiden_8_1302.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1303</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De herder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Androiden_9_1303.jpg</Afbeelding>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4299</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4300</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>29</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4301</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>29</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

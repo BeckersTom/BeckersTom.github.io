@@ -1,1 +1,96 @@
-<Reeks><ID>170</ID><Titel>Travis</Titel><Strip><ID>2387</ID><Nummer>1</Nummer><Titel>Orkaan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2388</ID><Nummer>2</Nummer><Titel>Operatie Minotaurus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2389</ID><Nummer>3</Nummer><Titel>Chaos Agent</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2390</ID><Nummer>4</Nummer><Titel>Protocol Oslo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2391</ID><Nummer>5</Nummer><Titel>Cybernation</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2395</ID><Nummer>6</Nummer><Titel>Vinex blues</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2459</ID><Nummer>7</Nummer><Titel>Topkapi</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2460</ID><Nummer>8</Nummer><Titel>Tarantula</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2461</ID><Nummer>9</Nummer><Titel>Het blauwe goud</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2462</ID><Nummer>10</Nummer><Titel>Dommy</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3196</ID><Nummer>11</Nummer><Titel>New York Delaware</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3324</ID><Nummer>12</Nummer><Titel>De kinderen van Marcos</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3335</ID><Nummer>13</Nummer><Titel>Ijzeren killers</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3359</ID><Nummer>14</Nummer><Titel>Gevederde slang</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>170</Id>
+  <Titel>Olympus Mons</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3133</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Anomalie Een</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_1_3133.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3134</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operation mainbrace</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_2_3134.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3135</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Loods 754</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_3_3135.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3136</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Millenials</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_4_3136.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3137</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de schaduw van de zon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_5_3137.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3138</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Einstein</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_6_3138.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3139</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_7_3139.jpg</Afbeelding>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4346</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>170</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4347</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>170</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

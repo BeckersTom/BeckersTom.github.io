@@ -1,1 +1,18 @@
-<Reeks><ID>160</ID><Titel>Cixi van Troy</Titel><Strip><ID>2339</ID><Nummer>1</Nummer><Titel>Het geheim van Cixi</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2430</ID><Nummer>2</Nummer><Titel>Het geheim van Cixi</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2431</ID><Nummer>3</Nummer><Titel>Het geheim van Cixi</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>160</Id>
+  <Titel>Narvalo</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2852</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vorstelijke huurlingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Narvalo_1_2852.jpg</Afbeelding>
+      <ReeksId>160</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

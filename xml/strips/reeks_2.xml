@@ -1,1 +1,53 @@
-<Reeks><ID>2</ID><Titel>Agent 212</Titel><Strip><ID>1</ID><Nummer>1</Nummer><Titel>Dag en nacht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2</ID><Nummer>2</Nummer><Titel>In naam der wet</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3</ID><Nummer>3</Nummer><Titel>Verboden inrit</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>4</ID><Nummer>4</Nummer><Titel>Plaatselijk verkeer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>5</ID><Nummer>5</Nummer><Titel>Er als de kippen bij</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>6</ID><Nummer>6</Nummer><Titel>De nachtwacht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>7</ID><Nummer>7</Nummer><Titel>Agent door weer en wind</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>8</ID><Nummer>8</Nummer><Titel>Rustig maar!</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>9</ID><Nummer>9</Nummer><Titel>Op wieltjes</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>10</ID><Nummer>10</Nummer><Titel>Dubbel agent</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>11</ID><Nummer>11</Nummer><Titel>Fluitje van een cent</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>12</ID><Nummer>12</Nummer><Titel>Kip, koek en ei</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>13</ID><Nummer>13</Nummer><Titel>Boven de pet van de wet</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>14</ID><Nummer>14</Nummer><Titel>Nondejuut</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>15</ID><Nummer>15</Nummer><Titel>Ongelikte beren</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>16</ID><Nummer>16</Nummer><Titel>Aaah... gent!</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1674</ID><Nummer>17</Nummer><Titel>Wit van de kip</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1675</ID><Nummer>18</Nummer><Titel>Gebraden kip</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1676</ID><Nummer>19</Nummer><Titel>Commisariaat op stelten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1677</ID><Nummer>20</Nummer><Titel>Kippenvel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1678</ID><Nummer>21</Nummer><Titel>Vliegtuigkit</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1679</ID><Nummer>22</Nummer><Titel>Rivierpolitie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1680</ID><Nummer>23</Nummer><Titel>Op glad ijs</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1846</ID><Nummer>24</Nummer><Titel>Agent in zakformaat</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2045</ID><Nummer>25</Nummer><Titel>Lach 'ns naar het vogeltje</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2128</ID><Nummer>26</Nummer><Titel>In woelige waters</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2577</ID><Nummer>27</Nummer><Titel>Wilde achtervolging</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2578</ID><Nummer>28</Nummer><Titel>Monstereffect</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2914</ID><Nummer>29</Nummer><Titel>Een neus voor gevaar</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3303</ID><Nummer>30</Nummer><Titel>Een zware dobber</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2</Id>
+  <Titel>TestReeks2</Titel>
+  <Kopen>false</Kopen>
+  <Strips>
+    <Strip>
+      <Id>7</Id>
+      <Nummer>-1</Nummer>
+      <Subnummer>A</Subnummer>
+      <Titel>TestReeks2StripA</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>2</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>6</Id>
+      <Nummer>-1</Nummer>
+      <Subnummer>B</Subnummer>
+      <Titel>TestReeks2StripB</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>2</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4294</Id>
+      <Nummer>-1</Nummer>
+      <Subnummer>C</Subnummer>
+      <Titel>TestReeks2StripC</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <ReeksId>2</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>TestReeks2Strip1</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>2</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>TestReeks2Strip2</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>2</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

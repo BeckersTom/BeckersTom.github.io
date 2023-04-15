@@ -1,1 +1,58 @@
-<Reeks><ID>239</ID><Titel>Androiden</Titel><Strip><ID>3031</ID><Nummer>1</Nummer><Titel>Heropstanding</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3032</ID><Nummer>2</Nummer><Titel>Gelukkig hij die als Odysseus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3034</ID><Nummer>3</Nummer><Titel>Invasie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3035</ID><Nummer>4</Nummer><Titel>De tranen van Kielko</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3201</ID><Nummer>5</Nummer><Titel>Synn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3202</ID><Nummer>6</Nummer><Titel>De deserteurs</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3203</ID><Nummer>7</Nummer><Titel>De laatste der engelen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3204</ID><Nummer>8</Nummer><Titel>Odissey</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3305</ID><Nummer>9</Nummer><Titel>De herder</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3368</ID><Nummer>10</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3369</ID><Nummer>11</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3370</ID><Nummer>12</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>239</Id>
+  <Titel>Witte Tijgerin</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4133</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In geheime dienst van de Grote Roerganger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>WitteTijgerin_1_4133.jpg</Afbeelding>
+      <ReeksId>239</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4134</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Perzikhuid en zijden das</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>WitteTijgerin_2_4134.jpg</Afbeelding>
+      <ReeksId>239</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4135</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kunst van het vijfde geluk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>WitteTijgerin_3_4135.jpg</Afbeelding>
+      <ReeksId>239</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4136</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een spionne op het dak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>WitteTijgerin_4_4136.jpg</Afbeelding>
+      <ReeksId>239</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4137</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het jaar van de feniks</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>WitteTijgerin_5_4137.jpg</Afbeelding>
+      <ReeksId>239</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

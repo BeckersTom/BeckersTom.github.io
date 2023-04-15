@@ -1,1 +1,38 @@
-<Reeks><ID>65</ID><Titel>Bruno Brazil</Titel><Strip><ID>1493</ID><Nummer>1</Nummer><Titel>De haai die tweemaal stierf</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1494</ID><Nummer>2</Nummer><Titel>Commando kaaiman</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1712</ID><Nummer>3</Nummer><Titel>Ogen zonder gelaat</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1713</ID><Nummer>4</Nummer><Titel>De versteende stad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1714</ID><Nummer>5</Nummer><Titel>De nacht der jakhalzen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1715</ID><Nummer>6</Nummer><Titel>Dodendans in Sacramento</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1716</ID><Nummer>7</Nummer><Titel>Kaaimannen in het rijstveld</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1717</ID><Nummer>8</Nummer><Titel>Storm op de Aleoeten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1718</ID><Nummer>9</Nummer><Titel>Quitte of dubbel voor Alak 6</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1719</ID><Nummer>10</Nummer><Titel>Dossier Bruno Brazil</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1720</ID><Nummer>11</Nummer><Titel>Het einde ...!??</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>65</Id>
+  <Titel>Cixi van Troy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1898</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van Cixi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>CixivanTroy_1_1898.jpg</Afbeelding>
+      <ReeksId>65</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1899</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van Cixi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>CixivanTroy_2_1899.jpg</Afbeelding>
+      <ReeksId>65</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1900</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van Cixi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>CixivanTroy_3_1900.jpg</Afbeelding>
+      <ReeksId>65</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,18 @@
-<Reeks><ID>105</ID><Titel>Kleine Wereld, De</Titel><Strip><ID>1957</ID><Nummer>1</Nummer><Titel>Vamos, vamos</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>105</Id>
+  <Titel>Incal, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2208</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Incal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Incal_0_2208.jpg</Afbeelding>
+      <ReeksId>105</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

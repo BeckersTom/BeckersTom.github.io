@@ -1,1 +1,158 @@
-<Reeks><ID>166</ID><Titel>Verre Werelden</Titel><Strip><ID>2366</ID><Nummer>1</Nummer><Titel>Episode 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2425</ID><Nummer>2</Nummer><Titel>Episode 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2426</ID><Nummer>3</Nummer><Titel>Episode 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2427</ID><Nummer>4</Nummer><Titel>Episode 4</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2618</ID><Nummer>5</Nummer><Titel>Episode 5</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>166</Id>
+  <Titel>Niklos Koda</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3109</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Achterin de berlines</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_1_3109.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3110</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De god van de jakhalzen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_2_3110.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3111</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Inch Allah</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_3_3111.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3112</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verdoemde walsen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_4_3112.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3113</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hali Mirvic</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_5_3113.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3114</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zwarte magie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_6_3114.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3115</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Witte magie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_7_3115.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3116</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spel van de meesters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_8_3116.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3117</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Arcane 16</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_9_3117.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3118</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Drie van zwaarden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>NiklosKoda_10_3118.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3119</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dans van de duivel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>NiklosKoda_11_3119.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3120</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oceaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>NiklosKoda_12_3120.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3121</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>No song</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>NiklosKoda_13_3121.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3122</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spiborg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>NiklosKoda_14_3122.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3123</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het laatste masker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>NiklosKoda_15_3123.jpg</Afbeelding>
+      <ReeksId>166</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

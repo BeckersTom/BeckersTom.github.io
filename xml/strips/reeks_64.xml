@@ -1,1 +1,18 @@
-<Reeks><ID>64</ID><Titel>Aldebaran</Titel><Strip><ID>1490</ID><Nummer>1</Nummer><Titel>De ramp</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1491</ID><Nummer>2</Nummer><Titel>De blonde vrouw</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1492</ID><Nummer>3</Nummer><Titel>De foto</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1683</ID><Nummer>4</Nummer><Titel>De groep</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1684</ID><Nummer>5</Nummer><Titel>Het wezen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>64</Id>
+  <Titel>Chninkel, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1897</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Integraal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chninkel_1_1897.jpg</Afbeelding>
+      <ReeksId>64</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

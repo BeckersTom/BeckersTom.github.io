@@ -1,1 +1,48 @@
-<Reeks><ID>172</ID><Titel>Philip en Francis, De avonturen van</Titel><Strip><ID>2403</ID><Nummer>1</Nummer><Titel>Schaduw over het Britse Rijk</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2404</ID><Nummer>2</Nummer><Titel>De duivelse valstrik</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2758</ID><Nummer>3</Nummer><Titel>S.O.S. Meteorologen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>172</Id>
+  <Titel>Onnoembaren, De (Integraal)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3155</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Nul-cyclus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>OnnoembarenIntegraal_1_3155.jpg</Afbeelding>
+      <ReeksId>172</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3156</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Hong-Kong-cyclus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>OnnoembarenIntegraal_2_3156.jpg</Afbeelding>
+      <ReeksId>172</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3157</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Korea-cyclus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>OnnoembarenIntegraal_3_3157.jpg</Afbeelding>
+      <ReeksId>172</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3158</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De USA-cyclus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>OnnoembarenIntegraal_4_3158.jpg</Afbeelding>
+      <ReeksId>172</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

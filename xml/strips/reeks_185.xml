@@ -1,1 +1,38 @@
-<Reeks><ID>185</ID><Titel>Isabel</Titel><Strip><ID>2520</ID><Nummer>1</Nummer><Titel>Het betoverde schilderij</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2521</ID><Nummer>2</Nummer><Titel>Isabel en de kapitein</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2522</ID><Nummer>3</Nummer><Titel>De hekserij van oom Hermes</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2523</ID><Nummer>4</Nummer><Titel>De ceintuur van Cassiopeia</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2524</ID><Nummer>5</Nummer><Titel>Een rijk van tien morgen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2525</ID><Nummer>6</Nummer><Titel>De behekste vijver</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2526</ID><Nummer>7</Nummer><Titel>Het orakel van Delft</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2527</ID><Nummer>8</Nummer><Titel>Bolle maan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2528</ID><Nummer>9</Nummer><Titel>De tol van het jammerdal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2529</ID><Nummer>10</Nummer><Titel>De betovering van Waterland</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2530</ID><Nummer>11</Nummer><Titel>De grote bonbon</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2531</ID><Nummer>12</Nummer><Titel>De vijf volken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>185</Id>
+  <Titel>Poison Ivy, De heldendaden van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3345</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloem van de bayou</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PoisonIvyheldendadenvan_1_3345.jpg</Afbeelding>
+      <ReeksId>185</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3346</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vliegende tijgerinnen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PoisonIvyheldendadenvan_2_3346.jpg</Afbeelding>
+      <ReeksId>185</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3347</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mazzel in Bir Hakeim</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PoisonIvyheldendadenvan_3_3347.jpg</Afbeelding>
+      <ReeksId>185</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

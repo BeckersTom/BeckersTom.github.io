@@ -28,21 +28,27 @@ function insertXMLData() {
        var reeksenheader = document.createElement("h2");
        reeksenheader.appendChild(reeks_titel);
        div.appendChild(reeksenheader);
-       var strips = getChildrenByTagName(reeksen[i],"Strip");
+	   var striplist = getChildrenByTagName(reeksen[i],"Strips");
+       var strips = getChildrenByTagName(striplist[0],"Strip");
 	   var table = document.createElement("table");
        for (var j = 0; j < strips.length; j++) {         
           var tr = document.createElement("tr");
-		  var nummer = document.createTextNode(getElementTextNS("", "Nummer", strips[j], 0));
 		  var td_nummer = document.createElement("td");
+		  var nummer = getElementTextNS("", "Nummer", strips[j], 0);
+		  if (nummer == "0")
+		  {
+			  nummer = getElementTextNS("", "Subnummer", strips[j], 0);
+		  }
+		  
 		  td_nummer.setAttribute("class","stripnumber");
-		  td_nummer.appendChild(nummer);
+		  td_nummer.appendChild(document.createTextNode(nummer));
 		  var titel  = document.createTextNode(getElementTextNS("", "Titel", strips[j], 0));
 		  var td_titel = document.createElement("td");
 		  td_titel.appendChild(titel);
 		  var aanwezig = getElementTextNS("", "Aanwezig", strips[j], 0);
 		  var td_aanwezig = document.createElement("td");
 		  td_aanwezig.setAttribute("class","boolean");
-		  if (aanwezig == 1) {
+		  if (aanwezig == "true") {
 		    var img_green = document.createElement('img'); 
 			img_green.src = 'images/green.png';
 			img_green.alt = 'x';
@@ -58,7 +64,7 @@ function insertXMLData() {
 		  var gelezen = getElementTextNS("", "Gelezen", strips[j], 0);
 		  var td_gelezen = document.createElement("td");
 		  td_gelezen.setAttribute("class","boolean");
-		  if (gelezen == 1) {
+		  if (gelezen == "true") {
 		    var img_green = document.createElement('img'); 
 			img_green.src = 'images/green.png';
 			img_green.alt = 'x';
@@ -71,7 +77,7 @@ function insertXMLData() {
 			img_red.setAttribute("class","boolean");
 			td_gelezen.appendChild(img_red);
 		  }
-		  var id = document.createTextNode(getElementTextNS("", "ID", strips[j], 0));
+		  var id = document.createTextNode(getElementTextNS("", "Id", strips[j], 0));
 		  var td_id = document.createElement("td");
 		  td_id.setAttribute("class","stripid");
 		  td_id.appendChild(id);

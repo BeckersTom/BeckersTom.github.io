@@ -1,1 +1,338 @@
-<Reeks><ID>180</ID><Titel>Incal, De</Titel><Strip><ID>2501</ID><Nummer>0</Nummer><Titel>De Incal</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>180</Id>
+  <Titel>Papyrus</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3252</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verdwenen mummie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_1_3252.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3253</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De heer van de 3 deuren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_2_3253.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3254</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gigant zonder gezicht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_3_3254.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3255</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het faraograf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_4_3255.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3256</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De witte Egyptenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_5_3256.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3257</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 4 vingers van de maangod</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_6_3257.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3258</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wraak van Ramses</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_7_3258.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3259</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De metamorfose van Imhotep</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_8_3259.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3260</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tranen van de reus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_9_3260.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3261</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte piramide</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_10_3261.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3262</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verdoemde farao</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_11_3262.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3263</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De obelisk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_12_3263.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3264</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het labyrint</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_13_3264.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3265</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het cyclopeneiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_14_3265.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3266</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het kind van de tempel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_15_3266.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3267</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De heer der krokodillen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_16_3267.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3268</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Toetanchamon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_17_3268.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3269</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het oog van Re</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_18_3269.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3270</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De moorddadige mummies</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_19_3270.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3271</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De toorn van de Grote Sfinx</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_20_3271.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3272</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De talisman uit de grote piramide</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_21_3272.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3273</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gevangene van Sekhmet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_22_3273.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3274</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Odyssee van Papyrus I : Het paard van Troje</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_23_3274.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3275</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Odyssee van Papyrus II : De purperen hand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_24_3275.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3276</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Odyssee van Papyrus III : De gekke farao</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_25_3276.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3277</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het masker van Horus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_26_3277.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3278</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De toorn der goden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_27_3278.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3279</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kinderen van Isis</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Papyrus_28_3279.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3280</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het eiland van de dode koningin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_29_3280.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3281</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het orakel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Papyrus_30_3281.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3282</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het goud van de farao</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Papyrus_31_3282.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3283</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stier van Montoe</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Papyrus_32_3283.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3284</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Farao Papyrus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Papyrus_33_3284.jpg</Afbeelding>
+      <ReeksId>180</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

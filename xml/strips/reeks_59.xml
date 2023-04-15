@@ -1,1 +1,138 @@
-<Reeks><ID>59</ID><Titel>Apocalypse Mania</Titel><Strip><ID>1426</ID><Nummer>1</Nummer><Titel>De kleuren van het spectrum</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1427</ID><Nummer>2</Nummer><Titel>Experiment IV</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1428</ID><Nummer>3</Nummer><Titel>Global underground</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1519</ID><Nummer>4</Nummer><Titel>Trance Fusion</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1816</ID><Nummer>5</Nummer><Titel>Cosmose</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>59</Id>
+  <Titel>Charly</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1804</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Duivels speelgoed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Charly_1_1804.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1805</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het verloren eiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Charly_2_1805.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1806</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dreigende bliksem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Charly_3_1806.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1807</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De valstrik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Charly_4_1807.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1808</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nachtmerries</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_5_1808.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1809</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De moordenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_6_1809.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1810</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De onschuld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_7_1810.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1811</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vuurogen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_8_1811.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1812</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Berichten uit vervlogen tijden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_9_1812.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1813</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Engel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_10_1813.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1814</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een eeuwig leven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_11_1814.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1815</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moordenaar!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_12_1815.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1816</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een hel op aarde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Charly_13_1816.jpg</Afbeelding>
+      <ReeksId>59</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

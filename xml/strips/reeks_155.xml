@@ -1,1 +1,98 @@
-<Reeks><ID>155</ID><Titel>Charly</Titel><Strip><ID>2295</ID><Nummer>1</Nummer><Titel>Duivels speelgoed</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2296</ID><Nummer>2</Nummer><Titel>Het verloren eiland</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2297</ID><Nummer>3</Nummer><Titel>Dreigende bliksem</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2298</ID><Nummer>4</Nummer><Titel>De valstrik</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2299</ID><Nummer>5</Nummer><Titel>Nachtmerries</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2300</ID><Nummer>6</Nummer><Titel>De moordenaar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2301</ID><Nummer>7</Nummer><Titel>De onschuld</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2302</ID><Nummer>8</Nummer><Titel>Vuurogen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2303</ID><Nummer>9</Nummer><Titel>Berichten uit vervlogen tijden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2304</ID><Nummer>10</Nummer><Titel>Engel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2305</ID><Nummer>11</Nummer><Titel>Een eeuwig leven</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2306</ID><Nummer>12</Nummer><Titel>Moordenaar!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2307</ID><Nummer>13</Nummer><Titel>Een hel op aarde</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>155</Id>
+  <Titel>Moréa</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2810</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het bloed van engelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_1_2810.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2811</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wervels van de draak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_2_2811.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2812</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vuur van de tijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_3_2812.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2813</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het parfum van de eeuwigheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_4_2813.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2814</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het litteken van het duister</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_5_2814.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2815</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dood in het bloed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_6_2815.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2816</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De toorn der engelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_7_2816.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2817</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het ultimatum van de engelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_8_2817.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4343</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bittere plicht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morea_9_4343.jpg</Afbeelding>
+      <ReeksId>155</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

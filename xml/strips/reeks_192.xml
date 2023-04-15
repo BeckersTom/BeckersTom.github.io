@@ -1,1 +1,18 @@
-<Reeks><ID>192</ID><Titel>Pandemonium</Titel><Strip><ID>2562</ID><Nummer>1</Nummer><Titel>Sanatorium</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2563</ID><Nummer>2</Nummer><Titel>De tunnel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2564</ID><Nummer>3</Nummer><Titel>Witte dood</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>192</Id>
+  <Titel>Retroworld</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3412</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Integraal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Retroworld_1_3412.jpg</Afbeelding>
+      <ReeksId>192</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

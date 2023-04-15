@@ -1,1 +1,48 @@
-<Reeks><ID>188</ID><Titel>Agency Interpol</Titel><Strip><ID>2551</ID><Nummer>1</Nummer><Titel>Mexico - La Muerte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2552</ID><Nummer>2</Nummer><Titel>Stockholm - De grootmeester van de orde</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2553</ID><Nummer>3</Nummer><Titel>Rome - Purple cats</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>188</Id>
+  <Titel>Professor Bell</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3360</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Mexicaan met de twee hoofden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ProfessorBell_1_3360.jpg</Afbeelding>
+      <ReeksId>188</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3361</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De poppen van Jeruzalem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ProfessorBell_2_3361.jpg</Afbeelding>
+      <ReeksId>188</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3362</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vrachschip van de apenkoning</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ProfessorBell_3_3362.jpg</Afbeelding>
+      <ReeksId>188</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3363</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Promenade des Anglaises</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ProfessorBell_4_3363.jpg</Afbeelding>
+      <ReeksId>188</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

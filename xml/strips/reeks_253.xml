@@ -1,1 +1,38 @@
-<Reeks><ID>253</ID><Titel>Buck Danny Kortverhalen</Titel><Strip><ID>3268</ID><Nummer>1</Nummer><Titel>1946 - 1969</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3269</ID><Nummer>2</Nummer><Titel>1969 - 2020</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>253</Id>
+  <Titel>Zentak</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4270</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het pad van de Ardonauten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zentak_1_4270.jpg</Afbeelding>
+      <ReeksId>253</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4271</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blauwe rotsen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zentak_2_4271.jpg</Afbeelding>
+      <ReeksId>253</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4272</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Digital Nation</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zentak_3_4272.jpg</Afbeelding>
+      <ReeksId>253</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

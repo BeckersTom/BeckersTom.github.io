@@ -1,1 +1,233 @@
-<Reeks><ID>123</ID><Titel>Docteur Mystère</Titel><Strip><ID>2037</ID><Nummer>1</Nummer><Titel>Milanese mysteries</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2038</ID><Nummer>2</Nummer><Titel>De oorlog der werelden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>123</Id>
+  <Titel>Konvooi</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2413</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verzamelaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_0_2413.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2414</Id>
+      <Nummer>0</Nummer>
+      <Subnummer>S1</Subnummer>
+      <Titel>1000 Nävis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_0_S1_2414.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2415</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In vuur en vlam</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_1_2415.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2416</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De privé-verzameling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_2_2416.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2417</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het raderwerk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_3_2417.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2418</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het symbool van de demonen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_4_2418.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2419</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_5_2419.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2420</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>List en bedrog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_6_2420.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2421</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Q.H.I.</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_7_2421.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2422</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De menselijke natuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_8_2422.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2423</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Infiltraties</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_9_2423.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2424</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Terugslag</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_10_2424.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2425</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwevende wereld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_11_2425.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2426</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vrije zone</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_12_2426.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2427</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In gecontroleerde slip</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_13_2427.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2428</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opruiming!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_14_2428.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2429</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De privéjacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_15_2429.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2430</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloedbanden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_16_2430.jpg</Afbeelding>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2431</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bittere kou</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2432</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2433</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2434</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4333</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

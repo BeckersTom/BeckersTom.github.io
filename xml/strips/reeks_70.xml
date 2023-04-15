@@ -1,1 +1,68 @@
-<Reeks><ID>70</ID><Titel>Geverniste vernepelingskes, De</Titel><Strip><ID>1515</ID><Nummer>1</Nummer><Titel>De geverniste vernepelingskes 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1516</ID><Nummer>2</Nummer><Titel>De geverniste vernepelingskes 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1866</ID><Nummer>3</Nummer><Titel>De geverniste vernepelingskes 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2019</ID><Nummer>4</Nummer><Titel>De geverniste vernepelingskes 4</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2187</ID><Nummer>5</Nummer><Titel>De geverniste vernepelingskes 5</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2554</ID><Nummer>6</Nummer><Titel>De geverniste vernepelingskes 6</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2555</ID><Nummer>7</Nummer><Titel>De geverniste vernepelingskes 7</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>70</Id>
+  <Titel>Cyclus van Cyann, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1919</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De brOn en de sOnde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_1_1919.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1920</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zes seizoenen op IlO</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_2_1920.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1921</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aïeïa van Aldaal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_3_1921.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1922</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kleuren van Marcade</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_4_1922.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1923</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gangen van de tussentijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_5_1923.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1924</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zoete dageraad van Aldalarann</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CyclusvanCyann_6_1924.jpg</Afbeelding>
+      <ReeksId>70</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

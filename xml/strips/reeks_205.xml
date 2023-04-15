@@ -1,1 +1,38 @@
-<Reeks><ID>205</ID><Titel>I.R.$. Team</Titel><Strip><ID>2687</ID><Nummer>1</Nummer><Titel>Football connection</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2688</ID><Nummer>2</Nummer><Titel>Wags</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3053</ID><Nummer>3</Nummer><Titel>Goal Business</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3054</ID><Nummer>4</Nummer><Titel>Het laatste schot</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>205</Id>
+  <Titel>SinBad</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3805</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De krater van Alexandrië</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>SinBad_1_3805.jpg</Afbeelding>
+      <ReeksId>205</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3806</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De klauwen van de djinn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>SinBad_2_3806.jpg</Afbeelding>
+      <ReeksId>205</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3807</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het duister van de harem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>SinBad_3_3807.jpg</Afbeelding>
+      <ReeksId>205</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

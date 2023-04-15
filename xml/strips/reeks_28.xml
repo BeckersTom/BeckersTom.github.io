@@ -1,1 +1,68 @@
-<Reeks><ID>28</ID><Titel>Kuifje</Titel><Strip><ID>3351</ID><Nummer>0</Nummer><Titel>Kuifje en de alfa kunst</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>579</ID><Nummer>1</Nummer><Titel>Kuifje in Afrika</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>580</ID><Nummer>2</Nummer><Titel>Kuifje in Amerika</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>581</ID><Nummer>3</Nummer><Titel>De sigaren van de farao</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>582</ID><Nummer>4</Nummer><Titel>De blauwe lotus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>583</ID><Nummer>5</Nummer><Titel>Het gebroken oor</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>584</ID><Nummer>6</Nummer><Titel>De zwarte rotsen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>585</ID><Nummer>7</Nummer><Titel>De scepter van Ottokar</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>586</ID><Nummer>8</Nummer><Titel>De krab met de gulden scharen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>587</ID><Nummer>9</Nummer><Titel>De geheimzinnige ster</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>588</ID><Nummer>10</Nummer><Titel>Het geheim van de eenhoorn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>589</ID><Nummer>11</Nummer><Titel>De schat van Scharlaken Rackham</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>590</ID><Nummer>12</Nummer><Titel>De 7 kristallen bollen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>591</ID><Nummer>13</Nummer><Titel>De zonnetempel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>592</ID><Nummer>14</Nummer><Titel>Kuifje en het zwarte goud</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>593</ID><Nummer>15</Nummer><Titel>Raket naar de maan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>594</ID><Nummer>16</Nummer><Titel>Mannen op de maan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>595</ID><Nummer>17</Nummer><Titel>De zaak Zonnebloem</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>596</ID><Nummer>18</Nummer><Titel>Cokes in voorraad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>597</ID><Nummer>19</Nummer><Titel>Kuifje in Tibet</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>598</ID><Nummer>20</Nummer><Titel>De Juwelen van Bianca Catafiore</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>599</ID><Nummer>21</Nummer><Titel>Vlucht 714</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>600</ID><Nummer>22</Nummer><Titel>Kuifje en de picaro's</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>28</Id>
+  <Titel>Amoras</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1289</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Suske</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_1_1289.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1290</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Jérusalem</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_2_1290.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1291</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Krimson</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_3_1291.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1292</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lambik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_4_1292.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1293</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wiske</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_5_1293.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1294</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Barabas</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Amoras_6_1294.jpg</Afbeelding>
+      <ReeksId>28</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

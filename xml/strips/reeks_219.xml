@@ -1,1 +1,65 @@
-<Reeks><ID>219</ID><Titel>Enorme angst</Titel><Strip><ID>2831</ID><Nummer>1</Nummer><Titel>Opstand der oceanen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2832</ID><Nummer>2</Nummer><Titel>De vijand uit de diepte</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2838</ID><Nummer>3</Nummer><Titel>Operatie diepe kloof</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>219</Id>
+  <Titel>Territorium</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3917</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Necropsie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Territorium_1_3917.jpg</Afbeelding>
+      <ReeksId>219</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3918</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hypnose</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Territorium_2_3918.jpg</Afbeelding>
+      <ReeksId>219</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3919</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verdwijning</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Territorium_3_3919.jpg</Afbeelding>
+      <ReeksId>219</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3920</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>219</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3921</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>219</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3922</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>219</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

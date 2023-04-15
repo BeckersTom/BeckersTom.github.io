@@ -1,1 +1,138 @@
-<Reeks><ID>246</ID><Titel>Mini-Mensjes, De (Integraal)</Titel><Strip><ID>3145</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3146</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3147</ID><Nummer>3</Nummer><Titel>Deel 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3148</ID><Nummer>4</Nummer><Titel>Deel 4</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3149</ID><Nummer>5</Nummer><Titel>Deel 5</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3150</ID><Nummer>6</Nummer><Titel>Deel 6</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3151</ID><Nummer>7</Nummer><Titel>Deel 7</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3152</ID><Nummer>8</Nummer><Titel>Deel 8</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3153</ID><Nummer>9</Nummer><Titel>Deel 9</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3343</ID><Nummer>10</Nummer><Titel>Deel 10</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>246</Id>
+  <Titel>XIII Mystery</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4185</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mangoest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_1_4185.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4186</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Irina</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_2_4186.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4187</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Little Jones</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_3_4187.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4188</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kolonel Amos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_4_4188.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4189</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Steve Rowland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_5_4189.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4190</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Billy Stockton</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_6_4190.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4191</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Betty Barnowski</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_7_4191.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4192</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Martha Shoebridge</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_8_4192.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4193</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel> Felicity Brown</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_9_4193.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4194</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Calvin Wax</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_10_4194.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4195</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel> Jonathan Fly</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_11_4195.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4196</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alan Smith</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_12_4196.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4197</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Judith Warner</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_13_4197.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

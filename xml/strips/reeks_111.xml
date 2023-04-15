@@ -1,1 +1,58 @@
-<Reeks><ID>111</ID><Titel>Nieuwe ijstijd, De</Titel><Strip><ID>1973</ID><Nummer>1</Nummer><Titel>Lien Rag</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1974</ID><Nummer>2</Nummer><Titel>Floa Sadon</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1975</ID><Nummer>3</Nummer><Titel>Kurts</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1976</ID><Nummer>4</Nummer><Titel>Broeder Petrus</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1977</ID><Nummer>5</Nummer><Titel>Jdrou</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1978</ID><Nummer>6</Nummer><Titel>Yeuse</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1979</ID><Nummer>7</Nummer><Titel>Pietr</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>111</Id>
+  <Titel>J.Rom Force of gold</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2236</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JRomForceofgold_1_2236.jpg</Afbeelding>
+      <ReeksId>111</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2237</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Helder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JRomForceofgold_2_2237.jpg</Afbeelding>
+      <ReeksId>111</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2238</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verblind</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JRomForceofgold_3_2238.jpg</Afbeelding>
+      <ReeksId>111</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2239</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloedmaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JRomForceofgold_4_2239.jpg</Afbeelding>
+      <ReeksId>111</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2240</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rode sneeuw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JRomForceofgold_5_2240.jpg</Afbeelding>
+      <ReeksId>111</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

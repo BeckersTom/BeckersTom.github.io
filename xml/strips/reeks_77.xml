@@ -1,1 +1,118 @@
-<Reeks><ID>77</ID><Titel>Wordt vervolgd romans</Titel><Strip><ID>1544</ID><Nummer>1</Nummer><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1545</ID><Nummer>2</Nummer><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1546</ID><Nummer>3</Nummer><Titel>Sluiers over de Pont de Tolbiac</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>77</Id>
+  <Titel>Ekhö, de spiegelwereld</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1960</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>New York</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_1_1960.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1961</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paris Empire</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_2_1961.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1962</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hollywood Boulevard</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_3_1962.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1963</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Barcelona</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_4_1963.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1964</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de Preshaunen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_5_1964.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1965</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deep South</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_6_1965.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1966</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Swinging London</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_7_1966.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1967</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sirene van Manhattan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_8_1967.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1968</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Abidjan-Nairobi express</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_9_1968.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1969</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een spook in Peking</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_10_1969.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4322</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hot tabaaasco!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_11_4322.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

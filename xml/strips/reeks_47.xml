@@ -1,1 +1,477 @@
-<Reeks><ID>47</ID><Titel>Yoko Tsuno</Titel><Strip><ID>1526</ID><Nummer>0</Nummer><Titel>De parel van de dageraad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1227</ID><Nummer>1</Nummer><Titel>Trio in het onbekende</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1228</ID><Nummer>2</Nummer><Titel>Het helse orgel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1229</ID><Nummer>3</Nummer><Titel>Vulcanus' smidse</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1230</ID><Nummer>4</Nummer><Titel>Avonturen met elektronika</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1231</ID><Nummer>5</Nummer><Titel>Seinen voor de eeuwigheid</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1232</ID><Nummer>6</Nummer><Titel>De 3 zonnen van Vinea</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1233</ID><Nummer>7</Nummer><Titel>De grens van het leven</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1234</ID><Nummer>8</Nummer><Titel>De titanen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1235</ID><Nummer>9</Nummer><Titel>De dochter van de wind</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1236</ID><Nummer>10</Nummer><Titel>Het licht van Ixo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1237</ID><Nummer>11</Nummer><Titel>De tijdspiraal</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1238</ID><Nummer>12</Nummer><Titel>Prooi en schaduw</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1239</ID><Nummer>13</Nummer><Titel>De aartsengelen van Vinea</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1240</ID><Nummer>14</Nummer><Titel>De bliksem van Wodan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1241</ID><Nummer>15</Nummer><Titel>Het kanon van Kra</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1242</ID><Nummer>16</Nummer><Titel>De draak van Hong Kong</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1243</ID><Nummer>17</Nummer><Titel>De danseres van Bali</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1244</ID><Nummer>18</Nummer><Titel>De bannelingen van Kifa</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1245</ID><Nummer>19</Nummer><Titel>De Rheingold-express</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1246</ID><Nummer>20</Nummer><Titel>De astroloog van Brugge</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1247</ID><Nummer>21</Nummer><Titel>De poort van de zielen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1248</ID><Nummer>22</Nummer><Titel>De hemelse jonk</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1815</ID><Nummer>23</Nummer><Titel>De pagode der nevelen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1933</ID><Nummer>24</Nummer><Titel>De zevende code</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2356</ID><Nummer>25</Nummer><Titel>De dienares van Lucifer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2571</ID><Nummer>26</Nummer><Titel>De vloek van de amethist</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2782</ID><Nummer>27</Nummer><Titel>Khany's geheim</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3010</ID><Nummer>28</Nummer><Titel>De tempel der onsterfelijken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3199</ID><Nummer>29</Nummer><Titel>Engeltjes en valken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3300</ID><Nummer>30</Nummer><Titel>De tweeling van Saturnus</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>47</Id>
+  <Titel>Bob Morane (uitg. Lombard)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1630</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De reuzen van Mu</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_1_1630.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1631</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Noodlanding te Serado</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_2_1631.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1632</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zeven loden kruisen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_3_1632.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1633</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Toverkunsten van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_4_1633.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1634</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tempel der dinosaurussen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_5_1634.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1635</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rijk van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_6_1635.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1636</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de greep van de pad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_7_1636.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1637</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De keizer van Macao</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_8_1637.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1638</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie wolf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_9_1638.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1639</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het schrikcommando</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_10_1639.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1640</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De krijgers van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_11_1640.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1641</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schotel secret service</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_12_1641.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1642</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De president zal niet sterven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_13_1642.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1643</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dinosaurusjagers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_14_1643.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1644</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een roos voor de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_15_1644.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1645</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oorlog der walvissen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_16_1645.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1646</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mamantu ontwaakt</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_17_1646.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1647</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mieren van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_18_1647.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1648</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De draak van de Fenstones</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_19_1648.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1649</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gijzelaar van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_20_1649.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1650</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Snake</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_21_1650.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1651</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijger van de lagunes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_22_1651.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1652</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De krokodillentempel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_23_1652.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1653</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het jaden masker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_24_1653.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1654</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Drie kleine aapjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_25_1654.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1655</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De jade van Seoul</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_26_1655.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1656</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stad der dromen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_27_1656.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1657</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De boom van Eden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_28_1657.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1658</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een geur van Ylang-Ylang</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_29_1658.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1659</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alias M.D.O.</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_30_1659.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1660</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ring van Salomo</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_31_1660.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1661</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het dal van de brontosaurussen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_32_1661.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1662</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wraak van de gele schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_33_1662.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1663</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gele schaduw gestraft</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_34_1663.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1664</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Yang = Yin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_35_1664.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1665</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De farao van Venetie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_36_1665.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1666</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het oog van de iguanodon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_37_1666.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1667</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De woestijnen van de Amazone</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_38_1667.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1668</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De panter van de hoogvlakten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_39_1668.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1669</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De exterminator</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_40_1669.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1670</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tranen van de zon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_41_1670.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1671</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oorlog in de Pacific is afgelast 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_42_1671.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1672</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oorlog in de Pacific is afgelast 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_43_1672.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1673</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oevers van de tijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_44_1673.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1674</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tanden van de tijger 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_45_1674.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1675</Id>
+      <Nummer>46</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tanden van de tijger 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BobMoraneuitgLombard_46_1675.jpg</Afbeelding>
+      <ReeksId>47</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1676</Id>
+      <Nummer>47</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>El matador</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>47</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,38 @@
-<Reeks><ID>191</ID><Titel>Carthago</Titel><Strip><ID>2560</ID><Nummer>1</Nummer><Titel>De lagune van Fortuna</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2561</ID><Nummer>2</Nummer><Titel>Challenger Deep</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2692</ID><Nummer>3</Nummer><Titel>Het monster van Djibouti</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2693</ID><Nummer>4</Nummer><Titel>De monolieten van Koubé</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3044</ID><Nummer>5</Nummer><Titel>De stad van Plato</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3045</ID><Nummer>6</Nummer><Titel>De erfgename van de Karpaten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3186</ID><Nummer>7</Nummer><Titel>De put van Kamtsjatka</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3242</ID><Nummer>8</Nummer><Titel>Leviathan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3243</ID><Nummer>9</Nummer><Titel>Het pact van de eeuweling</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3270</ID><Nummer>10</Nummer><Titel>De afgrond gluurt terug</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3271</ID><Nummer>11</Nummer><Titel>Kane</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3314</ID><Nummer>12</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>191</Id>
+  <Titel>Reign</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3409</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Day one</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Reign_1_3409.jpg</Afbeelding>
+      <ReeksId>191</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3410</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tweede kans</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Reign_2_3410.jpg</Afbeelding>
+      <ReeksId>191</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3411</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Derde eskader</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Reign_3_3411.jpg</Afbeelding>
+      <ReeksId>191</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,188 @@
-<Reeks><ID>251</ID><Titel>Conquests</Titel><Strip><ID>3207</ID><Nummer>1</Nummer><Titel>Islandia</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3208</ID><Nummer>2</Nummer><Titel>Deluvenn</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3209</ID><Nummer>3</Nummer><Titel>Decornum</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3210</ID><Nummer>4</Nummer><Titel>Uranie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3211</ID><Nummer>5</Nummer><Titel>Enorus</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3316</ID><Nummer>6</Nummer><Titel>Adonaï</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3381</ID><Nummer>7</Nummer><Titel>Tanami</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3382</ID><Nummer>8</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3383</ID><Nummer>9</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>251</Id>
+  <Titel>Zang van de Vampiers, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4251</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schaduwen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_1_4251.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4252</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Valstrikken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_2_4252.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4253</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Invloeden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_3_4253.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4254</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Experimenten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_4_4254.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4255</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sporen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_5_4255.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4256</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Levensvormen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZangvandeVampiers_6_4256.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4257</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ontmoetingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_7_4257.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4258</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Uitdagingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_8_4258.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4259</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Revelaties</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_9_4259.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4260</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Manipulaties</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_10_4260.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4261</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Cellen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_11_4261.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4262</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vallen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_12_4262.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4263</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nieuwe machten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_13_4263.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4264</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ontvoeringen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_14_4264.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4265</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hybriden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_15_4265.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4266</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Executies</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_16_4266.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4267</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Werkelijkheden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_17_4267.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4268</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mythes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ZangvandeVampiers_18_4268.jpg</Afbeelding>
+      <ReeksId>251</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

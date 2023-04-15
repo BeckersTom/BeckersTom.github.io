@@ -1,1 +1,38 @@
-<Reeks><ID>182</ID><Titel>Empire USA 2</Titel><Strip><ID>2508</ID><Nummer>1</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2509</ID><Nummer>2</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2510</ID><Nummer>3</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2511</ID><Nummer>4</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2512</ID><Nummer>5</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2513</ID><Nummer>6</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>182</Id>
+  <Titel>Philip en Francis, De avonturen van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3287</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schaduw over het Britse Rijk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PhilipenFrancisavonturenvan_1_3287.jpg</Afbeelding>
+      <ReeksId>182</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3288</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivelse valstrik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PhilipenFrancisavonturenvan_2_3288.jpg</Afbeelding>
+      <ReeksId>182</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3289</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>S.O.S. Meteorologen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PhilipenFrancisavonturenvan_3_3289.jpg</Afbeelding>
+      <ReeksId>182</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

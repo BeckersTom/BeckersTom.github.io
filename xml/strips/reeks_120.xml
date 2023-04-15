@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>120</Id>
+  <Titel>Kenya</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2402</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verschijningen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Kenya_1_2402.jpg</Afbeelding>
+      <ReeksId>120</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2403</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ontmoetingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Kenya_2_2403.jpg</Afbeelding>
+      <ReeksId>120</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2404</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hallucinaties</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Kenya_3_2404.jpg</Afbeelding>
+      <ReeksId>120</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2405</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Interventies</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Kenya_4_2405.jpg</Afbeelding>
+      <ReeksId>120</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2406</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Illusies</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Kenya_5_2406.jpg</Afbeelding>
+      <ReeksId>120</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

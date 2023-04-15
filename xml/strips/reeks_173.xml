@@ -1,1 +1,118 @@
-<Reeks><ID>173</ID><Titel>Oekaze</Titel><Strip><ID>2411</ID><Nummer>1</Nummer><Titel>Zwarte Storm</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2412</ID><Nummer>2</Nummer><Titel>Collateraal Verraad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2413</ID><Nummer>3</Nummer><Titel>Wapenbroeders</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2414</ID><Nummer>4</Nummer><Titel>De Lange Rokade</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>173</Id>
+  <Titel>Op zoek naar de tijdvogel</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3159</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hoorn van Ramor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_1_3159.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3160</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tempel der vergetelheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_2_3160.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3161</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De jager</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_3_3161.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3162</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het ei van de duisternis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_4_3162.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3163</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vriend Javin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_5_3163.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3164</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spreukenboek van de goden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_6_3164.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3165</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De weg van de Jager</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_7_3165.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3166</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ridder Bolster</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_8_3166.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3167</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De orde van het teken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_9_3167.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3168</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kryll</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_10_3168.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4348</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vruchtbare archipel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_11_4348.jpg</Afbeelding>
+      <ReeksId>173</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

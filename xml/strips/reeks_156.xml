@@ -1,1 +1,178 @@
-<Reeks><ID>156</ID><Titel>Wouden van Opaal, De</Titel><Strip><ID>2317</ID><Nummer>1</Nummer><Titel>De armband van Cohars</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2318</ID><Nummer>2</Nummer><Titel>Het toverboek van de ketter</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2319</ID><Nummer>3</Nummer><Titel>Het groene litteken</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2320</ID><Nummer>4</Nummer><Titel>De kerkers van Nenuuf</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2329</ID><Nummer>5</Nummer><Titel>De wortelstad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2338</ID><Nummer>6</Nummer><Titel>De betovering van de pontifex</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2467</ID><Nummer>7</Nummer><Titel>Tanden van steen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2704</ID><Nummer>8</Nummer><Titel>De horden van het duister</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2833</ID><Nummer>9</Nummer><Titel>Een zee van licht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3156</ID><Nummer>10</Nummer><Titel>Het lot van de jongleur</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3157</ID><Nummer>11</Nummer><Titel>De vergeten mythe</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3332</ID><Nummer>12</Nummer><Titel>De verborgen vonkel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3356</ID><Nummer>13</Nummer><Titel>De haven der dromen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>156</Id>
+  <Titel>Mr. Kweeniewa en geniale Olivier</Titel>
+  <Kopen>false</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2818</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dolle school</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_1_2818.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2819</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het genie en zijn generatie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_2_2819.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2820</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Genie, Vidi, Vici!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_3_2820.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2821</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gedwarsboomd, gul genie...</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_4_2821.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2822</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het genie gedijt goed!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_5_2822.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2823</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een ingenieus ingebnieur</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_6_2823.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2824</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verleden voor de klas</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_7_2824.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2825</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Elektronen, moleculen en huiswerk</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_8_2825.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2826</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Elektronen en Edelzonen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_9_2826.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2827</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een genietend genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_10_2827.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2828</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Geniale grappen en grollen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_11_2828.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2829</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>'n Vrijgevig genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_12_2829.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2830</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een genieperig genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_13_2830.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2831</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een geducht genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_14_2831.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2832</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Genie in Hi-Fi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_15_2832.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2833</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een goedlachs genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_16_2833.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2834</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Meervoudig genie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MrKweeniewaengenialeOlivier_17_2834.jpg</Afbeelding>
+      <ReeksId>156</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

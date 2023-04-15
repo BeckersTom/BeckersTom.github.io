@@ -1,1 +1,48 @@
-<Reeks><ID>169</ID><Titel>Overlevenden</Titel><Strip><ID>2384</ID><Nummer>1</Nummer><Titel>1e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2572</ID><Nummer>2</Nummer><Titel>2e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2743</ID><Nummer>3</Nummer><Titel>3e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2867</ID><Nummer>4</Nummer><Titel>4e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2868</ID><Nummer>5</Nummer><Titel>5e Episode</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>169</Id>
+  <Titel>Oekaze</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3129</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zwarte Storm</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Oekaze_1_3129.jpg</Afbeelding>
+      <ReeksId>169</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3130</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Collateraal Verraad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Oekaze_2_3130.jpg</Afbeelding>
+      <ReeksId>169</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3131</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wapenbroeders</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Oekaze_3_3131.jpg</Afbeelding>
+      <ReeksId>169</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3132</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Lange Rokade</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Oekaze_4_3132.jpg</Afbeelding>
+      <ReeksId>169</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

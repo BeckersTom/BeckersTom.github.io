@@ -1,1 +1,78 @@
-<Reeks><ID>100</ID><Titel>I.R.$.</Titel><Strip><ID>1934</ID><Nummer>1</Nummer><Titel>De mazen van de wet</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1935</ID><Nummer>2</Nummer><Titel>De Hagen-strategie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1937</ID><Nummer>3</Nummer><Titel>Blue Ice</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1938</ID><Nummer>4</Nummer><Titel>Narcocratie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1939</ID><Nummer>5</Nummer><Titel>Silicia Inc.</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1940</ID><Nummer>6</Nummer><Titel>De omkoper</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1941</ID><Nummer>7</Nummer><Titel>Corporate America</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2054</ID><Nummer>8</Nummer><Titel>De zwarte oorlog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2070</ID><Nummer>9</Nummer><Titel>Romeinse betrekkingen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2160</ID><Nummer>10</Nummer><Titel>De loge van de moordenaars</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2294</ID><Nummer>11</Nummer><Titel>Gloria</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2349</ID><Nummer>12</Nummer><Titel>In naam van de president</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2415</ID><Nummer>13</Nummer><Titel>Het Goud van Yamashita</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2557</ID><Nummer>14</Nummer><Titel>De overlevenden van Nanking</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2809</ID><Nummer>15</Nummer><Titel>De meerwaarde van de dood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2810</ID><Nummer>16</Nummer><Titel>Oorlog in optie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2963</ID><Nummer>17</Nummer><Titel>Larry's paradise</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3052</ID><Nummer>18</Nummer><Titel>Kate's hell</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3164</ID><Nummer>19</Nummer><Titel>De financiële meesters</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3277</ID><Nummer>20</Nummer><Titel>De beursdemonen</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3278</ID><Nummer>21</Nummer><Titel>De val van de engelen</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3385</ID><Nummer>22</Nummer><Titel>De heropstanding van de verdoemden</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3386</ID><Nummer>23</Nummer><Titel>Green Fraud</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>100</Id>
+  <Titel>I.R.$. All Watcher</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2175</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Antonia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRSAllWatcher_1_2175.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2176</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ongrijpbare Roxana</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRSAllWatcher_2_2176.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2177</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Petra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSAllWatcher_3_2177.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2178</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De MacParnellspiraal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSAllWatcher_4_2178.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2179</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mia Mai</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSAllWatcher_5_2179.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2180</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De financiele snaartheorie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSAllWatcher_6_2180.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2181</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het financiële zwarte gat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSAllWatcher_7_2181.jpg</Afbeelding>
+      <ReeksId>100</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,87 @@
-<Reeks><ID>221</ID><Titel>Koralovski</Titel><Strip><ID>2846</ID><Nummer>1</Nummer><Titel>De oligarch</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2847</ID><Nummer>2</Nummer><Titel>In de schaduw van de wereld</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2848</ID><Nummer>3</Nummer><Titel>Brandende horizons</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>221</Id>
+  <Titel>Tessa, intergalactische agente</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3926</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Siderische moordenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_1_3926.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3927</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tien platen van het labyrinth</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_2_3927.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3928</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zo mooi als een Diyo</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_3_3928.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3929</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Cosmolympiades</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_4_3929.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3930</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In het juweel...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_5_3930.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3931</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dageraad in Montreal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_6_3931.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3932</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De visioenen van Av-Eugg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Tessaintergalactischeagente_7_3932.jpg</Afbeelding>
+      <ReeksId>221</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3933</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>221</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

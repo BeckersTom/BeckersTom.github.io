@@ -1,1 +1,88 @@
-<Reeks><ID>227</ID><Titel>Aâma</Titel><Strip><ID>2946</ID><Nummer>1</Nummer><Titel>De geur van warm stof</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2947</ID><Nummer>2</Nummer><Titel>De onzichtbare menigte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2948</ID><Nummer>3</Nummer><Titel>De spiegelwoestijn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2949</ID><Nummer>4</Nummer><Titel>Je wordt fantastisch, meisje</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>227</Id>
+  <Titel>Tschaï - De waanzinnige planeet</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4062</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Chasch 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_1_4062.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4063</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Chasch 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_2_4063.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4064</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>	De Wankh 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_3_4064.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4065</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>	De Wankh 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_4_4065.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4066</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Dirdir 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_5_4066.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4067</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Dirdir 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_6_4067.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4068</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Pnume 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_7_4068.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4069</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Pnume 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TschaiDewaanzinnigeplaneet_8_4069.jpg</Afbeelding>
+      <ReeksId>227</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

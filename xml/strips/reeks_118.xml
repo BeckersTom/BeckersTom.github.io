@@ -1,1 +1,68 @@
-<Reeks><ID>118</ID><Titel>Gen Barrevoets in Hiroshima</Titel><Strip><ID>2000</ID><Nummer>1</Nummer><Titel>De bom</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2001</ID><Nummer>2</Nummer><Titel>De levende doden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2002</ID><Nummer>3</Nummer><Titel>Een nieuw bestaan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2003</ID><Nummer>4</Nummer><Titel>Uit de as herrezen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2004</ID><Nummer>5</Nummer><Titel>Oorlog zonder einde</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2005</ID><Nummer>6</Nummer><Titel>Niets dan de waarheid</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2006</ID><Nummer>7</Nummer><Titel>Tot stof vergaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2007</ID><Nummer>8</Nummer><Titel>Kooplui des doods</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2008</ID><Nummer>9</Nummer><Titel>Grenzen doorbreken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2009</ID><Nummer>10</Nummer><Titel>Nooit opgeven</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>118</Id>
+  <Titel>Karaat</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2352</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Uma</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_1_2352.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2353</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mira</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_2_2353.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2354</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diamant van Abraham</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_3_2354.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2355</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De put van de duisternis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_4_2355.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2356</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zingende wasrol</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_5_2356.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2357</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De doodskist van ijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Karaat_6_2357.jpg</Afbeelding>
+      <ReeksId>118</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

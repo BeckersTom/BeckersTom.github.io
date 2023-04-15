@@ -1,1 +1,28 @@
-<Reeks><ID>154</ID><Titel>Legenden van Troy</Titel><Strip><ID>2285</ID><Nummer>1</Nummer><Titel>Tykko: De windruiters</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2286</ID><Nummer>2</Nummer><Titel>Tykko: De verdronken stad</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2515</ID><Nummer>3</Nummer><Titel>Saffraannacht: Albumen de Onstoffelijke</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2408</ID><Nummer>4</Nummer><Titel>De Zoektocht van Alunys</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2516</ID><Nummer>5</Nummer><Titel>Reis naar de schaduwen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2538</ID><Nummer>6</Nummer><Titel>Saffraannacht: De wraak van Albumen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2727</ID><Nummer>7</Nummer><Titel>Het uur van de Gargouille</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2728</ID><Nummer>8</Nummer><Titel>Ploneïs de onzekere</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2729</ID><Nummer>9</Nummer><Titel>Tykko: De honderd tempels</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>154</Id>
+  <Titel>Moeder Rusland</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2808</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De amazones van Basajev</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MoederRusland_1_2808.jpg</Afbeelding>
+      <ReeksId>154</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2809</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duiven van Grozny</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MoederRusland_2_2809.jpg</Afbeelding>
+      <ReeksId>154</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

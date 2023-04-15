@@ -1,1 +1,68 @@
-<Reeks><ID>194</ID><Titel>Chimère(s) 1887</Titel><Strip><ID>2573</ID><Nummer>1</Nummer><Titel>De purperen parel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2574</ID><Nummer>2</Nummer><Titel>Scharlaken kant</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2943</ID><Nummer>3</Nummer><Titel>De furie van Saint-Lazaire</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2944</ID><Nummer>4</Nummer><Titel>Bloedband</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3048</ID><Nummer>5</Nummer><Titel>Vriend Oscar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3273</ID><Nummer>6</Nummer><Titel>Sterrennacht</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>194</Id>
+  <Titel>Rik Ringers, De nieuwe avonturen van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3491</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>R.I.P., Rik!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_1_3491.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3492</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moord in de Jardin du Luxembourg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_2_3492.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3493</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De perfecte moord</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_3_3493.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3494</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gesneuveld voor Frankrijk</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_4_3494.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4350</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Commissaris Griot</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_5_4350.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4351</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tiercé van de dood</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_6_4351.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

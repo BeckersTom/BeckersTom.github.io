@@ -1,1 +1,238 @@
-<Reeks><ID>99</ID><Titel>Witte Tijgerin</Titel><Strip><ID>1916</ID><Nummer>1</Nummer><Titel>In geheime dienst van de Grote Roerganger</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1931</ID><Nummer>2</Nummer><Titel>Perzikhuid en zijden das</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2072</ID><Nummer>3</Nummer><Titel>De kunst van het vijfde geluk</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2140</ID><Nummer>4</Nummer><Titel>Een spionne op het dak</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2168</ID><Nummer>5</Nummer><Titel>Het jaar van de feniks</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>99</Id>
+  <Titel>I.R.$.</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2154</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mazen van de wet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_1_2154.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2155</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Hagen-strategie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_2_2155.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2156</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Blue Ice</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_3_2156.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2157</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Narcocratie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_4_2157.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2158</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Silicia Inc.</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_5_2158.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2159</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De omkoper</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_6_2159.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2160</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Corporate America</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IRS_7_2160.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2161</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte oorlog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_8_2161.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2162</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Romeinse betrekkingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_9_2162.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2163</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De loge van de moordenaars</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_10_2163.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2164</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gloria</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_11_2164.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2165</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In naam van de president</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_12_2165.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2166</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Goud van Yamashita</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_13_2166.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2167</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De overlevenden van Nanking</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_14_2167.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2168</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De meerwaarde van de dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_15_2168.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2169</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oorlog in optie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_16_2169.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2170</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Larry's paradise</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_17_2170.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2171</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kate's hell</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_18_2171.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2172</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De financiële meesters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_19_2172.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2173</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De beursdemonen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_20_2173.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2174</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De val van de engelen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_21_2174.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4326</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De heropstanding van de verdoemden</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_22_4326.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4327</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Green Fraud</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_23_4327.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

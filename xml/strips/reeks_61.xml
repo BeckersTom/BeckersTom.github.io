@@ -1,1 +1,68 @@
-<Reeks><ID>61</ID><Titel>Rubine</Titel><Strip><ID>1438</ID><Nummer>1</Nummer><Titel>Het verstoorde geheugen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1439</ID><Nummer>2</Nummer><Titel>Uitzicht op straat</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1440</ID><Nummer>3</Nummer><Titel>De tweede getuige</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1441</ID><Nummer>4</Nummer><Titel>Serial killer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1442</ID><Nummer>5</Nummer><Titel>Vedwenen op Halloween</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1443</ID><Nummer>6</Nummer><Titel>America</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1444</ID><Nummer>7</Nummer><Titel>Werkvakantie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1445</ID><Nummer>8</Nummer><Titel>96 Uur</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1838</ID><Nummer>9</Nummer><Titel>Modelstad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2015</ID><Nummer>10</Nummer><Titel>Zwarte reeks</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2227</ID><Nummer>11</Nummer><Titel>Klassenfoto</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2324</ID><Nummer>12</Nummer><Titel>Lake Wakanala</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2380</ID><Nummer>13</Nummer><Titel>De kwetsbare erfgenaam</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3401</ID><Nummer>14</Nummer><Titel>Serial lover</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>61</Id>
+  <Titel>Chimère(s) 1887</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1884</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De purperen parel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_1_1884.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1885</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Scharlaken kant</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_2_1885.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1886</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De furie van Saint-Lazaire</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_3_1886.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1887</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloedband</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_4_1887.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1888</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vriend Oscar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_5_1888.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1889</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sterrennacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Chimeres1887_6_1889.jpg</Afbeelding>
+      <ReeksId>61</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

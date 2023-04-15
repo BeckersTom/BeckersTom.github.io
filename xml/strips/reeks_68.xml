@@ -1,1 +1,97 @@
-<Reeks><ID>68</ID><Titel>Mick Mac Adam (vzw Arcadia)</Titel><Strip><ID>1605</ID><Nummer>1</Nummer><Titel>De veerman van de dood</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1606</ID><Nummer>2</Nummer><Titel>De tiran van Midnight Cross</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1607</ID><Nummer>3</Nummer><Titel>Ivoren handen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1510</ID><Nummer>4</Nummer><Titel>Het leprozenbos</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1511</ID><Nummer>5</Nummer><Titel>Diableros</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1512</ID><Nummer>6</Nummer><Titel>De vijf spiegels</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1887</ID><Nummer>7</Nummer><Titel>De laatste jacht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2036</ID><Nummer>8</Nummer><Titel>Het ijzeren kruis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>68</Id>
+  <Titel>Conquests</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1908</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Islandia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_1_1908.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1909</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deluvenn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_2_1909.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1910</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Decornum</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_3_1910.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1911</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Uranie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_4_1911.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1912</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Enorus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_5_1912.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1913</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Adonaï</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_6_1913.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4316</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tanami</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_7_4316.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4317</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Neïta</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Conquests_8_4317.jpg</Afbeelding>
+      <ReeksId>68</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4318</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>68</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

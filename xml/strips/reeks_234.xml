@@ -1,1 +1,38 @@
-<Reeks><ID>234</ID><Titel>Meta-baron</Titel><Strip><ID>3017</ID><Nummer>1</Nummer><Titel>Wilhelm-100, de techno-admiraal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3018</ID><Nummer>2</Nummer><Titel>Khonrad, de Anti-Baron</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3019</ID><Nummer>3</Nummer><Titel>Orne-8, de technokardinaal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3020</ID><Nummer>4</Nummer><Titel>Simak, de transhumaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3090</ID><Nummer>5</Nummer><Titel>Rina, de meta-bewaakster</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3184</ID><Nummer>6</Nummer><Titel>De naamloze techno-baron</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3185</ID><Nummer>7</Nummer><Titel>Adal, de bastaard</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3391</ID><Nummer>8</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>234</Id>
+  <Titel>Waterwereld Askell</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4096</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Balsem van Fortuin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WaterwereldAskell_1_4096.jpg</Afbeelding>
+      <ReeksId>234</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4097</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Terugkeer naar Vocable</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WaterwereldAskell_2_4097.jpg</Afbeelding>
+      <ReeksId>234</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4098</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloedkoraal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WaterwereldAskell_3_4098.jpg</Afbeelding>
+      <ReeksId>234</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

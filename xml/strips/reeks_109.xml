@@ -1,1 +1,108 @@
-<Reeks><ID>109</ID><Titel>Yiu</Titel><Strip><ID>1968</ID><Nummer>1</Nummer><Titel>In de hel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1969</ID><Nummer>2</Nummer><Titel>De belofte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2321</ID><Nummer>3</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2189</ID><Nummer>4</Nummer><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>109</Id>
+  <Titel>Isabelle Avondrood, De fantastische avonturen van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2224</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Isabelle en het monster</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_1_2224.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2225</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De demon van de eiffeltoren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_2_2225.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2226</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De waanzinnige geleerde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_3_2226.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2227</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Maanzieke mummies</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_4_2227.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2228</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de salamander</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_5_2228.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2229</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tweekoppige drenkeling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_6_2229.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2230</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Allemaal monsters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_7_2230.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2231</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim der diepten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_8_2231.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2232</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het helse labyrinth</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_9_2232.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4328</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De baby van Buttes-Chaumont</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IsabelleAvondroodfantastischeavonturenvan_10_4328.jpg</Afbeelding>
+      <ReeksId>109</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

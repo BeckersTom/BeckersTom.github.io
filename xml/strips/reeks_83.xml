@@ -1,1 +1,27 @@
-<Reeks><ID>83</ID><Titel>Megalex</Titel><Strip><ID>1575</ID><Nummer>1</Nummer><Titel>De anomalie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1576</ID><Nummer>2</Nummer><Titel>De gebochelde engel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2271</ID><Nummer>3</Nummer><Titel>Kavatahs hart</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>83</Id>
+  <Titel>Europa</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1991</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De maan van ijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Europa_1_1991.jpg</Afbeelding>
+      <ReeksId>83</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1992</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>83</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

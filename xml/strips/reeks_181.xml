@@ -1,1 +1,28 @@
-<Reeks><ID>181</ID><Titel>Empire USA</Titel><Strip><ID>2502</ID><Nummer>1</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2503</ID><Nummer>2</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2504</ID><Nummer>3</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2505</ID><Nummer>4</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2506</ID><Nummer>5</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2507</ID><Nummer>6</Nummer><Titel/><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>181</Id>
+  <Titel>Phenomenum</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3285</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opus 0</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Phenomenum_1_3285.jpg</Afbeelding>
+      <ReeksId>181</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3286</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opus I: De vorige toekomst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Phenomenum_2_3286.jpg</Afbeelding>
+      <ReeksId>181</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,248 @@
-<Reeks><ID>190</ID><Titel>Carthago Adventures</Titel><Strip><ID>2559</ID><Nummer>1</Nummer><Titel>Bluff Creek</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2756</ID><Nummer>2</Nummer><Titel>Chipekwe</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3021</ID><Nummer>3</Nummer><Titel>Aipaloovik</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3046</ID><Nummer>4</Nummer><Titel>Amarok</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3047</ID><Nummer>5</Nummer><Titel>Zana</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3315</ID><Nummer>6</Nummer><Titel>De bron</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>190</Id>
+  <Titel>Ravian, de tijd/ruimte agent</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3385</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vierde dimensie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_0_3385.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3386</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het woedende water</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_1_3386.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3387</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het keizerrijk der 1000 planeten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_2_3387.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3388</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Land zonder sterren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_3_3388.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3389</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het verloren volk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_4_3389.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3390</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vogels van de meester</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_5_3390.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3391</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ambassadeur der schaduwen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_6_3391.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3392</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vale schepper</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_7_3392.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3393</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De helden van de equinox</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_8_3393.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3394</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Halte Châtelet/Richting Cassiopeia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_9_3394.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3395</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Brooklyn station/Eindpunt kosmos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_10_3395.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3396</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verschijningen op Inverloch</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_11_3396.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3397</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De banvloek van Hypsis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_12_3397.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3398</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aan de grenzen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_13_3398.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3399</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De levende wapens</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_14_3399.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3400</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sferen van de macht</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_15_3400.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3401</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gijzelaars van het Ultralum</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_16_3401.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3402</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wees van de sterren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_17_3402.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3403</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onzekere tijden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_18_3403.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3404</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aan de rand van het Grote Niets</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_19_3404.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3405</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De orde van de megalieten</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_20_3405.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3406</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijdopener</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_21_3406.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3407</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Herinneringen aan de toekomst 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_22_3407.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3408</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Herinneringen aan de toekomst 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Raviandetijdruimteagent_23_3408.jpg</Afbeelding>
+      <ReeksId>190</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

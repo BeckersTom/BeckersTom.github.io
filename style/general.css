@@ -1,6 +1,9 @@
 body {
 	font-family: "Trebuchet MS", sans-serif;
-	background: #E4E0E7 url(../images/chalk_light.jpg) fixed;
+	background-image: url(../images/chalk_light.jpg);
+	background-attachment: fixed;
+	background-color: #E4E0E7;
+	background-size: auto;
 	color: #000000;
 	font-size: 200%;
 	margin-left:1.0em;
@@ -20,7 +23,6 @@ h1, h2, h3, h4,h5,h6 {
 }
 h2 {
 	margin-left:3.0em;
-	margin-right:3.0em;
 	padding-bottom: 0.1em;
 }
 h2.shortlist {
@@ -40,6 +42,11 @@ hr.wide {
 	margin-left:auto;
 	margin-right:auto;
 }
+input {
+	width: 1.0em;
+	height: 1.0em;
+	margin-right:2.0em;
+}
 .center {
 	text-align:center;
 }
@@ -50,6 +57,7 @@ hr.wide {
 	font-style:italic
 }
 a {
+	text-decoration: none;
 	padding:0.5em;
 }
 a:link {
@@ -106,6 +114,11 @@ td {
 	padding: 0.2em;
 }
 td.stripnumber {
+	text-align:right;
+	padding-right:1.0em;
+	width:3.0em;
+}
+td.stripsubnumber {
 	text-align:right;
 	padding-right:1.0em;
 	width:3.0em;

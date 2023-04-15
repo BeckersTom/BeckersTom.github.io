@@ -1,1 +1,108 @@
-<Reeks><ID>157</ID><Titel>I.R.$. All Watcher</Titel><Strip><ID>2325</ID><Nummer>1</Nummer><Titel>Antonia</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2326</ID><Nummer>2</Nummer><Titel>De ongrijpbare Roxana</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2333</ID><Nummer>3</Nummer><Titel>Petra</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2350</ID><Nummer>4</Nummer><Titel>De MacParnellspiraal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2397</ID><Nummer>5</Nummer><Titel>Mia Mai</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2398</ID><Nummer>6</Nummer><Titel>De financiele snaartheorie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2587</ID><Nummer>7</Nummer><Titel>Het financiële zwarte gat</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>157</Id>
+  <Titel>Murena</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2835</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Purper en goud</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Murena_1_2835.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2836</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zand en bloed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Murena_2_2836.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2837</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een volmaakte moeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Murena_3_2837.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2838</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Voor hen die gaan sterven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Murena_4_2838.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2839</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte godin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_5_2839.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2840</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het bloed van de beesten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_6_2840.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2841</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een leven van vuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_7_2841.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2842</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wraak van as</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_8_2842.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2843</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Doornen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_9_2843.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2844</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het banket</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Murena_10_2844.jpg</Afbeelding>
+      <ReeksId>157</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

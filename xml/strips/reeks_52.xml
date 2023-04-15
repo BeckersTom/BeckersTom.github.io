@@ -1,1 +1,28 @@
-<Reeks><ID>52</ID><Titel>Paling &amp; Ko</Titel><Strip><ID>1267</ID><Nummer>1</Nummer><Titel>De 20e eeuw, wat een zootje!</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1268</ID><Nummer>2</Nummer><Titel>De grijze terreur</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1280</ID><Nummer>3</Nummer><Titel>De Formule 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1436</ID><Nummer>4</Nummer><Titel>De Noormannen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1437</ID><Nummer>5</Nummer><Titel>De computer... wat een ellende</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1795</ID><Nummer>6</Nummer><Titel>De filmsterren</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2061</ID><Nummer>7</Nummer><Titel>Verboden te roken!</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2062</ID><Nummer>8</Nummer><Titel>Het WK 2006</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>52</Id>
+  <Titel>Buck Danny Kortverhalen</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1755</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>1946 - 1969</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyKortverhalen_1_1755.jpg</Afbeelding>
+      <ReeksId>52</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1756</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>1969 - 2020</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyKortverhalen_2_1756.jpg</Afbeelding>
+      <ReeksId>52</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

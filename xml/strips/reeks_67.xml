@@ -1,1 +1,18 @@
-<Reeks><ID>67</ID><Titel>Zapman (vzw Arcadia)</Titel><Strip><ID>1509</ID><Nummer>1</Nummer><Titel>De wraak van Kamerah</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>67</Id>
+  <Titel>Commissaris Martens (vzw Arcadia)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1907</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De glimlach</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>CommissarisMartensvzwArcadia_1_1907.jpg</Afbeelding>
+      <ReeksId>67</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

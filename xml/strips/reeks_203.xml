@@ -1,1 +1,38 @@
-<Reeks><ID>203</ID><Titel>Territorium</Titel><Strip><ID>2666</ID><Nummer>1</Nummer><Titel>Necropsie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2667</ID><Nummer>2</Nummer><Titel>Hypnose</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2668</ID><Nummer>3</Nummer><Titel>Verdwijning</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2669</ID><Nummer>4</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2670</ID><Nummer>5</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2671</ID><Nummer>6</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>203</Id>
+  <Titel>Sangre</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3799</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De overlevende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sangre_1_3799.jpg</Afbeelding>
+      <ReeksId>203</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3800</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Fesolggio, de onverbiddelijke</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sangre_2_3800.jpg</Afbeelding>
+      <ReeksId>203</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3801</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Havanna de wispelturige</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sangre_3_3801.jpg</Afbeelding>
+      <ReeksId>203</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

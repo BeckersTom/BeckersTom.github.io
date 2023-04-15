@@ -1,1 +1,258 @@
-<Reeks><ID>226</ID><Titel>January Jones</Titel><Strip><ID>2935</ID><Nummer>1</Nummer><Titel>Dodenrit naar Monte Carlo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2936</ID><Nummer>2</Nummer><Titel>De schedel van sultan Mkwawa</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2937</ID><Nummer>3</Nummer><Titel>De schatten van koning Salomo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2938</ID><Nummer>4</Nummer><Titel>Het Pinkerton draaiboek</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2939</ID><Nummer>5</Nummer><Titel>De horens van de stier</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2940</ID><Nummer>6</Nummer><Titel>Het graf van de Zeppelin</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2941</ID><Nummer>7</Nummer><Titel>Het lijk van Lenin</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2942</ID><Nummer>8</Nummer><Titel>De eerste keizer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3056</ID><Nummer>9</Nummer><Titel>Heroïne voor Hanoi</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3245</ID><Nummer>10</Nummer><Titel>Flying down to Rio II</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3279</ID><Nummer>11</Nummer><Titel>Jachtkruiser</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3387</ID><Nummer>12</Nummer><Titel>In de geest van Omar Mukhtar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>226</Id>
+  <Titel>Trollen van Troy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4038</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trollenmythes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_1_4038.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4039</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De scalp van de edelachtbare</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_2_4039.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4040</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Als een vlucht petaurussen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_3_4040.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4041</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheime vuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_4_4041.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4042</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hekserijen van de wonderdoenster</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_5_4042.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4043</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trollen in de mist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_6_4043.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4044</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De veren van de wijze</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_7_4044.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4045</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rock'n Troll attitude</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_8_4045.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4046</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gevangenen van Darshan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_9_4046.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4047</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De opstandelingen van Darshan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_10_4047.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4048</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trollympiaden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_11_4048.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4049</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trollenbloed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_12_4049.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4050</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De oorlog van de veelvraten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_13_4050.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4051</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het verhaal van Waha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_14_4051.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4052</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Haarballen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_15_4052.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4053</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trollenhaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_16_4053.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4054</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het huwelijk van Waha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_17_4054.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4055</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Proffie blues</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_18_4055.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4056</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Geen kerst voor Vadertje Grommel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_19_4056.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4057</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De erfenis van Waha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_20_4057.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4058</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het goud van de trollen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_21_4058.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4059</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De trollenschool</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_22_4059.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4060</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ruw talent!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_23_4060.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4061</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een rots boven je hoofd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_24_4061.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4291</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Met zeep vang je geen vliegen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TrollenvanTroy_25_4291.jpg</Afbeelding>
+      <ReeksId>226</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

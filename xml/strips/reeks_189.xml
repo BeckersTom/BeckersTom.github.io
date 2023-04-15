@@ -1,1 +1,225 @@
-<Reeks><ID>189</ID><Titel>Kapitein Kreiss</Titel><Strip><ID>2558</ID><Nummer>1</Nummer><Titel>Sigvath 63</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2622</ID><Nummer>2</Nummer><Titel>Yakuza Dentai</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2623</ID><Nummer>3</Nummer><Titel>De spiegelplaneet</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2772</ID><Nummer>4</Nummer><Titel>De gasmijnen van Gyon</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2773</ID><Nummer>5</Nummer><Titel>De ader van Gaya</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>189</Id>
+  <Titel>Prometheus</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3364</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Atlantis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_1_3364.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3365</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Blue beam project</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_2_3365.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3366</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Exogenese</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_3_3366.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3367</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mantiek</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_4_3367.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3368</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sarcofaag</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_5_3368.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3369</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De boog</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_6_3369.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3370</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De theorie van de 100ste aap</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_7_3370.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3371</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Necromanteion</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_8_3371.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3372</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In het duister 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_9_3372.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3373</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In het duister 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_10_3373.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3374</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dertiende dag</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_11_3374.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3375</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Providence</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_12_3375.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3376</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Contact</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_13_3376.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3377</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verloren zielen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_14_3377.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3378</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het dorp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_15_3378.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3379</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dissident</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_16_3379.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3380</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Spartaan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_17_3380.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3381</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De theorie van de graankorrel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_18_3381.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3382</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Artefact</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_19_3382.jpg</Afbeelding>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3383</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3384</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4349</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>189</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

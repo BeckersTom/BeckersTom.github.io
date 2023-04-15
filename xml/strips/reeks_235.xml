@@ -1,1 +1,268 @@
-<Reeks><ID>235</ID><Titel>Kronieken van Amoras, De</Titel><Strip><ID>3022</ID><Nummer>1</Nummer><Titel>De zaak Krimson #1</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3083</ID><Nummer>2</Nummer><Titel>De zaak Krimson #2</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3084</ID><Nummer>3</Nummer><Titel>De zaak Krimson #3</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3195</ID><Nummer>4</Nummer><Titel>Gardavu!</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3200</ID><Nummer>5</Nummer><Titel>De killerbacterie</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3247</ID><Nummer>6</Nummer><Titel>De underdog</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>235</Id>
+  <Titel>Werelden van Thorgal, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4099</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kriss van Valnor - Ik vergeet niets!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_1_4099.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4100</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - Raïssa</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_2_4100.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4101</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kriss van Valnor - De straf van de Walkuren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_3_4101.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4102</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - De afgehakte hand van de God Tyr</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_4_4102.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4103</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kriss van Valnor - Een koningin waardig</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_5_4103.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4104</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - Het rijk van de chaos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_6_4104.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4105</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kriss van Valnor - Bondgenootschappen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_7_4105.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4106</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - De Drie Zussen Minkelsonn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_8_4106.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4107</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Buiten Reeks - Het ontstaan van de werelden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_9_4107.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4108</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kriss van Valnor - Rode Raheborg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_10_4108.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4109</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - Crow</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_11_4109.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4110</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Het oog van Odin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_12_4110.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4111</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - Skald</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_13_4111.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4112</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Runa</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_14_4112.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4113</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kv Valnor - Het eiland van de verloren kinderen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_15_4113.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4114</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Berserkers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_16_4114.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4115</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - De koningin van de zwarte Alfen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_17_4115.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4116</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolvin - Nidhogg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_18_4116.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4117</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Slive</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_19_4117.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4118</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kv Valnor - De tijdberg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_20_4118.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4119</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - De drakar van ijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_21_4119.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4120</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kv Valnor - De opperrechter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_22_4120.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4121</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - De blauwe tand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_23_4121.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4122</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Twee bastaards</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_24_4122.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4361</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - De tranen van Hel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_25_4361.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4362</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Sydönia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WereldenvanThorgal_26_4362.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

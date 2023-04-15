@@ -1,1 +1,158 @@
-<Reeks><ID>135</ID><Titel>Veroveraars van Troy, De</Titel><Strip><ID>2119</ID><Nummer>1</Nummer><Titel>Verbanning naar Bloemhaven</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2282</ID><Nummer>2</Nummer><Titel>Eckmül de Hakker</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2466</ID><Nummer>3</Nummer><Titel>De slag om Bloemhaven</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2770</ID><Nummer>4</Nummer><Titel>De Adelaarsberg</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2771</ID><Nummer>5</Nummer><Titel>De ijsdraak</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>135</Id>
+  <Titel>Lady S.</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2529</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Na Zdorovje, Shanjoeska!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyS_1_2529.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2530</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op je gezondheid, Suzie!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyS_2_2530.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2531</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>59° Noorderbreedte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyS_3_2531.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2532</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wie een kuil graaft voor een ander...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyS_4_2532.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2533</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een mol in Washington</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyS_5_2533.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2534</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Saudade</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_6_2534.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2535</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een lange seconde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_7_2535.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2536</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Staatsraison</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_8_2536.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2537</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Voor het leven van een vrouw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_9_2537.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2538</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>DNA</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_10_2538.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2539</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De breuklijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_11_2539.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2540</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Krachtsverhoudingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_12_2540.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2541</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De judaskus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_13_2541.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2542</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Code vampiir</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_14_2542.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2543</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de muil van de tijger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_15_2543.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

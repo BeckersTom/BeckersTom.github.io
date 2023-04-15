@@ -1,1 +1,78 @@
-<Reeks><ID>165</ID><Titel>Interpol Brussel</Titel><Strip><ID>2361</ID><Nummer>1</Nummer><Titel>De zaak Patrice Hellers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>165</Id>
+  <Titel>Nieuwe ijstijd, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3102</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lien Rag</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_1_3102.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3103</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Floa Sadon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_2_3103.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3104</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kurts</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_3_3104.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3105</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Broeder Petrus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_4_3105.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3106</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Jdrou</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_5_3106.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3107</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Yeuse</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_6_3107.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3108</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Pietr</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Nieuweijstijd_7_3108.jpg</Afbeelding>
+      <ReeksId>165</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

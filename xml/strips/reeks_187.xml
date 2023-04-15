@@ -1,1 +1,48 @@
-<Reeks><ID>187</ID><Titel>Sisco</Titel><Strip><ID>2546</ID><Nummer>1</Nummer><Titel>Schiet alleen op bevel!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2547</ID><Nummer>2</Nummer><Titel>Snoer haar de mond!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2548</ID><Nummer>3</Nummer><Titel>Gin fizz</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2549</ID><Nummer>4</Nummer><Titel>Whisky-Coke</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2550</ID><Nummer>5</Nummer><Titel>Kalasjnikov-diplomatie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3102</ID><Nummer>6</Nummer><Titel>Onderhandelingen in 9mm</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3103</ID><Nummer>7</Nummer><Titel>De wet van Murphy</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3104</ID><Nummer>8</Nummer><Titel>Realpolitik</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3105</ID><Nummer>9</Nummer><Titel>Gold black</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3106</ID><Nummer>10</Nummer><Titel>Maori blues</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3291</ID><Nummer>11</Nummer><Titel>Belgian rhapsody</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3321</ID><Nummer>12</Nummer><Titel>Russische roulette</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>187</Id>
+  <Titel>Polstar</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3356</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het teken van de baars</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Polstar_1_3356.jpg</Afbeelding>
+      <ReeksId>187</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3357</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Monkey</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Polstar_2_3357.jpg</Afbeelding>
+      <ReeksId>187</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3358</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rijk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Polstar_3_3358.jpg</Afbeelding>
+      <ReeksId>187</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3359</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De horde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Polstar_4_3359.jpg</Afbeelding>
+      <ReeksId>187</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

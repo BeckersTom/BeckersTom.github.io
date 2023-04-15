@@ -1,1 +1,68 @@
-<Reeks><ID>122</ID><Titel>Roze Bottel</Titel><Strip><ID>2024</ID><Nummer>1</Nummer><Titel>Wonderlijke avonturen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2025</ID><Nummer>2</Nummer><Titel>De luchtbel van de waarheid</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2026</ID><Nummer>3</Nummer><Titel>Het kasteel van de 4 manen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2027</ID><Nummer>4</Nummer><Titel>Het Karveel van heb-ik-jou-daar</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2028</ID><Nummer>5</Nummer><Titel>De lange reis naar het ongerijmde</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2029</ID><Nummer>6</Nummer><Titel>Een vogel vloog verloren</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2030</ID><Nummer>7</Nummer><Titel>De driedelige spiegel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2031</ID><Nummer>8</Nummer><Titel>De trompet van de stilte</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2032</ID><Nummer>9</Nummer><Titel>Het canon van de goede luim</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2033</ID><Nummer>10</Nummer><Titel>De 7 wegen naar dromenland</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2034</ID><Nummer>11</Nummer><Titel>De oceaan zonder oppervlak</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2035</ID><Nummer>12</Nummer><Titel>Het raadsel van het Moejejoh-moeras</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>122</Id>
+  <Titel>Kolonisatie</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2408</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schipbreukelingen in de ruimte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_1_2408.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2409</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In nood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_2_2409.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2410</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De levensboom</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_3_2410.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2411</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verzoening</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_4_2411.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2412</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Muiterij</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_5_2412.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4332</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schaduweenheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_6_4332.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

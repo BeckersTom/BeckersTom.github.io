@@ -1,1 +1,148 @@
-<Reeks><ID>45</ID><Titel>Trigië (uitg. Oberon)</Titel><Strip><ID>1195</ID><Nummer>1</Nummer><Titel>Strijd om Trigië</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1196</ID><Nummer>2</Nummer><Titel>De gevangene van Zerss</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1197</ID><Nummer>3</Nummer><Titel>De vijf opdrachten van Trigo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1198</ID><Nummer>4</Nummer><Titel>Dreiging uit het heelal</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1199</ID><Nummer>5</Nummer><Titel>Mysterieuze krachten op Elekton</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1200</ID><Nummer>6</Nummer><Titel>In de greep van het kwaad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1201</ID><Nummer>7</Nummer><Titel>Strijd om de macht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1202</ID><Nummer>8</Nummer><Titel>Het boze oog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1203</ID><Nummer>9</Nummer><Titel>Op leven en dood</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1204</ID><Nummer>10</Nummer><Titel>Planeet van de angst</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1205</ID><Nummer>11</Nummer><Titel>Terreur op Elekton</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1206</ID><Nummer>12</Nummer><Titel>De valse keizer</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1207</ID><Nummer>13</Nummer><Titel>De zonen van de kaizer</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1208</ID><Nummer>14</Nummer><Titel>Het purperen licht</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1209</ID><Nummer>15</Nummer><Titel>Laatste uur voor Elekton</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1210</ID><Nummer>16</Nummer><Titel>Stad onder vuur</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1211</ID><Nummer>17</Nummer><Titel>Kolonie in opstand</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1212</ID><Nummer>18</Nummer><Titel>De slag om Trigopolis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1213</ID><Nummer>19</Nummer><Titel>Duel met de dood</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1361</ID><Nummer>20</Nummer><Titel>De groene plaag</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1362</ID><Nummer>21</Nummer><Titel>Het geheime wapen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1363</ID><Nummer>22</Nummer><Titel>De proeven van Janno</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1364</ID><Nummer>23</Nummer><Titel>Dood uit de ruimte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1365</ID><Nummer>24</Nummer><Titel>Duel met Cato</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1366</ID><Nummer>25</Nummer><Titel>De klauwen van het verleden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1367</ID><Nummer>26</Nummer><Titel>Keizer Keren</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1368</ID><Nummer>27</Nummer><Titel>De Skorpiads</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1369</ID><Nummer>28</Nummer><Titel>Terugkeer van de Skorpiads</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1370</ID><Nummer>29</Nummer><Titel>De maan Gallas</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1371</ID><Nummer>30</Nummer><Titel>De vruchten der vergetelheid</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1372</ID><Nummer>31</Nummer><Titel>De zoon van Salo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1902</ID><Nummer>32</Nummer><Titel>Het ijs van Nivata</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1903</ID><Nummer>33</Nummer><Titel>De legende van Zonn</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1904</ID><Nummer>34</Nummer><Titel>Het slaapmonster</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1905</ID><Nummer>35</Nummer><Titel>Het rijzende water</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>45</Id>
+  <Titel>Bloed &amp; Stilte</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1600</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Nacht van de Wolvendoder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_1_1600.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1601</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mulberry Street</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_2_1601.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1602</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tien dolle jaren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_3_1602.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1603</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Siciliaanse Vespers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_4_1603.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1604</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zeven Pijlers van de Chaos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_5_1604.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1605</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Omerta</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_6_1605.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1606</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Tiende grote Arcanum</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_7_1606.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1607</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vier Provincien van het Ave-Maria</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_8_1607.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1608</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ik was er niet eens</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_9_1608.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1609</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dans zonder einde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_10_1609.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1610</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stempel van Kain 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_11_1610.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1611</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stempel van Kain 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BloedStilte_12_1611.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1612</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het systeem Jurado</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BloedStilte_13_1612.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1613</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Chi non muore si revede</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BloedStilte_14_1613.jpg</Afbeelding>
+      <ReeksId>45</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

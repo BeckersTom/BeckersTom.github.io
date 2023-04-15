@@ -1,1 +1,28 @@
-<Reeks><ID>240</ID><Titel>Buck Danny One-shot</Titel><Strip><ID>3114</ID><Nummer>1</Nummer><Titel>Blackbirds 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3115</ID><Nummer>2</Nummer><Titel>Blackbirds 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>240</Id>
+  <Titel>Witte Tijgerin - Tweede cyclus</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4138</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De theorie van de Mikado</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WitteTijgerinTweedecyclus_1_4138.jpg</Afbeelding>
+      <ReeksId>240</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4139</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Parijs zien en sterven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WitteTijgerinTweedecyclus_2_4139.jpg</Afbeelding>
+      <ReeksId>240</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

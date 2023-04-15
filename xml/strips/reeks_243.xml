@@ -1,1 +1,36 @@
-<Reeks><ID>243</ID><Titel>Olympus Mons</Titel><Strip><ID>3124</ID><Nummer>1</Nummer><Titel>Anomalie Een</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3125</ID><Nummer>2</Nummer><Titel>Operation mainbrace</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3126</ID><Nummer>3</Nummer><Titel>Loods 754</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3217</ID><Nummer>4</Nummer><Titel>Millenials</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3218</ID><Nummer>5</Nummer><Titel>In de schaduw van de zon</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3219</ID><Nummer>6</Nummer><Titel>Einstein</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3319</ID><Nummer>7</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3393</ID><Nummer>8</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3394</ID><Nummer>9</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>243</Id>
+  <Titel>Wordt vervolgd romans</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4144</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>243</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4145</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>243</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4146</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sluiers over de Pont de Tolbiac</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Wordtvervolgdromans_3_4146.jpg</Afbeelding>
+      <ReeksId>243</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

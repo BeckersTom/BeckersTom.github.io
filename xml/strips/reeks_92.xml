@@ -1,1 +1,57 @@
-<Reeks><ID>92</ID><Titel>Metabaronnen, De</Titel><Strip><ID>1616</ID><Nummer>0</Nummer><Titel>Het voorouderlijk huis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1610</ID><Nummer>1</Nummer><Titel>Othon de betovergrootvader</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1611</ID><Nummer>2</Nummer><Titel>Honorata de betovergrootmoeder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1612</ID><Nummer>3</Nummer><Titel>Aghnar de overgrootvader</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1613</ID><Nummer>4</Nummer><Titel>Oda de overgrootmoede</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1614</ID><Nummer>5</Nummer><Titel>Staalkop de grootvader</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1615</ID><Nummer>6</Nummer><Titel>Dona Vicenta de grootmoeder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1771</ID><Nummer>7</Nummer><Titel>Aghora de vader-moeder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1914</ID><Nummer>8</Nummer><Titel>Zondernaam</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2370</ID><Nummer>9</Nummer><Titel>De wapens van de Metabaronnen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>92</Id>
+  <Titel>Gil Sinclair</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2094</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het nepeiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GilSinclair_1_2094.jpg</Afbeelding>
+      <ReeksId>92</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2095</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rode boekje</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GilSinclair_2_2095.jpg</Afbeelding>
+      <ReeksId>92</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2096</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie adelaarsnest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GilSinclair_3_2096.jpg</Afbeelding>
+      <ReeksId>92</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2097</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Muurvast in Berlijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GilSinclair_4_2097.jpg</Afbeelding>
+      <ReeksId>92</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2098</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mein K</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>92</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

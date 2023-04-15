@@ -1,1 +1,68 @@
-<Reeks><ID>130</ID><Titel>Orbital</Titel><Strip><ID>2085</ID><Nummer>1</Nummer><Titel>Littekens</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2086</ID><Nummer>2</Nummer><Titel>Breuken</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2283</ID><Nummer>3</Nummer><Titel>Nomaden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2284</ID><Nummer>4</Nummer><Titel>Ravages</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2589</ID><Nummer>5</Nummer><Titel>Gerechtigheid</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3093</ID><Nummer>6</Nummer><Titel>Verzet</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3094</ID><Nummer>7</Nummer><Titel>Implosie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3248</ID><Nummer>8</Nummer><Titel>Contacten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>130</Id>
+  <Titel>Kronieken van Amoras, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2476</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zaak Krimson #1</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_1_2476.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2477</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zaak Krimson #2</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_2_2477.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2478</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zaak Krimson #3</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_3_2478.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2479</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gardavu!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_4_2479.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2480</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De killerbacterie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_5_2480.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2481</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De underdog</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KroniekenvanAmoras_6_2481.jpg</Afbeelding>
+      <ReeksId>130</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

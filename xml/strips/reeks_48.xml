@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>48</Id>
+  <Titel>Bruno Brazil</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1677</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De haai die tweemaal stierf</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_1_1677.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1678</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Commando kaaiman</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_2_1678.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1679</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ogen zonder gelaat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_3_1679.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1680</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De versteende stad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_4_1680.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1681</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De nacht der jakhalzen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_5_1681.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1682</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodendans in Sacramento</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_6_1682.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1683</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kaaimannen in het rijstveld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_7_1683.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1684</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Storm op de Aleoeten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_8_1684.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1685</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Quitte of dubbel voor Alak 6</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_9_1685.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1686</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dossier Bruno Brazil</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_10_1686.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1687</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het einde ...!??</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BrunoBrazil_11_1687.jpg</Afbeelding>
+      <ReeksId>48</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

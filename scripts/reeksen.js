@@ -25,7 +25,7 @@ function insertXMLData() {
     var reeksen = req.responseXML.getElementsByTagName("Reeks");
     for (var i = 0; i < reeksen.length; i++) {
 	   var reeks_para = document.createElement("p");
-	   var reeks_id = getElementTextNS("", "ID", reeksen[i], 0);
+	   var reeks_id = getElementTextNS("", "Id", reeksen[i], 0);
 	   var reeks_href = 'reeks.html?id=' + reeks_id;
        var reeks_titel = document.createTextNode(getElementTextNS("", "Titel", reeksen[i], 0));
 	   var reeks_anchor = document.createElement("a");

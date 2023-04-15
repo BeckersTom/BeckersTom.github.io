@@ -1,1 +1,38 @@
-<Reeks><ID>210</ID><Titel>J.Rom Force of gold</Titel><Strip><ID>2759</ID><Nummer>1</Nummer><Titel>Schaduw</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2760</ID><Nummer>2</Nummer><Titel>Helder</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2766</ID><Nummer>3</Nummer><Titel>Verblind</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2921</ID><Nummer>4</Nummer><Titel>Bloedmaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3055</ID><Nummer>5</Nummer><Titel>Rode sneeuw</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>210</Id>
+  <Titel>Stomp</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3839</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spoken van Knightgrave 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Stomp_1_3839.jpg</Afbeelding>
+      <ReeksId>210</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3840</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spoken van Knightgrave 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Stomp_2_3840.jpg</Afbeelding>
+      <ReeksId>210</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3841</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spoken van Knightgrave 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Stomp_3_3841.jpg</Afbeelding>
+      <ReeksId>210</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

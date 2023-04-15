@@ -1,1 +1,38 @@
-<Reeks><ID>220</ID><Titel>Kookaburra</Titel><Strip><ID>2840</ID><Nummer>1</Nummer><Titel>Planeet Dakoï</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2841</ID><Nummer>2</Nummer><Titel>Sektor WBH3</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2842</ID><Nummer>3</Nummer><Titel>Projekt Equinox</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2843</ID><Nummer>4</Nummer><Titel>Systeem Ragnarok</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2844</ID><Nummer>5</Nummer><Titel>Terug naar Terradoes</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2845</ID><Nummer>6</Nummer><Titel>Verbinding met de toekomst</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3067</ID><Nummer>7</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3068</ID><Nummer>8</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>220</Id>
+  <Titel>Terug naar Aldebaran</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3923</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TerugnaarAldebaran_1_3923.jpg</Afbeelding>
+      <ReeksId>220</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3924</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TerugnaarAldebaran_2_3924.jpg</Afbeelding>
+      <ReeksId>220</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3925</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TerugnaarAldebaran_3_3925.jpg</Afbeelding>
+      <ReeksId>220</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

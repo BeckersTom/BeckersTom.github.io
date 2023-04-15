@@ -1,1 +1,38 @@
-<Reeks><ID>72</ID><Titel>Imago mundi</Titel><Strip><ID>1532</ID><Nummer>1</Nummer><Titel>Op het spoor van Atlantis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1531</ID><Nummer>2</Nummer><Titel>De schat van de diepzee</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1867</ID><Nummer>3</Nummer><Titel>De 25e rune</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1868</ID><Nummer>4</Nummer><Titel>De odysseus-hypothese</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1869</ID><Nummer>5</Nummer><Titel>Het babel-effect</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1870</ID><Nummer>6</Nummer><Titel>Codenaam Babylon</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2014</ID><Nummer>7</Nummer><Titel>Natuurgeweld op Simushir</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2022</ID><Nummer>8</Nummer><Titel>De erfenis van de Jomons</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2039</ID><Nummer>9</Nummer><Titel>De gewonde heuvel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2071</ID><Nummer>10</Nummer><Titel>De tweede cirkel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>72</Id>
+  <Titel>Dees Dubbel, De daverende daden van</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1932</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sprekende doedelzak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DeesDubbeldaverendedadenvan_1_1932.jpg</Afbeelding>
+      <ReeksId>72</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1933</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het verkleinwater</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>DeesDubbeldaverendedadenvan_2_1933.jpg</Afbeelding>
+      <ReeksId>72</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1934</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het zwarte zwaard</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>DeesDubbeldaverendedadenvan_3_1934.jpg</Afbeelding>
+      <ReeksId>72</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

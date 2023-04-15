@@ -1,1 +1,358 @@
-<Reeks><ID>211</ID><Titel>Rik Ringers, De nieuwe avonturen van</Titel><Strip><ID>2781</ID><Nummer>1</Nummer><Titel>R.I.P., Rik!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2972</ID><Nummer>2</Nummer><Titel>Moord in de Jardin du Luxembourg</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2973</ID><Nummer>3</Nummer><Titel>De perfecte moord</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3249</ID><Nummer>4</Nummer><Titel>Gesneuveld voor Frankrijk</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3396</ID><Nummer>5</Nummer><Titel>Commissaris Griot</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3397</ID><Nummer>6</Nummer><Titel>Tiercé van de dood</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>211</Id>
+  <Titel>Storm</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3842</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Commandant Grek, gevangenen van de tijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_0_3842.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4288</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hommages</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_0_4288.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3843</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diepe wereld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_1_3843.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3844</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste vechter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_2_3844.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3845</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het volk van de woestijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_3_3845.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3846</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De groene hel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_4_3846.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3847</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De strijd om de aarde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_5_3847.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3848</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van de Nitronstralen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_6_3848.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3849</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De legende van Yggdrasil</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_7_3849.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3850</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stad der verdoemden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_8_3850.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3851</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De sluimerende dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_9_3851.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3852</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De piraten van Pandarve</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_10_3852.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3853</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het doolhof van de dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_11_3853.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3854</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zeven van Aromater</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_12_3854.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3855</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De doder van Eriban</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_13_3855.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3856</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De honden van Marduk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_14_3856.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3857</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De levende planeet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_15_3857.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3858</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vandaahl de verderver</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_16_3858.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3859</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wentelwereld</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_17_3859.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3860</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De robots van Danderzei</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_18_3860.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3861</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De terugkeer van de Rode Prins</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_19_3861.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3862</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Von Neumann-Machine</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_20_3862.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3863</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Genesis-Formule</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_21_3863.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3864</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De armageddon reiziger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_22_3864.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3865</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De navel van de dubbele god</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_23_3865.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3866</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bronnen van Marduk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Storm_24_3866.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3867</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rode spoor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_25_3867.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3868</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De muiters van Anker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_26_3868.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3869</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wisselwachters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_27_3869.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3870</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De race van Opaal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_28_3870.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3871</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het koraal van Kesmee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_29_3871.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3872</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De beul van Torkien</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_30_3872.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3873</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het gesticht van Krijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_31_3873.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3874</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het offer van Narvatica</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_32_3874.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4356</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De archivaris van het licht</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_33_4356.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

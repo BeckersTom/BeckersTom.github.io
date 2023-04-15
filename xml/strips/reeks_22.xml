@@ -1,1 +1,58 @@
-<Reeks><ID>22</ID><Titel>Gil Sinclair</Titel><Strip><ID>439</ID><Nummer>1</Nummer><Titel>Het nepeiland</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>440</ID><Nummer>2</Nummer><Titel>Het rode boekje</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>441</ID><Nummer>3</Nummer><Titel>Operatie adelaarsnest</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>442</ID><Nummer>4</Nummer><Titel>Muurvast in Berlijn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1747</ID><Nummer>5</Nummer><Titel>Mein K</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>22</Id>
+  <Titel>Aldebaran</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1218</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ramp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Aldebaran_1_1218.jpg</Afbeelding>
+      <ReeksId>22</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1219</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blonde vrouw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Aldebaran_2_1219.jpg</Afbeelding>
+      <ReeksId>22</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1220</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De foto</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Aldebaran_3_1220.jpg</Afbeelding>
+      <ReeksId>22</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1221</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De groep</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Aldebaran_4_1221.jpg</Afbeelding>
+      <ReeksId>22</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1222</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het wezen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Aldebaran_5_1222.jpg</Afbeelding>
+      <ReeksId>22</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

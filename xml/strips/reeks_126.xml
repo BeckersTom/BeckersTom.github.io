@@ -1,1 +1,37 @@
-<Reeks><ID>126</ID><Titel>Ellis</Titel><Strip><ID>2069</ID><Nummer>1</Nummer><Titel>Lady Crown</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3348</ID><Nummer>1</Nummer><Titel>Deep O'Neill</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2159</ID><Nummer>2</Nummer><Titel>Sax</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2250</ID><Nummer>3</Nummer><Titel>Sandmen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>126</Id>
+  <Titel>Kookaburra K</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2448</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Big Bang baby</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KookaburraK_1_2448.jpg</Afbeelding>
+      <ReeksId>126</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2449</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De planeet van de schijnbeelden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KookaburraK_2_2449.jpg</Afbeelding>
+      <ReeksId>126</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2450</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>126</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

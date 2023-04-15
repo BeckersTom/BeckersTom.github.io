@@ -1,1 +1,318 @@
-<Reeks><ID>248</ID><Titel>Sangre</Titel><Strip><ID>3159</ID><Nummer>1</Nummer><Titel>De overlevende</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3160</ID><Nummer>2</Nummer><Titel>Fesolggio, de onverbiddelijke</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3180</ID><Nummer>3</Nummer><Titel>Havanna de wispelturige</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>248</Id>
+  <Titel>Yoko Tsuno</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4202</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De parel van de dageraad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_0_4202.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4203</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trio in het onbekende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_1_4203.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4204</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het helse orgel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_2_4204.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4205</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vulcanus' smidse</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_3_4205.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4206</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Avonturen met elektronika</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_4_4206.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4207</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Seinen voor de eeuwigheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_5_4207.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4208</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 3 zonnen van Vinea</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_6_4208.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4209</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grens van het leven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_7_4209.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4210</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De titanen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_8_4210.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4211</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dochter van de wind</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_9_4211.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4212</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het licht van Ixo</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_10_4212.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4213</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijdspiraal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_11_4213.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4214</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Prooi en schaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_12_4214.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4215</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De aartsengelen van Vinea</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_13_4215.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4216</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bliksem van Wodan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_14_4216.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4217</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het kanon van Kra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_15_4217.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4218</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De draak van Hong Kong</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_16_4218.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4219</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De danseres van Bali</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_17_4219.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4220</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bannelingen van Kifa</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_18_4220.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4221</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Rheingold-express</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_19_4221.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4222</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De astroloog van Brugge</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_20_4222.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4223</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De poort van de zielen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_21_4223.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4224</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hemelse jonk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_22_4224.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4225</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De pagode der nevelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_23_4225.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4226</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zevende code</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_24_4226.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4227</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dienares van Lucifer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>YokoTsuno_25_4227.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4228</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van de amethist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_26_4228.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4229</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Khany's geheim</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_27_4229.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4230</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tempel der onsterfelijken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_28_4230.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4231</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Engeltjes en valken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_29_4231.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4232</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tweeling van Saturnus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_30_4232.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

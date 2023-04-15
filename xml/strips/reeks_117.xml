@@ -1,1 +1,58 @@
-<Reeks><ID>117</ID><Titel>Niklos Koda</Titel><Strip><ID>1993</ID><Nummer>1</Nummer><Titel>Achterin de berlines</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1994</ID><Nummer>2</Nummer><Titel>De god van de jakhalzen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1995</ID><Nummer>3</Nummer><Titel>Inch Allah</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1996</ID><Nummer>4</Nummer><Titel>Verdoemde walsen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1997</ID><Nummer>5</Nummer><Titel>Hali Mirvic</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1998</ID><Nummer>6</Nummer><Titel>Zwarte magie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1999</ID><Nummer>7</Nummer><Titel>Witte magie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2060</ID><Nummer>8</Nummer><Titel>Het spel van de meesters</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2139</ID><Nummer>9</Nummer><Titel>Arcane 16</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2226</ID><Nummer>10</Nummer><Titel>Drie van zwaarden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2700</ID><Nummer>11</Nummer><Titel>De dans van de duivel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2701</ID><Nummer>12</Nummer><Titel>De oceaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2768</ID><Nummer>13</Nummer><Titel>No song</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2769</ID><Nummer>14</Nummer><Titel>De spiborg</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3003</ID><Nummer>15</Nummer><Titel>Het laatste masker</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>117</Id>
+  <Titel>Kapitein Kreiss</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2347</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sigvath 63</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_1_2347.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2348</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Yakuza Dentai</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_2_2348.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2349</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spiegelplaneet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_3_2349.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2350</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gasmijnen van Gyon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_4_2350.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2351</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ader van Gaya</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_5_2351.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,68 @@
-<Reeks><ID>21</ID><Titel>G. Raf Zerk</Titel><Strip><ID>430</ID><Nummer>1</Nummer><Titel>De eerste vierenveertig</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>431</ID><Nummer>2</Nummer><Titel>Botje bij botje</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>432</ID><Nummer>3</Nummer><Titel>Om je dood te lachen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>433</ID><Nummer>4</Nummer><Titel>Laat zich niet kisten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>434</ID><Nummer>5</Nummer><Titel>Doodsangst</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>435</ID><Nummer>6</Nummer><Titel>Dans Macabre</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>436</ID><Nummer>7</Nummer><Titel>Salto mortale</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>437</ID><Nummer>8</Nummer><Titel>Door het oog van de naald</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>438</ID><Nummer>9</Nummer><Titel>Lang zal-ie leven</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1734</ID><Nummer>10</Nummer><Titel>Te bot of te zot</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1735</ID><Nummer>11</Nummer><Titel>De tand des doods</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1736</ID><Nummer>12</Nummer><Titel>Goed te been</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1737</ID><Nummer>13</Nummer><Titel>Dood en verschopt</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1738</ID><Nummer>14</Nummer><Titel>Doodgelukkig</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1739</ID><Nummer>15</Nummer><Titel>Knekelbrod</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1740</ID><Nummer>16</Nummer><Titel>Goed koud</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1741</ID><Nummer>17</Nummer><Titel>Weet je wie we morgen begraven ?</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1742</ID><Nummer>18</Nummer><Titel>Voor altijd en eeuwig</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1743</ID><Nummer>19</Nummer><Titel>Een, twee, drie, vier, botje van papier</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1744</ID><Nummer>20</Nummer><Titel>Wie laatst lacht, dood lacht!</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1745</ID><Nummer>21</Nummer><Titel>Knook-out</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1865</ID><Nummer>22</Nummer><Titel>Speel niet met de dood</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2053</ID><Nummer>23</Nummer><Titel>In dierbare nagedachtenis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2131</ID><Nummer>24</Nummer><Titel>Eeuwige pret</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2257</ID><Nummer>25</Nummer><Titel>Oog en droog!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2584</ID><Nummer>26</Nummer><Titel>Tot de dood erop volgt</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2585</ID><Nummer>27</Nummer><Titel>Tussen leven en dood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2586</ID><Nummer>28</Nummer><Titel>Liefde op het kerkhof</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2689</ID><Nummer>29</Nummer><Titel>Geen been om op te staan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2711</ID><Nummer>30</Nummer><Titel>Vragen over leven en dood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2915</ID><Nummer>31</Nummer><Titel>Doodjammer</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2916</ID><Nummer>32</Nummer><Titel>Ezelsstamp</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2917</ID><Nummer>33</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>21</Id>
+  <Titel>Akira</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1212</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_1_1212.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1213</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_2_1213.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1214</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_3_1214.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1215</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_4_1215.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1216</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_5_1216.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1217</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 6</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Akira_6_1217.jpg</Afbeelding>
+      <ReeksId>21</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

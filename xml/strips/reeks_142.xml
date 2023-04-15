@@ -1,1 +1,215 @@
-<Reeks><ID>142</ID><Titel>Golden Cup</Titel><Strip><ID>2201</ID><Nummer>1</Nummer><Titel>Daytona</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2246</ID><Nummer>2</Nummer><Titel>500 Duizend PK</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2269</ID><Nummer>3</Nummer><Titel>Wolven in de wedren</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2314</ID><Nummer>4</Nummer><Titel>Het meisje van de toendra</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2383</ID><Nummer>5</Nummer><Titel>De kus van de draak</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2456</ID><Nummer>6</Nummer><Titel>De helse truck</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>142</Id>
+  <Titel>Leonardo</Titel>
+  <Kopen>false</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2634</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2635</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2636</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2637</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2638</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2639</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2640</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2641</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2642</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2643</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2644</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2645</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2646</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2647</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2648</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2649</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2650</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2651</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2652</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2653</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hand van de meester</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2654</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2655</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Genie in de dop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2656</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Toonmeester</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <ReeksId>142</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

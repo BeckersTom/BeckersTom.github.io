@@ -1,1 +1,28 @@
-<Reeks><ID>103</ID><Titel>Ian Kaledine</Titel><Strip><ID>1946</ID><Nummer>1</Nummer><Titel>De witte nacht</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1947</ID><Nummer>2</Nummer><Titel>Het geheim van de taiga</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1948</ID><Nummer>3</Nummer><Titel>Het geheugen uit de diepte van het oog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1949</ID><Nummer>4</Nummer><Titel>Shan Pacha</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1950</ID><Nummer>5</Nummer><Titel>De fee Peri</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1951</ID><Nummer>6</Nummer><Titel>Het gloeiende mes</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1952</ID><Nummer>7</Nummer><Titel>Het grote komplot</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1953</ID><Nummer>8</Nummer><Titel>De zwarte samoerai</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1954</ID><Nummer>9</Nummer><Titel>Het geheim van kasteel Flambard</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1955</ID><Nummer>10</Nummer><Titel>Dottore Serpenti</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>103</Id>
+  <Titel>Ilias, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2196</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Eerste deel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ilias_1_2196.jpg</Afbeelding>
+      <ReeksId>103</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2197</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tweede deel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ilias_2_2197.jpg</Afbeelding>
+      <ReeksId>103</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

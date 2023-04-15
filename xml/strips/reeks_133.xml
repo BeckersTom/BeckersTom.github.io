@@ -1,1 +1,48 @@
-<Reeks><ID>133</ID><Titel>Konvooi, De jeugdjaren van Nävis</Titel><Strip><ID>2111</ID><Nummer>1</Nummer><Titel>Houyo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2112</ID><Nummer>2</Nummer><Titel>Girodoess</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2165</ID><Nummer>3</Nummer><Titel>De kwabouwer</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2417</ID><Nummer>4</Nummer><Titel>Heb jij nog energie?</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2603</ID><Nummer>5</Nummer><Titel>Prinses Nävis</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>133</Id>
+  <Titel>Laatste grens, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2510</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Laatstegrens_1_2510.jpg</Afbeelding>
+      <ReeksId>133</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2511</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Laatstegrens_2_2511.jpg</Afbeelding>
+      <ReeksId>133</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2512</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Laatstegrens_3_2512.jpg</Afbeelding>
+      <ReeksId>133</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2513</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Episode 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Laatstegrens_4_2513.jpg</Afbeelding>
+      <ReeksId>133</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

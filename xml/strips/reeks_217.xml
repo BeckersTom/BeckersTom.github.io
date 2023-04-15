@@ -1,1 +1,18 @@
-<Reeks><ID>217</ID><Titel>Valstrik op Zarkas</Titel><Strip><ID>2825</ID><Nummer>1</Nummer><Titel>Een rups voor twee</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2826</ID><Nummer>2</Nummer><Titel>Nieuw Pondichery mijn lief!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2827</ID><Nummer>3</Nummer><Titel>Gaia wegwezen!</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>217</Id>
+  <Titel>TDB</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3908</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bilou</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>TDB_1_3908.jpg</Afbeelding>
+      <ReeksId>217</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

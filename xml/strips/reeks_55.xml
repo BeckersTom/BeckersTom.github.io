@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>55</Id>
+  <Titel>Carthago</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1777</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lagune van Fortuna</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_1_1777.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1778</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Challenger Deep</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_2_1778.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1779</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het monster van Djibouti</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_3_1779.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1780</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De monolieten van Koubé</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_4_1780.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1781</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stad van Plato</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_5_1781.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1782</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De erfgename van de Karpaten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_6_1782.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1783</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De put van Kamtsjatka</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_7_1783.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1784</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Leviathan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_8_1784.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1785</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het pact van de eeuweling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_9_1785.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1786</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De afgrond gluurt terug</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_10_1786.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1787</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kane</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_11_1787.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1788</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Albino</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_12_1788.jpg</Afbeelding>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4366</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Absu is onze enige God</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4367</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel> Gebogen, wordt recht!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>55</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

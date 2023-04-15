@@ -1,1 +1,68 @@
-<Reeks><ID>94</ID><Titel>Black Op</Titel><Strip><ID>1829</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1983</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2041</ID><Nummer>3</Nummer><Titel>Deel 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2157</ID><Nummer>4</Nummer><Titel>Deel 4</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2267</ID><Nummer>5</Nummer><Titel>Deel 5</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2322</ID><Nummer>6</Nummer><Titel>Deel 6</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2705</ID><Nummer>7</Nummer><Titel>Deel 7</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2774</ID><Nummer>8</Nummer><Titel>Deel 8</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>94</Id>
+  <Titel>Golden Cup</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2112</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Daytona</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GoldenCup_1_2112.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2113</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>500 Duizend PK</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>GoldenCup_2_2113.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2114</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wolven in de wedren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCup_3_2114.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2115</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het meisje van de toendra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCup_4_2115.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2116</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kus van de draak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCup_5_2116.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2117</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De helse truck</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCup_6_2117.jpg</Afbeelding>
+      <ReeksId>94</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

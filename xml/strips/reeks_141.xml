@@ -1,1 +1,98 @@
-<Reeks><ID>141</ID><Titel>Tschaï - De waanzinnige planeet</Titel><Strip><ID>2190</ID><Nummer>1</Nummer><Titel>De Chasch 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2191</ID><Nummer>2</Nummer><Titel>De Chasch 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2192</ID><Nummer>3</Nummer><Titel>	De Wankh 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2193</ID><Nummer>4</Nummer><Titel>	De Wankh 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2240</ID><Nummer>5</Nummer><Titel>De Dirdir 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2241</ID><Nummer>6</Nummer><Titel>De Dirdir 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2242</ID><Nummer>7</Nummer><Titel>De Pnume 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2243</ID><Nummer>8</Nummer><Titel>De Pnume 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>141</Id>
+  <Titel>Legenden van Troy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2625</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tykko: De windruiters</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_1_2625.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2626</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tykko: De verdronken stad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_2_2626.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2627</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Saffraannacht: Albumen de Onstoffelijke</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_3_2627.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2628</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Zoektocht van Alunys</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LegendenvanTroy_4_2628.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2629</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Reis naar de schaduwen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_5_2629.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2630</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Saffraannacht: De wraak van Albumen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_6_2630.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2631</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het uur van de Gargouille</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_7_2631.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2632</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ploneïs de onzekere</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_8_2632.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2633</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tykko: De honderd tempels</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LegendenvanTroy_9_2633.jpg</Afbeelding>
+      <ReeksId>141</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

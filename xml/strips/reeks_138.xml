@@ -1,1 +1,98 @@
-<Reeks><ID>138</ID><Titel>Groom Lake</Titel><Strip><ID>2142</ID><Nummer>1</Nummer><Titel>De psychoanalyse van de vergetelheid</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2143</ID><Nummer>2</Nummer><Titel>Hun groot geheim</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2406</ID><Nummer>3</Nummer><Titel>De legende van Blarney Stone</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2407</ID><Nummer>4</Nummer><Titel>Monoloog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>138</Id>
+  <Titel>Lanfeust van Troy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2562</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het ivoor van Magohamoth</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_1_2562.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2563</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Thanos de Schaamteloze</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_2_2563.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2564</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kasteel Goud Azuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_3_2564.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2565</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De paladijn van Eckmül</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_4_2565.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2566</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De huivering van de ziener</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_5_2566.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2567</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Keizerin Cixi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_6_2567.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2568</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Petaurussen verbergen zich om te sterven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_7_2568.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2569</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het fabuleuze beest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LanfeustvanTroy_8_2569.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4339</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het hakketakkende bos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LanfeustvanTroy_9_4339.jpg</Afbeelding>
+      <ReeksId>138</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

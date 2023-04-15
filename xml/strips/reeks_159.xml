@@ -1,1 +1,58 @@
-<Reeks><ID>159</ID><Titel>Namibia</Titel><Strip><ID>2336</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2374</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2463</ID><Nummer>3</Nummer><Titel>Deel 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2680</ID><Nummer>4</Nummer><Titel>Deel 4</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2765</ID><Nummer>5</Nummer><Titel>Deel 5</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>159</Id>
+  <Titel>Namibia</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2847</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Namibia_1_2847.jpg</Afbeelding>
+      <ReeksId>159</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2848</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Namibia_2_2848.jpg</Afbeelding>
+      <ReeksId>159</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2849</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Namibia_3_2849.jpg</Afbeelding>
+      <ReeksId>159</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2850</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Namibia_4_2850.jpg</Afbeelding>
+      <ReeksId>159</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2851</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Namibia_5_2851.jpg</Afbeelding>
+      <ReeksId>159</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

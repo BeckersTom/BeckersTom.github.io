@@ -1,1 +1,518 @@
-<Reeks><ID>177</ID><Titel>Elixers</Titel><Strip><ID>2469</ID><Nummer>1</Nummer><Titel>De Toverij van Loxullio</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2470</ID><Nummer>2</Nummer><Titel>Het Geheim van de Glupion</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2719</ID><Nummer>3</Nummer><Titel>De wind van nergens</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>177</Id>
+  <Titel>Paling &amp; Ko (oud - rode kaft)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3190</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het atoomsulfaat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_1_3190.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3191</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Jacht op de zwarte bende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_2_3191.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3192</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paling en Ko op safari</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_3_3192.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3193</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paling en Ko als stierenvechters</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_4_3193.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3194</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geval van de stokvis</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_5_3194.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3195</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op dievenjacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_6_3195.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3196</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Loetje met het hoedje</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_7_3196.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3197</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De superdetectives</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_8_3197.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3198</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verander-machine</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_9_3198.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3199</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De geschiedenis van Paling en Ko</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_10_3199.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3200</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kist met tien sloten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_11_3200.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3201</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Toto, de tovenaar</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_12_3201.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3202</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op schilderijenjacht</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_13_3202.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3203</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De uitvindingen van Professor Bacterie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_14_3203.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3204</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Op de Olympische Spelen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_15_3204.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3205</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie Bom</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_16_3205.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3206</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diamanten van de gravin</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_17_3206.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3207</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het levenselixer</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_18_3207.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3208</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>WK-Voetbal '78</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_19_3208.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3209</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Circus</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_20_3209.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3210</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het tweede ik van Professor Bacterie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_21_3210.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3211</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De monsters</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_22_3211.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3212</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het tegengif</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_23_3212.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3213</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vreemde indringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_24_3213.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3214</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Olympiade 1980</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_25_3214.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3215</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Te wapen!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_26_3215.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3216</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paniek in de Zoo</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_27_3216.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3217</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het document van Ali-Ben-Doerak</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_28_3217.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3218</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een hondenbaan</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_29_3218.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3219</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Als kindervrienden!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_30_3219.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3220</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De huurlingen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_31_3220.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3221</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spuitelastiek</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_32_3221.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3222</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vergelijkend onderzoek</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_33_3222.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3223</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De persoonsvervormer</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_34_3223.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3224</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paling en Ko in Duitsland</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_35_3224.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3225</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bommenwerpers</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_36_3225.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3226</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Levende wassen beelden</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_37_3226.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3227</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zaak van het verjongingsmiddel</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_38_3227.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3228</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Autodieven</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_39_3228.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3229</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Olympische Spelen te Los Angeles 1984</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_40_3229.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3230</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De beestenbrigade</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_41_3230.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3231</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een vliegtuigkaping</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_42_3231.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3232</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wat de wind achter liet</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_43_3232.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3233</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Builenvangers</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_44_3233.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3234</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moorddadige radiogolven</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_45_3234.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3235</Id>
+      <Nummer>46</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geval van de Sok</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_46_3235.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3236</Id>
+      <Nummer>47</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kip met de gouden eieren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_47_3236.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3237</Id>
+      <Nummer>48</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Meteorologische hoogstandjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_48_3237.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3238</Id>
+      <Nummer>49</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vrouwtje van de melkweg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_49_3238.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3239</Id>
+      <Nummer>50</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rampzalige tuin</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_50_3239.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3240</Id>
+      <Nummer>51</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Die lieve neefjes!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PalingKooudrodekaft_51_3240.jpg</Afbeelding>
+      <ReeksId>177</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

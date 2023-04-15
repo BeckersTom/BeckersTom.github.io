@@ -1,1 +1,88 @@
-<Reeks><ID>150</ID><Titel>Zang van de Vampiers, De</Titel><Strip><ID>2228</ID><Nummer>1</Nummer><Titel>Schaduwen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2229</ID><Nummer>2</Nummer><Titel>Valstrikken</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2230</ID><Nummer>3</Nummer><Titel>Invloeden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2231</ID><Nummer>4</Nummer><Titel>Experimenten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2232</ID><Nummer>5</Nummer><Titel>Sporen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2233</ID><Nummer>6</Nummer><Titel>Levensvormen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2234</ID><Nummer>7</Nummer><Titel>Ontmoetingen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2235</ID><Nummer>8</Nummer><Titel>Uitdagingen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2236</ID><Nummer>9</Nummer><Titel>Revelaties</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2237</ID><Nummer>10</Nummer><Titel>Manipulaties</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2238</ID><Nummer>11</Nummer><Titel>Cellen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2239</ID><Nummer>12</Nummer><Titel>Vallen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2601</ID><Nummer>13</Nummer><Titel>Nieuwe machten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2602</ID><Nummer>14</Nummer><Titel>Ontvoeringen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2714</ID><Nummer>15</Nummer><Titel>Hybriden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3011</ID><Nummer>16</Nummer><Titel>Executies</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3111</ID><Nummer>17</Nummer><Titel>Werkelijkheden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3187</ID><Nummer>18</Nummer><Titel>Mythes</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>150</Id>
+  <Titel>Mick Mac Adam (vzw Arcadia)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2744</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De veerman van de dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_1_2744.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2745</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tiran van Midnight Cross</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_2_2745.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2746</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ivoren handen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_3_2746.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2747</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het leprozenbos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_4_2747.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2748</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Diableros</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_5_2748.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2749</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vijf spiegels</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_6_2749.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2750</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste jacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_7_2750.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2751</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het ijzeren kruis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MickMacAdamvzwArcadia_8_2751.jpg</Afbeelding>
+      <ReeksId>150</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,18 @@
-<Reeks><ID>250</ID><Titel>Mutations</Titel><Strip><ID>3165</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3257</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>250</Id>
+  <Titel>Zakkenloper &amp; Blasius (vzw Arcadia)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4250</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bij de taaietenen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>ZakkenloperBlasiusvzwArcadia_1_4250.jpg</Afbeelding>
+      <ReeksId>250</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,108 @@
-<Reeks><ID>153</ID><Titel>Pin-up</Titel><Strip><ID>2272</ID><Nummer>1</Nummer><Titel>Remember Pearl Harbor</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2273</ID><Nummer>2</Nummer><Titel>Poison Ivy</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2274</ID><Nummer>3</Nummer><Titel>Flying Dottie</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2275</ID><Nummer>4</Nummer><Titel>Blackbird</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2276</ID><Nummer>5</Nummer><Titel>Colonel Abel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2277</ID><Nummer>6</Nummer><Titel>Gladys</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2278</ID><Nummer>7</Nummer><Titel>Las Vegas</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2279</ID><Nummer>8</Nummer><Titel>Big Bunny</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2394</ID><Nummer>9</Nummer><Titel>Gif</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2424</ID><Nummer>10</Nummer><Titel>Het Dossier Alfred H.</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>153</Id>
+  <Titel>Mini-Mensjes, De (Integraal)</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2799</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_1_2799.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2800</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_2_2800.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2801</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_3_2801.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2802</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_4_2802.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2803</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_5_2803.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2804</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 6</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_6_2804.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2805</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 7</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_7_2805.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2806</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 8</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_8_2806.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2807</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 9</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_9_2807.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4286</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 10</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_10_4286.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>116</Id>
+  <Titel>Jessica Blandy</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4331</Id>
+      <Nummer>0</Nummer>
+      <Subnummer>S1</Subnummer>
+      <Titel>Het dossier</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JessicaBlandy_0_S1_4331.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2323</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Denk maar aan Enola Gay...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_1_2323.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2324</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het huis van Dr Zack</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_2_2324.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2325</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivel bij dageraad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_3_2325.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2326</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste blues</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_4_2326.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2327</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vuurvreter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_5_2327.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2328</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het meisje van Ipanema</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_6_2328.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2329</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Antwoord, stervende...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_7_2329.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2330</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zonder wroeging, zonder spijt...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_8_2330.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2331</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Satan, mijn broeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_9_2331.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2332</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Satan, mijn smart</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_10_2332.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2333</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Trouble in Paradise</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_11_2333.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2334</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Als een gat in het hoofd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_12_2334.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2335</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een brief voor Jessica</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_13_2335.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2336</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Cuba !</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_14_2336.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2337</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zoals Ginny was</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_15_2337.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2338</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Buzzard blues</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_16_2338.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2339</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ik ben een moordenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_17_2339.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2340</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Jessica-contract</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_18_2340.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2341</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Erotic attitude</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_19_2341.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2342</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mr. Robinson</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_20_2342.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2343</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grens</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_21_2343.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2344</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Blue Harmonica</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_22_2344.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2345</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kamer 27</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>JessicaBlandy_23_2345.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2346</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bewakers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JessicaBlandy_24_2346.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

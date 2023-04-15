@@ -1,1 +1,158 @@
-<Reeks><ID>134</ID><Titel>Lanfeust van de sterren</Titel><Strip><ID>2113</ID><Nummer>1</Nummer><Titel>Planeet Troy</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2114</ID><Nummer>2</Nummer><Titel>De torens van Meirrion</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2115</ID><Nummer>3</Nummer><Titel>De woestijnen van Abraxar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2116</ID><Nummer>4</Nummer><Titel>Smerige tijd voor vliegen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2173</ID><Nummer>5</Nummer><Titel>De bacterieplaag</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2174</ID><Nummer>6</Nummer><Titel>De schreeuw van de vrijbuiter</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2175</ID><Nummer>7</Nummer><Titel>Het geheim van de dolfanten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2176</ID><Nummer>8</Nummer><Titel>Kometenbloed</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>134</Id>
+  <Titel>Lady Mechanika</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2514</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het mysterie van het mechanische lijk 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_1_2514.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2515</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het mysterie van het mechanische lijk 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_2_2515.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2516</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het mysterie van het mechanische lijk 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_3_2516.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2517</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het tablet van het lot 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_4_2517.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2518</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het tablet van het lot 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_5_2518.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2519</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het tablet van het lot 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_6_2519.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2520</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wezen van West Abbey 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_7_2520.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2521</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>La dama de la muerte 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_8_2521.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2522</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>La dama de la muerte 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_9_2522.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2523</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De moordautomaat 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_10_2523.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2524</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De moordautomaat 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_11_2524.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2525</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>La belle dame sans merci 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_12_2525.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2526</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>La belle dame sans merci 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_13_2526.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2527</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloed 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_14_2527.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2528</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bloed 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_15_2528.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

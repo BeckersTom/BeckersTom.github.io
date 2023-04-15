@@ -1,1 +1,788 @@
-<Reeks><ID>193</ID><Titel>Cyclus van Cyann, De</Titel><Strip><ID>2565</ID><Nummer>1</Nummer><Titel>De brOn en de sOnde</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2566</ID><Nummer>2</Nummer><Titel>Zes seizoenen op IlO</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2567</ID><Nummer>3</Nummer><Titel>Aïeïa van Aldaal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2568</ID><Nummer>4</Nummer><Titel>De kleuren van Marcade</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2569</ID><Nummer>5</Nummer><Titel>De gangen van de tussentijd</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2778</ID><Nummer>6</Nummer><Titel>De zoete dageraad van Aldalarann</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>193</Id>
+  <Titel>Rik Ringers</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3413</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ontvoering</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_1_3413.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3414</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het raadsel van Porquerolles</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_2_3414.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3415</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rik Ringers in een doolhof</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_3_3415.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3416</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schaduw van de kameleon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_4_3416.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3417</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Valstrik voor Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_5_3417.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3418</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gangsters op de France</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_6_3418.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3419</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dreiging op het witte scherm</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_7_3419.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3420</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oog in oog met de slang</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_8_3420.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3421</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alias Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_9_3421.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3422</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 5 onzichtbaren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_10_3422.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3423</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Spoken in de nacht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_11_3423.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3424</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gezellen van de duivel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_12_3424.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3425</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nachtmerrie voor Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_13_3425.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3426</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Duel met de beul</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_14_3426.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3427</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het monster van Zwartlo</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_15_3427.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3428</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Requiem voor een idool</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_16_3428.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3429</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Grafschrift voor Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_17_3429.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3430</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onderzoek in het verleden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_18_3430.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3431</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het teken van de angst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_19_3431.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3432</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De man die ongeluk barcht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_20_3432.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3433</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Buitenaardse wezens vallen aan!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_21_3433.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3434</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het boze drietal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_22_3434.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3435</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lijn des doods</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_23_3435.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3436</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het rode spoor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_24_3436.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3437</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De klauwen van de onbekende</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_25_3437.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3438</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vijand door de eeuwen heen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_26_3438.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3439</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het mes op de keel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_27_3439.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3440</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hallali voor Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_28_3440.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3441</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie honderd miljard</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_29_3441.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3442</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De geest van de alchemist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_30_3442.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3443</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>K.O. in 9 rounds</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_31_3443.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3444</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte rechtbank</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_32_3444.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3445</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het schandaal Rik Ringers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_33_3445.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3446</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De nacht der vampiers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_34_3446.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3447</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_35_3447.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3448</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bloedige pijl</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_36_3448.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3449</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van de voodoo</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_37_3449.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3450</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Strijd tegen de misdaad</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_38_3450.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3451</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verdwenen in de hel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_39_3451.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3452</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dodende dubbelganger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_40_3452.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3453</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het huis van de wraak</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_41_3453.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3454</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodenlijst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_42_3454.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3455</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De boodschappers van de dood</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_43_3455.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3456</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rik Ringers contra Sherlock</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_44_3456.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3457</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Attila driehoek</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_45_3457.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3458</Id>
+      <Nummer>46</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De getuigen van Satan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_46_3458.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3459</Id>
+      <Nummer>47</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivelse tweeling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_47_3459.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3460</Id>
+      <Nummer>48</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geheim van Agatha</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_48_3460.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3461</Id>
+      <Nummer>49</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De scherprechter uit het rijk der duisternis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_49_3461.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3462</Id>
+      <Nummer>50</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De misdaad van het jaar 2000</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_50_3462.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3463</Id>
+      <Nummer>51</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het beest van de apocalyps</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_51_3463.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3464</Id>
+      <Nummer>52</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De meester-illusionist</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_52_3464.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3465</Id>
+      <Nummer>53</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodelijke improvisatie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_53_3465.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3466</Id>
+      <Nummer>54</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het masker van de angst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_54_3466.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3467</Id>
+      <Nummer>55</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wie is er bang voor Hitchcock?</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_55_3467.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3468</Id>
+      <Nummer>56</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Eén miljoen belastingvrij</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_56_3468.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3469</Id>
+      <Nummer>57</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het uur van de ontvoering</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_57_3469.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3470</Id>
+      <Nummer>58</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zijn jonge jaren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_58_3470.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3471</Id>
+      <Nummer>59</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hand des doods</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_59_3471.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3472</Id>
+      <Nummer>60</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Misdaad op internet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_60_3472.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3473</Id>
+      <Nummer>61</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Aan de galg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_61_3473.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3474</Id>
+      <Nummer>62</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stripmoorden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_62_3474.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3475</Id>
+      <Nummer>63</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De impopulaire heks</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_63_3475.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3476</Id>
+      <Nummer>64</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het contract van de eeuw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_64_3476.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3477</Id>
+      <Nummer>65</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Paniek op het web</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_65_3477.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3478</Id>
+      <Nummer>66</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Penthouse story</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_66_3478.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3479</Id>
+      <Nummer>67</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het vervloekte getal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_67_3479.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3480</Id>
+      <Nummer>68</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De misdaadverzamelaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_68_3480.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3481</Id>
+      <Nummer>69</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De man van ijs</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_69_3481.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3482</Id>
+      <Nummer>70</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodelijke stilte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_70_3482.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3483</Id>
+      <Nummer>71</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste keizerin</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_71_3483.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3484</Id>
+      <Nummer>72</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schat van de Marollen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_72_3484.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3485</Id>
+      <Nummer>73</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moord in het theater</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_73_3485.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3486</Id>
+      <Nummer>74</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodelijke puzzel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_74_3486.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3487</Id>
+      <Nummer>75</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Code voor het hiernamaals</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_75_3487.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3488</Id>
+      <Nummer>76</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het laatste duel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_76_3488.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3489</Id>
+      <Nummer>77</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hier 77!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>RikRingers_77_3489.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3490</Id>
+      <Nummer>78</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De jacht op de gouden griffioen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingers_78_3490.jpg</Afbeelding>
+      <ReeksId>193</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,458 @@
-<Reeks><ID>39</ID><Titel>Sammy</Titel><Strip><ID>1102</ID><Nummer>1</Nummer><Titel>Oudjes voor lijfwachten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1103</ID><Nummer>2</Nummer><Titel>Rhum row</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1104</ID><Nummer>3</Nummer><Titel>El presidente</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1105</ID><Nummer>4</Nummer><Titel>Lijfwachten en bonkige boksers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1106</ID><Nummer>5</Nummer><Titel>De lijfwacht met acht poten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1107</ID><Nummer>6</Nummer><Titel>De lijfwachten zijn knetter</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1108</ID><Nummer>7</Nummer><Titel>Lijfwacht in de kostschool</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1109</ID><Nummer>8</Nummer><Titel>Lijfwachten en koning Dollar</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1110</ID><Nummer>9</Nummer><Titel>Heibel in de woestijn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1111</ID><Nummer>10</Nummer><Titel>Lijfwachten en draculanten</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1112</ID><Nummer>11</Nummer><Titel>Lijfwacht-verhalen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1113</ID><Nummer>12</Nummer><Titel>Het jeugdelixir</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1114</ID><Nummer>13</Nummer><Titel>Het schroeifenomeen</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1115</ID><Nummer>14</Nummer><Titel>Voetbal is oorlog</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1116</ID><Nummer>15</Nummer><Titel>Lijfwachten in Hollywood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1117</ID><Nummer>16</Nummer><Titel>Ku-klux-klan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1118</ID><Nummer>17</Nummer><Titel>Baby's en Blaffers</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1119</ID><Nummer>18</Nummer><Titel>Paniek in het Vaticaan</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1120</ID><Nummer>19</Nummer><Titel>Lijfwachten in de ring</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1121</ID><Nummer>20</Nummer><Titel>Ma Attaway</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1122</ID><Nummer>21</Nummer><Titel>Miss Kay</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1123</ID><Nummer>22</Nummer><Titel>Opdracht voor een knekelman</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1124</ID><Nummer>23</Nummer><Titel>De diva</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1125</ID><Nummer>24</Nummer><Titel>Hoogspanning</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1126</ID><Nummer>25</Nummer><Titel>De mandarijn</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1127</ID><Nummer>26</Nummer><Titel>Crash in Wall street</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1128</ID><Nummer>27</Nummer><Titel>Een hondebaantje</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1129</ID><Nummer>28</Nummer><Titel>Sigaretten en whisky</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1130</ID><Nummer>29</Nummer><Titel>Lijfwachten en malle meiden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1131</ID><Nummer>30</Nummer><Titel>Lijfwachten op hoge hakken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>1132</ID><Nummer>31</Nummer><Titel>Foezel en blauwe bonen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>39</Id>
+  <Titel>Baard &amp; Kale</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1442</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Villa "Zonder Zorg"</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_1_1442.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1443</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schat van Alarik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_2_1443.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1444</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oscar en zijn geheimen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_3_1444.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1445</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De witte hand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_4_1445.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1446</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stomp komt terug</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_5_1446.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1447</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hokus Pokus Pas</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_6_1447.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1448</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Spurten!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_7_1448.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1449</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Villa Long-Cri</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_8_1449.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1450</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stomp in het Louvre</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_9_1450.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1451</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De pijlen van nergens</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_10_1451.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1452</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rare pop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_11_1452.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1453</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ontwaakte Toar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_12_1453.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1454</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grote strijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_13_1454.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1455</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het groene raadsel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_14_1455.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1456</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kale kaatst terug</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_15_1456.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1457</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spookschaduw</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_16_1457.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1458</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tegen de Cobra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_17_1458.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1459</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vervloekte rots</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_18_1459.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1460</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Uit de afgrond</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_19_1460.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1461</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spoken van Cortecleyn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_20_1461.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1462</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dode duiker</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_21_1462.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1463</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Graai naar de macht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_22_1463.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1464</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In New York</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_23_1464.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1465</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Avontuur in Birma</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_24_1465.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1466</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Monster recht vooruit</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_25_1466.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1467</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste stunt</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_26_1467.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1468</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bivakmutsen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_27_1468.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1469</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Metamorfose</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_28_1469.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1470</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vergeten tempel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_29_1470.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1471</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schaak en match</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_30_1471.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1472</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Swastika</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_31_1472.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1473</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stunt van Stomp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_32_1473.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1474</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Stomp 235</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_33_1474.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1475</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schim van de samourai</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BaardKale_34_1475.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1476</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de greep van de witte hand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_35_1476.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1477</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Magdalena</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_36_1477.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1478</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De nieuwe orde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_37_1478.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1479</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verleiding</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_38_1479.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1480</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rake klappen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_39_1480.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1481</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gijzeling</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_40_1481.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1482</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Geen rook zonder vuur</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_41_1482.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1483</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De moordenaar van de drie zustersteden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_42_1483.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1484</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rijke oude vrouwtjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_43_1484.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1485</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Fort Ooievaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_44_1485.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1486</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het raadsel van kamer 43</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BaardKale_45_1486.jpg</Afbeelding>
+      <ReeksId>39</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

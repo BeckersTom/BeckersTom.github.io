@@ -1,1 +1,78 @@
-<Reeks><ID>231</ID><Titel>Mermaid Project</Titel><Strip><ID>2968</ID><Nummer>1</Nummer><Titel>Deel 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2969</ID><Nummer>2</Nummer><Titel>Deel 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2999</ID><Nummer>3</Nummer><Titel>Deel 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3088</ID><Nummer>4</Nummer><Titel>Deel 4</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>3089</ID><Nummer>5</Nummer><Titel>Deel 5</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>231</Id>
+  <Titel>Vlad</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4083</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Igor, m'n broer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_1_4083.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4084</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De meester van Novijanka</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_2_4084.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4085</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Rode zone</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_3_4085.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4086</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Laatste uitweg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_4_4086.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4087</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Taiga</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_5_4087.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4088</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie zondvloed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_6_4088.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4089</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>15 November</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Vlad_7_4089.jpg</Afbeelding>
+      <ReeksId>231</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

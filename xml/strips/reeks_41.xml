@@ -1,1 +1,88 @@
-<Reeks><ID>41</ID><Titel>Soda</Titel><Strip><ID>1138</ID><Nummer>1</Nummer><Titel>Een engel gaat heen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1139</ID><Nummer>2</Nummer><Titel>Brieven voor Satan</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1140</ID><Nummer>3</Nummer><Titel>Gij zult niet schieten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1141</ID><Nummer>4</Nummer><Titel>God stierf vanavond</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1142</ID><Nummer>5</Nummer><Titel>Elk klooster heeft zijn kruis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1143</ID><Nummer>6</Nummer><Titel>Biecht in up-tempo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1144</ID><Nummer>7</Nummer><Titel>Sta op en sterf</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1145</ID><Nummer>8</Nummer><Titel>Dood in vrede</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1146</ID><Nummer>9</Nummer><Titel>Verlos ons van het kwaad</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1147</ID><Nummer>10</Nummer><Titel>God mag het weten</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1380</ID><Nummer>11</Nummer><Titel>Gebeden en ballistiek</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1897</ID><Nummer>12</Nummer><Titel>Code apocalyps</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2749</ID><Nummer>13</Nummer><Titel>Verrijzenis</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>41</Id>
+  <Titel>Black Op</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1492</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_1_1492.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1493</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_2_1493.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1494</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 3</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_3_1494.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1495</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_4_1495.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1496</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 5</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_5_1496.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1497</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 6</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlackOp_6_1497.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1498</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 7</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BlackOp_7_1498.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1499</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 8</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BlackOp_8_1499.jpg</Afbeelding>
+      <ReeksId>41</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

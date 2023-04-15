@@ -1,1 +1,38 @@
-<Reeks><ID>110</ID><Titel>Duivels van Alexia, De</Titel><Strip><ID>1970</ID><Nummer>1</Nummer><Titel>De erfenis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1971</ID><Nummer>2</Nummer><Titel>Stigma Diabolicum</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1972</ID><Nummer>3</Nummer><Titel>Yorthopia</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2090</ID><Nummer>4</Nummer><Titel>Het Salem-syndroom</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2581</ID><Nummer>5</Nummer><Titel>Het bloed van de engel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2582</ID><Nummer>6</Nummer><Titel>Tranen van bloed</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2583</ID><Nummer>7</Nummer><Titel>Mensenvlees</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>110</Id>
+  <Titel>Islandia</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2233</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Reis naar het barre noorden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Islandia_1_2233.jpg</Afbeelding>
+      <ReeksId>110</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2234</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De westelijke fjorden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Islandia_2_2234.jpg</Afbeelding>
+      <ReeksId>110</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2235</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spoor van de tovenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Islandia_3_2235.jpg</Afbeelding>
+      <ReeksId>110</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

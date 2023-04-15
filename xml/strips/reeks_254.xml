@@ -1,1 +1,38 @@
-<Reeks><ID>254</ID><Titel>Bruno Brazil, De nieuwe avonturen van</Titel><Strip><ID>3309</ID><Nummer>1</Nummer><Titel>Black program 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3310</ID><Nummer>2</Nummer><Titel>Black program 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3376</ID><Nummer>3</Nummer><Titel>Terreur in het Hoge Noorden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>254</Id>
+  <Titel>Zwendel</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4273</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dochter van Z</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zwendel_1_4273.jpg</Afbeelding>
+      <ReeksId>254</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4274</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De leerling-slechterik</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zwendel_2_4274.jpg</Afbeelding>
+      <ReeksId>254</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4275</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Lady Z</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Zwendel_3_4275.jpg</Afbeelding>
+      <ReeksId>254</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

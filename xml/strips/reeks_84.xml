@@ -1,1 +1,48 @@
-<Reeks><ID>84</ID><Titel>Op zoek naar de tijdvogel</Titel><Strip><ID>1577</ID><Nummer>1</Nummer><Titel>De hoorn van Ramor</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1578</ID><Nummer>2</Nummer><Titel>De tempel der vergetelheid</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1579</ID><Nummer>3</Nummer><Titel>De jager</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1580</ID><Nummer>4</Nummer><Titel>Het ei van de duisternis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1581</ID><Nummer>5</Nummer><Titel>Vriend Javin</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2146</ID><Nummer>6</Nummer><Titel>Het spreukenboek van de goden</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2335</ID><Nummer>7</Nummer><Titel>De weg van de Jager</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2702</ID><Nummer>8</Nummer><Titel>Ridder Bolster</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3092</ID><Nummer>9</Nummer><Titel>De orde van het teken</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3236</ID><Nummer>10</Nummer><Titel>Kryll</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3357</ID><Nummer>11</Nummer><Titel>De vruchtbare archipel</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>84</Id>
+  <Titel>Fanny K.</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4324</Id>
+      <Nummer>0</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bij Fanny op schoot</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FannyK_0_4324.jpg</Afbeelding>
+      <ReeksId>84</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1993</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moordgriet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FannyK_1_1993.jpg</Afbeelding>
+      <ReeksId>84</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1994</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Morpheus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FannyK_2_1994.jpg</Afbeelding>
+      <ReeksId>84</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1995</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De lokvogel</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FannyK_3_1995.jpg</Afbeelding>
+      <ReeksId>84</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

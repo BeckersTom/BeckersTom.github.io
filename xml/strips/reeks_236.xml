@@ -1,1 +1,48 @@
-<Reeks><ID>236</ID><Titel>Fanny K.</Titel><Strip><ID>3349</ID><Nummer>0</Nummer><Titel>Bij Fanny op schoot</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3023</ID><Nummer>1</Nummer><Titel>Moordgriet</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3050</ID><Nummer>2</Nummer><Titel>Morpheus</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3275</ID><Nummer>3</Nummer><Titel>De lokvogel</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>236</Id>
+  <Titel>Wika</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4123</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De razernij van Oberon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Wika_1_4123.jpg</Afbeelding>
+      <ReeksId>236</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4124</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte feeën</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Wika_2_4124.jpg</Afbeelding>
+      <ReeksId>236</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4125</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van Megg</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Wika_3_4125.jpg</Afbeelding>
+      <ReeksId>236</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4126</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De glorie van Pan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Wika_4_4126.jpg</Afbeelding>
+      <ReeksId>236</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

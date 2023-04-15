@@ -1,1 +1,67 @@
-<Reeks><ID>66</ID><Titel>Arkel (vzw Arcadia)</Titel><Strip><ID>1506</ID><Nummer>1</Nummer><Titel>Gordh</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1507</ID><Nummer>2</Nummer><Titel>De 7 opperduivels</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1508</ID><Nummer>3</Nummer><Titel>Lilith</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1854</ID><Nummer>4</Nummer><Titel>Estel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2455</ID><Nummer>5</Nummer><Titel>De reizigers van de keerzijde</Titel><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>66</Id>
+  <Titel>Collectie B.D. Ecrivains</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1901</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Decamerone</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CollectieBDEcrivains_6_1901.jpg</Afbeelding>
+      <ReeksId>66</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1902</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>H.G. Wells - De tijdmachine</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>CollectieBDEcrivains_7_1902.jpg</Afbeelding>
+      <ReeksId>66</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1903</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Harricana</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CollectieBDEcrivains_8_1903.jpg</Afbeelding>
+      <ReeksId>66</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1904</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het gif van Mars</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>66</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1905</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ruiters met de groene ogen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CollectieBDEcrivains_11_1905.jpg</Afbeelding>
+      <ReeksId>66</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1906</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste der Mohikannen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>CollectieBDEcrivains_12_1906.jpg</Afbeelding>
+      <ReeksId>66</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

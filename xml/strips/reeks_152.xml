@@ -1,1 +1,428 @@
-<Reeks><ID>152</ID><Titel>Chimpansee-syndroom, Het</Titel><Strip><ID>2253</ID><Nummer>1</Nummer><Titel>Paradox</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2254</ID><Nummer>2</Nummer><Titel>De zonen van Ares</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2255</ID><Nummer>3</Nummer><Titel>Beschaving</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>152</Id>
+  <Titel>Mini-Mensjes, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2757</Id>
+      <Nummer>0</Nummer>
+      <Subnummer>S2</Subnummer>
+      <Titel>Ellendam II</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_0_S2_2757.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2758</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De uittocht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_1_2758.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2759</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mini-Mensjes in Brontoxico</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_2_2759.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2760</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Soldaten in het verleden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MiniMensjes_3_2760.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2761</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De waterratten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_4_2761.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2762</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het oog van de Cycloop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MiniMensjes_5_2762.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2763</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het spookschip</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_6_2763.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2764</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Grijpers van de samoerai</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MiniMensjes_7_2764.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2765</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Droompoeder</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_8_2765.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2766</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Driehoek des Doods</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_9_2766.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2767</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het diepzeevolk</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_10_2767.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2768</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In de klauwen van de Heer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_11_2768.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2769</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wesp</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_12_2769.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2770</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gevangenen van de tijd</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_13_2770.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2771</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mini-Mensjes en aapmensen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_14_2771.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2772</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mosquito 417</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_15_2772.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2773</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De planeet Ranxerox</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_16_2773.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2774</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het witte gat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_17_2774.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2775</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De pickpocket</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_18_2775.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2776</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alarm in Ellendam</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_19_2776.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2777</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Ondergronds offensief</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_20_2777.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2778</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De 6 klonen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_21_2778.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2779</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kleine kluizenaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_22_2779.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2780</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste der Mini-Mensjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_23_2780.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2781</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De goudmijn</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_24_2781.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2782</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Mini-Mensjes en mini-gagagags</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_25_2782.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2783</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De reis tussen twee werelden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_26_2783.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2784</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>C + C = Boem</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_27_2784.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2785</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Catherinettes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_28_2785.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2786</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zuurkool-Melba</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_29_2786.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2787</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Baby Tango</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_30_2787.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2788</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Tchakakahn</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_31_2788.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2789</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Melting-pot</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_32_2789.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2790</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Twintigduizend mijl onder de aarde</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_33_2790.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2791</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Van harte, Mama!</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_34_2791.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2792</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Duels</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_35_2792.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2793</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bil van Klei &amp; zn.</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_36_2793.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2794</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bingo</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_37_2794.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2795</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grote school</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_38_2795.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2796</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De mierkrabben</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>MiniMensjes_39_2796.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2797</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wedden !</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_40_2797.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2798</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie IQ</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_41_2798.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

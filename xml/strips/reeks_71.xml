@@ -1,1 +1,78 @@
-<Reeks><ID>71</ID><Titel>Jaguar</Titel><Strip><ID>1528</ID><Nummer>1</Nummer><Titel>Jaguar 1</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1529</ID><Nummer>2</Nummer><Titel>Jaguar 2</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1749</ID><Nummer>3</Nummer><Titel>Jaguar 3</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1841</ID><Nummer>4</Nummer><Titel>Dog Mengo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2166</ID><Nummer>5</Nummer><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>71</Id>
+  <Titel>Dallas Barr</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1925</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dodemanshand</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_1_1925.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1926</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Als er geen hemel is</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_2_1926.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1927</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Eerste kwartier</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_3_1927.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1928</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Nieuwe maan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_4_1928.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1929</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Anna van de 1000 dagen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_5_1929.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1930</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Sarabande</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_6_1930.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1931</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De laatste wals</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DallasBarr_7_1931.jpg</Afbeelding>
+      <ReeksId>71</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

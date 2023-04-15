@@ -1,1 +1,138 @@
-<Reeks><ID>74</ID><Titel>Karaat</Titel><Strip><ID>1535</ID><Nummer>1</Nummer><Titel>Uma</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1818</ID><Nummer>2</Nummer><Titel>Mira</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1839</ID><Nummer>3</Nummer><Titel>De diamant van Abraham</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1840</ID><Nummer>4</Nummer><Titel>De put van de duisternis</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2346</ID><Nummer>5</Nummer><Titel>De zingende wasrol</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2376</ID><Nummer>6</Nummer><Titel>De doodskist van ijs</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>74</Id>
+  <Titel>Djinn</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1938</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De favoriete</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_1_1938.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1939</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dertig belletjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_2_1939.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1940</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tatoeage</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_3_1940.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1941</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De schat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_4_1941.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1942</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Afrika</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_5_1942.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1943</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte parel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_6_1943.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1944</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Pipiktu</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_7_1944.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1945</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onrust</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_8_1945.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1946</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De gorillakoning</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_9_1946.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1947</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het paviljoen der lusten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_10_1947.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1948</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het paviljoen der lusten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_11_1948.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1949</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hervonden eer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_12_1949.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1950</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kim Nelson</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Djinn_13_1950.jpg</Afbeelding>
+      <ReeksId>74</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

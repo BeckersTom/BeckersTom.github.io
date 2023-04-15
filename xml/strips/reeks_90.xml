@@ -1,1 +1,148 @@
-<Reeks><ID>90</ID><Titel>Commissaris Martens (vzw Arcadia)</Titel><Strip><ID>1608</ID><Nummer>1</Nummer><Titel>De glimlach</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>90</Id>
+  <Titel>Generaal, De</Titel>
+  <Kopen>false</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2073</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Alle macht aan de generaal</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_1_2073.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2074</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De machteloze generaal</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_2_2074.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2075</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Allemachtig!..</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_3_2075.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2076</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal zoekt 't hoger op</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_4_2076.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2077</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal in vuur en vlam</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_5_2077.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2078</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal vliegt er uit</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_6_2078.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2079</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De erfenis van Oom Jules &amp; Revolutie in San Cochab</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_7_2079.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2080</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal geeft 'm van katoen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_8_2080.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2081</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal doet 't weer</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_9_2081.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2082</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal valt in de prijzen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_10_2082.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2083</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal ziet er geen gat meer in</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_11_2083.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2084</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De generaal in zaken</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_12_2084.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2085</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Terug van weggeweest</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Generaal_13_2085.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2086</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dans om de macht</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Generaal_14_2086.jpg</Afbeelding>
+      <ReeksId>90</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

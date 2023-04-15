@@ -1,1 +1,68 @@
-<Reeks><ID>81</ID><Titel>Nash</Titel><Strip><ID>1559</ID><Nummer>1</Nummer><Titel>Ochtendster</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1560</ID><Nummer>2</Nummer><Titel>Ten Oosten van Eden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1561</ID><Nummer>3</Nummer><Titel>Koningin van de Engelen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1562</ID><Nummer>4</Nummer><Titel>Het Witte Broederschap</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1563</ID><Nummer>5</Nummer><Titel>Het Kleine Volkje</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1775</ID><Nummer>6</Nummer><Titel>Dreamland</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1819</ID><Nummer>7</Nummer><Titel>De schaduwen</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>1942</ID><Nummer>8</Nummer><Titel>De oorlog van de roden</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>81</Id>
+  <Titel>Empire USA 2</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>1982</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_1_1982.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1983</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_2_1983.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1984</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_3_1984.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1985</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_4_1985.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1986</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_5_1986.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1987</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>EmpireUSA2_6_1987.jpg</Afbeelding>
+      <ReeksId>81</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

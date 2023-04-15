@@ -1,1 +1,88 @@
-<Reeks><ID>179</ID><Titel>Trigië (uitg. Big Balloon)</Titel><Strip><ID>2478</ID><Nummer>1</Nummer><Titel>Strijd om Trigië</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2479</ID><Nummer>2</Nummer><Titel>Laatste uur voor Elekton</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2480</ID><Nummer>3</Nummer><Titel>Stad onder vuur</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2481</ID><Nummer>4</Nummer><Titel>Kolonie in opstand</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2482</ID><Nummer>5</Nummer><Titel>De Slag om Trigopolis</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2483</ID><Nummer>6</Nummer><Titel>Duel met de dood</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2484</ID><Nummer>7</Nummer><Titel>De zonen van de Keizer</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2485</ID><Nummer>8</Nummer><Titel>De verboden stad</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2486</ID><Nummer>9</Nummer><Titel>De Strijd om de Macht</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2487</ID><Nummer>10</Nummer><Titel>De Plaatsvervanger</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2488</ID><Nummer>11</Nummer><Titel>Dreiging uit het heelal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2489</ID><Nummer>12</Nummer><Titel>De gewetenloze bediende</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2490</ID><Nummer>13</Nummer><Titel>De wraak van een vriend</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2491</ID><Nummer>14</Nummer><Titel>De gestolen formule</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2492</ID><Nummer>15</Nummer><Titel>De vloek van de mummie</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2493</ID><Nummer>16</Nummer><Titel>De dubbelganger</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2494</ID><Nummer>17</Nummer><Titel>Het boze oog</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2495</ID><Nummer>18</Nummer><Titel>De genezende gokker</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2496</ID><Nummer>19</Nummer><Titel>De vergeten vallei</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>179</Id>
+  <Titel>Pandora Box</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3244</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Hoogmoed</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_1_3244.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3245</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Luiheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_2_3245.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3246</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Gulzigheid</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_3_3246.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3247</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Wellust</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_4_3247.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3248</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Hebzucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_5_3248.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3249</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Afgunst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_6_3249.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3250</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Woede</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_7_3250.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3251</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Hoop</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PandoraBox_8_3251.jpg</Afbeelding>
+      <ReeksId>179</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

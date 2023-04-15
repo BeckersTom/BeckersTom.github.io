@@ -1,1 +1,128 @@
-<Reeks><ID>108</ID><Titel>TDB</Titel><Strip><ID>1967</ID><Nummer>1</Nummer><Titel>Bilou</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>108</Id>
+  <Titel>Isabel</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2212</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het betoverde schilderij</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_1_2212.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2213</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Isabel en de kapitein</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_2_2213.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2214</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De hekserij van oom Hermes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_3_2214.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2215</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De ceintuur van Cassiopeia</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_4_2215.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2216</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een rijk van tien morgen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_5_2216.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2217</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De behekste vijver</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_6_2217.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2218</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het orakel van Delft</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_7_2218.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2219</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bolle maan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_8_2219.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2220</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tol van het jammerdal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_9_2220.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2221</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De betovering van Waterland</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_10_2221.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2222</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De grote bonbon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_11_2222.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2223</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vijf volken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Isabel_12_2223.jpg</Afbeelding>
+      <ReeksId>108</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

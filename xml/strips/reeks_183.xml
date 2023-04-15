@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>183</Id>
+  <Titel>Piet Pienter en Bert Bibber</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3290</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In het spoor van Sherlock Holmes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_1_3290.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3291</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Inca-schat der Cordillera</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_2_3291.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3292</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het raadsel van de Schimmenburcht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_3_3292.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3293</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Plakijzerpiraten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_4_3293.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3294</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diamantmijnen van Koningin Salami</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_5_3294.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3295</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Kumulus formule</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_6_3295.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3296</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>El rancho grande</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_7_3296.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3297</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bibber contra Tutter</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_8_3297.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3298</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Buldaarse rhapsodie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_9_3298.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3299</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De stralende meteoor</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_10_3299.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3300</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Avontuur in San Doremi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_11_3300.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3301</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Storm over Akhabakhadar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_12_3301.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3302</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De anti-zwaarte-kracht-generator</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_13_3302.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3303</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het straalgas mysterie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_14_3303.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3304</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De barbier van Bombilla</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_15_3304.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3305</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verborgen schat</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_16_3305.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3306</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vloek van Toetan Kanon</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_17_3306.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3307</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dubbel koolzure-soda-bom</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_18_3307.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3308</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Herrie om de Carolus Magnus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_19_3308.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3309</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diktator van San Doremi</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_20_3309.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3310</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Straalgoud</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_21_3310.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3311</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De diadeem van Swaba</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_22_3311.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3312</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bulder-lachgas</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_23_3312.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3313</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Invasie uit het heelal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_24_3313.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3314</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De tijdmachine</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_25_3314.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3315</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hypnose pillen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_26_3315.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3316</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het geval "Warwinkel"</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_27_3316.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3317</Id>
+      <Nummer>28</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Super-brandstof en pikante saus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_28_3317.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3318</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dubbelganger</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_29_3318.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3319</Id>
+      <Nummer>30</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Warwinkel in de war</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_30_3319.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3320</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Polarisatie-preparaat X X</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_31_3320.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3321</Id>
+      <Nummer>32</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hocus-focus-flits</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_32_3321.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3322</Id>
+      <Nummer>33</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gedonder in Bommelheide</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_33_3322.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3323</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zaak Blinkstein</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_34_3323.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3324</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie diepvries</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_35_3324.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3325</Id>
+      <Nummer>36</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De erfenis van nonkel Bibber</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_36_3325.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3326</Id>
+      <Nummer>37</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Atoombrandstof Warwinkelarium</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_37_3326.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3327</Id>
+      <Nummer>38</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zangkwintet "De lange asem"</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_38_3327.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3328</Id>
+      <Nummer>39</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Marie Huana</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_39_3328.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3329</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Hypnose-stralen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_40_3329.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3330</Id>
+      <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Systeem kleerkast</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_41_3330.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3331</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De supersonische schokgolf-oscillator</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_42_3331.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3332</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Intermezzo in Hamaj'Oewait</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_43_3332.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3333</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vakantie in Pandorra</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_44_3333.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3334</Id>
+      <Nummer>45</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Susan bij de Knobbelgilde</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>PietPienterenBertBibber_45_3334.jpg</Afbeelding>
+      <ReeksId>183</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,88 @@
-<Reeks><ID>186</ID><Titel>Tessa, intergalactische agente</Titel><Strip><ID>2541</ID><Nummer>1</Nummer><Titel>De Siderische moordenaar</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2542</ID><Nummer>2</Nummer><Titel>De tien platen van het labyrinth</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2543</ID><Nummer>3</Nummer><Titel>Zo mooi als een Diyo</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2544</ID><Nummer>4</Nummer><Titel>Cosmolympiades</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2545</ID><Nummer>5</Nummer><Titel>In het juweel...</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2647</ID><Nummer>6</Nummer><Titel>Dageraad in Montreal</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2988</ID><Nummer>7</Nummer><Titel>De visioenen van Av-Eugg</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2989</ID><Nummer>8</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>186</Id>
+  <Titel>Pokervrouw</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3348</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Operatie Olietankers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_1_3348.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3349</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Safari in de Groene Hel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_2_3349.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3350</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Wraak van de Mousthikos</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_3_3350.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3351</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Oproer in Ghafnistan</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_4_3351.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3352</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vervloeking</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_5_3352.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3353</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Bloed der Dewatah's</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_6_3353.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3354</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Oog van de Barracuda</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_7_3354.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3355</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wolvinnen van Han</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Pokervrouw_8_3355.jpg</Afbeelding>
+      <ReeksId>186</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

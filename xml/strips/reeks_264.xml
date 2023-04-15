@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>264</Id>
+  <Titel>Drie geesten van Tesla, De</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>4319</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het Chtokavische mysterie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>DriegeestenvanTesla_1_4319.jpg</Afbeelding>
+      <ReeksId>264</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4320</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het complot van de echte mensen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>DriegeestenvanTesla_2_4320.jpg</Afbeelding>
+      <ReeksId>264</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4321</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>264</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -1,1 +1,48 @@
-<Reeks><ID>101</ID><Titel>Cycloop</Titel><Strip><ID>1936</ID><Nummer>1</Nummer><Titel>De huurling</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2020</ID><Nummer>2</Nummer><Titel>De held</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2316</ID><Nummer>3</Nummer><Titel>De rebel</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2375</ID><Nummer>4</Nummer><Titel>De strijder</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2451</ID><Nummer>5</Nummer><Titel/><Aanwezig>0</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>101</Id>
+  <Titel>I.R.$. Team</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2182</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Football connection</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSTeam_1_2182.jpg</Afbeelding>
+      <ReeksId>101</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2183</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wags</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSTeam_2_2183.jpg</Afbeelding>
+      <ReeksId>101</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2184</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Goal Business</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSTeam_3_2184.jpg</Afbeelding>
+      <ReeksId>101</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2185</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het laatste schot</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRSTeam_4_2185.jpg</Afbeelding>
+      <ReeksId>101</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

@@ -22,28 +22,55 @@ function insertXMLData() {
 	var hr_elem = document.createElement("hr");
 	hr_elem.setAttribute("class","wide");
 	div.appendChild(hr_elem);
+	var form = document.createElement("form");
     var reeksen = req.responseXML.getElementsByTagName("Reeks");
     for (var i = 0; i < reeksen.length; i++) {
        var reeks_titel = document.createTextNode(getElementTextNS("", "Titel", reeksen[i], 0));
        var reeksenheader = document.createElement("h2");
 	   reeksenheader.setAttribute("class","shortlist");
        reeksenheader.appendChild(reeks_titel);
-       var strips = getChildrenByTagName(reeksen[i],"Strip");
-	   var p_reeks = document.createElement("p");
-	   p_reeks.setAttribute("class","shortlist");
-	   var reeks_content = "";
-       for (var j = 0; j < strips.length; j++) {         
-		  var nummer = getElementTextNS("", "Nummer", strips[j], 0);
-		  reeks_content = reeks_content + nummer + " - "; 
-       }
-	   if (strips.length > 0)
-	   {
-			reeks_content = reeks_content.substring(0, reeks_content.length - 3);
-			div.appendChild(reeksenheader);  
-			var p_reeks_content = document.createTextNode(reeks_content);
-			p_reeks.appendChild(p_reeks_content)
-			div.appendChild(p_reeks);
-	   }
+	   div.appendChild(reeksenheader);
+	   var striplist = getChildrenByTagName(reeksen[i],"Strips");
+       var strips = getChildrenByTagName(striplist[0],"Strip");
+	   for (var j = 0; j < strips.length; j++) {
+		  var p_strip = document.createElement("p");
+		  var a_strip = document.createElement("a");
+		  var cb_strip = document.createElement("input");
+		  cb_strip.setAttribute("type","checkbox");
+		  var stripnummer = getElementTextNS("", "Nummer", strips[j], 0);
+		  var stripsubnummer = getElementTextNS("", "Subnummer", strips[j], 0);
+		  var striptitel = getElementTextNS("", "Titel", strips[j], 0);
+		  var stripafbeelding = "images/covers/" + getElementTextNS("", "Afbeelding", strips[j], 0);
+		  if (striptitel == "")
+		  {
+			  striptitel = "...";
+		  }
+	      var stripdata_content = stripnummer + " - " + striptitel;
+		  if (stripnummer == "0")
+		  {
+			  stripdata_content = stripsubnummer + " - " + striptitel;
+		  }
+		  if (stripafbeelding != "images/covers/")
+		  {
+			  stripdata_content = stripdata_content + " #";
+		  }
+		  else
+		  {
+			  stripdata_content = " " + stripdata_content;
+		  }
+		  var stripdata = document.createTextNode(stripdata_content);
+		  p_strip.appendChild(cb_strip);
+		  if (stripafbeelding == "images/covers/")
+		  {
+			  p_strip.appendChild(stripdata);
+		  } else {
+			  var a_strip = document.createElement("a");
+			  a_strip.appendChild(stripdata);
+		      a_strip.setAttribute("href",stripafbeelding);
+		      p_strip.appendChild(a_strip);
+		  }
+		  div.appendChild(p_strip);
+       } 
     }
     //DEBUG IE
     //var debuginfo = document.createElement("xmp");

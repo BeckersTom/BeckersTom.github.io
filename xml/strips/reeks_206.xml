@@ -1,1 +1,128 @@
-<Reeks><ID>206</ID><Titel>Stomp</Titel><Strip><ID>2709</ID><Nummer>1</Nummer><Titel>De spoken van Knightgrave 1</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>2710</ID><Nummer>2</Nummer><Titel>De spoken van Knightgrave 2</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip><Strip><ID>3188</ID><Nummer>3</Nummer><Titel>De spoken van Knightgrave 3</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>206</Id>
+  <Titel>Sisco</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>3808</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Schiet alleen op bevel!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_1_3808.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3809</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Snoer haar de mond!</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_2_3809.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3810</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gin fizz</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_3_3810.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3811</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Whisky-Coke</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_4_3811.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3812</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kalasjnikov-diplomatie</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_5_3812.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3813</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Onderhandelingen in 9mm</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_6_3813.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3814</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De wet van Murphy</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_7_3814.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3815</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Realpolitik</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_8_3815.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3816</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gold black</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_9_3816.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3817</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Maori blues</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_10_3817.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3818</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Belgian rhapsody</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_11_3818.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>3819</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Russische roulette</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sisco_12_3819.jpg</Afbeelding>
+      <ReeksId>206</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

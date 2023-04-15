@@ -1,1 +1,247 @@
-<Reeks><ID>162</ID><Titel>Witte Termiet</Titel><Strip><ID>2347</ID><Nummer>1</Nummer><Titel>Eerste boek - Wedergeboorte</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2353</ID><Nummer>2</Nummer><Titel>Tweede boek - Lotsbestemming</Titel><Aanwezig>1</Aanwezig><Gelezen>1</Gelezen></Strip><Strip><ID>2354</ID><Nummer>3</Nummer><Titel>Derde boek - Jacht zonder genade</Titel><Aanwezig>1</Aanwezig><Gelezen>0</Gelezen></Strip></Reeks>
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>162</Id>
+  <Titel>Natasja</Titel>
+  <Kopen>true</Kopen>
+  <Strips>
+    <Strip>
+      <Id>2861</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Luchtstewardess</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_1_2861.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2862</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>en de maharadja</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_2_2862.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2863</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het metalen geheugen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_3_2863.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2864</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een troon uit de lucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_4_2864.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2865</Id>
+      <Nummer>5</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kaapvlucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_5_2865.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2866</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dertiende apostel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_6_2866.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2867</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vlucht van de Mona Lisa</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_7_2867.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2868</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opnamen voor Caltech</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_8_2868.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2869</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De raadselachtige gedaanten</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_9_2869.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2870</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een afgelegen eiland</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_10_2870.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2871</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De weddenschap</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_11_2871.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2872</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De brute koekjes</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_12_2872.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2873</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Asiel in de ruimte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_13_2873.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2874</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Luchtspiegelingen</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_14_2874.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2875</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De riem van professor Dyffuus</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_15_2875.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2876</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blonde engel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_16_2876.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2877</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De zwarte weduwe</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_17_2877.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2878</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De dinosauriers</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_18_2878.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2879</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rotsenzee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_19_2879.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2880</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Atoll 66</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_20_2880.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2881</Id>
+      <Nummer>21</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blik van het verleden</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_21_2881.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2882</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De blauwe sperwer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_22_2882.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2883</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>In het spoor van de blauwe sperwer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Natasja_23_2883.jpg</Afbeelding>
+      <ReeksId>162</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2884</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>162</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>
