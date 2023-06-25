@@ -3,6 +3,7 @@
   <Id>141</Id>
   <Titel>Legenden van Troy</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2625</Id>

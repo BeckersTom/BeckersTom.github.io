@@ -3,6 +3,7 @@
   <Id>34</Id>
   <Titel>Arctica</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1347</Id>

@@ -3,6 +3,7 @@
   <Id>122</Id>
   <Titel>Kolonisatie</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2408</Id>
@@ -62,6 +63,15 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Kolonisatie_6_4332.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4370</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Gevolgen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>122</ReeksId>
     </Strip>
   </Strips>

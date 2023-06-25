@@ -3,6 +3,7 @@
   <Id>30</Id>
   <Titel>Antares</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1304</Id>

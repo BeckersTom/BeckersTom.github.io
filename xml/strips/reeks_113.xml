@@ -3,6 +3,7 @@
   <Id>113</Id>
   <Titel>January Jones</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2246</Id>

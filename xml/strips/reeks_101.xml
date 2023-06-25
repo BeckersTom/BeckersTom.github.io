@@ -3,6 +3,7 @@
   <Id>101</Id>
   <Titel>I.R.$. Team</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2182</Id>

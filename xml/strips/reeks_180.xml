@@ -3,6 +3,7 @@
   <Id>180</Id>
   <Titel>Papyrus</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>3252</Id>

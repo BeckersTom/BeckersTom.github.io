@@ -3,6 +3,7 @@
   <Id>112</Id>
   <Titel>Jaguar</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2241</Id>

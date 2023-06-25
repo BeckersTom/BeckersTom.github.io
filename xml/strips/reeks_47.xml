@@ -3,6 +3,7 @@
   <Id>47</Id>
   <Titel>Bob Morane (uitg. Lombard)</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1630</Id>

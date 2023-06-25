@@ -3,6 +3,7 @@
   <Id>144</Id>
   <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2675</Id>

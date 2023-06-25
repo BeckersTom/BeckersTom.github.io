@@ -3,6 +3,7 @@
   <Id>125</Id>
   <Titel>Kookaburra</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2440</Id>

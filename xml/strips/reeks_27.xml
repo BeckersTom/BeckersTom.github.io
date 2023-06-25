@@ -3,6 +3,7 @@
   <Id>27</Id>
   <Titel>Amazonia</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1284</Id>

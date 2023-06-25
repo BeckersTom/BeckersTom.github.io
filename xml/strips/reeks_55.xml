@@ -3,6 +3,7 @@
   <Id>55</Id>
   <Titel>Carthago</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1777</Id>

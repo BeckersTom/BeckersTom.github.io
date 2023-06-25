@@ -3,6 +3,7 @@
   <Id>23</Id>
   <Titel>Alex</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1223</Id>
@@ -408,7 +409,7 @@
       <Id>4365</Id>
       <Nummer>41</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>De koning van de amazones</Titel>
+      <Titel>De koningin van de amazones</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_41_4365.jpg</Afbeelding>

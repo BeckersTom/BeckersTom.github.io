@@ -3,6 +3,7 @@
   <Id>22</Id>
   <Titel>Aldebaran</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1218</Id>

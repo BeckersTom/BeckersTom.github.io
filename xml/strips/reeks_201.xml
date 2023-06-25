@@ -3,6 +3,7 @@
   <Id>201</Id>
   <Titel>Sammy</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>3759</Id>

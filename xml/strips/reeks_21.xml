@@ -3,6 +3,7 @@
   <Id>21</Id>
   <Titel>Akira</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1212</Id>

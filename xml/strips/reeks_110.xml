@@ -3,6 +3,7 @@
   <Id>110</Id>
   <Titel>Islandia</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2233</Id>

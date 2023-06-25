@@ -3,6 +3,7 @@
   <Id>188</Id>
   <Titel>Professor Bell</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>3360</Id>

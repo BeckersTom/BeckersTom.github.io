@@ -3,6 +3,7 @@
   <Id>123</Id>
   <Titel>Konvooi</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2413</Id>

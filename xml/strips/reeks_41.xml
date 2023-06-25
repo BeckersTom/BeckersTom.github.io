@@ -3,6 +3,7 @@
   <Id>41</Id>
   <Titel>Black Op</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1492</Id>

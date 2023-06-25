@@ -3,6 +3,7 @@
   <Id>29</Id>
   <Titel>Androiden</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1295</Id>

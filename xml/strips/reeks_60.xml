@@ -3,6 +3,7 @@
   <Id>60</Id>
   <Titel>Chick Bill</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1817</Id>

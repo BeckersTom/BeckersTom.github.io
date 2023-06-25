@@ -3,6 +3,7 @@
   <Id>235</Id>
   <Titel>Werelden van Thorgal, De</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>4099</Id>
@@ -262,6 +263,15 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>WereldenvanThorgal_26_4362.jpg</Afbeelding>
+      <ReeksId>235</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4369</Id>
+      <Nummer>27</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Jonge Jaren - Grym</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>235</ReeksId>
     </Strip>
   </Strips>

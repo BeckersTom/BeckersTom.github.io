@@ -3,6 +3,7 @@
   <Id>222</Id>
   <Titel>Thorgal</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>3934</Id>

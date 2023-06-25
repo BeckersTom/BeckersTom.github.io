@@ -3,6 +3,7 @@
   <Id>75</Id>
   <Titel>Docteur Mystère</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1951</Id>

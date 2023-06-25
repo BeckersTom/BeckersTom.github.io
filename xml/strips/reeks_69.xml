@@ -3,6 +3,7 @@
   <Id>69</Id>
   <Titel>Cycloop</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1914</Id>

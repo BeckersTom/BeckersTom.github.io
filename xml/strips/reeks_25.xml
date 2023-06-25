@@ -3,6 +3,7 @@
   <Id>25</Id>
   <Titel>Alfa - Eerste Wapenfeiten</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1277</Id>

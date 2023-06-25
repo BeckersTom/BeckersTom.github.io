@@ -3,6 +3,7 @@
   <Id>232</Id>
   <Titel>Vuur</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>4090</Id>

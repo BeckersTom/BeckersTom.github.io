@@ -3,6 +3,7 @@
   <Id>200</Id>
   <Titel>Rubine</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>3746</Id>

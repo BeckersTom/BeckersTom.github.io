@@ -3,6 +3,7 @@
   <Id>83</Id>
   <Titel>Europa</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1991</Id>
@@ -18,7 +19,7 @@
       <Id>1992</Id>
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>Duizelingen</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>83</ReeksId>

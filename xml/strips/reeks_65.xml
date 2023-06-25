@@ -3,6 +3,7 @@
   <Id>65</Id>
   <Titel>Cixi van Troy</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1898</Id>

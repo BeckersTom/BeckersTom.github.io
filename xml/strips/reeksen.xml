@@ -4,21 +4,25 @@
     <Id>15</Id>
     <Titel>Aâma</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>16</Id>
     <Titel>Adler</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>17</Id>
     <Titel>Agency Interpol</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>18</Id>
     <Titel>Agent 212</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1178</Id>
@@ -36,6 +40,7 @@
     <Id>19</Id>
     <Titel>Agent 327</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4295</Id>
@@ -62,21 +67,25 @@
     <Id>20</Id>
     <Titel>Agent 327 (Integraal)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>21</Id>
     <Titel>Akira</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>22</Id>
     <Titel>Aldebaran</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>23</Id>
     <Titel>Alex</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1259</Id>
@@ -122,7 +131,7 @@
         <Id>4365</Id>
         <Nummer>41</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel>De koning van de amazones</Titel>
+        <Titel>De koningin van de amazones</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Alex_41_4365.jpg</Afbeelding>
@@ -134,11 +143,13 @@
     <Id>24</Id>
     <Titel>Alfa</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1281</Id>
@@ -156,21 +167,25 @@
     <Id>26</Id>
     <Titel>Amazones van Troy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>27</Id>
     <Titel>Amazonia</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>28</Id>
     <Titel>Amoras</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>29</Id>
     <Titel>Androiden</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4299</Id>
@@ -205,16 +220,19 @@
     <Id>30</Id>
     <Titel>Antares</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>31</Id>
     <Titel>Apocalypse Mania</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>32</Id>
     <Titel>Aquablue</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1331</Id>
@@ -232,11 +250,13 @@
     <Id>33</Id>
     <Titel>Archie Cash</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>34</Id>
     <Titel>Arctica</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1356</Id>
@@ -254,11 +274,13 @@
     <Id>35</Id>
     <Titel>Aria</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>36</Id>
     <Titel>Arkel (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1402</Id>
@@ -276,6 +298,7 @@
     <Id>37</Id>
     <Titel>Asterix</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1440</Id>
@@ -303,11 +326,13 @@
     <Id>38</Id>
     <Titel>Auschwitz</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>39</Id>
     <Titel>Baard &amp; Kale</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1475</Id>
@@ -325,31 +350,37 @@
     <Id>40</Id>
     <Titel>Betelgeuze</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>41</Id>
     <Titel>Black Op</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>263</Id>
     <Titel>Black squaw</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>42</Id>
     <Titel>Blacksad</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>43</Id>
     <Titel>Blake en Mortimer</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>44</Id>
     <Titel>Blauwbloezen, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1596</Id>
@@ -407,16 +438,19 @@
     <Id>45</Id>
     <Titel>Bloed &amp; Stilte</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>46</Id>
     <Titel>Bob Morane (uitg. Claude Lefrancq)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>47</Id>
     <Titel>Bob Morane (uitg. Lombard)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1676</Id>
@@ -433,26 +467,31 @@
     <Id>48</Id>
     <Titel>Bruno Brazil</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>49</Id>
     <Titel>Bruno Brazil, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>50</Id>
     <Titel>Buck Danny</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>51</Id>
     <Titel>Buck Danny Classic</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>52</Id>
     <Titel>Buck Danny Kortverhalen</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1755</Id>
@@ -480,11 +519,13 @@
     <Id>53</Id>
     <Titel>Buck Danny One-shot</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>54</Id>
     <Titel>Carmen McCallum</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1773</Id>
@@ -528,6 +569,7 @@
     <Id>55</Id>
     <Titel>Carthago</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1788</Id>
@@ -563,6 +605,7 @@
     <Id>56</Id>
     <Titel>Carthago Adventures</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1794</Id>
@@ -580,6 +623,7 @@
     <Id>57</Id>
     <Titel>Centauren</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1798</Id>
@@ -597,16 +641,19 @@
     <Id>58</Id>
     <Titel>Centaurus</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>59</Id>
     <Titel>Charly</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>60</Id>
     <Titel>Chick Bill</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1817</Id>
@@ -724,16 +771,19 @@
     <Id>61</Id>
     <Titel>Chimère(s) 1887</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>62</Id>
     <Titel>Chimpansee-syndroom, Het</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>63</Id>
     <Titel>Chinees Rood</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1893</Id>
@@ -761,16 +811,19 @@
     <Id>64</Id>
     <Titel>Chninkel, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>65</Id>
     <Titel>Cixi van Troy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>66</Id>
     <Titel>Collectie B.D. Ecrivains</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1901</Id>
@@ -827,11 +880,13 @@
     <Id>67</Id>
     <Titel>Commissaris Martens (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>68</Id>
     <Titel>Conquests</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4317</Id>
@@ -858,6 +913,7 @@
     <Id>69</Id>
     <Titel>Cycloop</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1918</Id>
@@ -874,16 +930,19 @@
     <Id>70</Id>
     <Titel>Cyclus van Cyann, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>71</Id>
     <Titel>Dallas Barr</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>72</Id>
     <Titel>Dees Dubbel, De daverende daden van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1933</Id>
@@ -911,27 +970,31 @@
     <Id>73</Id>
     <Titel>Dexter London</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>74</Id>
     <Titel>Djinn</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>75</Id>
     <Titel>Docteur Mystère</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>264</Id>
     <Titel>Drie geesten van Tesla, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4321</Id>
         <Nummer>3</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>De erfgenamen van de puls</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>264</ReeksId>
@@ -942,52 +1005,61 @@
     <Id>76</Id>
     <Titel>Duivels van Alexia, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>77</Id>
     <Titel>Ekhö, de spiegelwereld</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>78</Id>
     <Titel>Elixers</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>79</Id>
     <Titel>Ellis</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>80</Id>
     <Titel>Empire USA</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>81</Id>
     <Titel>Empire USA 2</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>82</Id>
     <Titel>Enorme angst</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>256</Id>
     <Titel>Eternum</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>83</Id>
     <Titel>Europa</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1992</Id>
         <Nummer>2</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Duizelingen</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>83</ReeksId>
@@ -998,6 +1070,7 @@
     <Id>84</Id>
     <Titel>Fanny K.</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>1995</Id>
@@ -1015,16 +1088,19 @@
     <Id>85</Id>
     <Titel>Final Incal</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>86</Id>
     <Titel>Franka</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>87</Id>
     <Titel>G. Raf Zerk</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2058</Id>
@@ -1041,26 +1117,31 @@
     <Id>88</Id>
     <Titel>Geheim van de tijd</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>89</Id>
     <Titel>Gen Barrevoets in Hiroshima</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>90</Id>
     <Titel>Generaal, De</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>91</Id>
     <Titel>Geverniste vernepelingskes, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>92</Id>
     <Titel>Gil Sinclair</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2098</Id>
@@ -1077,36 +1158,43 @@
     <Id>93</Id>
     <Titel>Golden City</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>94</Id>
     <Titel>Golden Cup</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>95</Id>
     <Titel>Groom Lake</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>96</Id>
     <Titel>Guust Flater</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>97</Id>
     <Titel>Hans</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>98</Id>
     <Titel>Hel, De avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>99</Id>
     <Titel>I.R.$.</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2173</Id>
@@ -1154,46 +1242,55 @@
     <Id>100</Id>
     <Titel>I.R.$. All Watcher</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>101</Id>
     <Titel>I.R.$. Team</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>102</Id>
     <Titel>Ian Kaledine</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>103</Id>
     <Titel>Ilias, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>104</Id>
     <Titel>Imago mundi</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>105</Id>
     <Titel>Incal, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>106</Id>
     <Titel>Interpol Brussel</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>107</Id>
     <Titel>Intox</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>108</Id>
     <Titel>Isabel</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2217</Id>
@@ -1221,21 +1318,25 @@
     <Id>109</Id>
     <Titel>Isabelle Avondrood, De fantastische avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>110</Id>
     <Titel>Islandia</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>111</Id>
     <Titel>J.Rom Force of gold</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>112</Id>
     <Titel>Jaguar</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2245</Id>
@@ -1252,11 +1353,13 @@
     <Id>113</Id>
     <Titel>January Jones</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>114</Id>
     <Titel>Jeremiah</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2294</Id>
@@ -1284,26 +1387,31 @@
     <Id>115</Id>
     <Titel>Jerome K. Jerome Bloks</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>116</Id>
     <Titel>Jessica Blandy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>117</Id>
     <Titel>Kapitein Kreiss</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>118</Id>
     <Titel>Karaat</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>119</Id>
     <Titel>Katamarom, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2388</Id>
@@ -1341,21 +1449,36 @@
     <Id>120</Id>
     <Titel>Kenya</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>121</Id>
     <Titel>Kleine Wereld, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>122</Id>
     <Titel>Kolonisatie</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>4370</Id>
+        <Nummer>7</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Gevolgen</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>122</ReeksId>
+      </Strip>
+    </Strips>
   </Reeks>
   <Reeks>
     <Id>123</Id>
     <Titel>Konvooi</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2431</Id>
@@ -1408,11 +1531,13 @@
     <Id>124</Id>
     <Titel>Konvooi, De jeugdjaren van Nävis</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>125</Id>
     <Titel>Kookaburra</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2441</Id>
@@ -1468,6 +1593,7 @@
     <Id>126</Id>
     <Titel>Kookaburra K</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2450</Id>
@@ -1484,6 +1610,7 @@
     <Id>127</Id>
     <Titel>Kookaburra Universe</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2451</Id>
@@ -1628,16 +1755,19 @@
     <Id>128</Id>
     <Titel>Koralovski</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>129</Id>
     <Titel>Kraai, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>130</Id>
     <Titel>Kronieken van Amoras, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2476</Id>
@@ -1705,6 +1835,7 @@
     <Id>131</Id>
     <Titel>Kronieken van Konvooi, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2484</Id>
@@ -1748,71 +1879,85 @@
     <Id>132</Id>
     <Titel>Kuifje</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>133</Id>
     <Titel>Laatste grens, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>265</Id>
     <Titel>Labyrinten</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>134</Id>
     <Titel>Lady Mechanika</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>135</Id>
     <Titel>Lady S.</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>136</Id>
     <Titel>Lanfeust Odyssey</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>137</Id>
     <Titel>Lanfeust van de sterren</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>138</Id>
     <Titel>Lanfeust van Troy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>139</Id>
     <Titel>Largo Winch</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>140</Id>
     <Titel>Lefranc</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>141</Id>
     <Titel>Legenden van Troy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>142</Id>
     <Titel>Leonardo</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>143</Id>
     <Titel>Luc Orient</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>144</Id>
     <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2682</Id>
@@ -1880,16 +2025,19 @@
     <Id>145</Id>
     <Titel>Megalex</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>146</Id>
     <Titel>Mermaid Project</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>147</Id>
     <Titel>Meta-baron</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2731</Id>
@@ -1916,16 +2064,19 @@
     <Id>148</Id>
     <Titel>Metabaronnen, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>149</Id>
     <Titel>Metabaronnen, De - Castaka</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>150</Id>
     <Titel>Mick Mac Adam (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2748</Id>
@@ -1953,11 +2104,13 @@
     <Id>151</Id>
     <Titel>Mick Mac Adam, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>152</Id>
     <Titel>Mini-Mensjes, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2784</Id>
@@ -2065,51 +2218,81 @@
     <Id>153</Id>
     <Titel>Mini-Mensjes, De (Integraal)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>4371</Id>
+        <Nummer>11</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Deel 11</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>153</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>4372</Id>
+        <Nummer>11</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Deel 12</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>153</ReeksId>
+      </Strip>
+    </Strips>
   </Reeks>
   <Reeks>
     <Id>154</Id>
     <Titel>Moeder Rusland</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>155</Id>
     <Titel>Moréa</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>156</Id>
     <Titel>Mr. Kweeniewa en geniale Olivier</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>157</Id>
     <Titel>Murena</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>158</Id>
     <Titel>Mutations</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>159</Id>
     <Titel>Namibia</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>160</Id>
     <Titel>Narvalo</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>161</Id>
     <Titel>Nash</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>162</Id>
     <Titel>Natasja</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>2884</Id>
@@ -2126,46 +2309,55 @@
     <Id>266</Id>
     <Titel>Neptunus</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>163</Id>
     <Titel>Nero</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>164</Id>
     <Titel>Nero (klassiek)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>165</Id>
     <Titel>Nieuwe ijstijd, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>166</Id>
     <Titel>Niklos Koda</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>167</Id>
     <Titel>Niourk</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>168</Id>
     <Titel>Nova Genesis</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>169</Id>
     <Titel>Oekaze</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>170</Id>
     <Titel>Olympus Mons</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3138</Id>
@@ -2211,6 +2403,7 @@
     <Id>171</Id>
     <Titel>Onnoembaren, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3140</Id>
@@ -2227,26 +2420,31 @@
     <Id>172</Id>
     <Titel>Onnoembaren, De (Integraal)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>173</Id>
     <Titel>Op zoek naar de tijdvogel</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>174</Id>
     <Titel>Orbital</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>175</Id>
     <Titel>Overlevenden</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>176</Id>
     <Titel>Paling &amp; Ko</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3188</Id>
@@ -2274,6 +2472,7 @@
     <Id>177</Id>
     <Titel>Paling &amp; Ko (oud - rode kaft)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3192</Id>
@@ -2651,16 +2850,19 @@
     <Id>178</Id>
     <Titel>Pandemonium</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>179</Id>
     <Titel>Pandora Box</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>180</Id>
     <Titel>Papyrus</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3279</Id>
@@ -2678,31 +2880,37 @@
     <Id>181</Id>
     <Titel>Phenomenum</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>182</Id>
     <Titel>Philip en Francis, De avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>183</Id>
     <Titel>Piet Pienter en Bert Bibber</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>184</Id>
     <Titel>Pin-up</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>185</Id>
     <Titel>Poison Ivy, De heldendaden van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>186</Id>
     <Titel>Pokervrouw</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3352</Id>
@@ -2750,16 +2958,19 @@
     <Id>187</Id>
     <Titel>Polstar</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>188</Id>
     <Titel>Professor Bell</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>189</Id>
     <Titel>Prometheus</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3383</Id>
@@ -2794,6 +3005,7 @@
     <Id>190</Id>
     <Titel>Ravian, de tijd/ruimte agent</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3399</Id>
@@ -2831,21 +3043,25 @@
     <Id>191</Id>
     <Titel>Reign</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>192</Id>
     <Titel>Retroworld</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>193</Id>
     <Titel>Rik Ringers</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>194</Id>
     <Titel>Rik Ringers, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3493</Id>
@@ -2893,26 +3109,31 @@
     <Id>195</Id>
     <Titel>Robbedoes</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>196</Id>
     <Titel>Robbedoes en Kwabbernoot</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>197</Id>
     <Titel>Robbedoes en Kwabbernoot (alternatief)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>198</Id>
     <Titel>Robbedoes speciaal</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>199</Id>
     <Titel>Roze Bottel</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3744</Id>
@@ -2930,6 +3151,7 @@
     <Id>200</Id>
     <Titel>Rubine</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4355</Id>
@@ -2947,11 +3169,13 @@
     <Id>201</Id>
     <Titel>Sammy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>202</Id>
     <Titel>Sammy, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3798</Id>
@@ -2969,11 +3193,13 @@
     <Id>203</Id>
     <Titel>Sangre</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>204</Id>
     <Titel>Showman Killer</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3804</Id>
@@ -2991,11 +3217,13 @@
     <Id>205</Id>
     <Titel>SinBad</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>206</Id>
     <Titel>Sisco</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3813</Id>
@@ -3073,26 +3301,31 @@
     <Id>207</Id>
     <Titel>Sjors &amp; Sjimmie</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>208</Id>
     <Titel>Soda</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>209</Id>
     <Titel>Spiegel van Alice, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>210</Id>
     <Titel>Stomp</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>211</Id>
     <Titel>Storm</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4356</Id>
@@ -3110,21 +3343,25 @@
     <Id>212</Id>
     <Titel>Storm, De kronieken van de buitenring</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>213</Id>
     <Titel>Storm, De kronieken van Roodhaar</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>214</Id>
     <Titel>Storm, Kronieken van de tussentijd</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3904</Id>
@@ -3152,21 +3389,25 @@
     <Id>216</Id>
     <Titel>Tarawa</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>217</Id>
     <Titel>TDB</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>218</Id>
     <Titel>Technovaders, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>219</Id>
     <Titel>Territorium</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3920</Id>
@@ -3201,11 +3442,13 @@
     <Id>220</Id>
     <Titel>Terug naar Aldebaran</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>221</Id>
     <Titel>Tessa, intergalactische agente</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>3933</Id>
@@ -3222,61 +3465,73 @@
     <Id>1</Id>
     <Titel>TestReeks1</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>2</Id>
     <Titel>TestReeks2</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>3</Id>
     <Titel>TestReeks3</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>5</Id>
     <Titel>TestReeks5</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>222</Id>
     <Titel>Thorgal</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>223</Id>
     <Titel>Travis</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>224</Id>
     <Titel>Trigië (uitg. Big Balloon)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>225</Id>
     <Titel>Trigië (uitg. Oberon)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>226</Id>
     <Titel>Trollen van Troy</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>227</Id>
     <Titel>Tschaï - De waanzinnige planeet</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>228</Id>
     <Titel>Valstrik op Zarkas</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>229</Id>
     <Titel>Veroveraars van Troy, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4077</Id>
@@ -3293,16 +3548,19 @@
     <Id>230</Id>
     <Titel>Verre Werelden</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>231</Id>
     <Titel>Vlad</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>232</Id>
     <Titel>Vuur</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4091</Id>
@@ -3319,26 +3577,42 @@
     <Id>233</Id>
     <Titel>Ward</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>234</Id>
     <Titel>Waterwereld Askell</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>235</Id>
     <Titel>Werelden van Thorgal, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>4369</Id>
+        <Nummer>27</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De Jonge Jaren - Grym</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>235</ReeksId>
+      </Strip>
+    </Strips>
   </Reeks>
   <Reeks>
     <Id>236</Id>
     <Titel>Wika</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>237</Id>
     <Titel>Witte Klauw</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4128</Id>
@@ -3356,31 +3630,37 @@
     <Id>238</Id>
     <Titel>Witte Termiet</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>239</Id>
     <Titel>Witte Tijgerin</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>240</Id>
     <Titel>Witte Tijgerin - Tweede cyclus</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>241</Id>
     <Titel>Woogee</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>242</Id>
     <Titel>Woogee (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>243</Id>
     <Titel>Wordt vervolgd romans</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4144</Id>
@@ -3406,11 +3686,13 @@
     <Id>244</Id>
     <Titel>Wouden van Opaal, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>245</Id>
     <Titel>XIII</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4368</Id>
@@ -3457,6 +3739,7 @@
     <Id>246</Id>
     <Titel>XIII Mystery</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4196</Id>
@@ -3484,6 +3767,7 @@
     <Id>247</Id>
     <Titel>Yiu</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
     <Strips>
       <Strip>
         <Id>4200</Id>
@@ -3509,40 +3793,48 @@
     <Id>248</Id>
     <Titel>Yoko Tsuno</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>249</Id>
     <Titel>Ythaq</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>250</Id>
     <Titel>Zakkenloper &amp; Blasius (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>251</Id>
     <Titel>Zang van de Vampiers, De</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>252</Id>
     <Titel>Zapman (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>253</Id>
     <Titel>Zentak</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>254</Id>
     <Titel>Zwendel</Titel>
     <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
     <Id>255</Id>
     <Titel>_TestReeks</Titel>
     <Kopen>false</Kopen>
+    <IsComic>false</IsComic>
   </Reeks>
 </Reeksen>

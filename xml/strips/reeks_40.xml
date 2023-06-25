@@ -3,6 +3,7 @@
   <Id>40</Id>
   <Titel>Betelgeuze</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1487</Id>

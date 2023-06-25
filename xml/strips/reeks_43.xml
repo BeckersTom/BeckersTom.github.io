@@ -3,6 +3,7 @@
   <Id>43</Id>
   <Titel>Blake en Mortimer</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1506</Id>

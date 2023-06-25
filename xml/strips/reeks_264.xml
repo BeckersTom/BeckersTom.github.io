@@ -3,6 +3,7 @@
   <Id>264</Id>
   <Titel>Drie geesten van Tesla, De</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>4319</Id>
@@ -28,7 +29,7 @@
       <Id>4321</Id>
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De erfgenamen van de puls</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>264</ReeksId>

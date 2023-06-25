@@ -3,6 +3,7 @@
   <Id>66</Id>
   <Titel>Collectie B.D. Ecrivains</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1901</Id>

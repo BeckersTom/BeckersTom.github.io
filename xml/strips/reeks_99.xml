@@ -3,6 +3,7 @@
   <Id>99</Id>
   <Titel>I.R.$.</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2154</Id>

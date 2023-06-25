@@ -3,6 +3,7 @@
   <Id>57</Id>
   <Titel>Centauren</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1795</Id>

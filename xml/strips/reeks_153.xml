@@ -3,6 +3,7 @@
   <Id>153</Id>
   <Titel>Mini-Mensjes, De (Integraal)</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2799</Id>
@@ -102,6 +103,24 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>MiniMensjesIntegraal_10_4286.jpg</Afbeelding>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4371</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 11</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>153</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4372</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 12</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>153</ReeksId>
     </Strip>
   </Strips>

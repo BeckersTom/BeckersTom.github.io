@@ -3,6 +3,7 @@
   <Id>73</Id>
   <Titel>Dexter London</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1935</Id>

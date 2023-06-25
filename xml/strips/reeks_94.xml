@@ -3,6 +3,7 @@
   <Id>94</Id>
   <Titel>Golden Cup</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2112</Id>

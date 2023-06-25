@@ -3,6 +3,7 @@
   <Id>42</Id>
   <Titel>Blacksad</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1500</Id>

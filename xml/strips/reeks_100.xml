@@ -3,6 +3,7 @@
   <Id>100</Id>
   <Titel>I.R.$. All Watcher</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2175</Id>

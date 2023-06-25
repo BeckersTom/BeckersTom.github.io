@@ -3,6 +3,7 @@
   <Id>78</Id>
   <Titel>Elixers</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1970</Id>

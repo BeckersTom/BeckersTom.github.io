@@ -3,6 +3,7 @@
   <Id>234</Id>
   <Titel>Waterwereld Askell</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>4096</Id>

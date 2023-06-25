@@ -3,6 +3,7 @@
   <Id>86</Id>
   <Titel>Franka</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2000</Id>

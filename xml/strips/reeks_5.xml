@@ -3,5 +3,6 @@
   <Id>5</Id>
   <Titel>TestReeks5</Titel>
   <Kopen>false</Kopen>
+  <IsComic>false</IsComic>
   <Strips />
 </Reeks>

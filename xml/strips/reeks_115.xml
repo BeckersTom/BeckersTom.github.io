@@ -3,6 +3,7 @@
   <Id>115</Id>
   <Titel>Jerome K. Jerome Bloks</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2295</Id>

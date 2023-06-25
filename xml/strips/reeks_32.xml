@@ -3,6 +3,7 @@
   <Id>32</Id>
   <Titel>Aquablue</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1315</Id>

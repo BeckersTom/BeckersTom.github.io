@@ -3,6 +3,7 @@
   <Id>37</Id>
   <Titel>Asterix</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>1403</Id>

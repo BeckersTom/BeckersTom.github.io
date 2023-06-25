@@ -3,6 +3,7 @@
   <Id>33</Id>
   <Titel>Archie Cash</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>4281</Id>

@@ -3,6 +3,7 @@
   <Id>118</Id>
   <Titel>Karaat</Titel>
   <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
   <Strips>
     <Strip>
       <Id>2352</Id>
