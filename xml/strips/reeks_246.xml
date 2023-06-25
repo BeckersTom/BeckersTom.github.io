@@ -120,7 +120,7 @@
       <Nummer>12</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Alan Smith</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIIIMystery_12_4196.jpg</Afbeelding>
       <ReeksId>246</ReeksId>
@@ -130,7 +130,7 @@
       <Nummer>13</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Judith Warner</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIIIMystery_13_4197.jpg</Afbeelding>
       <ReeksId>246</ReeksId>

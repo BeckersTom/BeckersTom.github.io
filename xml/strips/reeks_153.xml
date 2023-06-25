@@ -110,7 +110,7 @@
       <Nummer>11</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Deel 11</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>153</ReeksId>
     </Strip>

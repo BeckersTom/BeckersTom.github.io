@@ -10,7 +10,7 @@
       <Nummer>0</Nummer>
       <Subnummer>13b</Subnummer>
       <Titel> Het onderzoek, tweede deel</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>245</ReeksId>
     </Strip>
@@ -259,7 +259,7 @@
       <Nummer>25</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>The XIII History</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIII_25_4182.jpg</Afbeelding>
       <ReeksId>245</ReeksId>
@@ -269,7 +269,7 @@
       <Nummer>26</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>2132 meter</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIII_26_4183.jpg</Afbeelding>
       <ReeksId>245</ReeksId>

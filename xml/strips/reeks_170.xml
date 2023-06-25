@@ -60,7 +60,7 @@
       <Nummer>6</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Einstein</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>OlympusMons_6_3138.jpg</Afbeelding>
       <ReeksId>170</ReeksId>

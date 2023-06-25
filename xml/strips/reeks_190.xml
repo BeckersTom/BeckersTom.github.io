@@ -160,7 +160,7 @@
       <Nummer>15</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De sferen van de macht</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Raviandetijdruimteagent_15_3400.jpg</Afbeelding>
       <ReeksId>190</ReeksId>

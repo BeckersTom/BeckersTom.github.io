@@ -30,7 +30,7 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De erfgenamen van de puls</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>264</ReeksId>
     </Strip>

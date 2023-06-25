@@ -26,6 +26,15 @@
       <ReeksId>43</ReeksId>
     </Strip>
     <Strip>
+      <Id>4375</Id>
+      <Nummer>0</Nummer>
+      <Subnummer>U2</Subnummer>
+      <Titel>De vuurpijl</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
       <Id>1507</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />

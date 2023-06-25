@@ -155,5 +155,23 @@
       <Afbeelding>LadyMechanika_15_2528.jpg</Afbeelding>
       <ReeksId>134</ReeksId>
     </Strip>
+    <Strip>
+      <Id>4378</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het monster van het ministerie van de hel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4379</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het monster van het ministerie van de hel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>134</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

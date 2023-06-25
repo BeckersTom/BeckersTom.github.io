@@ -70,7 +70,7 @@
       <Nummer>7</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Gevolgen</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>122</ReeksId>
     </Strip>

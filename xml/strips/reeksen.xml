@@ -233,18 +233,6 @@
     <Titel>Aquablue</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>1331</Id>
-        <Nummer>17</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De nacht van de genade</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Aquablue_17_1331.jpg</Afbeelding>
-        <ReeksId>32</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>33</Id>
@@ -989,17 +977,6 @@
     <Titel>Drie geesten van Tesla, De</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4321</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De erfgenamen van de puls</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>264</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>76</Id>
@@ -1054,17 +1031,6 @@
     <Titel>Europa</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>1992</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Duizelingen</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>83</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>84</Id>
@@ -1371,16 +1337,6 @@
         <Afbeelding>Jeremiah_38_2294.jpg</Afbeelding>
         <ReeksId>114</ReeksId>
       </Strip>
-      <Strip>
-        <Id>4330</Id>
-        <Nummer>39</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Rancune</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Jeremiah_39_4330.jpg</Afbeelding>
-        <ReeksId>114</ReeksId>
-      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -1462,17 +1418,6 @@
     <Titel>Kolonisatie</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4370</Id>
-        <Nummer>7</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Gevolgen</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>122</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>123</Id>
@@ -2040,16 +1985,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>2731</Id>
-        <Nummer>7</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Adal, de bastaard</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Metabaron_7_2731.jpg</Afbeelding>
-        <ReeksId>147</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4342</Id>
         <Nummer>8</Nummer>
         <Subnummer xsi:nil="true" />
@@ -2221,15 +2156,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4371</Id>
-        <Nummer>11</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Deel 11</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>153</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4372</Id>
         <Nummer>11</Nummer>
         <Subnummer xsi:nil="true" />
@@ -2359,16 +2285,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>3138</Id>
-        <Nummer>6</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Einstein</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>OlympusMons_6_3138.jpg</Afbeelding>
-        <ReeksId>170</ReeksId>
-      </Strip>
       <Strip>
         <Id>3139</Id>
         <Nummer>7</Nummer>
@@ -3018,16 +2934,6 @@
         <ReeksId>190</ReeksId>
       </Strip>
       <Strip>
-        <Id>3400</Id>
-        <Nummer>15</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De sferen van de macht</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Raviandetijdruimteagent_15_3400.jpg</Afbeelding>
-        <ReeksId>190</ReeksId>
-      </Strip>
-      <Strip>
         <Id>3405</Id>
         <Nummer>20</Nummer>
         <Subnummer xsi:nil="true" />
@@ -3192,6 +3098,12 @@
   <Reeks>
     <Id>203</Id>
     <Titel>Sangre</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
+    <Id>268</Id>
+    <Titel>Scotland</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
   </Reeks>
@@ -3492,6 +3404,23 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>267</Id>
+    <Titel>Thorgal Saga</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>4374</Id>
+        <Nummer>2</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Het verticale woud</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>267</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>223</Id>
     <Titel>Travis</Titel>
     <Kopen>true</Kopen>
@@ -3590,17 +3519,6 @@
     <Titel>Werelden van Thorgal, De</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4369</Id>
-        <Nummer>27</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De Jonge Jaren - Grym</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>235</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>236</Id>
@@ -3695,35 +3613,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4368</Id>
-        <Nummer>0</Nummer>
-        <Subnummer>13b</Subnummer>
-        <Titel> Het onderzoek, tweede deel</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>245</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4182</Id>
-        <Nummer>25</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>The XIII History</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIII_25_4182.jpg</Afbeelding>
-        <ReeksId>245</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4183</Id>
-        <Nummer>26</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>2132 meter</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIII_26_4183.jpg</Afbeelding>
-        <ReeksId>245</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4184</Id>
         <Nummer>27</Nummer>
         <Subnummer xsi:nil="true" />
@@ -3740,28 +3629,6 @@
     <Titel>XIII Mystery</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4196</Id>
-        <Nummer>12</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Alan Smith</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIIIMystery_12_4196.jpg</Afbeelding>
-        <ReeksId>246</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4197</Id>
-        <Nummer>13</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Judith Warner</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIIIMystery_13_4197.jpg</Afbeelding>
-        <ReeksId>246</ReeksId>
-      </Strip>
-    </Strips>
   </Reeks>
   <Reeks>
     <Id>247</Id>

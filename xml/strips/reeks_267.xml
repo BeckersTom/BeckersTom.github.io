@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>83</Id>
-  <Titel>Europa</Titel>
+  <Id>267</Id>
+  <Titel>Thorgal Saga</Titel>
   <Kopen>true</Kopen>
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>1991</Id>
+      <Id>4373</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>De maan van ijs</Titel>
+      <Titel>Vaarwel Aaricia</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
-      <Afbeelding>Europa_1_1991.jpg</Afbeelding>
-      <ReeksId>83</ReeksId>
+      <ReeksId>267</ReeksId>
     </Strip>
     <Strip>
-      <Id>1992</Id>
+      <Id>4374</Id>
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Duizelingen</Titel>
-      <Aanwezig>true</Aanwezig>
+      <Titel>Het verticale woud</Titel>
+      <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
-      <ReeksId>83</ReeksId>
+      <ReeksId>267</ReeksId>
     </Strip>
   </Strips>
 </Reeks>
