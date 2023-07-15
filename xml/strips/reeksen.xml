@@ -70,12 +70,6 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
-    <Id>21</Id>
-    <Titel>Akira</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
     <Id>22</Id>
     <Titel>Aldebaran</Titel>
     <Kopen>true</Kopen>
@@ -3374,30 +3368,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>1</Id>
-    <Titel>TestReeks1</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>2</Id>
-    <Titel>TestReeks2</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>3</Id>
-    <Titel>TestReeks3</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>5</Id>
-    <Titel>TestReeks5</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
     <Id>222</Id>
     <Titel>Thorgal</Titel>
     <Kopen>true</Kopen>
@@ -3696,12 +3666,6 @@
     <Id>254</Id>
     <Titel>Zwendel</Titel>
     <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>255</Id>
-    <Titel>_TestReeks</Titel>
-    <Kopen>false</Kopen>
     <IsComic>false</IsComic>
   </Reeks>
 </Reeksen>
