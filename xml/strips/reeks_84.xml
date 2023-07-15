@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4324</Id>
-      <Nummer>0</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Bij Fanny op schoot</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>FannyK_0_4324.jpg</Afbeelding>
-      <ReeksId>84</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1993</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -43,6 +33,16 @@
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>FannyK_3_1995.jpg</Afbeelding>
+      <ReeksId>84</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4324</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bij Fanny op schoot</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>FannyK_0_4324.jpg</Afbeelding>
       <ReeksId>84</ReeksId>
     </Strip>
   </Strips>

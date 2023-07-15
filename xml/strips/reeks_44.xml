@@ -6,26 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4309</Id>
-      <Nummer>0</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Duel in het kanaal - The making of</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Blauwbloezen_0_4309.jpg</Afbeelding>
-      <ReeksId>44</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1534</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S11</Subnummer>
-      <Titel>Een hommage door...</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Blauwbloezen_0_S11_1534.jpg</Afbeelding>
-      <ReeksId>44</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1535</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -683,6 +663,26 @@
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Blauwbloezen_66_4310.jpg</Afbeelding>
+      <ReeksId>44</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1534</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S11</Subnummer>
+      <Titel>Een hommage door...</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Blauwbloezen_0_S11_1534.jpg</Afbeelding>
+      <ReeksId>44</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4309</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Duel in het kanaal - The making of</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Blauwbloezen_0_4309.jpg</Afbeelding>
       <ReeksId>44</ReeksId>
     </Strip>
   </Strips>

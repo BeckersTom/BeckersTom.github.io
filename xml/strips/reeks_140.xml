@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>2593</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>R10</Subnummer>
-      <Titel>Reportages - De verovering van de ruimte</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Lefranc_0_R10_2593.jpg</Afbeelding>
-      <ReeksId>140</ReeksId>
-    </Strip>
-    <Strip>
       <Id>2594</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -343,6 +333,16 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Lefranc_33_4341.jpg</Afbeelding>
+      <ReeksId>140</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2593</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>R10</Subnummer>
+      <Titel>Reportages - De verovering van de ruimte</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lefranc_0_R10_2593.jpg</Afbeelding>
       <ReeksId>140</ReeksId>
     </Strip>
   </Strips>

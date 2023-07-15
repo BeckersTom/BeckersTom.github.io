@@ -6,86 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>1181</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S2</Subnummer>
-      <Titel>Hulde aan de jubilaris</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_S2_1181.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>4279</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S3</Subnummer>
-      <Titel>Hulde aan de jarige</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>true</Gelezen>
-      <Afbeelding>Agent327_0_S3_4279.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1179</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO1</Subnummer>
-      <Titel>The making of</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>true</Gelezen>
-      <Afbeelding>Agent327_0_TMO1_1179.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1183</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO2</Subnummer>
-      <Titel>The making of - Dossier 8 &amp; 18</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_TMO2_1183.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1180</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO3</Subnummer>
-      <Titel>The making of - De vrouwen van</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_TMO3_1180.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1184</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO4</Subnummer>
-      <Titel>The making of - Te land, ter zee &amp; in de lucht</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_TMO4_1184.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>1182</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO5</Subnummer>
-      <Titel>The making of - 50 jaar</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_TMO5_1182.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>4295</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>TMO6</Subnummer>
-      <Titel>The making of - Rotterdam</Titel>
-      <Aanwezig>false</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Agent327_0_TMO6_4295.jpg</Afbeelding>
-      <ReeksId>19</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1185</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -292,6 +212,86 @@
       <Titel>Het oranje complot</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1181</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S2</Subnummer>
+      <Titel>Hulde aan de jubilaris</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_S2_1181.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4279</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S3</Subnummer>
+      <Titel>Hulde aan de jarige</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Agent327_0_S3_4279.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1179</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO1</Subnummer>
+      <Titel>The making of</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Agent327_0_TMO1_1179.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1183</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO2</Subnummer>
+      <Titel>The making of - Dossier 8 &amp; 18</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_TMO2_1183.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1180</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO3</Subnummer>
+      <Titel>The making of - De vrouwen van</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_TMO3_1180.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1184</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO4</Subnummer>
+      <Titel>The making of - Te land, ter zee &amp; in de lucht</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_TMO4_1184.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1182</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO5</Subnummer>
+      <Titel>The making of - 50 jaar</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_TMO5_1182.jpg</Afbeelding>
+      <ReeksId>19</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4295</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>TMO6</Subnummer>
+      <Titel>The making of - Rotterdam</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Agent327_0_TMO6_4295.jpg</Afbeelding>
       <ReeksId>19</ReeksId>
     </Strip>
   </Strips>

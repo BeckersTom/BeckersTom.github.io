@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>1506</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S6</Subnummer>
-      <Titel>De laatste farao</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>BlakeenMortimer_0_S6_1506.jpg</Afbeelding>
-      <ReeksId>43</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1505</Id>
       <Nummer>0</Nummer>
       <Subnummer>U1</Subnummer>
@@ -322,6 +312,16 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BlakeenMortimer_29_4308.jpg</Afbeelding>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1506</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S6</Subnummer>
+      <Titel>De laatste farao</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BlakeenMortimer_0_S6_1506.jpg</Afbeelding>
       <ReeksId>43</ReeksId>
     </Strip>
   </Strips>

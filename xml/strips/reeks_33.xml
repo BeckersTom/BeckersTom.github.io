@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4281</Id>
-      <Nummer>0</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Wie heeft Jack London vermoord?</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>ArchieCash_0_4281.jpg</Afbeelding>
-      <ReeksId>33</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1332</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -163,6 +153,16 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>true</Gelezen>
       <Afbeelding>ArchieCash_15_1346.jpg</Afbeelding>
+      <ReeksId>33</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4281</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Wie heeft Jack London vermoord?</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>ArchieCash_0_4281.jpg</Afbeelding>
       <ReeksId>33</ReeksId>
     </Strip>
   </Strips>

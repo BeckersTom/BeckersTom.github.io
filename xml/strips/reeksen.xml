@@ -43,22 +43,22 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4295</Id>
-        <Nummer>0</Nummer>
-        <Subnummer>TMO6</Subnummer>
-        <Titel>The making of - Rotterdam</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Agent327_0_TMO6_4295.jpg</Afbeelding>
-        <ReeksId>19</ReeksId>
-      </Strip>
-      <Strip>
         <Id>1205</Id>
         <Nummer>21</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel>Het oranje complot</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <ReeksId>19</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>4295</Id>
+        <Nummer>1001</Nummer>
+        <Subnummer>TMO6</Subnummer>
+        <Titel>The making of - Rotterdam</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Agent327_0_TMO6_4295.jpg</Afbeelding>
         <ReeksId>19</ReeksId>
       </Strip>
     </Strips>

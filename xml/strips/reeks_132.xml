@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4334</Id>
-      <Nummer>0</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Kuifje en de alfa kunst</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Kuifje_0_4334.jpg</Afbeelding>
-      <ReeksId>132</ReeksId>
-    </Strip>
-    <Strip>
       <Id>2488</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -233,6 +223,16 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>true</Gelezen>
       <Afbeelding>Kuifje_22_2509.jpg</Afbeelding>
+      <ReeksId>132</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4334</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Kuifje en de alfa kunst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kuifje_0_4334.jpg</Afbeelding>
       <ReeksId>132</ReeksId>
     </Strip>
   </Strips>

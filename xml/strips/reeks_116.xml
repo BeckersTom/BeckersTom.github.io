@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4331</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S1</Subnummer>
-      <Titel>Het dossier</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>JessicaBlandy_0_S1_4331.jpg</Afbeelding>
-      <ReeksId>116</ReeksId>
-    </Strip>
-    <Strip>
       <Id>2323</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -253,6 +243,16 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>JessicaBlandy_24_2346.jpg</Afbeelding>
+      <ReeksId>116</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4331</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S1</Subnummer>
+      <Titel>Het dossier</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>JessicaBlandy_0_S1_4331.jpg</Afbeelding>
       <ReeksId>116</ReeksId>
     </Strip>
   </Strips>

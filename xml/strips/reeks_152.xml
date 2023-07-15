@@ -6,16 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>2757</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S2</Subnummer>
-      <Titel>Ellendam II</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>MiniMensjes_0_S2_2757.jpg</Afbeelding>
-      <ReeksId>152</ReeksId>
-    </Strip>
-    <Strip>
       <Id>2758</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -423,6 +413,16 @@
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>MiniMensjes_41_2798.jpg</Afbeelding>
+      <ReeksId>152</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2757</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S2</Subnummer>
+      <Titel>Ellendam II</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjes_0_S2_2757.jpg</Afbeelding>
       <ReeksId>152</ReeksId>
     </Strip>
   </Strips>

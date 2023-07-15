@@ -16,16 +16,6 @@
       <ReeksId>123</ReeksId>
     </Strip>
     <Strip>
-      <Id>2414</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>S1</Subnummer>
-      <Titel>1000 Nävis</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>true</Gelezen>
-      <Afbeelding>Konvooi_0_S1_2414.jpg</Afbeelding>
-      <ReeksId>123</ReeksId>
-    </Strip>
-    <Strip>
       <Id>2415</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -228,6 +218,16 @@
       <Titel />
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>2414</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S1</Subnummer>
+      <Titel>1000 Nävis</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>Konvooi_0_S1_2414.jpg</Afbeelding>
       <ReeksId>123</ReeksId>
     </Strip>
   </Strips>

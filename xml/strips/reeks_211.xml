@@ -16,16 +16,6 @@
       <ReeksId>211</ReeksId>
     </Strip>
     <Strip>
-      <Id>4288</Id>
-      <Nummer>0</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Hommages</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>Storm_0_4288.jpg</Afbeelding>
-      <ReeksId>211</ReeksId>
-    </Strip>
-    <Strip>
       <Id>3843</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -353,6 +343,16 @@
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Storm_33_4356.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4288</Id>
+      <Nummer>1000</Nummer>
+      <Subnummer>S2</Subnummer>
+      <Titel>Hommages</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_0_4288.jpg</Afbeelding>
       <ReeksId>211</ReeksId>
     </Strip>
   </Strips>
