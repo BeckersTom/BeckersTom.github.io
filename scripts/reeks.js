@@ -35,11 +35,10 @@ function insertXMLData() {
           var tr = document.createElement("tr");
 		  var td_nummer = document.createElement("td");
 		  var nummer = getElementTextNS("", "Nummer", strips[j], 0);
-		  if (nummer == "0")
+		  if (nummer == "0" && nummer < 1000)
 		  {
 			  nummer = getElementTextNS("", "Subnummer", strips[j], 0);
 		  }
-		  
 		  td_nummer.setAttribute("class","stripnumber");
 		  td_nummer.appendChild(document.createTextNode(nummer));
 		  var titel  = document.createTextNode(getElementTextNS("", "Titel", strips[j], 0));
