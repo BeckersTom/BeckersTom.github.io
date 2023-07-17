@@ -121,6 +121,6 @@ function loadXMLDataForReeks() {
 			id = param_item[1];
 		}
 	}
-	var reeks_xml = 'xml/strips/reeks_' + id + '.xml';
+	var reeks_xml = 'xml/reeks_' + id + '.xml';
 	loadXMLData(reeks_xml);
 }
