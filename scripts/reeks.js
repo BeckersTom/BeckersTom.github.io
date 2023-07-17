@@ -42,7 +42,17 @@ function insertXMLData() {
 		  td_nummer.setAttribute("class","stripnumber");
 		  td_nummer.appendChild(document.createTextNode(nummer));
 		  var titel  = document.createTextNode(getElementTextNS("", "Titel", strips[j], 0));
+		  var stripafbeelding = "images/covers/" + getElementTextNS("", "Afbeelding", strips[j], 0);
 		  var td_titel = document.createElement("td");
+		  if (stripafbeelding == "images/covers/")
+		  {
+			  td_titel.appendChild(titel);
+		  } else {
+			  var a_strip = document.createElement("a");
+			  a_strip.appendChild(titel);
+		      a_strip.setAttribute("href",stripafbeelding);
+		      td_titel.appendChild(a_strip);
+		  }
 		  td_titel.appendChild(titel);
 		  var aanwezig = getElementTextNS("", "Aanwezig", strips[j], 0);
 		  var td_aanwezig = document.createElement("td");

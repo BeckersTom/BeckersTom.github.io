@@ -46,7 +46,7 @@ function insertXMLData() {
 			  striptitel = "...";
 		  }
 	      var stripdata_content = stripnummer + " - " + striptitel;
-		  if (stripnummer == "0")
+		  if (stripnummer == "0" || stripnummer >= 1000)
 		  {
 			  stripdata_content = stripsubnummer + " - " + striptitel;
 		  }
