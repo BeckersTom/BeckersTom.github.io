@@ -29,7 +29,7 @@ function insertXMLData() {
        reeksenheader.appendChild(reeks_titel);
        div.appendChild(reeksenheader);
 	   var stripcollection = getChildrenByTagName(reeksen[i],"Strips");
-       var strips = getChildrenByTagName(stripcollection,"Strip");
+       var strips = getChildrenByTagName(stripcollection[0],"Strip");
 	   var table = document.createElement("table");
        for (var j = 0; j < strips.length; j++) {         
           var tr = document.createElement("tr");
