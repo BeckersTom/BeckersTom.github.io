@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Reeksen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ComicReeksen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Reeks>
     <Id>307</Id>
     <Titel> Singles</Titel>
@@ -3786,4 +3786,4 @@
       </Strip>
     </Strips>
   </Reeks>
-</Reeksen>
+</ComicReeksen>

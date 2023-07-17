@@ -22,26 +22,24 @@ function insertXMLData() {
     var headercontent = document.createTextNode("Comics Info");
     header.appendChild(headercontent);
     div.appendChild(header);
-    var reeksen = req.responseXML.getElementsByTagName("Reeks");
+    var reeksen = req.responseXML.getElementsByTagName("comicseries");
     for (var i = 0; i < reeksen.length; i++) {
-       var reeks_titel = document.createTextNode(getElementTextNS("", "Titel", reeksen[i], 0));
+       var reeks_titel = document.createTextNode(getElementTextNS("", "title", reeksen[i], 0));
        var reeksenheader = document.createElement("h2");
        reeksenheader.appendChild(reeks_titel);
        div.appendChild(reeksenheader);
-	   var stripcollection = getChildrenByTagName(reeksen[i],"Strips");
-       var strips = getChildrenByTagName(stripcollection,"Strip");
+       var strips = getChildrenByTagName(reeksen[i],"comic");
 	   var table = document.createElement("table");
        for (var j = 0; j < strips.length; j++) {         
           var tr = document.createElement("tr");
-		  var nummer = document.createTextNode(getElementTextNS("", "Nummer", strips[j], 0));
-		  var subnummer = document.createTextNode(getElementTextNS("", "Subnummer", strips[j], 0));
+		  var nummer = document.createTextNode(getElementTextNS("", "number", strips[j], 0));
 		  var td_nummer = document.createElement("td");
 		  td_nummer.setAttribute("class","stripnumber");
 		  td_nummer.appendChild(nummer);
-		  var titel  = document.createTextNode(getElementTextNS("", "Titel", strips[j], 0));
+		  var titel  = document.createTextNode(getElementTextNS("", "title", strips[j], 0));
 		  var td_titel = document.createElement("td");
 		  td_titel.appendChild(titel);
-		  var aanwezig = getElementTextNS("", "Aanwezig", strips[j], 0);
+		  var aanwezig = getElementTextNS("", "present", strips[j], 0);
 		  var td_aanwezig = document.createElement("td");
 		  td_aanwezig.setAttribute("class","boolean");
 		  if (aanwezig == "true") {
@@ -57,7 +55,7 @@ function insertXMLData() {
 			img_red.setAttribute("class","boolean");
 			td_aanwezig.appendChild(img_red);
 		  }
-		  var gelezen = getElementTextNS("", "Gelezen", strips[j], 0);
+		  var gelezen = getElementTextNS("", "read", strips[j], 0);
 		  var td_gelezen = document.createElement("td");
 		  td_gelezen.setAttribute("class","boolean");
 		  if (gelezen == "true") {
