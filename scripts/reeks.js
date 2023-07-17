@@ -53,7 +53,6 @@ function insertXMLData() {
 		      a_strip.setAttribute("href",stripafbeelding);
 		      td_titel.appendChild(a_strip);
 		  }
-		  td_titel.appendChild(titel);
 		  var aanwezig = getElementTextNS("", "Aanwezig", strips[j], 0);
 		  var td_aanwezig = document.createElement("td");
 		  td_aanwezig.setAttribute("class","boolean");
