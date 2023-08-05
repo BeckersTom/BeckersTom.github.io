@@ -11,7 +11,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Het Chtokavische mysterie</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>DriegeestenvanTesla_1_4319.jpg</Afbeelding>
       <ReeksId>264</ReeksId>
     </Strip>
@@ -21,7 +21,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Het complot van de echte mensen</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>DriegeestenvanTesla_2_4320.jpg</Afbeelding>
       <ReeksId>264</ReeksId>
     </Strip>
@@ -31,7 +31,8 @@
       <Subnummer xsi:nil="true" />
       <Titel>De erfgenamen van de puls</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>DriegeestenvanTesla_3_4321.jpg</Afbeelding>
       <ReeksId>264</ReeksId>
     </Strip>
   </Strips>

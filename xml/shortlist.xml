@@ -667,16 +667,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4317</Id>
-        <Nummer>8</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Neïta</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Conquests_8_4317.jpg</Afbeelding>
-        <ReeksId>68</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4318</Id>
         <Nummer>9</Nummer>
         <Subnummer xsi:nil="true" />
@@ -1538,23 +1528,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>153</Id>
-    <Titel>Mini-Mensjes, De (Integraal)</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4372</Id>
-        <Nummer>11</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Deel 12</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>153</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>162</Id>
     <Titel>Natasja</Titel>
     <Kopen>true</Kopen>
@@ -2138,16 +2111,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>3399</Id>
-        <Nummer>14</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De levende wapens</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Raviandetijdruimteagent_14_3399.jpg</Afbeelding>
-        <ReeksId>190</ReeksId>
-      </Strip>
-      <Strip>
         <Id>3405</Id>
         <Nummer>20</Nummer>
         <Subnummer xsi:nil="true" />
@@ -2358,24 +2321,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>211</Id>
-    <Titel>Storm</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4356</Id>
-        <Nummer>33</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De archivaris van het licht</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Storm_33_4356.jpg</Afbeelding>
-        <ReeksId>211</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2400,6 +2345,23 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>TanguyenLaverdure_22_3905.jpg</Afbeelding>
         <ReeksId>215</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>337</Id>
+    <Titel>Terra prohibita</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5277</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>337</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2547,24 +2509,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>243</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>245</Id>
-    <Titel>XIII</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4184</Id>
-        <Nummer>27</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Geheugen opgeladen</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIII_27_4184.jpg</Afbeelding>
-        <ReeksId>245</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>339</Id>
+  <Titel>Teleportation Inc.</Titel>
+  <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
+  <Strips>
+    <Strip>
+      <Id>5279</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vermist na aankomst</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TeleportationInc_1_5279.jpg</Afbeelding>
+      <ReeksId>339</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5280</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het galactische leven</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TeleportationInc_2_5280.jpg</Afbeelding>
+      <ReeksId>339</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5281</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verloren planeet</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>TeleportationInc_3_5281.jpg</Afbeelding>
+      <ReeksId>339</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

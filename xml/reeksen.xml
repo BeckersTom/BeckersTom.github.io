@@ -985,6 +985,12 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>336</Id>
+    <Titel>Outlaws</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
     <Id>175</Id>
     <Titel>Overlevenden</Titel>
     <Kopen>true</Kopen>
@@ -1195,6 +1201,12 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>338</Id>
+    <Titel>Soda 1989</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
     <Id>209</Id>
     <Titel>Spiegel van Alice, De</Titel>
     <Kopen>true</Kopen>
@@ -1255,6 +1267,18 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>339</Id>
+    <Titel>Teleportation Inc.</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
+    <Id>337</Id>
+    <Titel>Terra prohibita</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
     <Id>219</Id>
     <Titel>Territorium</Titel>
     <Kopen>true</Kopen>
@@ -1270,30 +1294,6 @@
     <Id>221</Id>
     <Titel>Tessa, intergalactische agente</Titel>
     <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>1</Id>
-    <Titel>TestReeks1</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>2</Id>
-    <Titel>TestReeks2</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>3</Id>
-    <Titel>TestReeks3</Titel>
-    <Kopen>false</Kopen>
-    <IsComic>false</IsComic>
-  </Reeks>
-  <Reeks>
-    <Id>5</Id>
-    <Titel>TestReeks5</Titel>
-    <Kopen>false</Kopen>
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>

@@ -112,15 +112,17 @@
       <Titel>Deel 11</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_11_4371.jpg</Afbeelding>
       <ReeksId>153</ReeksId>
     </Strip>
     <Strip>
       <Id>4372</Id>
-      <Nummer>11</Nummer>
+      <Nummer>12</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Deel 12</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>MiniMensjesIntegraal_12_4372.jpg</Afbeelding>
       <ReeksId>153</ReeksId>
     </Strip>
   </Strips>

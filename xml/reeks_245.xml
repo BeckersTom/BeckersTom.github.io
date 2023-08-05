@@ -270,7 +270,7 @@
       <Nummer>27</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Geheugen opgeladen</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIII_27_4184.jpg</Afbeelding>
       <ReeksId>245</ReeksId>
@@ -292,6 +292,7 @@
       <Titel> Het onderzoek, tweede deel</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>XIII_1000_13b_4368.jpg</Afbeelding>
       <ReeksId>245</ReeksId>
     </Strip>
   </Strips>

@@ -210,6 +210,7 @@
         <Titel>Akira 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_1_4899.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
       <Strip>
@@ -219,6 +220,7 @@
         <Titel>Akira 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_2_4900.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
       <Strip>
@@ -228,6 +230,7 @@
         <Titel>Akira 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_3_4901.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
       <Strip>
@@ -237,6 +240,7 @@
         <Titel>Akira 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_4_4902.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
       <Strip>
@@ -246,6 +250,7 @@
         <Titel>Akira 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_5_4903.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
       <Strip>
@@ -255,6 +260,7 @@
         <Titel>Akira 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Akira_6_4904.jpg</Afbeelding>
         <ReeksId>21</ReeksId>
       </Strip>
     </Strips>
@@ -272,6 +278,7 @@
         <Titel>Aposimz 01</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_1_4905.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -281,6 +288,7 @@
         <Titel>Aposimz 02</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_2_4906.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -290,6 +298,7 @@
         <Titel>Aposimz 03</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_3_4907.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -299,6 +308,7 @@
         <Titel>Aposimz 04</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_4_4908.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -308,6 +318,7 @@
         <Titel>Aposimz 05</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_5_4909.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -317,6 +328,7 @@
         <Titel>Aposimz 06</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_6_4910.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -326,6 +338,7 @@
         <Titel>Aposimz 07</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_7_4911.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -335,6 +348,7 @@
         <Titel>Aposimz 08</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_8_4912.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
       <Strip>
@@ -344,6 +358,7 @@
         <Titel>Aposimz 09</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Aposimz_9_4913.jpg</Afbeelding>
         <ReeksId>308</ReeksId>
       </Strip>
     </Strips>
@@ -413,6 +428,7 @@
         <Titel>Biomega 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_1_4918.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
       <Strip>
@@ -422,6 +438,7 @@
         <Titel>Biomega 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_2_4919.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
       <Strip>
@@ -431,6 +448,7 @@
         <Titel>Biomega 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_3_4920.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
       <Strip>
@@ -440,6 +458,7 @@
         <Titel>Biomega 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_4_4921.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
       <Strip>
@@ -449,6 +468,7 @@
         <Titel>Biomega 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_5_4922.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
       <Strip>
@@ -458,6 +478,7 @@
         <Titel>Biomega 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Biomega_6_4923.jpg</Afbeelding>
         <ReeksId>311</ReeksId>
       </Strip>
     </Strips>
@@ -1576,6 +1597,7 @@
         <Titel>Gunnm 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1_5041.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1585,6 +1607,7 @@
         <Titel>Gunnm 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_2_5042.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1594,6 +1617,7 @@
         <Titel>Gunnm 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_3_5043.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1603,6 +1627,7 @@
         <Titel>Gunnm 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_4_5044.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1612,6 +1637,7 @@
         <Titel>Gunnm 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_5_5045.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1621,6 +1647,7 @@
         <Titel>Gunnm 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_6_5046.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1630,6 +1657,7 @@
         <Titel>Gunnm 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_7_5047.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1639,6 +1667,7 @@
         <Titel>Gunnm 8</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_8_5048.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1648,6 +1677,7 @@
         <Titel>Gunnm 9</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_9_5049.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1657,6 +1687,7 @@
         <Titel>Gunnm Last Order 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L1_5050.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1666,6 +1697,7 @@
         <Titel>Gunnm Last Order 10</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L10_5059.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1675,6 +1707,7 @@
         <Titel>Gunnm Last Order 11</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L11_5060.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1684,6 +1717,7 @@
         <Titel>Gunnm Last Order 12</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L12_5061.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1693,6 +1727,7 @@
         <Titel>Gunnm Last Order 13</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L13_5062.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1702,6 +1737,7 @@
         <Titel>Gunnm Last Order 14</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L14_5063.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1711,6 +1747,7 @@
         <Titel>Gunnm Last Order 15</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L15_5064.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1720,6 +1757,7 @@
         <Titel>Gunnm Last Order 16</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L16_5065.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1729,6 +1767,7 @@
         <Titel>Gunnm Last Order 17</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L17_5066.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1738,6 +1777,7 @@
         <Titel>Gunnm Last Order 18</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L18_5067.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1747,6 +1787,7 @@
         <Titel>Gunnm Last Order 19</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L19_5068.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1756,6 +1797,7 @@
         <Titel>Gunnm Last Order 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L2_5051.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1765,6 +1807,7 @@
         <Titel>Gunnm Last Order 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L3_5052.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1774,6 +1817,7 @@
         <Titel>Gunnm Last Order 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L4_5053.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1783,6 +1827,7 @@
         <Titel>Gunnm Last Order 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L5_5054.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1792,6 +1837,7 @@
         <Titel>Gunnm Last Order 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L6_5055.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1801,6 +1847,7 @@
         <Titel>Gunnm Last Order 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L7_5056.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1810,6 +1857,7 @@
         <Titel>Gunnm Last Order 8</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L8_5057.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1819,6 +1867,7 @@
         <Titel>Gunnm Last Order 9</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1000_L9_5058.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1828,6 +1877,7 @@
         <Titel>Gunnm Mars Chronicle 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1001_M1_5069.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1837,6 +1887,7 @@
         <Titel>Gunnm Mars Chronicle 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1001_M2_5070.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1846,6 +1897,7 @@
         <Titel>Gunnm Mars Chronicle 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_1001_M3_5071.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1855,6 +1907,7 @@
         <Titel>Gunnm Mars Chronicle 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M4_5072.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1864,6 +1917,7 @@
         <Titel>Gunnm Mars Chronicle 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M5_5073.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1873,6 +1927,7 @@
         <Titel>Gunnm Mars Chronicle 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M6_5074.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1882,6 +1937,7 @@
         <Titel>Gunnm Mars Chronicle 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M7_5075.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1891,6 +1947,17 @@
         <Titel>Gunnm Mars Chronicle 8</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M8_5076.jpg</Afbeelding>
+        <ReeksId>318</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5272</Id>
+        <Nummer>1001</Nummer>
+        <Subnummer>M9</Subnummer>
+        <Titel>Gunnm Mars Chronicle 9</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Gunnm_1001_M9_5272.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
       <Strip>
@@ -1900,6 +1967,7 @@
         <Titel>Other Stories</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Gunnm_2000_S1_5077.jpg</Afbeelding>
         <ReeksId>318</ReeksId>
       </Strip>
     </Strips>
@@ -2572,6 +2640,7 @@
         <Titel>Ikigami 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_1_5149.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2581,6 +2650,7 @@
         <Titel>Ikigami 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_2_5150.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2590,6 +2660,7 @@
         <Titel>Ikigami 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_3_5151.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2599,6 +2670,7 @@
         <Titel>Ikigami 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_4_5152.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2608,6 +2680,7 @@
         <Titel>Ikigami 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_5_5153.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2617,6 +2690,7 @@
         <Titel>Ikigami 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_6_5154.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2626,6 +2700,7 @@
         <Titel>Ikigami 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_7_5155.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2635,6 +2710,7 @@
         <Titel>Ikigami 8</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_8_5156.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2644,6 +2720,7 @@
         <Titel>Ikigami 9</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_9_5157.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
       <Strip>
@@ -2653,6 +2730,7 @@
         <Titel>Ikigami 10</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Ikigami_10_5158.jpg</Afbeelding>
         <ReeksId>321</ReeksId>
       </Strip>
     </Strips>
@@ -2705,6 +2783,7 @@
         <Titel>Knights of Sidonia 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_1_5162.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2714,6 +2793,7 @@
         <Titel>Knights of Sidonia 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_2_5163.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2723,6 +2803,7 @@
         <Titel>Knights of Sidonia 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_3_5164.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2732,6 +2813,7 @@
         <Titel>Knights of Sidonia 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_4_5165.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2741,6 +2823,7 @@
         <Titel>Knights of Sidonia 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_5_5166.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2750,6 +2833,7 @@
         <Titel>Knights of Sidonia 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_6_5167.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2759,6 +2843,7 @@
         <Titel>Knights of Sidonia 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_7_5168.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2768,6 +2853,7 @@
         <Titel>Knights of Sidonia 8</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_8_5169.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2777,6 +2863,7 @@
         <Titel>Knights of Sidonia 9</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_9_5170.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2786,6 +2873,7 @@
         <Titel>Knights of Sidonia 10</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_10_5171.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2795,6 +2883,7 @@
         <Titel>Knights of Sidonia 11</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_11_5172.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2804,6 +2893,7 @@
         <Titel>Knights of Sidonia 12</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_12_5173.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2813,6 +2903,7 @@
         <Titel>Knights of Sidonia 13</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_13_5174.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2822,6 +2913,7 @@
         <Titel>Knights of Sidonia 14</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_14_5175.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
       <Strip>
@@ -2831,6 +2923,7 @@
         <Titel>Knights of Sidonia 15</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>KnightsofSidonia_15_5176.jpg</Afbeelding>
         <ReeksId>323</ReeksId>
       </Strip>
     </Strips>
@@ -3106,6 +3199,7 @@
         <Titel>Maus 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Maus_1_5203.jpg</Afbeelding>
         <ReeksId>327</ReeksId>
       </Strip>
       <Strip>
@@ -3115,6 +3209,7 @@
         <Titel>Maus 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>true</Gelezen>
+        <Afbeelding>Maus_2_5204.jpg</Afbeelding>
         <ReeksId>327</ReeksId>
       </Strip>
     </Strips>
@@ -3132,6 +3227,7 @@
         <Titel>Nausicaä 1</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_1_5205.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3141,6 +3237,7 @@
         <Titel>Nausicaä 2</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_2_5206.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3150,6 +3247,7 @@
         <Titel>Nausicaä 3</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_3_5207.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3159,6 +3257,7 @@
         <Titel>Nausicaä 4</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_4_5208.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3168,6 +3267,7 @@
         <Titel>Nausicaä 5</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_5_5209.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3177,6 +3277,7 @@
         <Titel>Nausicaä 6</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_6_5210.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
       <Strip>
@@ -3186,6 +3287,7 @@
         <Titel>Nausicaä 7</Titel>
         <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Nausicaa_7_5211.jpg</Afbeelding>
         <ReeksId>328</ReeksId>
       </Strip>
     </Strips>

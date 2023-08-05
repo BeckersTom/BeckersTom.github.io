@@ -21,7 +21,8 @@
       <Subnummer>U2</Subnummer>
       <Titel>De vuurpijl</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlakeenMortimer_0_U2_4375.jpg</Afbeelding>
       <ReeksId>43</ReeksId>
     </Strip>
     <Strip>

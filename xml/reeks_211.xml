@@ -340,7 +340,7 @@
       <Nummer>33</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De archivaris van het licht</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Storm_33_4356.jpg</Afbeelding>
       <ReeksId>211</ReeksId>

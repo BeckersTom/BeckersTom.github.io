@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>337</Id>
+  <Titel>Terra prohibita</Titel>
+  <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
+  <Strips>
+    <Strip>
+      <Id>5275</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dorian</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Terraprohibita_1_5275.jpg</Afbeelding>
+      <ReeksId>337</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5276</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Patient nul</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Terraprohibita_2_5276.jpg</Afbeelding>
+      <ReeksId>337</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5277</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>337</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

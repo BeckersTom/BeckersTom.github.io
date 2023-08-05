@@ -161,7 +161,8 @@
       <Subnummer xsi:nil="true" />
       <Titel>Het monster van het ministerie van de hel 1</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_16_4378.jpg</Afbeelding>
       <ReeksId>134</ReeksId>
     </Strip>
     <Strip>
@@ -170,7 +171,8 @@
       <Subnummer xsi:nil="true" />
       <Titel>Het monster van het ministerie van de hel 2</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>LadyMechanika_17_4379.jpg</Afbeelding>
       <ReeksId>134</ReeksId>
     </Strip>
   </Strips>

@@ -150,7 +150,7 @@
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De levende wapens</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Raviandetijdruimteagent_14_3399.jpg</Afbeelding>
       <ReeksId>190</ReeksId>

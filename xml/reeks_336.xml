@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>336</Id>
+  <Titel>Outlaws</Titel>
+  <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
+  <Strips>
+    <Strip>
+      <Id>5273</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het torenkartel</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Outlaws_1_5273.jpg</Afbeelding>
+      <ReeksId>336</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

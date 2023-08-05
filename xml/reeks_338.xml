@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>338</Id>
+  <Titel>Soda 1989</Titel>
+  <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
+  <Strips>
+    <Strip>
+      <Id>5278</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De bloeddorstige dominee</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Soda1989_1_5278.jpg</Afbeelding>
+      <ReeksId>338</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

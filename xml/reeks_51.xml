@@ -95,5 +95,15 @@
       <Afbeelding>BuckDannyClassic_9_4314.jpg</Afbeelding>
       <ReeksId>51</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5274</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Molotok 41 antwoordt niet meer</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyClassic_10_5274.jpg</Afbeelding>
+      <ReeksId>51</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

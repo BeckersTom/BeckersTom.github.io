@@ -12,6 +12,7 @@
       <Titel>Deel 1</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Scotland_1_4376.jpg</Afbeelding>
       <ReeksId>268</ReeksId>
     </Strip>
     <Strip>
@@ -21,6 +22,7 @@
       <Titel>Deel 2</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Scotland_2_4377.jpg</Afbeelding>
       <ReeksId>268</ReeksId>
     </Strip>
   </Strips>
