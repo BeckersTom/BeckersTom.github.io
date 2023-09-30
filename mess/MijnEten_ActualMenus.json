@@ -1,186 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2023-09-23T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Wortelen -Pompoen uit de oven -Boontjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-23T00:00:00",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-23T00:00:00",
-    "type": "vlees",
-    "menu1": "Scampi Diabolique met BIO-penne"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-24T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Wortelen -Pompoen uit de oven -Boontjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-24T00:00:00",
-    "type": "soep",
-    "menu1": "Dag soep"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-24T00:00:00",
-    "type": "vlees",
-    "menu1": "Rundsteak met dragonroomsaus en frietjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-25T00:00:00",
-    "type": "grill",
-    "menu1": "Samurai Tiger Hamburger"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-25T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene kool  - Pastinaak - Spruiten"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-25T00:00:00",
-    "type": "soep",
-    "menu1": "Champignonsoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-25T00:00:00",
-    "type": "veggie",
-    "menu1": "Midden-Oosters gekruide groenten met witte grillkaas en BIO-jasmijnrijst met champignons, paprika en frisse yoghurtsaus"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-25T00:00:00",
-    "type": "vlees",
-    "menu1": "Macaroni met hesp, kaas, prei en champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-26T00:00:00",
-    "type": "grill",
-    "menu1": "PIZZA SAVOYARDE: Crème fraîche, mozzarella, reblochon, bacon &amp; aardappelen"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-26T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene kool  - Pastinaak - Spruiten"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-26T00:00:00",
-    "type": "soep",
-    "menu1": "Courgette-preisoep met verse dille"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-26T00:00:00",
-    "type": "veggie",
-    "menu1": "Geitenkaas in filodeeg met gedroogd fruit, venkelsalade met citrus en samengestelde salade (sla, wortel, knolselder, tomaat, rode biet)"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-26T00:00:00",
-    "type": "vlees",
-    "menu1": "Ribbetjes met witte koolsalade en gepofte aardappel met home made kruidenboter"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-27T00:00:00",
-    "type": "grill",
-    "menu1": "Samurai Tiger Hamburger"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-27T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene kool  - Pastinaak - Spruiten"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-27T00:00:00",
-    "type": "soep",
-    "menu1": "BIO-Rode linzen en zoete aardappel soep"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-27T00:00:00",
-    "type": "veggie",
-    "menu1": "Italiaans gekruide groentestoof met parelcouscous en spinazie, grana padano"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-27T00:00:00",
-    "type": "vlees",
-    "menu1": "Gefruite vis met gemengde salade (sla, wortel, knolselder, tomaat, rode biet) tartaarsaus en aardappelpuree met lente ui"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-28T00:00:00",
-    "type": "grill",
-    "menu1": "PIZZA SAVOYARDE: Crème fraîche, mozzarella, reblochon, bacon &amp; aardappelen"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-28T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene kool  - Pastinaak - Spruiten"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-28T00:00:00",
-    "type": "soep",
-    "menu1": "Aardappel-preisoep met gebakken uitjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-28T00:00:00",
-    "type": "veggie",
-    "menu1": "Veggie gehaktballetjes in tomatensaus met frietjes en frisse komkommersalade"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-28T00:00:00",
-    "type": "vlees",
-    "menu1": "Lamsbrochette en Griekse ovenschotel, boureki (aardappel, courgette, feta)"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-29T00:00:00",
-    "type": "groentvdw",
-    "menu1": "- Groene kool  - Pastinaak - Spruiten"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-29T00:00:00",
-    "type": "soep",
-    "menu1": "Pompoen-wortelsoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-29T00:00:00",
-    "type": "veggie",
-    "menu1": "Groentequiche (broccoli, ui, wortel, paprika en tofu) met notensalade"
-  },
-  {
-    "id": 0,
-    "date": "2023-09-29T00:00:00",
-    "type": "vlees",
-    "menu1": "Thai Beef Salade (komkommer, spitskool, rode paprika)"
-  },
-  {
-    "id": 0,
     "date": "2023-09-30T00:00:00",
     "type": "groentvdw",
     "menu1": "- Groene kool  - Pastinaak - Spruiten"
@@ -214,5 +34,353 @@
     "date": "2023-10-01T00:00:00",
     "type": "vlees",
     "menu1": "Paella met kip/vis en schaaldieren"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-02T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza eerste steen à la Margarita"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-02T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Erwten -Bloemkool -Halve tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-02T00:00:00",
+    "type": "soep",
+    "menu1": "Opgegraven soep:  vergeten groenten"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-02T00:00:00",
+    "type": "veggie",
+    "menu1": "Couscoussalade met falafel en homemade  hummuscement"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-02T00:00:00",
+    "type": "vlees",
+    "menu1": "Zalmfundering met gepofte groenten en krieltjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-03T00:00:00",
+    "type": "grill",
+    "menu1": "Bricky burger"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-03T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Erwten -Bloemkool -Halve tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-03T00:00:00",
+    "type": "soep",
+    "menu1": "Tomatensoep  met balkskes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-03T00:00:00",
+    "type": "veggie",
+    "menu1": "Pan orechiette opgebouwd met kerstomaat, paprika, courgette, rucola en basilcum"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-03T00:00:00",
+    "type": "vlees",
+    "menu1": "Eerste steensteak peperroomsaus met frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-04T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza eerste steen  à la Margarita"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-04T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Erwten -Bloemkool -Halve tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-04T00:00:00",
+    "type": "soep",
+    "menu1": "Bloemkoolsoep met curryzand"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-04T00:00:00",
+    "type": "veggie",
+    "menu1": "Noedels met  stabilisé van wokgroenten, loempia en currysaus"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-04T00:00:00",
+    "type": "vlees",
+    "menu1": "Gyroslatjes met orzo, mediterrane groenten en tzatziki"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-05T00:00:00",
+    "type": "grill",
+    "menu1": "Bricky burger"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-05T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Erwten -Bloemkool -Halve tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-05T00:00:00",
+    "type": "soep",
+    "menu1": "(W)Mortelsoep  met kokos"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-05T00:00:00",
+    "type": "veggie",
+    "menu1": "Pasta Arrabiata proper afgewerkt met rucola en parmezaan"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-05T00:00:00",
+    "type": "vlees",
+    "menu1": "Gegrilde kipfilet met Provençaalse bouwsaus en rösti"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-06T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Erwten -Bloemkool -Halve tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-06T00:00:00",
+    "type": "soep",
+    "menu1": "Steengoeie broccolisoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-06T00:00:00",
+    "type": "veggie",
+    "menu1": "Kaasbrickskes  met salademix en notenbrood"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-06T00:00:00",
+    "type": "vlees",
+    "menu1": "Penne verstevigd met scampi's en tomaten-roomsaus"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-09T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza VEGGIE: Tomatensaus, mozzarella, spinazie, verse tomaten, champignons, paprika, rode ui, olijven &amp; oregano"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-09T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Witloof -Witte kool -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-09T00:00:00",
+    "type": "soep",
+    "menu1": "Groene seldersoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-09T00:00:00",
+    "type": "veggie",
+    "menu1": "Risotto met gebakken pompoen, boschampignons en rozemarijn"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-09T00:00:00",
+    "type": "vlees",
+    "menu1": "Savooistamppot en braadworst met mosterd en Bresilienne-nootjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-10T00:00:00",
+    "type": "grill",
+    "menu1": "Burger “Texas Jack” met frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-10T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Witloof -Witte kool -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-10T00:00:00",
+    "type": "soep",
+    "menu1": "Pittige wortelsoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-10T00:00:00",
+    "type": "veggie",
+    "menu1": "Granaatappel couscous met aubergine en feta"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-10T00:00:00",
+    "type": "vlees",
+    "menu1": "Kippenbil met appelmoes en kroketten"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-11T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza VEGGIE: Tomatensaus, mozzarella, spinazie, verse tomaten, champignons, paprika, rode ui, olijven &amp; oregano"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-11T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Witloof -Witte kool -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-11T00:00:00",
+    "type": "soep",
+    "menu1": "Romige champignonsoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-11T00:00:00",
+    "type": "veggie",
+    "menu1": "Seitanstoverij met wortel, zilverui en knolselderpuree"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-11T00:00:00",
+    "type": "vlees",
+    "menu1": "Ananas Scampi wraps met Guacamole, zure room en wedges"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-12T00:00:00",
+    "type": "grill",
+    "menu1": "Burger “Texas Jack” met frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-12T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Witloof -Witte kool -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-12T00:00:00",
+    "type": "soep",
+    "menu1": "Ajuinsoep met kaas"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-12T00:00:00",
+    "type": "veggie",
+    "menu1": "Quiche met pompoen, rode ajuin, feta en krieltjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-12T00:00:00",
+    "type": "vlees",
+    "menu1": "Stoofvlees met witloofsla en frieten"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-13T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Witloof -Witte kool -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-13T00:00:00",
+    "type": "soep",
+    "menu1": "Tom Kha Kai"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-13T00:00:00",
+    "type": "veggie",
+    "menu1": "Pasta Pesto met rucola en parmesaankaas"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-13T00:00:00",
+    "type": "vlees",
+    "menu1": "Gepaneerde visfilet met puree en tartaresaus"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-16T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza crème met gekarameliseerd ajuin en blauwe kaas"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-16T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Pompoen -Courgette -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-16T00:00:00",
+    "type": "soep",
+    "menu1": "Agnes Sorel (kippensoep)"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-16T00:00:00",
+    "type": "veggie",
+    "menu1": "Curry van pompoen, bloemkool en kikkererwt met basmati en naanbrood"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-16T00:00:00",
+    "type": "vlees",
+    "menu1": "Tongrolletjes met garnaalsaus, gestoofde prei en pomme duches"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-17T00:00:00",
+    "type": "grill",
+    "menu1": "Gegrilde zeebaars met Mediterane parelcouscous"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-17T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Pompoen -Courgette -Broccoli"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-17T00:00:00",
+    "type": "soep",
+    "menu1": "Gele paprikasoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-17T00:00:00",
+    "type": "veggie",
+    "menu1": "Gegratineerde Gnochhi met courgette, prei en paprikaroomsaus"
+  },
+  {
+    "id": 0,
+    "date": "2023-10-17T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletjes op Luikse wijze en aardappelgratin"
   }
 ]
