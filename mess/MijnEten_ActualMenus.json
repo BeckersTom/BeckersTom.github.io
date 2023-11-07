@@ -1,224 +1,86 @@
 [
   {
     "id": 0,
-    "date": "2023-10-26T00:00:00",
+    "date": "2023-11-07T00:00:00",
     "type": "grill",
-    "menu1": "Gepofte zoete aardappel met zure room en spekreepjes, kippespies en fattoush salade"
+    "menu1": "Everzwijnsteak met witloof en pomme dauphinne"
   },
   {
     "id": 0,
-    "date": "2023-10-26T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Geroosterde knolselder -Bloemkool"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-26T00:00:00",
+    "date": "2023-11-07T00:00:00",
     "type": "soep",
-    "menu1": "Zoete aardappelsoep"
+    "menu1": "Wortelsoep"
   },
   {
     "id": 0,
-    "date": "2023-10-26T00:00:00",
+    "date": "2023-11-07T00:00:00",
     "type": "veggie",
-    "menu1": "Groenteburger, peperroomsaus, gepofte aardappel met kruidenboter"
+    "menu1": "Cannelloni met tomatensaus en Mediterrane groenten"
   },
   {
     "id": 0,
-    "date": "2023-10-26T00:00:00",
+    "date": "2023-11-07T00:00:00",
     "type": "vlees",
-    "menu1": "Konijn met pruimen &amp; appelcompote, krokettenen en tuinkers"
+    "menu1": "Stoofvlees met frietjes en gemengde salade"
   },
   {
     "id": 0,
-    "date": "2023-10-27T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Spinazie -Geroosterde knolselder -Bloemkool"
+    "date": "2023-11-08T00:00:00",
+    "type": "soep",
+    "menu1": "Broccolisoep"
   },
   {
     "id": 0,
-    "date": "2023-10-27T00:00:00",
+    "date": "2023-11-08T00:00:00",
+    "type": "veggie",
+    "menu1": "Noedels met vegetarische balletjes, wokgroenten en pindasaus."
+  },
+  {
+    "id": 0,
+    "date": "2023-11-08T00:00:00",
+    "type": "vlees",
+    "menu1": "BIO-Spaghetti carbonara"
+  },
+  {
+    "id": 0,
+    "date": "2023-11-09T00:00:00",
+    "type": "grill",
+    "menu1": "Everzwijnsteak met witloof en pomme dauphinne"
+  },
+  {
+    "id": 0,
+    "date": "2023-11-09T00:00:00",
     "type": "soep",
     "menu1": "Pastinaaksoep"
   },
   {
     "id": 0,
-    "date": "2023-10-27T00:00:00",
+    "date": "2023-11-09T00:00:00",
     "type": "veggie",
-    "menu1": "Groentenlasagne van spinazie, courgette en champignons"
+    "menu1": "Broccolischotel met pasta en brie"
   },
   {
     "id": 0,
-    "date": "2023-10-27T00:00:00",
+    "date": "2023-11-09T00:00:00",
     "type": "vlees",
-    "menu1": "Lasagne Bolognaise"
+    "menu1": "Balletjes in tomatensaus met seldersalade en puree"
   },
   {
     "id": 0,
-    "date": "2023-10-28T00:00:00",
+    "date": "2023-11-10T00:00:00",
     "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+    "menu1": "Harirasoep met kikkererwten"
   },
   {
     "id": 0,
-    "date": "2023-10-28T00:00:00",
+    "date": "2023-11-10T00:00:00",
     "type": "veggie",
-    "menu1": "BIO-spaghetti met vegetarische groentesaus /  Groentelasagne van spinazie, wortel en courget."
+    "menu1": "Pitta met jackfruit, wedges en look- of pikante saus"
   },
   {
     "id": 0,
-    "date": "2023-10-28T00:00:00",
+    "date": "2023-11-10T00:00:00",
     "type": "vlees",
-    "menu1": "Gebakken kip filet met appelcompote en krieltjes. / Lasagne Bolognaise. /  Scharrolletjes in witte wijnsaus met julienne groenten en puree."
-  },
-  {
-    "id": 0,
-    "date": "2023-10-29T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-29T00:00:00",
-    "type": "veggie",
-    "menu1": "BIO-spaghetti met vegetarische groentesaus /  Groentelasagne van spinazie, wortel en courget."
-  },
-  {
-    "id": 0,
-    "date": "2023-10-29T00:00:00",
-    "type": "vlees",
-    "menu1": "Gebakken kip filet met appelcompote en krieltjes. / Lasagne Bolognaise. /  Scharrolletjes in witte wijnsaus met julienne groenten en puree."
-  },
-  {
-    "id": 0,
-    "date": "2023-10-30T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza salami of pizza margarita"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-30T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool  -Witloof  - Champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-30T00:00:00",
-    "type": "soep",
-    "menu1": "Minestronesoep (wortel, prei, selder, tomaat, bloemkool, courget…)"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-30T00:00:00",
-    "type": "veggie",
-    "menu1": "Groenteschotel Parmentier"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-30T00:00:00",
-    "type": "vlees",
-    "menu1": "Kalfslende met groentemengeling (wortel, bloemkool en peulerwt) en gebakken aardappels met spek en ajuin"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-31T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza salami of pizza margarita"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-31T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool  -Witloof  - Champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-31T00:00:00",
-    "type": "soep",
-    "menu1": "Pompoensoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-31T00:00:00",
-    "type": "veggie",
-    "menu1": "Indisch stoofpotje met zoete aardappel en tempeh"
-  },
-  {
-    "id": 0,
-    "date": "2023-10-31T00:00:00",
-    "type": "vlees",
-    "menu1": "Hespenrolletjes met witloof uit de oven en puree"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-01T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-01T00:00:00",
-    "type": "veggie",
-    "menu1": "BIO-spirelli met pesto en mozzarellabolletjes / Veggie balletjes in tomatensaus en puree /"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-01T00:00:00",
-    "type": "vlees",
-    "menu1": "BIO-spaghetti met bolognaise saus / Vol au vent met puree / Gebakken zalmfilet met groentemix en krieltjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-02T00:00:00",
-    "type": "grill",
-    "menu1": "Mosselen met frietjes (10€)"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-02T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool  -Witloof  - Champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-02T00:00:00",
-    "type": "soep",
-    "menu1": "Bloemkoolsoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-02T00:00:00",
-    "type": "veggie",
-    "menu1": "Ravioli met ricotta, courgette en broccoli"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-02T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met frietjes en tuinkers"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-03T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Rode kool  -Witloof  - Champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-03T00:00:00",
-    "type": "soep",
-    "menu1": "Spruitensoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-03T00:00:00",
-    "type": "veggie",
-    "menu1": "Griekse moussaka met aubergine, courgette en aardappel"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-03T00:00:00",
-    "type": "vlees",
-    "menu1": "Schelvis met Mediteraanse tomatensalsa, salade van venkel en bonen en parelcouscous"
+    "menu1": "Pittaschotel met aardappelwedges en look- of pikantesaus"
   }
 ]
