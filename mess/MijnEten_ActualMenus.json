@@ -1,66 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2023-11-24T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Erwten op z’n frans -Appelmoes -Spinazie in room -Rode kool"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-24T00:00:00",
-    "type": "soep",
-    "menu1": "Schorsenerensoep"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-24T00:00:00",
-    "type": "veggie",
-    "menu1": "Groentelasagna met paprika, courgette, aubergine, wortel en champignons"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-24T00:00:00",
-    "type": "vlees",
-    "menu1": "Viscurry met rijst en gekarameliseerde appeltjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-25T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-25T00:00:00",
-    "type": "veggie",
-    "menu1": "Veggie balletjes in tomatensaus, puree / Veggie kipstukjes Tikka masala met groenterijst"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-25T00:00:00",
-    "type": "vlees",
-    "menu1": "Balletjes in tomatensaus, puree / Vol-au-vent met puree /  Moussaka / Lasagne Bolognaise / Vogelnestje met spinazie puree."
-  },
-  {
-    "id": 0,
-    "date": "2023-11-26T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-26T00:00:00",
-    "type": "veggie",
-    "menu1": "Veggie balletjes in tomatensaus, puree / Veggie kipstukjes Tikka masala met groenterijst"
-  },
-  {
-    "id": 0,
-    "date": "2023-11-26T00:00:00",
-    "type": "vlees",
-    "menu1": "Balletjes in tomatensaus, puree / Vol-au-vent met puree /  Moussaka / Lasagne Bolognaise / Vogelnestje met spinazie puree."
-  },
-  {
-    "id": 0,
     "date": "2023-11-27T00:00:00",
     "type": "grill",
     "menu1": "Pizza creme look, ricotta, champignons en aubergines"
