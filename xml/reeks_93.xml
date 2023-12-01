@@ -145,5 +145,15 @@
       <Afbeelding>GoldenCity_14_4325.jpg</Afbeelding>
       <ReeksId>93</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5295</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Een dag vol angst</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCity_15_5295.jpg</Afbeelding>
+      <ReeksId>93</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

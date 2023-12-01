@@ -666,6 +666,16 @@
       <ReeksId>44</ReeksId>
     </Strip>
     <Strip>
+      <Id>5291</Id>
+      <Nummer>67</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Vuur en ijs</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Blauwbloezen_67_5291.jpg</Afbeelding>
+      <ReeksId>44</ReeksId>
+    </Strip>
+    <Strip>
       <Id>1534</Id>
       <Nummer>1000</Nummer>
       <Subnummer>S11</Subnummer>

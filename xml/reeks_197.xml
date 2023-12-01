@@ -215,5 +215,15 @@
       <Afbeelding>RobbedoesenKwabbernootalternatief_21_4354.jpg</Afbeelding>
       <ReeksId>197</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5289</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Robbedoes en Blue Gorgon</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RobbedoesenKwabbernootalternatief_22_5289.jpg</Afbeelding>
+      <ReeksId>197</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

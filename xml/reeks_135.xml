@@ -155,5 +155,15 @@
       <Afbeelding>LadyS_15_2543.jpg</Afbeelding>
       <ReeksId>135</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5290</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Zelfmoordoperaties</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_16_5290.jpg</Afbeelding>
+      <ReeksId>135</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

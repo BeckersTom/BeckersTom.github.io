@@ -336,6 +336,16 @@
       <ReeksId>140</ReeksId>
     </Strip>
     <Strip>
+      <Id>5292</Id>
+      <Nummer>34</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De weg naar Los Angeles</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lefranc_34_5292.jpg</Afbeelding>
+      <ReeksId>140</ReeksId>
+    </Strip>
+    <Strip>
       <Id>2593</Id>
       <Nummer>1000</Nummer>
       <Subnummer>R10</Subnummer>

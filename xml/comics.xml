@@ -1459,7 +1459,7 @@
         <Nummer>1003</Nummer>
         <Subnummer>S7</Subnummer>
         <Titel>1001 Nights of Snowfall</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Fables_1003_S7_5017.jpg</Afbeelding>
         <ReeksId>315</ReeksId>
@@ -1576,7 +1576,7 @@
         <Nummer>12</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel>Firefly: Blue Sun Rising 2 SC</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>316</ReeksId>
       </Strip>
@@ -1603,7 +1603,7 @@
         <Nummer>15</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel>Firefly: Return to Earth That Was 1</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>316</ReeksId>
       </Strip>
@@ -1612,7 +1612,7 @@
         <Nummer>16</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel>Firefly: Return to Earth That Was 2</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>316</ReeksId>
       </Strip>
@@ -1629,8 +1629,8 @@
         <Id>5035</Id>
         <Nummer>18</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel>Firefly: The Gospel According to Jayne</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Titel>Firefly: The Gospel According to Jayne 1</Titel>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>316</ReeksId>
       </Strip>
@@ -2063,7 +2063,7 @@
         <Nummer>1001</Nummer>
         <Subnummer>M9</Subnummer>
         <Titel>Gunnm Mars Chronicle 9</Titel>
-        <Aanwezig>false</Aanwezig>
+        <Aanwezig>true</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Gunnm_1001_M9_5272.jpg</Afbeelding>
         <ReeksId>318</ReeksId>

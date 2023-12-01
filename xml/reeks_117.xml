@@ -55,5 +55,15 @@
       <Afbeelding>KapiteinKreiss_5_2351.jpg</Afbeelding>
       <ReeksId>117</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5286</Id>
+      <Nummer>6</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De groene exodus</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>KapiteinKreiss_6_5286.jpg</Afbeelding>
+      <ReeksId>117</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

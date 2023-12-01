@@ -135,5 +135,15 @@
       <Afbeelding>WoudenvanOpaal_13_4363.jpg</Afbeelding>
       <ReeksId>244</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5284</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De titaan van het licht</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>WoudenvanOpaal_14_5284.jpg</Afbeelding>
+      <ReeksId>244</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

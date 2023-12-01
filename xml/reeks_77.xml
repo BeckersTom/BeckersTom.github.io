@@ -115,5 +115,15 @@
       <Afbeelding>Ekhodespiegelwereld_11_4322.jpg</Afbeelding>
       <ReeksId>77</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5293</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De walkure van de fjorden</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Ekhodespiegelwereld_12_5293.jpg</Afbeelding>
+      <ReeksId>77</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

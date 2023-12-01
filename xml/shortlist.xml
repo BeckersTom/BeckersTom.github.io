@@ -218,6 +218,16 @@
         <Afbeelding>Asterix_39_4282.jpg</Afbeelding>
         <ReeksId>37</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5294</Id>
+        <Nummer>40</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De witte iris</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Asterix_40_5294.jpg</Afbeelding>
+        <ReeksId>37</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -292,6 +302,16 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Blauwbloezen_66_4310.jpg</Afbeelding>
+        <ReeksId>44</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5291</Id>
+        <Nummer>67</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Vuur en ijs</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Blauwbloezen_67_5291.jpg</Afbeelding>
         <ReeksId>44</ReeksId>
       </Strip>
     </Strips>
@@ -723,6 +743,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>77</Id>
+    <Titel>Ekhö, de spiegelwereld</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5293</Id>
+        <Nummer>12</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De walkure van de fjorden</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Ekhodespiegelwereld_12_5293.jpg</Afbeelding>
+        <ReeksId>77</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>84</Id>
     <Titel>Fanny K.</Titel>
     <Kopen>true</Kopen>
@@ -771,6 +809,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>92</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>93</Id>
+    <Titel>Golden City</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5295</Id>
+        <Nummer>15</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Een dag vol angst</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>GoldenCity_15_5295.jpg</Afbeelding>
+        <ReeksId>93</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -882,6 +938,24 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Jeremiah_38_2294.jpg</Afbeelding>
         <ReeksId>114</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>117</Id>
+    <Titel>Kapitein Kreiss</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5286</Id>
+        <Nummer>6</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De groene exodus</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>KapiteinKreiss_6_5286.jpg</Afbeelding>
+        <ReeksId>117</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -1307,6 +1381,60 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>135</Id>
+    <Titel>Lady S.</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5290</Id>
+        <Nummer>16</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Zelfmoordoperaties</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>LadyS_16_5290.jpg</Afbeelding>
+        <ReeksId>135</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>139</Id>
+    <Titel>Largo Winch</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5288</Id>
+        <Nummer>24</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Het gouden percentiel</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>LargoWinch_24_5288.jpg</Afbeelding>
+        <ReeksId>139</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>140</Id>
+    <Titel>Lefranc</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5292</Id>
+        <Nummer>34</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De weg naar Los Angeles</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Lefranc_34_5292.jpg</Afbeelding>
+        <ReeksId>140</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>144</Id>
     <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
     <Kopen>true</Kopen>
@@ -1384,9 +1512,10 @@
         <Id>4342</Id>
         <Nummer>8</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Dargona, de proto-wachter</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Metabaron_8_4342.jpg</Afbeelding>
         <ReeksId>147</ReeksId>
       </Strip>
     </Strips>
@@ -2171,6 +2300,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>197</Id>
+    <Titel>Robbedoes en Kwabbernoot (alternatief)</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5289</Id>
+        <Nummer>22</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Robbedoes en Blue Gorgon</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>RobbedoesenKwabbernootalternatief_22_5289.jpg</Afbeelding>
+        <ReeksId>197</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>199</Id>
     <Titel>Roze Bottel</Titel>
     <Kopen>true</Kopen>
@@ -2321,6 +2468,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>214</Id>
+    <Titel>Storm, Kronieken van de tussentijd</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5285</Id>
+        <Nummer>4</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De ruimte van Klein</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>StormKroniekenvandetussentijd_4_5285.jpg</Afbeelding>
+        <ReeksId>214</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2418,6 +2583,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>222</Id>
+    <Titel>Thorgal</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5287</Id>
+        <Nummer>41</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Duizend ogen</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Thorgal_41_5287.jpg</Afbeelding>
+        <ReeksId>222</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>267</Id>
     <Titel>Thorgal Saga</Titel>
     <Kopen>true</Kopen>
@@ -2509,6 +2692,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>243</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>244</Id>
+    <Titel>Wouden van Opaal, De</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5284</Id>
+        <Nummer>14</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De titaan van het licht</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>WoudenvanOpaal_14_5284.jpg</Afbeelding>
+        <ReeksId>244</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
