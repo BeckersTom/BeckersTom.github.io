@@ -140,7 +140,7 @@
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De titaan van het licht</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>WoudenvanOpaal_14_5284.jpg</Afbeelding>
       <ReeksId>244</ReeksId>

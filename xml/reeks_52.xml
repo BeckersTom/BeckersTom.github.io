@@ -10,7 +10,7 @@
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>1946 - 1969</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BuckDannyKortverhalen_1_1755.jpg</Afbeelding>
       <ReeksId>52</ReeksId>
@@ -20,7 +20,7 @@
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>1969 - 2020</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BuckDannyKortverhalen_2_1756.jpg</Afbeelding>
       <ReeksId>52</ReeksId>

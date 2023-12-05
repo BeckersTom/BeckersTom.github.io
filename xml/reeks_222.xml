@@ -410,7 +410,7 @@
       <Nummer>41</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Duizend ogen</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Thorgal_41_5287.jpg</Afbeelding>
       <ReeksId>222</ReeksId>

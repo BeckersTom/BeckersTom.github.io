@@ -620,7 +620,7 @@
       <Nummer>62</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Sallie</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Blauwbloezen_62_1596.jpg</Afbeelding>
       <ReeksId>44</ReeksId>
@@ -630,7 +630,7 @@
       <Nummer>63</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De slag van de krater</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Blauwbloezen_63_1597.jpg</Afbeelding>
       <ReeksId>44</ReeksId>
@@ -640,7 +640,7 @@
       <Nummer>64</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Waar is Arabesk?</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Blauwbloezen_64_1598.jpg</Afbeelding>
       <ReeksId>44</ReeksId>

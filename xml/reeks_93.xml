@@ -150,7 +150,7 @@
       <Nummer>15</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Een dag vol angst</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>GoldenCity_15_5295.jpg</Afbeelding>
       <ReeksId>93</ReeksId>

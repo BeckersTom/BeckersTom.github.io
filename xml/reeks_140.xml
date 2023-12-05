@@ -340,7 +340,7 @@
       <Nummer>34</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De weg naar Los Angeles</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Lefranc_34_5292.jpg</Afbeelding>
       <ReeksId>140</ReeksId>

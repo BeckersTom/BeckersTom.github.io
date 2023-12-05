@@ -160,7 +160,7 @@
       <Nummer>16</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Zelfmoordoperaties</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>LadyS_16_5290.jpg</Afbeelding>
       <ReeksId>135</ReeksId>

@@ -240,7 +240,7 @@
       <Nummer>24</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Het gouden percentiel</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>LargoWinch_24_5288.jpg</Afbeelding>
       <ReeksId>139</ReeksId>

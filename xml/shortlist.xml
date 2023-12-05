@@ -255,36 +255,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>1596</Id>
-        <Nummer>62</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Sallie</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Blauwbloezen_62_1596.jpg</Afbeelding>
-        <ReeksId>44</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>1597</Id>
-        <Nummer>63</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De slag van de krater</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Blauwbloezen_63_1597.jpg</Afbeelding>
-        <ReeksId>44</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>1598</Id>
-        <Nummer>64</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Waar is Arabesk?</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Blauwbloezen_64_1598.jpg</Afbeelding>
-        <ReeksId>44</ReeksId>
-      </Strip>
-      <Strip>
         <Id>1599</Id>
         <Nummer>65</Nummer>
         <Subnummer xsi:nil="true" />
@@ -330,34 +300,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>47</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>52</Id>
-    <Titel>Buck Danny Kortverhalen</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>1755</Id>
-        <Nummer>1</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>1946 - 1969</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>BuckDannyKortverhalen_1_1755.jpg</Afbeelding>
-        <ReeksId>52</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>1756</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>1969 - 2020</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>BuckDannyKortverhalen_2_1756.jpg</Afbeelding>
-        <ReeksId>52</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -743,24 +685,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>77</Id>
-    <Titel>Ekhö, de spiegelwereld</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5293</Id>
-        <Nummer>12</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De walkure van de fjorden</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Ekhodespiegelwereld_12_5293.jpg</Afbeelding>
-        <ReeksId>77</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>84</Id>
     <Titel>Fanny K.</Titel>
     <Kopen>true</Kopen>
@@ -809,24 +733,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>92</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>93</Id>
-    <Titel>Golden City</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5295</Id>
-        <Nummer>15</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Een dag vol angst</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>GoldenCity_15_5295.jpg</Afbeelding>
-        <ReeksId>93</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -1377,60 +1283,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>131</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>135</Id>
-    <Titel>Lady S.</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5290</Id>
-        <Nummer>16</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Zelfmoordoperaties</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>LadyS_16_5290.jpg</Afbeelding>
-        <ReeksId>135</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>139</Id>
-    <Titel>Largo Winch</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5288</Id>
-        <Nummer>24</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Het gouden percentiel</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>LargoWinch_24_5288.jpg</Afbeelding>
-        <ReeksId>139</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>140</Id>
-    <Titel>Lefranc</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5292</Id>
-        <Nummer>34</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De weg naar Los Angeles</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Lefranc_34_5292.jpg</Afbeelding>
-        <ReeksId>140</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2468,24 +2320,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>214</Id>
-    <Titel>Storm, Kronieken van de tussentijd</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5285</Id>
-        <Nummer>4</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De ruimte van Klein</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>StormKroniekenvandetussentijd_4_5285.jpg</Afbeelding>
-        <ReeksId>214</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2583,24 +2417,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>222</Id>
-    <Titel>Thorgal</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5287</Id>
-        <Nummer>41</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Duizend ogen</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Thorgal_41_5287.jpg</Afbeelding>
-        <ReeksId>222</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>267</Id>
     <Titel>Thorgal Saga</Titel>
     <Kopen>true</Kopen>
@@ -2692,24 +2508,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>243</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>244</Id>
-    <Titel>Wouden van Opaal, De</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5284</Id>
-        <Nummer>14</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De titaan van het licht</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>WoudenvanOpaal_14_5284.jpg</Afbeelding>
-        <ReeksId>244</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

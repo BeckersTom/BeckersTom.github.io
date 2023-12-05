@@ -40,7 +40,7 @@
       <Nummer>4</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De ruimte van Klein</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>StormKroniekenvandetussentijd_4_5285.jpg</Afbeelding>
       <ReeksId>214</ReeksId>
