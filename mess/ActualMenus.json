@@ -1,260 +1,152 @@
 [
   {
-    "id": "b51a3a39-f2cf-454c-9a70-a05168ac42e3",
-    "date": "2023-12-06T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza 4 kazen"
-  },
-  {
-    "id": "bb5c23a4-db5e-4062-bf11-f55f38662a82",
-    "date": "2023-12-06T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene groentenmix met pesto  -Gestoofde savooikool  -Witloof -\tSpruiten met spek en look"
-  },
-  {
-    "id": "5237c23a-ebc4-4e4a-8e4f-4707e9f86a7c",
-    "date": "2023-12-06T00:00:00",
-    "type": "soep",
-    "menu1": "Waterkerssoep"
-  },
-  {
-    "id": "2dd080cd-1b96-42f0-856c-eca3cc876956",
-    "date": "2023-12-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Fattoush salade met pitabrood, falafels, muhamarradip en tabouleh"
-  },
-  {
-    "id": "3bd8c566-483f-4456-ab2e-ebd43b55dbb6",
-    "date": "2023-12-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Gravedlax van zalm met mosterd dillesaus, aardappel/appelsalade en truffelchips"
-  },
-  {
-    "id": "a8a8e5da-c6fe-4db5-ae71-51ab4fd22843",
-    "date": "2023-12-07T00:00:00",
-    "type": "grill",
-    "menu1": "Hertenstoverij met dennenappels, gestoofd witloof en appeltje"
-  },
-  {
-    "id": "adf385b9-6846-47b4-a135-a3b59e0b4f32",
-    "date": "2023-12-07T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene groentenmix met pesto  -Gestoofde savooikool  -Witloof -\tSpruiten met spek en look"
-  },
-  {
-    "id": "cdb2030c-753e-422a-b6f9-294e16a9adfd",
-    "date": "2023-12-07T00:00:00",
-    "type": "soep",
-    "menu1": "Turkse rode linzensoep"
-  },
-  {
-    "id": "6015d0e8-151e-447a-b747-1bc1c3bce986",
-    "date": "2023-12-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Gebakken seitansteak met sinaas-roze pepersaus, wortelsalade en frietjes"
-  },
-  {
-    "id": "67eec510-4292-415d-8ed1-6a5990afdd41",
-    "date": "2023-12-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Rundsbrochette Choronsaus, tomatensalade en frietjes"
-  },
-  {
-    "id": "9f1cbcd0-7301-4708-848a-b885f89c05af",
-    "date": "2023-12-08T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Groene groentenmix met pesto  -Gestoofde savooikool  -Witloof -\tSpruiten met spek en look"
-  },
-  {
-    "id": "a23bae3e-44b1-4379-abf7-71d11ec67dd2",
-    "date": "2023-12-08T00:00:00",
-    "type": "soep",
-    "menu1": "Tom kha kai"
-  },
-  {
-    "id": "4a667014-4424-4f3c-b07b-d362c1f1acdd",
-    "date": "2023-12-08T00:00:00",
-    "type": "veggie",
-    "menu1": "Pasta pesto met courgette, zongedroogde tomaat, rucola en parmezaan"
-  },
-  {
-    "id": "744a031f-a3fb-4681-b83e-dad40054696e",
-    "date": "2023-12-08T00:00:00",
-    "type": "vlees",
-    "menu1": "Gebakken groentenrijst met kip zoet zuur"
-  },
-  {
-    "id": "4ed0bbe5-7f33-4691-b436-46b4e826da9a",
-    "date": "2023-12-09T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": "cb3c4a4c-a06a-4f63-855c-b02ef6f05619",
-    "date": "2023-12-10T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": "821fc89a-cd45-4e01-8c9a-cb7da396cc56",
-    "date": "2023-12-11T00:00:00",
-    "type": "grill",
-    "menu1": "Crunchy chicken burger met aardappelwedges"
-  },
-  {
-    "id": "d57f2cf0-6fbc-43a3-9322-199acc362ed7",
-    "date": "2023-12-11T00:00:00",
-    "type": "groentvdw",
-    "menu1": "- Gebakken schorseneren -Butternut uit de oven met oregano -Gegratineerde rode biet -Prei"
-  },
-  {
-    "id": "c5c76e56-bf67-4708-a882-ac9a6458a747",
-    "date": "2023-12-11T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep met brunoise groenten"
-  },
-  {
-    "id": "342582e2-4c69-4e9e-903f-be1975109edf",
-    "date": "2023-12-11T00:00:00",
-    "type": "veggie",
-    "menu1": "Parmentierschotel met prei, quorn en kaassaus"
-  },
-  {
-    "id": "a5133d1e-27db-401d-a4af-552d63e5d417",
-    "date": "2023-12-11T00:00:00",
-    "type": "vlees",
-    "menu1": "Lasagne met chorizo, basilicum en mozzarella"
-  },
-  {
-    "id": "06cb8ebb-cad0-4e9e-854e-b174a1cfd993",
-    "date": "2023-12-12T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Kebab met looksaus"
-  },
-  {
-    "id": "014359e9-bcbc-4e72-85de-ba029d77db8b",
-    "date": "2023-12-12T00:00:00",
-    "type": "groentvdw",
-    "menu1": "- Gebakken schorseneren -Butternut uit de oven met oregano -Gegratineerde rode biet -Prei"
-  },
-  {
-    "id": "f07600de-c79c-4f1e-a360-3bf87cc5dee8",
-    "date": "2023-12-12T00:00:00",
-    "type": "soep",
-    "menu1": "Knolseldersoep met geroosterde amandelschijven"
-  },
-  {
-    "id": "be0e5aeb-17b1-48ff-81ab-a377bf73a026",
-    "date": "2023-12-12T00:00:00",
-    "type": "veggie",
-    "menu1": "Bulgur met balletjes en fattoush salade"
-  },
-  {
-    "id": "cc628794-2ce6-401a-880c-4159d8776f87",
-    "date": "2023-12-12T00:00:00",
-    "type": "vlees",
-    "menu1": "Steak peperroomsaus, friet en slaatje"
-  },
-  {
-    "id": "6a903916-ba21-4507-b926-68e7b1c2865a",
-    "date": "2023-12-13T00:00:00",
-    "type": "grill",
-    "menu1": "Crunchy chicken burger met aardappelwedges"
-  },
-  {
-    "id": "58d1e7fd-5a79-4734-b7f8-307494b44cab",
-    "date": "2023-12-13T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken schorseneren -Butternut uit de oven met oregano -Gegratineerde rode biet -Prei"
-  },
-  {
-    "id": "3f943979-52f1-44a4-85b8-73ecec8a94ea",
-    "date": "2023-12-13T00:00:00",
-    "type": "soep",
-    "menu1": "Kikkererwtensoep met chorizo"
-  },
-  {
-    "id": "9eaaa175-adcf-47d8-ab8d-7f7b05a7cb86",
-    "date": "2023-12-13T00:00:00",
-    "type": "veggie",
-    "menu1": "Spinaziepuree met groentennuggets en tomatensaus"
-  },
-  {
-    "id": "39358d4f-66e8-44a2-acd5-78f890bea302",
-    "date": "2023-12-13T00:00:00",
-    "type": "vlees",
-    "menu1": "Heek citroen/peterselie, botersaus, krieltjes en geroosterde groenten"
-  },
-  {
-    "id": "d6f22075-8905-4bd1-a388-1f0471a1ccbe",
-    "date": "2023-12-14T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Kerstdiner;  Dessert Creatie van citroen met pistache"
-  },
-  {
-    "id": "19f9d8ae-660e-43c2-9ec4-b831c9c850a1",
-    "date": "2023-12-14T00:00:00",
-    "type": "soep",
-    "menu1": "Kerstdiner: Aspergesoep met grijze garnalen"
-  },
-  {
-    "id": "45699d85-2708-4a8a-a1fa-e79dfa08864f",
-    "date": "2023-12-14T00:00:00",
-    "type": "veggie",
-    "menu1": "Kerstdiner:  Risotto met boschampignons, truffel en rucola"
-  },
-  {
-    "id": "3f4519fd-5785-4634-a9e7-d3e6825e57cc",
-    "date": "2023-12-14T00:00:00",
-    "type": "vlees",
-    "menu1": "Kerstdiner: Hertenkalf met creme van pastinaak, boschampignons,  gestoofd peertje en polenta"
-  },
-  {
-    "id": "d975d8c4-a450-41b7-a952-ceba616a2007",
-    "date": "2023-12-15T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken schorseneren -Butternut uit de oven met oregano -Gegratineerde rode biet -Prei"
-  },
-  {
-    "id": "2d8834a9-c1ca-449a-ba1f-3e10cf6cca36",
-    "date": "2023-12-15T00:00:00",
-    "type": "soep",
-    "menu1": "Gele paprikasoep"
-  },
-  {
-    "id": "046e2194-38f9-408f-b622-8a5939492604",
-    "date": "2023-12-15T00:00:00",
-    "type": "veggie",
-    "menu1": "Couscoussalade met aubergines uit de oven met een yoghurt/muntsaus"
-  },
-  {
-    "id": "162b3070-5681-4e47-a976-cff771b914f6",
-    "date": "2023-12-15T00:00:00",
-    "type": "vlees",
-    "menu1": "Groene bonensalade met feta en lamsepigram"
-  },
-  {
-    "id": "9bb40ad4-c186-45ca-975c-4e1b0df49e0f",
-    "date": "2023-12-16T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": "ee221b31-1bc8-4af2-b02f-ddd0f0f24702",
+    "id": "b300d3a4-e469-4370-95fc-c23f94ea8c94",
     "date": "2023-12-17T00:00:00",
     "type": "soep",
     "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
   },
   {
-    "id": "6efa7e5a-53c3-4dbe-bdaf-e95a5a95071b",
+    "id": "ea47f0c9-5bdf-4c1b-afe9-66f95115237c",
+    "date": "2023-12-18T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza Margarita"
+  },
+  {
+    "id": "cd649f0b-dce5-4fc1-bf7e-8fbd55fa6c48",
+    "date": "2023-12-18T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
+  },
+  {
+    "id": "65cdf858-f120-444d-ba00-29a00af1de9e",
     "date": "2023-12-18T00:00:00",
     "type": "soep",
     "menu1": "Kerriesoep met fijne groenten"
   },
   {
-    "id": "0a825015-2300-4522-9368-da3600652e30",
+    "id": "28dc0fb5-9bbd-400d-860a-3a731c5930d1",
+    "date": "2023-12-18T00:00:00",
+    "type": "veggie",
+    "menu1": "Huisbereide quiche met prei, champignon en geitenkaas met groentekrans"
+  },
+  {
+    "id": "fcb9e3e4-da32-415a-87ef-f21a5095d9ed",
     "date": "2023-12-18T00:00:00",
     "type": "vlees",
     "menu1": "Tartiflette met spek, ajuin en reblouchon"
+  },
+  {
+    "id": "c7baf097-e6b3-4a66-beec-998bb06aef73",
+    "date": "2023-12-19T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza Margareta"
+  },
+  {
+    "id": "8060ae48-68a6-432c-8076-bfcad1677764",
+    "date": "2023-12-19T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
+  },
+  {
+    "id": "bcc70a87-21cb-43cb-a762-49602db7a781",
+    "date": "2023-12-19T00:00:00",
+    "type": "soep",
+    "menu1": "Champignonsoep met bieslook"
+  },
+  {
+    "id": "fe15ee7f-582e-45f3-ab60-7a9c23ee7b9f",
+    "date": "2023-12-19T00:00:00",
+    "type": "veggie",
+    "menu1": "Gebakken koolvis op Normandische wijze met puree"
+  },
+  {
+    "id": "2efe0312-c15c-4298-93e4-3a945bc0045c",
+    "date": "2023-12-19T00:00:00",
+    "type": "vlees",
+    "menu1": "Gebakken soba-noedels met groenten en tofu"
+  },
+  {
+    "id": "627c0b97-53f9-46b3-a5ba-b64527efa3eb",
+    "date": "2023-12-20T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
+  },
+  {
+    "id": "e5a5dba6-76f5-4ae8-ad57-1b314124ccb0",
+    "date": "2023-12-20T00:00:00",
+    "type": "soep",
+    "menu1": "Rundsbouillon met wokgroenten en balletjes"
+  },
+  {
+    "id": "2e9fd711-6e61-440b-b385-f7fe800b6ab9",
+    "date": "2023-12-20T00:00:00",
+    "type": "veggie",
+    "menu1": "Toast champignon met room en een salade"
+  },
+  {
+    "id": "6cdb0767-ae76-4528-86d6-b5c2efd6efac",
+    "date": "2023-12-20T00:00:00",
+    "type": "vlees",
+    "menu1": "Gebakken groenterijst met ei en ananas, currysaus en kipspies"
+  },
+  {
+    "id": "57e4a6bc-aff5-40d2-b61a-bb1773f9c032",
+    "date": "2023-12-21T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
+  },
+  {
+    "id": "fd5aeecb-c4e4-4b0c-982a-4aeb1236fafa",
+    "date": "2023-12-21T00:00:00",
+    "type": "soep",
+    "menu1": "Zoete aardappelsoep met kokos"
+  },
+  {
+    "id": "78297618-f2d7-416e-a67f-573f5b3d4e3f",
+    "date": "2023-12-21T00:00:00",
+    "type": "veggie",
+    "menu1": "quornfilet met bearnaisesaus, gestoofd witloof en friet"
+  },
+  {
+    "id": "5e543589-d249-44b2-baf2-a2137624e5e6",
+    "date": "2023-12-21T00:00:00",
+    "type": "vlees",
+    "menu1": "Varkenslapje met saus van sjalot, spruiten en rösti"
+  },
+  {
+    "id": "ea2bdd2c-fecd-462b-ac0a-3273938c8316",
+    "date": "2023-12-22T00:00:00",
+    "type": "groentvdw",
+    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
+  },
+  {
+    "id": "a1420bd9-cab9-4c12-b7a8-1d79f55734c7",
+    "date": "2023-12-22T00:00:00",
+    "type": "soep",
+    "menu1": "Pastinaaksoep met bosui"
+  },
+  {
+    "id": "a3ca1cd6-bd64-4353-bd5c-19e8441c29fd",
+    "date": "2023-12-22T00:00:00",
+    "type": "veggie",
+    "menu1": "Pompoenstoofpotje met abrikozen, linzen en bieten/veldsla salade"
+  },
+  {
+    "id": "b0fb57cb-7ec9-4a33-9140-50bf21f1574f",
+    "date": "2023-12-22T00:00:00",
+    "type": "vlees",
+    "menu1": "Boerenworst met rode kool en Elzasser krieltjes"
+  },
+  {
+    "id": "9fd3836d-a993-4a58-a569-a3f7f1ce8606",
+    "date": "2023-12-23T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+  },
+  {
+    "id": "bf2a39ba-1713-42f2-ba35-02c19923a3e1",
+    "date": "2023-12-24T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
   }
 ]
