@@ -1,152 +1,200 @@
 [
   {
     "id": 0,
-    "date": "2023-12-17T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-18T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Margarita"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-18T00:00:00",
+    "date": "2023-12-24T00:00:00",
     "type": "groentvdw",
-    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-18T00:00:00",
-    "type": "soep",
-    "menu1": "Kerriesoep met fijne groenten"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-18T00:00:00",
-    "type": "veggie",
-    "menu1": "Huisbereide quiche met prei, champignon en geitenkaas met groentekrans"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-18T00:00:00",
-    "type": "vlees",
-    "menu1": "Tartiflette met spek, ajuin en reblouchon"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-19T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Margareta"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-19T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-19T00:00:00",
-    "type": "soep",
-    "menu1": "Champignonsoep met bieslook"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-19T00:00:00",
-    "type": "veggie",
-    "menu1": "Gebakken koolvis op Normandische wijze met puree"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-19T00:00:00",
-    "type": "vlees",
-    "menu1": "Gebakken soba-noedels met groenten en tofu"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-20T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-20T00:00:00",
-    "type": "soep",
-    "menu1": "Rundsbouillon met wokgroenten en balletjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-20T00:00:00",
-    "type": "veggie",
-    "menu1": "Toast champignon met room en een salade"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-20T00:00:00",
-    "type": "vlees",
-    "menu1": "Gebakken groenterijst met ei en ananas, currysaus en kipspies"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-21T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-21T00:00:00",
-    "type": "soep",
-    "menu1": "Zoete aardappelsoep met kokos"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-21T00:00:00",
-    "type": "veggie",
-    "menu1": "quornfilet met bearnaisesaus, gestoofd witloof en friet"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-21T00:00:00",
-    "type": "vlees",
-    "menu1": "Varkenslapje met saus van sjalot, spruiten en rösti"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-22T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Savooikool -Spruiten -Wortelen - Witloof"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-22T00:00:00",
-    "type": "soep",
-    "menu1": "Pastinaaksoep met bosui"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-22T00:00:00",
-    "type": "veggie",
-    "menu1": "Pompoenstoofpotje met abrikozen, linzen en bieten/veldsla salade"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-22T00:00:00",
-    "type": "vlees",
-    "menu1": "Boerenworst met rode kool en Elzasser krieltjes"
-  },
-  {
-    "id": 0,
-    "date": "2023-12-23T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
   },
   {
     "id": 0,
     "date": "2023-12-24T00:00:00",
     "type": "soep",
     "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-24T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-24T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-25T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-25T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens feestdagen:"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-25T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-25T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-26T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-26T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens feestdagen:"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-26T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-26T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-27T00:00:00",
+    "type": "soep",
+    "menu1": "Bloemkoolsoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-27T00:00:00",
+    "type": "veggie",
+    "menu1": "Curry met zoete aardappel, bloemkool, linzen, sperziebonen en rijst"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-27T00:00:00",
+    "type": "vlees",
+    "menu1": "Ardeense burger met spruitjes, jagersaus en gebakken aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-28T00:00:00",
+    "type": "soep",
+    "menu1": "pompoensoep"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-28T00:00:00",
+    "type": "veggie",
+    "menu1": "Groentecouscous met falafel en harissayoghurt"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-28T00:00:00",
+    "type": "vlees",
+    "menu1": "Gepaneerde vis met remoulade,  puree en witloofsalade"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-29T00:00:00",
+    "type": "soep",
+    "menu1": "Tomatensoep met balletjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-29T00:00:00",
+    "type": "veggie",
+    "menu1": "Gegratineerde macaroni met champignon, sojastukjes en kaas"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-29T00:00:00",
+    "type": "vlees",
+    "menu1": "Kipfilet met champignonroomsaus, wintersalade en frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-30T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-30T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-30T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-30T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-31T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-31T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-31T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2023-12-31T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
+  },
+  {
+    "id": 0,
+    "date": "2024-01-01T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Macaroni Ham - Tortiglioni Arrabiata - Linguine Carbonara - Keizerlijke Noedels"
+  },
+  {
+    "id": 0,
+    "date": "2024-01-01T00:00:00",
+    "type": "soep",
+    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
+  },
+  {
+    "id": 0,
+    "date": "2024-01-01T00:00:00",
+    "type": "veggie",
+    "menu1": "Roulade Van Aubergine Falafel And Semolina - Penne Al Pesto Verde - Tikka Massala Veggie - Zalm Rug Met Mosterd"
+  },
+  {
+    "id": 0,
+    "date": "2024-01-01T00:00:00",
+    "type": "vlees",
+    "menu1": "Balletje Op Luikse Wijze - Balletjes In Tomatensaus - Vol-Au-Vent Boter Puree - Kantonese Rijst  - Chicken in red curry and rice - Kippenhapjes Tikka,Rijst - Kippenhapjes Zoet Zuur"
   }
 ]
