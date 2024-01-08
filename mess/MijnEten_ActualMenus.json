@@ -1,126 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2024-01-03T00:00:00",
-    "type": "grill",
-    "menu1": "Bagel met gegrilde kip, spek en Cheddar"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-03T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-03T00:00:00",
-    "type": "soep",
-    "menu1": "Witloofsoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-03T00:00:00",
-    "type": "veggie",
-    "menu1": "Pasta butternut, feta, rucola"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-03T00:00:00",
-    "type": "vlees",
-    "menu1": "Tagliatelle met scampi, tomatenroom en Parmezaan"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-04T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza kip, mozzarella, groene pesto"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-04T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-04T00:00:00",
-    "type": "soep",
-    "menu1": "Venkel-courgettesoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-04T00:00:00",
-    "type": "veggie",
-    "menu1": "Salade van zoete aardappel, falafel en geitenkaas"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-04T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met bladerdeeg, salade en frieten"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-05T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-05T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep met balletjes"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-05T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-05T00:00:00",
-    "type": "vlees",
-    "menu1": "Buikspek met Luikse saus, boterbonen en krieltjes"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-06T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met puree - Wildstoofvlees met natuuraardappelen, peertje en witloof - Scampi Diabolo, tagliatelle - Visfilet, pomme duchesse, julienne groenten, witte wijnsaus"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-07T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": 0,
-    "date": "2024-01-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met puree - Wildstoofvlees met natuuraardappelen, peertje en witloof - Scampi Diabolo, tagliatelle - Visfilet, pomme duchesse, julienne groenten, witte wijnsaus"
-  },
-  {
-    "id": 0,
     "date": "2024-01-08T00:00:00",
     "type": "grill",
     "menu1": "Pizza Carnivore"
@@ -141,7 +21,7 @@
     "id": 0,
     "date": "2024-01-08T00:00:00",
     "type": "veggie",
-    "menu1": "Macaroni met prei en champignons gegratineerd."
+    "menu1": "Macaroni met prei en champignons gegratineerd"
   },
   {
     "id": 0,
@@ -201,7 +81,7 @@
     "id": 0,
     "date": "2024-01-10T00:00:00",
     "type": "veggie",
-    "menu1": "Quiche van pompoen, brie, rode ajuin met krieltjes en sla"
+    "menu1": "Quiche van witloof, brie, rode ajuin met krieltjes en sla"
   },
   {
     "id": 0,
@@ -225,7 +105,7 @@
     "id": 0,
     "date": "2024-01-11T00:00:00",
     "type": "soep",
-    "menu1": "Champignonsoep"
+    "menu1": "Gele paprikasoep"
   },
   {
     "id": 0,
@@ -261,6 +141,6 @@
     "id": 0,
     "date": "2024-01-12T00:00:00",
     "type": "vlees",
-    "menu1": "Gegratineerde visfilet met puree en tartaresaus"
+    "menu1": "Gegratineerde visfilet met puree en tartaarsaus"
   }
 ]
