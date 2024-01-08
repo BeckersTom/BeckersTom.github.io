@@ -1,266 +1,146 @@
 [
   {
-    "id": "dd7299e2-ac07-429b-970e-92fb60eff1fd",
-    "date": "2024-01-03T00:00:00",
-    "type": "grill",
-    "menu1": "Bagel met gegrilde kip, spek en Cheddar"
-  },
-  {
-    "id": "ce8e7cba-bc3e-4d68-8365-a4c6e90b6a0a",
-    "date": "2024-01-03T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": "ca13b548-a3de-4583-8753-76cc5ae8dac0",
-    "date": "2024-01-03T00:00:00",
-    "type": "soep",
-    "menu1": "Witloofsoep"
-  },
-  {
-    "id": "9c5d49b5-c715-4d84-84bb-0d7960fb3f98",
-    "date": "2024-01-03T00:00:00",
-    "type": "veggie",
-    "menu1": "Pasta butternut, feta, rucola"
-  },
-  {
-    "id": "3f319235-1ee2-47d9-8c1a-fc66f707b4ab",
-    "date": "2024-01-03T00:00:00",
-    "type": "vlees",
-    "menu1": "Tagliatelle met scampi, tomatenroom en Parmezaan"
-  },
-  {
-    "id": "18092361-ae0c-41c3-a8c0-f098dd39b8d2",
-    "date": "2024-01-04T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza kip, mozzarella, groene pesto"
-  },
-  {
-    "id": "60beac7f-a6c3-4914-b0f5-db33e096f11a",
-    "date": "2024-01-04T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": "bf71c97f-2f7a-42ba-9242-288c744fbe5e",
-    "date": "2024-01-04T00:00:00",
-    "type": "soep",
-    "menu1": "Venkel-courgettesoep"
-  },
-  {
-    "id": "bb840a54-233e-4b61-8348-5f0bae5da9d5",
-    "date": "2024-01-04T00:00:00",
-    "type": "veggie",
-    "menu1": "Salade van zoete aardappel, falafel en geitenkaas"
-  },
-  {
-    "id": "6fd7378e-7fc2-4bd5-a270-75303254d884",
-    "date": "2024-01-04T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met bladerdeeg, salade en frieten"
-  },
-  {
-    "id": "9d5b40c8-f9ed-4525-9ab1-7b52c83d63e8",
-    "date": "2024-01-05T00:00:00",
-    "type": "groentvdw",
-    "menu1": "-Gebakken knolselder -Rode kool -Wortelen -Prei"
-  },
-  {
-    "id": "fff5c56a-15d1-4d7a-81d6-86ecb737d978",
-    "date": "2024-01-05T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep met balletjes"
-  },
-  {
-    "id": "9ba36900-b6fe-49cd-899e-03de47632e31",
-    "date": "2024-01-05T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": "4689e668-7689-4c86-a4ec-7f2ae98ae8d4",
-    "date": "2024-01-05T00:00:00",
-    "type": "vlees",
-    "menu1": "Buikspek met Luikse saus, boterbonen en krieltjes"
-  },
-  {
-    "id": "cbb8e960-fb78-4cd7-933b-f377a2895dda",
-    "date": "2024-01-06T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": "cb28203b-213f-4e31-837b-f6746409fb6f",
-    "date": "2024-01-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": "1569fe8f-120c-42b0-830f-80750ec04173",
-    "date": "2024-01-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met puree - Wildstoofvlees met natuuraardappelen, peertje en witloof - Scampi Diabolo, tagliatelle - Visfilet, pomme duchesse, julienne groenten, witte wijnsaus"
-  },
-  {
-    "id": "f1f156cc-7d0a-4ec1-a71e-ba8643a76352",
-    "date": "2024-01-07T00:00:00",
-    "type": "soep",
-    "menu1": "VRT-aanbod in de slimme koelkast tijdens het weekend:"
-  },
-  {
-    "id": "15c652f0-e8f2-4681-b23d-c79165063c89",
-    "date": "2024-01-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Lasagne met spinazie, paprika en aubergine"
-  },
-  {
-    "id": "7b53b22c-0ec8-452e-bba1-0eeb918df86a",
-    "date": "2024-01-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met puree - Wildstoofvlees met natuuraardappelen, peertje en witloof - Scampi Diabolo, tagliatelle - Visfilet, pomme duchesse, julienne groenten, witte wijnsaus"
-  },
-  {
-    "id": "aa1fbaff-ff99-4b19-8358-afcd14bea194",
+    "id": "49d948b7-df44-4933-8ed0-bb19af78ac50",
     "date": "2024-01-08T00:00:00",
     "type": "grill",
     "menu1": "Pizza Carnivore"
   },
   {
-    "id": "045c0c4b-424d-467d-bb95-fb267336db4e",
+    "id": "a540dc43-7d07-4e6b-b6a3-fd7cdeb4c891",
     "date": "2024-01-08T00:00:00",
     "type": "groentvdw",
     "menu1": "- Gestoofde kool - spruiten - boterboontjes - pompoen"
   },
   {
-    "id": "d46148d4-8a98-43af-ba47-dde20cff6cf1",
+    "id": "84483aef-99d8-4404-9190-f4938892b4a8",
     "date": "2024-01-08T00:00:00",
     "type": "soep",
     "menu1": "Kervelsoep"
   },
   {
-    "id": "9fbf68a4-b979-45c7-adf9-85cab4eacb84",
+    "id": "a32ffa01-0ee0-43e6-9832-09be71dee3da",
     "date": "2024-01-08T00:00:00",
     "type": "veggie",
-    "menu1": "Macaroni met prei en champignons gegratineerd."
+    "menu1": "Macaroni met prei en champignons gegratineerd"
   },
   {
-    "id": "55f3469d-b500-4bd3-ad0c-e13491f146dc",
+    "id": "2b7c43ec-e0dd-433f-b9d8-9e11332cf5b2",
     "date": "2024-01-08T00:00:00",
     "type": "vlees",
     "menu1": "Kipfilet met dragonsaus, boontjes en aardappelgratin"
   },
   {
-    "id": "a86b7d37-f35a-4210-bc34-677e0227e940",
+    "id": "c07e5a17-4199-4d85-b7de-58398a66c3ec",
     "date": "2024-01-09T00:00:00",
     "type": "grill",
     "menu1": "Mexicaanse kipburger met wedges"
   },
   {
-    "id": "b5df6922-a879-4ed1-b187-bb134df298cb",
+    "id": "51099d46-3656-4cb5-97f9-7277487ccf80",
     "date": "2024-01-09T00:00:00",
     "type": "groentvdw",
     "menu1": "- Gestoofde kool - spruiten - boterboontjes - pompoen"
   },
   {
-    "id": "8854bf17-52ab-4ba3-98b5-edde81feb604",
+    "id": "e3c8c680-406f-4544-89d8-589bba95dc36",
     "date": "2024-01-09T00:00:00",
     "type": "soep",
     "menu1": "Thaise pompoensoep"
   },
   {
-    "id": "7fc7b5fb-2422-4e7b-93c6-ff294b57c135",
+    "id": "4d498829-cc4e-42aa-baf8-40e1bddd43a0",
     "date": "2024-01-09T00:00:00",
     "type": "veggie",
     "menu1": "Linzenstoofpotje met pompoen en zoete aardappel en rijst"
   },
   {
-    "id": "047ee94c-0c38-4d81-811e-baa8c605235f",
+    "id": "9bb77cae-42f0-4ac1-b309-0518cc32f62f",
     "date": "2024-01-09T00:00:00",
     "type": "vlees",
     "menu1": "Braadworst met rode kool en puree"
   },
   {
-    "id": "75bd54c6-764a-47ef-a057-5f8910721212",
+    "id": "08f475bd-858f-4eeb-bb03-0d62da779497",
     "date": "2024-01-10T00:00:00",
     "type": "grill",
     "menu1": "Pizza Carnivore"
   },
   {
-    "id": "aea1d40a-770f-485b-bd0b-ebdd70f58443",
+    "id": "d04e378e-f3ea-4c90-a655-4fa79bcaceb5",
     "date": "2024-01-10T00:00:00",
     "type": "groentvdw",
     "menu1": "- Gestoofde kool - spruiten - boterboontjes - pompoen"
   },
   {
-    "id": "95d73a30-2bc8-411a-a8bb-638b5e50dcc9",
+    "id": "c33a9bf4-25b6-469e-9884-f3a0f9a3fc36",
     "date": "2024-01-10T00:00:00",
     "type": "soep",
     "menu1": "Preisoep met korstjes"
   },
   {
-    "id": "6383084a-111e-4a87-8b5a-fa4b2b872638",
+    "id": "731b7b6b-3e42-48bd-bb10-8da47ec8068b",
     "date": "2024-01-10T00:00:00",
     "type": "veggie",
-    "menu1": "Quiche van pompoen, brie, rode ajuin met krieltjes en sla"
+    "menu1": "Quiche van witloof, brie, rode ajuin met krieltjes en sla"
   },
   {
-    "id": "cab7daa8-173a-48e2-99a1-8f41b8dbb613",
+    "id": "013a997f-74e9-4ad1-ac44-f8ad12c55228",
     "date": "2024-01-10T00:00:00",
     "type": "vlees",
     "menu1": "Risotto met zalm en prei"
   },
   {
-    "id": "01ea8d45-3fb9-43eb-81ba-e584f67909ab",
+    "id": "75c85ec6-e416-4e20-967c-2a320293c792",
     "date": "2024-01-11T00:00:00",
     "type": "grill",
     "menu1": "Mexicaanse kipburger met wedges"
   },
   {
-    "id": "040b6a26-186c-4cc8-9426-b2cd2b399a0d",
+    "id": "794aea56-cb46-43c5-a8d5-08bc5a9607f8",
     "date": "2024-01-11T00:00:00",
     "type": "groentvdw",
     "menu1": "- Gestoofde kool - spruiten - boterboontjes - pompoen"
   },
   {
-    "id": "4eb11fab-41e2-44b5-b4bb-bf638fe4e15c",
+    "id": "3e13e5e3-304c-4624-989e-14c2761b15cc",
     "date": "2024-01-11T00:00:00",
     "type": "soep",
-    "menu1": "Champignonsoep"
+    "menu1": "Gele paprikasoep"
   },
   {
-    "id": "c0a12640-05ab-424d-af7c-3e0d2e7b540c",
+    "id": "0791e8cb-6d3e-4877-a32b-17251c02eead",
     "date": "2024-01-11T00:00:00",
     "type": "veggie",
     "menu1": "Groene quinoa salade met gebakken halloumi"
   },
   {
-    "id": "94750ce2-4a96-46e9-a89d-5a8f5881f18d",
+    "id": "ae85a767-a4e2-4123-9fb5-13d594eeb009",
     "date": "2024-01-11T00:00:00",
     "type": "vlees",
     "menu1": "Moussaka met een frisse sla"
   },
   {
-    "id": "cfe6b046-f3ec-4621-98c1-bf0b6f1e809a",
+    "id": "68d3a570-e4ee-4aff-b2e0-16899eaa380f",
     "date": "2024-01-12T00:00:00",
     "type": "groentvdw",
     "menu1": "- Gestoofde kool - spruiten - boterboontjes - pompoen"
   },
   {
-    "id": "2bceec9e-6ef6-4b40-8eef-4d32a84ee158",
+    "id": "078a2142-862e-4113-9855-d9be48612788",
     "date": "2024-01-12T00:00:00",
     "type": "soep",
     "menu1": "Waterkerssoep"
   },
   {
-    "id": "9b3d001f-5a91-42b1-aa66-78f9b6184305",
+    "id": "543bc7d2-2801-44fd-934b-ca88e5497ba7",
     "date": "2024-01-12T00:00:00",
     "type": "veggie",
     "menu1": "Toast champignon met sla"
   },
   {
-    "id": "2b19b487-d718-4cb6-9eb8-a4e775b29df4",
+    "id": "72f9a05e-52fe-4649-9241-7e1d12d1d083",
     "date": "2024-01-12T00:00:00",
     "type": "vlees",
-    "menu1": "Gegratineerde visfilet met puree en tartaresaus"
+    "menu1": "Gegratineerde visfilet met puree en tartaarsaus"
   }
 ]
