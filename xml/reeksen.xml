@@ -871,6 +871,12 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>343</Id>
+    <Titel>Morgen</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
     <Id>156</Id>
     <Titel>Mr. Kweeniewa en geniale Olivier</Titel>
     <Kopen>false</Kopen>
@@ -1455,6 +1461,12 @@
   <Reeks>
     <Id>246</Id>
     <Titel>XIII Mystery</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
+    <Id>342</Id>
+    <Titel>XIII Trilogy</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
   </Reeks>

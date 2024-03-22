@@ -199,9 +199,10 @@
       <Id>3383</Id>
       <Nummer>20</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De Citadel</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_20_3383.jpg</Afbeelding>
       <ReeksId>189</ReeksId>
     </Strip>
     <Strip>

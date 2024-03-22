@@ -415,5 +415,15 @@
       <Afbeelding>Alex_41_4365.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5305</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het schild van Achilles</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_42_5305.jpg</Afbeelding>
+      <ReeksId>23</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

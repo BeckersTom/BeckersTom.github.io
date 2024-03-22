@@ -135,5 +135,15 @@
       <Afbeelding>XIIIMystery_13_4197.jpg</Afbeelding>
       <ReeksId>246</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5304</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Valstrikken en emoties</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>XIIIMystery_14_5304.jpg</Afbeelding>
+      <ReeksId>246</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

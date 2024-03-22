@@ -220,7 +220,7 @@
       <Nummer>22</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Robbedoes en Blue Gorgon</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>RobbedoesenKwabbernootalternatief_22_5289.jpg</Afbeelding>
       <ReeksId>197</ReeksId>

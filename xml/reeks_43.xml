@@ -6,26 +6,6 @@
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>1505</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>U1</Subnummer>
-      <Titel>De U-straal</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>true</Gelezen>
-      <Afbeelding>BlakeenMortimer_0_U1_1505.jpg</Afbeelding>
-      <ReeksId>43</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>4375</Id>
-      <Nummer>0</Nummer>
-      <Subnummer>U2</Subnummer>
-      <Titel>De vuurpijl</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>true</Gelezen>
-      <Afbeelding>BlakeenMortimer_0_U2_4375.jpg</Afbeelding>
-      <ReeksId>43</ReeksId>
-    </Strip>
-    <Strip>
       <Id>1507</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
@@ -323,6 +303,35 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BlakeenMortimer_0_S6_1506.jpg</Afbeelding>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>1505</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>U1</Subnummer>
+      <Titel>De U-straal</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlakeenMortimer_0_U1_1505.jpg</Afbeelding>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>4375</Id>
+      <Nummer>1001</Nummer>
+      <Subnummer>U2</Subnummer>
+      <Titel>De vuurpijl</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
+      <Afbeelding>BlakeenMortimer_0_U2_4375.jpg</Afbeelding>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5299</Id>
+      <Nummer>1002</Nummer>
+      <Subnummer>NY1</Subnummer>
+      <Titel>De kunst van het oorlogvoeren</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>43</ReeksId>
     </Strip>
   </Strips>

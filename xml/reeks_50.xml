@@ -595,5 +595,15 @@
       <Afbeelding>BuckDanny_59_4312.jpg</Afbeelding>
       <ReeksId>50</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5308</Id>
+      <Nummer>60</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Air Force One</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDanny_60_5308.jpg</Afbeelding>
+      <ReeksId>50</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

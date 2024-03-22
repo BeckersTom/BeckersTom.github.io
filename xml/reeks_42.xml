@@ -65,5 +65,15 @@
       <Afbeelding>Blacksad_6_4306.jpg</Afbeelding>
       <ReeksId>42</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5309</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De maskers vallen - Tweede deel</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Blacksad_7_5309.jpg</Afbeelding>
+      <ReeksId>42</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

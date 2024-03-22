@@ -395,5 +395,15 @@
       <Afbeelding>Jeremiah_39_4330.jpg</Afbeelding>
       <ReeksId>114</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5307</Id>
+      <Nummer>40</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De vermiste</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Jeremiah_40_5307.jpg</Afbeelding>
+      <ReeksId>114</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

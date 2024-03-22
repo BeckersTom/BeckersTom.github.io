@@ -35,5 +35,15 @@
       <Afbeelding>Blacksquaw_3_4305.jpg</Afbeelding>
       <ReeksId>263</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5301</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Secret Six</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Blacksquaw_4_5301.jpg</Afbeelding>
+      <ReeksId>263</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

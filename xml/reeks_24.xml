@@ -175,5 +175,15 @@
       <Afbeelding>Alfa_17_4298.jpg</Afbeelding>
       <ReeksId>24</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5306</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Drones</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alfa_18_5306.jpg</Afbeelding>
+      <ReeksId>24</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

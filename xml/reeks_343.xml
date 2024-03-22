@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>267</Id>
-  <Titel>Thorgal Saga</Titel>
+  <Id>343</Id>
+  <Titel>Morgen</Titel>
   <Kopen>true</Kopen>
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4373</Id>
+      <Id>5302</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Vaarwel Aaricia</Titel>
-      <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
-      <Afbeelding>ThorgalSaga_1_4373.jpg</Afbeelding>
-      <ReeksId>267</ReeksId>
-    </Strip>
-    <Strip>
-      <Id>4374</Id>
-      <Nummer>2</Nummer>
-      <Subnummer xsi:nil="true" />
-      <Titel>Wendigo</Titel>
+      <Titel>Akte 1</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
-      <Afbeelding>ThorgalSaga_2_4374.jpg</Afbeelding>
-      <ReeksId>267</ReeksId>
+      <Afbeelding>Morgen_1_5302.jpg</Afbeelding>
+      <ReeksId>343</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5303</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Akte 2</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Morgen_2_5303.jpg</Afbeelding>
+      <ReeksId>343</ReeksId>
     </Strip>
   </Strips>
 </Reeks>
