@@ -1,60 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2024-04-26T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Gebakken mais met rode paprika, ratatouille, couscousgroenten, erwten en wortelen"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-26T00:00:00",
-    "type": "soep",
-    "menu1": "Aziatische pindasoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-26T00:00:00",
-    "type": "veggie",
-    "menu1": "Tarwesalade met rode biet, koolrabi, chips van boerenkool en salsa van rode ui"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-26T00:00:00",
-    "type": "vlees",
-    "menu1": "Gevulde paprika met ratatouille en rijst"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-29T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Carnivore"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-29T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli, Bloemkool, Gebakken prei, Oven tomaat"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-29T00:00:00",
-    "type": "soep",
-    "menu1": "Pittige harissa"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-29T00:00:00",
-    "type": "veggie",
-    "menu1": "Spaghetti butternut met feta en ruccola"
-  },
-  {
-    "id": 0,
-    "date": "2024-04-29T00:00:00",
-    "type": "vlees",
-    "menu1": "Kayisi yahnisi (abrikozenstoofpot met lamsvlees en kikkererwten)"
-  },
-  {
-    "id": 0,
     "date": "2024-04-30T00:00:00",
     "type": "grill",
     "menu1": "Bagel met gegrilde kip,spek en cheddar"
@@ -136,5 +82,119 @@
     "date": "2024-05-03T00:00:00",
     "type": "vlees",
     "menu1": "Gegratineerde visfilet met puree en tartaarsaus"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-06T00:00:00",
+    "type": "grill",
+    "menu1": "Brochette Stroganoff met frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-06T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Wortelen, Erwten, Rapen, Spinazie"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-06T00:00:00",
+    "type": "soep",
+    "menu1": "Portugese Tomatensoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-06T00:00:00",
+    "type": "veggie",
+    "menu1": "Hollandse kaaskroketten met slaatje en broodje"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-06T00:00:00",
+    "type": "vlees",
+    "menu1": "Souvlaki met kritharaki, fetasalade en tzatziki"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-07T00:00:00",
+    "type": "grill",
+    "menu1": "Flammkuchen"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-07T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Wortelen, Erwten, Rapen, Spinazie"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-07T00:00:00",
+    "type": "soep",
+    "menu1": "Ierse vissoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-07T00:00:00",
+    "type": "veggie",
+    "menu1": "Broodje Falafel met hummus en fattoush salade"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-07T00:00:00",
+    "type": "vlees",
+    "menu1": "Paëlla met kip en scampi"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-08T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza Margarita"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-08T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Wortelen, Erwten, Rapen, Spinazie"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-08T00:00:00",
+    "type": "soep",
+    "menu1": "Belgische witloofsoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-08T00:00:00",
+    "type": "veggie",
+    "menu1": "België boven: stoofpotje met witloofsalade en frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-08T00:00:00",
+    "type": "vlees",
+    "menu1": "Mustii's stoofvlees met witloofsalade en frietjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-10T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Wortelen, Erwten, Rapen, Spinazie"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-10T00:00:00",
+    "type": "soep",
+    "menu1": "Letse Borsjt"
+  },
+  {
+    "id": 0,
+    "date": "2024-05-10T00:00:00",
+    "type": "veggie",
+    "menu1": "Zwitserse Älplermagronen (aardappel, macaroni, ui, room, kaas en \"spek\""
+  },
+  {
+    "id": 0,
+    "date": "2024-05-10T00:00:00",
+    "type": "vlees",
+    "menu1": "Duitsland: Schnitzel met champignonsaus, kartoffelsalat met spek en ui"
   }
 ]
