@@ -1081,6 +1081,12 @@
     <IsComic>false</IsComic>
   </Reeks>
   <Reeks>
+    <Id>344</Id>
+    <Titel>Professor Baltimont</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+  </Reeks>
+  <Reeks>
     <Id>188</Id>
     <Titel>Professor Bell</Titel>
     <Kopen>true</Kopen>

@@ -100,7 +100,7 @@
       <Nummer>10</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Darwin</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Androiden_10_4299.jpg</Afbeelding>
       <ReeksId>29</ReeksId>

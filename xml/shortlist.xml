@@ -114,24 +114,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>24</Id>
-    <Titel>Alfa</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5306</Id>
-        <Nummer>18</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Drones</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alfa_18_5306.jpg</Afbeelding>
-        <ReeksId>24</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
@@ -155,16 +137,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>4299</Id>
-        <Nummer>10</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Darwin</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Androiden_10_4299.jpg</Afbeelding>
-        <ReeksId>29</ReeksId>
-      </Strip>
       <Strip>
         <Id>4300</Id>
         <Nummer>11</Nummer>
@@ -278,42 +250,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>263</Id>
-    <Titel>Black squaw</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5301</Id>
-        <Nummer>4</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Secret Six</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Blacksquaw_4_5301.jpg</Afbeelding>
-        <ReeksId>263</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>42</Id>
-    <Titel>Blacksad</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5309</Id>
-        <Nummer>7</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De maskers vallen - Tweede deel</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Blacksad_7_5309.jpg</Afbeelding>
-        <ReeksId>42</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>44</Id>
     <Titel>Blauwbloezen, De</Titel>
     <Kopen>true</Kopen>
@@ -365,24 +301,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>47</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>50</Id>
-    <Titel>Buck Danny</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5308</Id>
-        <Nummer>60</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Air Force One</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>BuckDanny_60_5308.jpg</Afbeelding>
-        <ReeksId>50</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -941,24 +859,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>117</Id>
-    <Titel>Kapitein Kreiss</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5286</Id>
-        <Nummer>6</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De groene exodus</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>KapiteinKreiss_6_5286.jpg</Afbeelding>
-        <ReeksId>117</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>119</Id>
     <Titel>Katamarom, De</Titel>
     <Kopen>true</Kopen>
@@ -1002,15 +902,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>2431</Id>
-        <Nummer>17</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Bittere kou</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>123</ReeksId>
-      </Strip>
       <Strip>
         <Id>2432</Id>
         <Nummer>18</Nummer>
@@ -1602,34 +1493,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>343</Id>
-    <Titel>Morgen</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5302</Id>
-        <Nummer>1</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Akte 1</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Morgen_1_5302.jpg</Afbeelding>
-        <ReeksId>343</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5303</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Akte 2</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Morgen_2_5303.jpg</Afbeelding>
-        <ReeksId>343</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>162</Id>
     <Titel>Natasja</Titel>
     <Kopen>true</Kopen>
@@ -1652,16 +1515,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>3139</Id>
-        <Nummer>7</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Missie Farout</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>OlympusMons_7_3139.jpg</Afbeelding>
-        <ReeksId>170</ReeksId>
-      </Strip>
       <Strip>
         <Id>4346</Id>
         <Nummer>8</Nummer>
@@ -2178,16 +2031,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>3383</Id>
-        <Nummer>20</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De Citadel</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Prometheus_20_3383.jpg</Afbeelding>
-        <ReeksId>189</ReeksId>
-      </Strip>
-      <Strip>
         <Id>3384</Id>
         <Nummer>21</Nummer>
         <Subnummer xsi:nil="true" />
@@ -2292,24 +2135,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>200</Id>
-    <Titel>Rubine</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4355</Id>
-        <Nummer>14</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Serial lover</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Rubine_14_4355.jpg</Afbeelding>
-        <ReeksId>200</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>202</Id>
     <Titel>Sammy, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
@@ -2324,24 +2149,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Sammynieuweavonturenvan_9_3798.jpg</Afbeelding>
         <ReeksId>202</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>268</Id>
-    <Titel>Scotland</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5300</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Deel 3</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Scotland_3_5300.jpg</Afbeelding>
-        <ReeksId>268</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

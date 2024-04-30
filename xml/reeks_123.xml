@@ -180,8 +180,9 @@
       <Nummer>17</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Bittere kou</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_17_2431.jpg</Afbeelding>
       <ReeksId>123</ReeksId>
     </Strip>
     <Strip>

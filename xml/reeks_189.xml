@@ -200,7 +200,7 @@
       <Nummer>20</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De Citadel</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Prometheus_20_3383.jpg</Afbeelding>
       <ReeksId>189</ReeksId>

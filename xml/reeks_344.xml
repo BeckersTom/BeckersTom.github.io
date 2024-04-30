@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>268</Id>
-  <Titel>Scotland</Titel>
+  <Id>344</Id>
+  <Titel>Professor Baltimont</Titel>
   <Kopen>true</Kopen>
   <IsComic>false</IsComic>
   <Strips>
     <Strip>
-      <Id>4376</Id>
+      <Id>5310</Id>
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Deel 1</Titel>
+      <Titel>De sarcofaag van Mykerinos</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
-      <Afbeelding>Scotland_1_4376.jpg</Afbeelding>
-      <ReeksId>268</ReeksId>
+      <Afbeelding>ProfessorBaltimont_1_5310.jpg</Afbeelding>
+      <ReeksId>344</ReeksId>
     </Strip>
     <Strip>
-      <Id>4377</Id>
+      <Id>5311</Id>
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Deel 2</Titel>
+      <Titel>Het eiland van de eeuwigheid</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
-      <Afbeelding>Scotland_2_4377.jpg</Afbeelding>
-      <ReeksId>268</ReeksId>
+      <Afbeelding>ProfessorBaltimont_2_5311.jpg</Afbeelding>
+      <ReeksId>344</ReeksId>
     </Strip>
     <Strip>
-      <Id>5300</Id>
+      <Id>5312</Id>
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Deel 3</Titel>
+      <Titel>De rode maan</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
-      <Afbeelding>Scotland_3_5300.jpg</Afbeelding>
-      <ReeksId>268</ReeksId>
+      <Afbeelding>ProfessorBaltimont_3_5312.jpg</Afbeelding>
+      <ReeksId>344</ReeksId>
     </Strip>
   </Strips>
 </Reeks>

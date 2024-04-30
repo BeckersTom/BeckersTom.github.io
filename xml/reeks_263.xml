@@ -40,7 +40,7 @@
       <Nummer>4</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Secret Six</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Blacksquaw_4_5301.jpg</Afbeelding>
       <ReeksId>263</ReeksId>

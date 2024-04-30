@@ -600,7 +600,7 @@
       <Nummer>60</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Air Force One</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BuckDanny_60_5308.jpg</Afbeelding>
       <ReeksId>50</ReeksId>

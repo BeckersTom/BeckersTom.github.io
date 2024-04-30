@@ -70,7 +70,7 @@
       <Nummer>7</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Missie Farout</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>OlympusMons_7_3139.jpg</Afbeelding>
       <ReeksId>170</ReeksId>

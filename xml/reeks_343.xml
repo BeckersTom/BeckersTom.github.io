@@ -10,7 +10,7 @@
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Akte 1</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Morgen_1_5302.jpg</Afbeelding>
       <ReeksId>343</ReeksId>
@@ -20,7 +20,7 @@
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Akte 2</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Morgen_2_5303.jpg</Afbeelding>
       <ReeksId>343</ReeksId>

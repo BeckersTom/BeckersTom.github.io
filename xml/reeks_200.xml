@@ -140,7 +140,7 @@
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Serial lover</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Rubine_14_4355.jpg</Afbeelding>
       <ReeksId>200</ReeksId>
