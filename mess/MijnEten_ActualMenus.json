@@ -1,342 +1,6 @@
 [
   {
     "id": 0,
-    "date": "2024-05-31T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Koolrabi, ratatouille, wortelen, spinazie"
-  },
-  {
-    "id": 0,
-    "date": "2024-05-31T00:00:00",
-    "type": "soep",
-    "menu1": "Minestronesoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-05-31T00:00:00",
-    "type": "veggie",
-    "menu1": "Vegetarische quesadilla’s met zure room en guacamole"
-  },
-  {
-    "id": 0,
-    "date": "2024-05-31T00:00:00",
-    "type": "vlees",
-    "menu1": "Pasta kip Alfredo"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-01T00:00:00",
-    "type": "grill",
-    "menu1": "Pasta Pesto Mozzarella, Tagliatelle lentegroente in roomsaus"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-01T00:00:00",
-    "type": "soep",
-    "menu1": "Aspergesoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-01T00:00:00",
-    "type": "veggie",
-    "menu1": "Groentecurry met rijst, Zalmburger met aardappelen en prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-01T00:00:00",
-    "type": "vlees",
-    "menu1": "Tagliatelle met kip in roomsaus, Chili con carne"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-02T00:00:00",
-    "type": "grill",
-    "menu1": "Pasta Pesto Mozzarella, Tagliatelle lentegroente in roomsaus"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-02T00:00:00",
-    "type": "soep",
-    "menu1": "Aspergesoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-02T00:00:00",
-    "type": "veggie",
-    "menu1": "Groentecurry met rijst, Zalmburger met aardappelen en prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-02T00:00:00",
-    "type": "vlees",
-    "menu1": "Tagliatelle met kip in roomsaus, Chili con carne"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-03T00:00:00",
-    "type": "grill",
-    "menu1": "Gegrilde kippenburger met aardappelwedges en srirachamayo, augurken en salade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-03T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Oventomaatjes, boontjes, savooikool, venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-03T00:00:00",
-    "type": "soep",
-    "menu1": "Kikkererwtensoep met prei"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-03T00:00:00",
-    "type": "veggie",
-    "menu1": "Falafal met knoflooksaus en samengestelde salade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-03T00:00:00",
-    "type": "vlees",
-    "menu1": "Calderade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-04T00:00:00",
-    "type": "grill",
-    "menu1": "pizza parma mozzarella en rucola"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-04T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Oventomaat, boontjes, savooikool, venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-04T00:00:00",
-    "type": "soep",
-    "menu1": "Pompoensoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-04T00:00:00",
-    "type": "veggie",
-    "menu1": "Panzanella met gekarameliseerde venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-04T00:00:00",
-    "type": "vlees",
-    "menu1": "Boomstammetje met aardappelschijfjes en zuiderse groentenmix"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-05T00:00:00",
-    "type": "grill",
-    "menu1": "Gegrilde kippenburger met aardappelwedges en srirachamayo, augurken en salade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-05T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Oventomaat, boontjes, savooikool, venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-05T00:00:00",
-    "type": "soep",
-    "menu1": "Erwtensoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-05T00:00:00",
-    "type": "veggie",
-    "menu1": "Gegratineerde Cannelloni’s met Mediterrane groenten"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-05T00:00:00",
-    "type": "vlees",
-    "menu1": "Thaïse rundvleessalade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-06T00:00:00",
-    "type": "grill",
-    "menu1": "pizza parma mozzarella en rucola"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-06T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Oventomaat, boontjes, savooikool, venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-06T00:00:00",
-    "type": "soep",
-    "menu1": "Zoete aardappel &amp; pastinaaksoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Wrap met rucola, avocado, ananaschutney, feta en harissa"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met friet en tuinkers"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-07T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Oventomaat, boontjes, savooikool, venkel"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-07T00:00:00",
-    "type": "soep",
-    "menu1": "Kippensoep met vermicelli"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Falafels met tajine groentjes, abrikozen, kikkererwten en couscous"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Witte pens met kaas, spek en aardappelsalade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-10T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza BBQ kip paprika"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-10T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Wortel, artisjok, bloemkool, couscousgroenten"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-10T00:00:00",
-    "type": "soep",
-    "menu1": "Wortelsoep met sinaasappel en koriander"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-10T00:00:00",
-    "type": "veggie",
-    "menu1": "Bierstoverij met appelcompote en aardappelen"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-10T00:00:00",
-    "type": "vlees",
-    "menu1": "Nasi goreng met kip en pindasaus"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-11T00:00:00",
-    "type": "grill",
-    "menu1": "Gegrild stukje kalfsvlees met roquefortsaus, gebakken spruitjes met spek en pompinnes"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-11T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Wortelen, artisjok, bloemkool, couscousgroenten"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-11T00:00:00",
-    "type": "soep",
-    "menu1": "Rode Linzensoep"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-11T00:00:00",
-    "type": "veggie",
-    "menu1": "Gebakken gnocchi met vierkazensaus"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-11T00:00:00",
-    "type": "vlees",
-    "menu1": "Ribbetjes met coleslaw, rode kool, aardappel in de schil en kruidenboter"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-12T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza BBQ kip paprika"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-12T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Wortelen, artisjok, bloemkool, couscousmengeling"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-12T00:00:00",
-    "type": "soep",
-    "menu1": "Gele paprikasoep en dragon"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-12T00:00:00",
-    "type": "veggie",
-    "menu1": "Chiliburger met spiegeleitje/mediterrane groenten en lookpatatjes"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-12T00:00:00",
-    "type": "vlees",
-    "menu1": "Moussaka met Griekse salade"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-13T00:00:00",
-    "type": "grill",
-    "menu1": "Gegrild stukje kalfsvlees met roquefortsaus, gebakken spruitjes met spek en pompinnes"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-13T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Wortelen, artisjok, bloemkool, couscousgroenten"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-13T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep met balletjes"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-13T00:00:00",
-    "type": "veggie",
-    "menu1": "Toast Champignonroom met fris slaatje"
-  },
-  {
-    "id": 0,
-    "date": "2024-06-13T00:00:00",
-    "type": "vlees",
-    "menu1": "Spaghetti Bolognaise"
-  },
-  {
-    "id": 0,
     "date": "2024-06-14T00:00:00",
     "type": "groentvdw",
     "menu1": "Wortelen, artisjok, bloemkool, couscousgroenten"
@@ -358,5 +22,341 @@
     "date": "2024-06-14T00:00:00",
     "type": "vlees",
     "menu1": "Pita schotel met samengestelde salade en begeleidende sauzen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-15T00:00:00",
+    "type": "grill",
+    "menu1": "Pasta 4-Kazen, Moussaka Veggie"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-15T00:00:00",
+    "type": "soep",
+    "menu1": "Ajuinsoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-15T00:00:00",
+    "type": "veggie",
+    "menu1": "Zalm met asperges, champignon saus en gebakken aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-15T00:00:00",
+    "type": "vlees",
+    "menu1": "Spaghetti Bolognaise, Burger met Béarnaisesaus, wortelen en gebakken aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-16T00:00:00",
+    "type": "grill",
+    "menu1": "Pasta 4-Kazen, Moussaka Veggie"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-16T00:00:00",
+    "type": "soep",
+    "menu1": "Ajuinsoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-16T00:00:00",
+    "type": "veggie",
+    "menu1": "Zalm met asperges, champignon saus en gebakken aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-16T00:00:00",
+    "type": "vlees",
+    "menu1": "Spaghetti Bolognaise, Burger met Béarnaisesaus, wortelen en gebakken aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-17T00:00:00",
+    "type": "grill",
+    "menu1": "Chateaubriand met peperroomsaus, slaatje en friet"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-17T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Asperges, broccoli, knolselder en champignons"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-17T00:00:00",
+    "type": "soep",
+    "menu1": "Knolseldersoep met groene kruiden"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-17T00:00:00",
+    "type": "veggie",
+    "menu1": "Sojaballetjes in tomatensaus en bulgursalade"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-17T00:00:00",
+    "type": "vlees",
+    "menu1": "Duivelburger met aardappelwedges"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-18T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza carnivore met kip, spek en balletjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-18T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Asperges, broccoli, knolselder en champignons"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-18T00:00:00",
+    "type": "soep",
+    "menu1": "Minestronesoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-18T00:00:00",
+    "type": "veggie",
+    "menu1": "Mediteraanse quiche van paprika, courgette en aubergine"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-18T00:00:00",
+    "type": "vlees",
+    "menu1": "Rundsbrochette met Provençaalse saus, frieten en sla"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-19T00:00:00",
+    "type": "grill",
+    "menu1": "Chateaubriand met peperroomsaus, slaatje en friet"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-19T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Asperges, broccoli, knolselder en champignons"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-19T00:00:00",
+    "type": "soep",
+    "menu1": "Broccolisoep met courgetteblokjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-19T00:00:00",
+    "type": "veggie",
+    "menu1": "Farfalle met pesto-kaassaus, rucola, tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-19T00:00:00",
+    "type": "vlees",
+    "menu1": "Vogelnest met Griekse pasta en tomatensaus"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-20T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza carnivore met kip, spek en balletjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-20T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Asperges, broccoli, knolselder en champignons"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-20T00:00:00",
+    "type": "soep",
+    "menu1": "Thaise rode currysoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-20T00:00:00",
+    "type": "veggie",
+    "menu1": "Eiernoedels met loempia en curry-kokossaus"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-20T00:00:00",
+    "type": "vlees",
+    "menu1": "Tongrolletjes met kreeftensaus, gebakken groentenmix en peterselie aardappelen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-21T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Asperges, broccoli, knolselder en champignons"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-21T00:00:00",
+    "type": "soep",
+    "menu1": "Parmentiersoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-21T00:00:00",
+    "type": "veggie",
+    "menu1": "Geroosterde groenten in curry met kokosrijst en naan"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-21T00:00:00",
+    "type": "vlees",
+    "menu1": "Tagliatelle met scampi en tomaat-vadouvansaus"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-24T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza falafel (tomaatblok, mozzarella,paprika, looksaus)"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-24T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Prei, groene boontjes, spinazie in room en broccolimix"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-24T00:00:00",
+    "type": "soep",
+    "menu1": "Aspergesoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-24T00:00:00",
+    "type": "veggie",
+    "menu1": "Groente risotto met spinaziepesto"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-24T00:00:00",
+    "type": "vlees",
+    "menu1": "Gehaktballetjes in romige currysaus met rijst en snijbonen"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-25T00:00:00",
+    "type": "grill",
+    "menu1": "Gegrilde scampibrochette met parelcouscous en currydressing"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-25T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Prei, groene boontjes, spinazie in de room en broccolimix"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-25T00:00:00",
+    "type": "soep",
+    "menu1": "Tomaat-paprikasoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-25T00:00:00",
+    "type": "veggie",
+    "menu1": "Griekse salade met gegrilde halloumi, tzatziki, avocado en pitabrood"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-25T00:00:00",
+    "type": "vlees",
+    "menu1": "Chipolata met bieslookpuree, spinazie en tomaat"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-26T00:00:00",
+    "type": "grill",
+    "menu1": "Pizza falafel (tomaatblok, mozzarella,paprika, looksaus)"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-26T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Prei, groene boontjes, spinazie in de room en broccolimix"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-26T00:00:00",
+    "type": "soep",
+    "menu1": "Preisoep met korstjes"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-26T00:00:00",
+    "type": "veggie",
+    "menu1": "Bulgursalade met gegrilde groenten, geitenkaas en pompoenpitten"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-26T00:00:00",
+    "type": "vlees",
+    "menu1": "Rundvlees teriyaki met noedels en zoetzure komkommer"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-27T00:00:00",
+    "type": "grill",
+    "menu1": "Gegrilde scampibrochette met parelcouscous en currydressing"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-27T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Prei, groene boontjes, spinazie in de room en broccolimix"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-27T00:00:00",
+    "type": "soep",
+    "menu1": "Champignonsoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-27T00:00:00",
+    "type": "veggie",
+    "menu1": "Geroosterde groenten met falafel, couscous en tahinsaus"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-27T00:00:00",
+    "type": "vlees",
+    "menu1": "kruidige enchilada's met gehakt en linzen, crispy tortilla's en tomatensalsa"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-28T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Prei, groene boontjes, spinazie in de room en broccolimix"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-28T00:00:00",
+    "type": "soep",
+    "menu1": "Wortelsoep"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-28T00:00:00",
+    "type": "veggie",
+    "menu1": "Bloemkool in Groene currysaus, bruine rijst, paksoi en Thaise basilicum"
+  },
+  {
+    "id": 0,
+    "date": "2024-06-28T00:00:00",
+    "type": "vlees",
+    "menu1": "smokey kip taco's met koolsla en kimchi aardappelen"
   }
 ]
