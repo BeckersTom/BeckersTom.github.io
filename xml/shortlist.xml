@@ -46,24 +46,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>20</Id>
-    <Titel>Agent 327 (Integraal)</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5314</Id>
-        <Nummer>8</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Deel 8</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Agent327Integraal_8_5314.jpg</Afbeelding>
-        <ReeksId>20</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>23</Id>
     <Titel>Alex</Titel>
     <Kopen>true</Kopen>

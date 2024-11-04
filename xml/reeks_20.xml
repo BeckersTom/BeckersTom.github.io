@@ -80,7 +80,7 @@
       <Nummer>8</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Deel 8</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Agent327Integraal_8_5314.jpg</Afbeelding>
       <ReeksId>20</ReeksId>
