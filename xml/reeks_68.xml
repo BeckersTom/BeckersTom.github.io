@@ -94,5 +94,14 @@
       <Gelezen>false</Gelezen>
       <ReeksId>68</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5328</Id>
+      <Nummer>10</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>68</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

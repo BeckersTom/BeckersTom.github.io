@@ -185,5 +185,14 @@
       <Afbeelding>Alfa_18_5306.jpg</Afbeelding>
       <ReeksId>24</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5315</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>24</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

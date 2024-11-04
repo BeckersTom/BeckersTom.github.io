@@ -165,5 +165,14 @@
       <Afbeelding>LadyS_16_5290.jpg</Afbeelding>
       <ReeksId>135</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5325</Id>
+      <Nummer>17</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>135</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

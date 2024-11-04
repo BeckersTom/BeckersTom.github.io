@@ -125,5 +125,14 @@
       <Afbeelding>Arctica_12_4302.jpg</Afbeelding>
       <ReeksId>34</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5329</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>34</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

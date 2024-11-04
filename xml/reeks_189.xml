@@ -223,5 +223,23 @@
       <Gelezen>false</Gelezen>
       <ReeksId>189</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5320</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>189</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5321</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>189</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

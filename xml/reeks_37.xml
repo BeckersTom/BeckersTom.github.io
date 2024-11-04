@@ -400,8 +400,8 @@
       <Nummer>40</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De witte iris</Titel>
-      <Aanwezig>false</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>true</Gelezen>
       <Afbeelding>Asterix_40_5294.jpg</Afbeelding>
       <ReeksId>37</ReeksId>
     </Strip>

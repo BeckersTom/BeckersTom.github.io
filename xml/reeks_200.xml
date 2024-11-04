@@ -145,5 +145,23 @@
       <Afbeelding>Rubine_14_4355.jpg</Afbeelding>
       <ReeksId>200</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5322</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>200</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5323</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>200</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

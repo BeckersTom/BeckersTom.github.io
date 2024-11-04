@@ -175,5 +175,14 @@
       <Afbeelding>Aquablue_17_1331.jpg</Afbeelding>
       <ReeksId>32</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5330</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>32</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

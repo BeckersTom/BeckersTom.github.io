@@ -346,6 +346,16 @@
       <ReeksId>140</ReeksId>
     </Strip>
     <Strip>
+      <Id>5324</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>H-bommen op Almeria</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Lefranc_35_5324.jpg</Afbeelding>
+      <ReeksId>140</ReeksId>
+    </Strip>
+    <Strip>
       <Id>2593</Id>
       <Nummer>1000</Nummer>
       <Subnummer>R10</Subnummer>

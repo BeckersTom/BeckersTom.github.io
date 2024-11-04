@@ -676,6 +676,15 @@
       <ReeksId>44</ReeksId>
     </Strip>
     <Strip>
+      <Id>5326</Id>
+      <Nummer>68</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>44</ReeksId>
+    </Strip>
+    <Strip>
       <Id>1534</Id>
       <Nummer>1000</Nummer>
       <Subnummer>S11</Subnummer>

@@ -145,5 +145,15 @@
       <Afbeelding>Travis_14_4360.jpg</Afbeelding>
       <ReeksId>223</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5336</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Europa</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Travis_15_5336.jpg</Afbeelding>
+      <ReeksId>223</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

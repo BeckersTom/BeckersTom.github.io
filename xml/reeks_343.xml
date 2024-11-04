@@ -25,5 +25,14 @@
       <Afbeelding>Morgen_2_5303.jpg</Afbeelding>
       <ReeksId>343</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5319</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>343</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

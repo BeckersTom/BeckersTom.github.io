@@ -286,6 +286,15 @@
       <ReeksId>245</ReeksId>
     </Strip>
     <Strip>
+      <Id>5337</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>245</ReeksId>
+    </Strip>
+    <Strip>
       <Id>4368</Id>
       <Nummer>1000</Nummer>
       <Subnummer>13b</Subnummer>

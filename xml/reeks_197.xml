@@ -221,7 +221,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Robbedoes en Blue Gorgon</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>RobbedoesenKwabbernootalternatief_22_5289.jpg</Afbeelding>
       <ReeksId>197</ReeksId>
     </Strip>

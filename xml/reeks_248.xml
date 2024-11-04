@@ -315,5 +315,15 @@
       <Afbeelding>YokoTsuno_30_4232.jpg</Afbeelding>
       <ReeksId>248</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5338</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De arend van de Highlands</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>YokoTsuno_31_5338.jpg</Afbeelding>
+      <ReeksId>248</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

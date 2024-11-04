@@ -222,6 +222,24 @@
       <ReeksId>123</ReeksId>
     </Strip>
     <Strip>
+      <Id>5316</Id>
+      <Nummer>22</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5318</Id>
+      <Nummer>23</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>123</ReeksId>
+    </Strip>
+    <Strip>
       <Id>2414</Id>
       <Nummer>1000</Nummer>
       <Subnummer>S1</Subnummer>

@@ -46,6 +46,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>20</Id>
+    <Titel>Agent 327 (Integraal)</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5314</Id>
+        <Nummer>8</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Deel 8</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Agent327Integraal_8_5314.jpg</Afbeelding>
+        <ReeksId>20</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>23</Id>
     <Titel>Alex</Titel>
     <Kopen>true</Kopen>
@@ -114,6 +132,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>24</Id>
+    <Titel>Alfa</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5315</Id>
+        <Nummer>19</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>24</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
@@ -158,6 +193,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>32</Id>
+    <Titel>Aquablue</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5330</Id>
+        <Nummer>18</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>32</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>34</Id>
     <Titel>Arctica</Titel>
     <Kopen>true</Kopen>
@@ -171,6 +223,15 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Arctica_10_1356.jpg</Afbeelding>
+        <ReeksId>34</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5329</Id>
+        <Nummer>13</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
         <ReeksId>34</ReeksId>
       </Strip>
     </Strips>
@@ -219,16 +280,6 @@
         <Afbeelding>Asterix_39_4282.jpg</Afbeelding>
         <ReeksId>37</ReeksId>
       </Strip>
-      <Strip>
-        <Id>5294</Id>
-        <Nummer>40</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De witte iris</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Asterix_40_5294.jpg</Afbeelding>
-        <ReeksId>37</ReeksId>
-      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -246,6 +297,23 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>BaardKale_34_1475.jpg</Afbeelding>
         <ReeksId>39</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>341</Id>
+    <Titel>Bellatrix</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5327</Id>
+        <Nummer>2</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>341</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -285,6 +353,15 @@
         <Afbeelding>Blauwbloezen_67_5291.jpg</Afbeelding>
         <ReeksId>44</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5326</Id>
+        <Nummer>68</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>44</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -314,9 +391,10 @@
         <Id>1773</Id>
         <Nummer>15</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Centaur</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>CarmenMcCallum_15_1773.jpg</Afbeelding>
         <ReeksId>54</ReeksId>
       </Strip>
       <Strip>
@@ -638,6 +716,15 @@
         <Gelezen>false</Gelezen>
         <ReeksId>68</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5328</Id>
+        <Nummer>10</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>68</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -734,6 +821,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>92</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>96</Id>
+    <Titel>Guust</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5313</Id>
+        <Nummer>22</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Flater slaat weer toe!</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Guust_22_5313.jpg</Afbeelding>
+        <ReeksId>96</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -856,6 +961,32 @@
         <Afbeelding>Jeremiah_40_5307.jpg</Afbeelding>
         <ReeksId>114</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5331</Id>
+        <Nummer>41</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>114</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>115</Id>
+    <Titel>Jerome K. Jerome Bloks</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5332</Id>
+        <Nummer>29</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>115</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -932,6 +1063,24 @@
       <Strip>
         <Id>4333</Id>
         <Nummer>21</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>123</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5316</Id>
+        <Nummer>22</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>123</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5318</Id>
+        <Nummer>23</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel />
         <Aanwezig>false</Aanwezig>
@@ -1271,6 +1420,41 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>135</Id>
+    <Titel>Lady S.</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5325</Id>
+        <Nummer>17</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>135</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>140</Id>
+    <Titel>Lefranc</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5324</Id>
+        <Nummer>35</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>H-bommen op Almeria</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Lefranc_35_5324.jpg</Afbeelding>
+        <ReeksId>140</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>144</Id>
     <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
     <Kopen>true</Kopen>
@@ -1489,6 +1673,23 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>MiniMensjes_41_2798.jpg</Afbeelding>
         <ReeksId>152</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>343</Id>
+    <Titel>Morgen</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5319</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>343</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2048,6 +2249,24 @@
         <Gelezen>false</Gelezen>
         <ReeksId>189</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5320</Id>
+        <Nummer>23</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>189</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5321</Id>
+        <Nummer>24</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>189</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -2135,6 +2354,32 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>200</Id>
+    <Titel>Rubine</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5322</Id>
+        <Nummer>15</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>200</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5323</Id>
+        <Nummer>16</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>200</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>202</Id>
     <Titel>Sammy, De nieuwe avonturen van</Titel>
     <Kopen>true</Kopen>
@@ -2149,6 +2394,24 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Sammynieuweavonturenvan_9_3798.jpg</Afbeelding>
         <ReeksId>202</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>203</Id>
+    <Titel>Sangre</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5333</Id>
+        <Nummer>4</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Donnadion de zalige</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Sangre_4_5333.jpg</Afbeelding>
+        <ReeksId>203</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2245,6 +2508,23 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Sisco_12_3819.jpg</Afbeelding>
         <ReeksId>206</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>211</Id>
+    <Titel>Storm</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5334</Id>
+        <Nummer>34</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>211</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2361,6 +2641,34 @@
         <Afbeelding>ThorgalSaga_2_4374.jpg</Afbeelding>
         <ReeksId>267</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5335</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Shaïgan</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>ThorgalSaga_3_5335.jpg</Afbeelding>
+        <ReeksId>267</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>223</Id>
+    <Titel>Travis</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5336</Id>
+        <Nummer>15</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Europa</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Travis_15_5336.jpg</Afbeelding>
+        <ReeksId>223</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -2442,6 +2750,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>245</Id>
+    <Titel>XIII</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5337</Id>
+        <Nummer>29</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>245</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>246</Id>
     <Titel>XIII Mystery</Titel>
     <Kopen>true</Kopen>
@@ -2472,6 +2797,7 @@
         <Titel>Jones - Rood Alcatraz</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>XIIITrilogy_2_5298.jpg</Afbeelding>
         <ReeksId>342</ReeksId>
       </Strip>
     </Strips>
@@ -2499,6 +2825,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>247</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>248</Id>
+    <Titel>Yoko Tsuno</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5338</Id>
+        <Nummer>31</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De arend van de Highlands</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>YokoTsuno_31_5338.jpg</Afbeelding>
+        <ReeksId>248</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

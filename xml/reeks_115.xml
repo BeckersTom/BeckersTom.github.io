@@ -285,5 +285,14 @@
       <Afbeelding>JeromeKJeromeBloks_28_2322.jpg</Afbeelding>
       <ReeksId>115</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5332</Id>
+      <Nummer>29</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>115</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

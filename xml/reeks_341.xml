@@ -12,6 +12,16 @@
       <Titel>1e Episode</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Bellatrix_1_5296.jpg</Afbeelding>
+      <ReeksId>341</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5327</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>341</ReeksId>
     </Strip>
   </Strips>

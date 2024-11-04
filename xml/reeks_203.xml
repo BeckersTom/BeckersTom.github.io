@@ -35,5 +35,15 @@
       <Afbeelding>Sangre_3_3801.jpg</Afbeelding>
       <ReeksId>203</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5333</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Donnadion de zalige</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Sangre_4_5333.jpg</Afbeelding>
+      <ReeksId>203</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>
