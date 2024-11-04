@@ -415,5 +415,14 @@
       <Afbeelding>Thorgal_41_5287.jpg</Afbeelding>
       <ReeksId>222</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5348</Id>
+      <Nummer>42</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>222</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

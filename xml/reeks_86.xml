@@ -256,6 +256,16 @@
       <ReeksId>86</ReeksId>
     </Strip>
     <Strip>
+      <Id>5339</Id>
+      <Nummer>26</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Klifhanger</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Franka_26_5339.jpg</Afbeelding>
+      <ReeksId>86</ReeksId>
+    </Strip>
+    <Strip>
       <Id>2000</Id>
       <Nummer>1000</Nummer>
       <Subnummer>INT_S1</Subnummer>

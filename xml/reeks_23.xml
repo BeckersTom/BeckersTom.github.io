@@ -425,5 +425,14 @@
       <Afbeelding>Alex_42_5305.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5349</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>23</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

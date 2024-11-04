@@ -129,16 +129,26 @@
       <Id>4366</Id>
       <Nummer>13</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel>Absu is onze enige God</Titel>
+      <Titel>Apsu is onze enige God</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_13_4366.jpg</Afbeelding>
       <ReeksId>55</ReeksId>
     </Strip>
     <Strip>
       <Id>4367</Id>
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel> Gebogen, wordt recht!</Titel>
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>55</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5346</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>55</ReeksId>

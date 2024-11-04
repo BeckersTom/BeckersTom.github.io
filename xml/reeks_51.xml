@@ -105,5 +105,15 @@
       <Afbeelding>BuckDannyClassic_10_5274.jpg</Afbeelding>
       <ReeksId>51</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5344</Id>
+      <Nummer>11</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De rode schaduw</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyClassic_11_5344.jpg</Afbeelding>
+      <ReeksId>51</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

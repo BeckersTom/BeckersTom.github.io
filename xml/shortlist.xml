@@ -111,6 +111,15 @@
         <Afbeelding>Alex_42_5305.jpg</Afbeelding>
         <ReeksId>23</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5349</Id>
+        <Nummer>43</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>23</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -300,6 +309,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>43</Id>
+    <Titel>Blake en Mortimer</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5350</Id>
+        <Nummer>30</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>43</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>44</Id>
     <Titel>Blauwbloezen, De</Titel>
     <Kopen>true</Kopen>
@@ -360,6 +386,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>47</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>51</Id>
+    <Titel>Buck Danny Classic</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5344</Id>
+        <Nummer>11</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De rode schaduw</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>BuckDannyClassic_11_5344.jpg</Afbeelding>
+        <ReeksId>51</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -428,16 +472,26 @@
         <Id>4366</Id>
         <Nummer>13</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel>Absu is onze enige God</Titel>
+        <Titel>Apsu is onze enige God</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Carthago_13_4366.jpg</Afbeelding>
         <ReeksId>55</ReeksId>
       </Strip>
       <Strip>
         <Id>4367</Id>
         <Nummer>14</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel> Gebogen, wordt recht!</Titel>
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>55</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5346</Id>
+        <Nummer>15</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>55</ReeksId>
@@ -773,6 +827,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>86</Id>
+    <Titel>Franka</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5339</Id>
+        <Nummer>26</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Klifhanger</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Franka_26_5339.jpg</Afbeelding>
+        <ReeksId>86</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>87</Id>
     <Titel>G. Raf Zerk</Titel>
     <Kopen>true</Kopen>
@@ -868,6 +940,16 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>IRS_23_4327.jpg</Afbeelding>
+        <ReeksId>99</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5345</Id>
+        <Nummer>24</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Klimaatplunderaars</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>IRS_24_5345.jpg</Afbeelding>
         <ReeksId>99</ReeksId>
       </Strip>
     </Strips>
@@ -1006,6 +1088,24 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Katamarom_44_2401.jpg</Afbeelding>
         <ReeksId>119</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>122</Id>
+    <Titel>Kolonisatie</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5341</Id>
+        <Nummer>8</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Voorspelling</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Kolonisatie_8_5341.jpg</Afbeelding>
+        <ReeksId>122</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -1736,6 +1836,41 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>173</Id>
+    <Titel>Op zoek naar de tijdvogel</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5351</Id>
+        <Nummer>12</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>173</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>336</Id>
+    <Titel>Outlaws</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5343</Id>
+        <Nummer>2</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De kusten van Midaluss</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Outlaws_2_5343.jpg</Afbeelding>
+        <ReeksId>336</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>176</Id>
     <Titel>Paling &amp; Ko</Titel>
     <Kopen>true</Kopen>
@@ -2315,6 +2450,33 @@
         <Afbeelding>RikRingersnieuweavonturenvan_6_4351.jpg</Afbeelding>
         <ReeksId>194</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5342</Id>
+        <Nummer>7</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Moord-aan-zee</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>RikRingersnieuweavonturenvan_7_5342.jpg</Afbeelding>
+        <ReeksId>194</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>196</Id>
+    <Titel>Robbedoes en Kwabbernoot</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5347</Id>
+        <Nummer>57</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>196</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -2503,9 +2665,10 @@
         <Id>5334</Id>
         <Nummer>34</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>De jagers van Umatopee</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Storm_34_5334.jpg</Afbeelding>
         <ReeksId>211</ReeksId>
       </Strip>
     </Strips>
@@ -2608,6 +2771,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>222</Id>
+    <Titel>Thorgal</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5348</Id>
+        <Nummer>42</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel />
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>222</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>267</Id>
     <Titel>Thorgal Saga</Titel>
     <Kopen>true</Kopen>
@@ -2650,6 +2830,24 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Travis_15_5336.jpg</Afbeelding>
         <ReeksId>223</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>226</Id>
+    <Titel>Trollen van Troy</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5340</Id>
+        <Nummer>26</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De ballade van de natte zee</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>TrollenvanTroy_26_5340.jpg</Afbeelding>
+        <ReeksId>226</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

@@ -349,9 +349,10 @@
       <Id>5334</Id>
       <Nummer>34</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De jagers van Umatopee</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_34_5334.jpg</Afbeelding>
       <ReeksId>211</ReeksId>
     </Strip>
     <Strip>

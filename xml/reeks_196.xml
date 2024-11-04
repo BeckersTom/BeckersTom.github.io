@@ -565,5 +565,14 @@
       <Afbeelding>RobbedoesenKwabbernoot_56_4352.jpg</Afbeelding>
       <ReeksId>196</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5347</Id>
+      <Nummer>57</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>196</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

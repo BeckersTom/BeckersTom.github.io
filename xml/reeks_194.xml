@@ -65,5 +65,15 @@
       <Afbeelding>RikRingersnieuweavonturenvan_6_4351.jpg</Afbeelding>
       <ReeksId>194</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5342</Id>
+      <Nummer>7</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Moord-aan-zee</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_7_5342.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

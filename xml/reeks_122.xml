@@ -75,5 +75,15 @@
       <Afbeelding>Kolonisatie_7_4370.jpg</Afbeelding>
       <ReeksId>122</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5341</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Voorspelling</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_8_5341.jpg</Afbeelding>
+      <ReeksId>122</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

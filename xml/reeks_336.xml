@@ -15,5 +15,15 @@
       <Afbeelding>Outlaws_1_5273.jpg</Afbeelding>
       <ReeksId>336</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5343</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De kusten van Midaluss</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Outlaws_2_5343.jpg</Afbeelding>
+      <ReeksId>336</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

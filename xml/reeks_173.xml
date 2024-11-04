@@ -115,5 +115,14 @@
       <Afbeelding>Opzoeknaardetijdvogel_11_4348.jpg</Afbeelding>
       <ReeksId>173</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5351</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>173</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

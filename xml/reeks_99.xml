@@ -235,5 +235,15 @@
       <Afbeelding>IRS_23_4327.jpg</Afbeelding>
       <ReeksId>99</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5345</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Klimaatplunderaars</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>IRS_24_5345.jpg</Afbeelding>
+      <ReeksId>99</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>
