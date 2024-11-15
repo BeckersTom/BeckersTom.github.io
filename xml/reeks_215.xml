@@ -209,7 +209,7 @@
       <Id>3904</Id>
       <Nummer>21</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De eerste opdrachten</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>TanguyenLaverdure_21_3904.jpg</Afbeelding>
@@ -219,7 +219,7 @@
       <Id>3905</Id>
       <Nummer>22</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De stoorzender</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>TanguyenLaverdure_22_3905.jpg</Afbeelding>
@@ -233,6 +233,24 @@
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>TanguyenLaverdure_23_3906.jpg</Afbeelding>
+      <ReeksId>215</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5352</Id>
+      <Nummer>24</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De spion uit de wolken</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>215</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5353</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Verboden zone</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
       <ReeksId>215</ReeksId>
     </Strip>
   </Strips>

@@ -120,7 +120,7 @@
       <Nummer>12</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Albino</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Carthago_12_1788.jpg</Afbeelding>
       <ReeksId>55</ReeksId>
@@ -130,7 +130,7 @@
       <Nummer>13</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Apsu is onze enige God</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Carthago_13_4366.jpg</Afbeelding>
       <ReeksId>55</ReeksId>

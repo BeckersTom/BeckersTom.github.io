@@ -459,26 +459,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>1788</Id>
-        <Nummer>12</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Albino</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Carthago_12_1788.jpg</Afbeelding>
-        <ReeksId>55</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4366</Id>
-        <Nummer>13</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Apsu is onze enige God</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Carthago_13_4366.jpg</Afbeelding>
-        <ReeksId>55</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4367</Id>
         <Nummer>14</Nummer>
         <Subnummer xsi:nil="true" />
@@ -1605,24 +1585,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>147</Id>
-    <Titel>Meta-baron</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4342</Id>
-        <Nummer>8</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Dargona, de proto-wachter</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Metabaron_8_4342.jpg</Afbeelding>
-        <ReeksId>147</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>150</Id>
     <Titel>Mick Mac Adam (vzw Arcadia)</Titel>
     <Kopen>true</Kopen>
@@ -2683,7 +2645,7 @@
         <Id>3904</Id>
         <Nummer>21</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>De eerste opdrachten</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>TanguyenLaverdure_21_3904.jpg</Afbeelding>
@@ -2693,7 +2655,7 @@
         <Id>3905</Id>
         <Nummer>22</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>De stoorzender</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>TanguyenLaverdure_22_3905.jpg</Afbeelding>
