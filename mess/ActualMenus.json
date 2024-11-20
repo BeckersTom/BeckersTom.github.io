@@ -1,336 +1,228 @@
 [
   {
-    "id": "fa94490d-74f0-4819-8afd-57d9b93dc9c5",
-    "date": "2024-11-16T00:00:00",
-    "type": "grill",
-    "menu1": "Linzenburger met tomaten, courgettesaus en krieltjes - Penne Arrabiatta"
-  },
-  {
-    "id": "a68647e3-899f-419a-80aa-db62db06df43",
-    "date": "2024-11-16T00:00:00",
-    "type": "soep",
-    "menu1": "Champignonsoep - Indische wortelsoep"
-  },
-  {
-    "id": "becf294d-1a14-4f36-bcb3-f46bb1812f0d",
-    "date": "2024-11-16T00:00:00",
-    "type": "veggie",
-    "menu1": "Penne met zalm en pompoensaus"
-  },
-  {
-    "id": "b46a7903-841f-4edd-b9b4-3815ae36c593",
-    "date": "2024-11-16T00:00:00",
-    "type": "vlees",
-    "menu1": "Varkensstoverij met krieltjes en wortelen - Kipcurry met  basmatirijst"
-  },
-  {
-    "id": "fbe5eeba-741f-4066-b5df-28939a497e60",
-    "date": "2024-11-17T00:00:00",
-    "type": "grill",
-    "menu1": "Linzenburger met tomaten, courgettesaus en krieltjes - Penne Arrabiatta"
-  },
-  {
-    "id": "ac389482-e520-4268-9bf1-ca7bc38ff4b3",
-    "date": "2024-11-17T00:00:00",
-    "type": "soep",
-    "menu1": "Champignonsoep - Indische wortelsoep"
-  },
-  {
-    "id": "160ea049-e941-4f94-9fc9-ad29ec41e26f",
-    "date": "2024-11-17T00:00:00",
-    "type": "veggie",
-    "menu1": "Penne met zalm en pompoensaus"
-  },
-  {
-    "id": "7a6a7848-c0da-46d7-8c63-9ec3169495ed",
-    "date": "2024-11-17T00:00:00",
-    "type": "vlees",
-    "menu1": "Varkensstoverij met krieltjes en wortelen - Kipcurry met  basmatirijst"
-  },
-  {
-    "id": "27545f2e-2a14-4540-93bb-e1e416e19db0",
-    "date": "2024-11-18T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza kip, paprika, rode uin en looksaus"
-  },
-  {
-    "id": "c00c6094-999c-452a-9fd7-9e9e82a21608",
-    "date": "2024-11-18T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
-  },
-  {
-    "id": "c9fec0a2-808a-4020-91fa-ca20c10c7b52",
-    "date": "2024-11-18T00:00:00",
-    "type": "soep",
-    "menu1": "Erwtensoep met rookworst"
-  },
-  {
-    "id": "de576e7f-72f9-4050-8d4f-983b274670f6",
-    "date": "2024-11-18T00:00:00",
-    "type": "veggie",
-    "menu1": "Penne caponata met rucola"
-  },
-  {
-    "id": "e093c850-7f59-45de-bf66-6c418c568bb4",
-    "date": "2024-11-18T00:00:00",
-    "type": "vlees",
-    "menu1": "Hete bliksem"
-  },
-  {
-    "id": "ad58cda3-c8d5-4645-86f3-e0c336861c21",
-    "date": "2024-11-19T00:00:00",
-    "type": "grill",
-    "menu1": "Everzwijnsteak met winterse garnituren"
-  },
-  {
-    "id": "e5aeb2a6-030a-4154-8f97-049bdd8de5a2",
-    "date": "2024-11-19T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
-  },
-  {
-    "id": "5a6b9a87-3699-418c-be8a-44835f8d285c",
-    "date": "2024-11-19T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep met balletjes"
-  },
-  {
-    "id": "7634e7c8-3441-4e06-abce-9c81afaada82",
-    "date": "2024-11-19T00:00:00",
-    "type": "veggie",
-    "menu1": "Gado gado met sticky tempeh"
-  },
-  {
-    "id": "4714dd76-d646-4f7a-9951-9c57470339a2",
-    "date": "2024-11-19T00:00:00",
-    "type": "vlees",
-    "menu1": "Varkenshaasje met romige mosterdsaus, gestoofde boontjes en aardappelschijven"
-  },
-  {
-    "id": "1835df0e-97b2-46e4-86f6-c59271ea1d38",
+    "id": "5423",
     "date": "2024-11-20T00:00:00",
     "type": "grill",
     "menu1": "Pizza kip, paprika, rode uin en looksaus"
   },
   {
-    "id": "3ea63239-1189-4122-9874-bd632eaa944e",
+    "id": "5422",
     "date": "2024-11-20T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
   },
   {
-    "id": "d92e14e4-4da4-4802-b2c7-85e1029eeb02",
+    "id": "5419",
     "date": "2024-11-20T00:00:00",
     "type": "soep",
     "menu1": "Bloemkool-broccolisoep"
   },
   {
-    "id": "77c761dc-9b3b-4e74-aa4b-545fbe72039a",
+    "id": "5420",
     "date": "2024-11-20T00:00:00",
     "type": "veggie",
     "menu1": "Luikse salade"
   },
   {
-    "id": "38434446-4cae-4774-81ce-04f392d55b9a",
+    "id": "5421",
     "date": "2024-11-20T00:00:00",
     "type": "vlees",
     "menu1": "Gebakken zalm met rode curry, noedels en wokgroenten"
   },
   {
-    "id": "52a1fb00-101f-42a0-84c7-64257eaf6f63",
+    "id": "5428",
     "date": "2024-11-21T00:00:00",
     "type": "grill",
     "menu1": "Everzwijnsteak met winterse garnituren"
   },
   {
-    "id": "49d42fce-6fdb-491e-876e-526de396e997",
+    "id": "5427",
     "date": "2024-11-21T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
   },
   {
-    "id": "9d4a9a02-c6db-41f0-97ea-cdd529727b9a",
+    "id": "5424",
     "date": "2024-11-21T00:00:00",
     "type": "soep",
     "menu1": "Raapjessoep met pesto"
   },
   {
-    "id": "4869e0ed-c6aa-4989-9f73-e4f73877be46",
+    "id": "5425",
     "date": "2024-11-21T00:00:00",
     "type": "veggie",
     "menu1": "Groentencurry met couscous"
   },
   {
-    "id": "ad0c8d7c-4f1d-4f6b-8d54-203dfe9168ce",
+    "id": "5426",
     "date": "2024-11-21T00:00:00",
     "type": "vlees",
     "menu1": "Balletjes in tomatensaus met friet en seldersalade"
   },
   {
-    "id": "9b9be623-cf60-4197-a877-a31915c5aef2",
+    "id": "5432",
     "date": "2024-11-22T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
   },
   {
-    "id": "e6561238-f8c3-406d-b34f-76bbe4756bc0",
+    "id": "5429",
     "date": "2024-11-22T00:00:00",
     "type": "soep",
     "menu1": "Schorsenerensoep"
   },
   {
-    "id": "020ab94d-3a6e-442c-970a-18b6dc729f76",
+    "id": "5430",
     "date": "2024-11-22T00:00:00",
     "type": "veggie",
     "menu1": "Groentenburger met zuiderse groentenmix en krieltjes"
   },
   {
-    "id": "43161aa8-ed73-4d39-96fa-4a56641bfac9",
+    "id": "5431",
     "date": "2024-11-22T00:00:00",
     "type": "vlees",
     "menu1": "Kip tikka massala met rijst"
   },
   {
-    "id": "0462e023-ed68-4d44-971c-87af5bebc14b",
+    "id": "5437",
     "date": "2024-11-25T00:00:00",
     "type": "grill",
     "menu1": "Gegrilde rundsburger met lookboter, rode ui, tomatensalsa, chorizo en frieten"
   },
   {
-    "id": "7a7f5b11-7e5b-452b-ae7b-eec2957b3590",
+    "id": "5436",
     "date": "2024-11-25T00:00:00",
     "type": "groentvdw",
     "menu1": "Pastinaak - Rode kool - Champignons -\tPrei"
   },
   {
-    "id": "87eef8cc-5fde-41ec-984e-cfb9dfa45633",
+    "id": "5433",
     "date": "2024-11-25T00:00:00",
     "type": "soep",
     "menu1": "Pittige wortelsoep"
   },
   {
-    "id": "ae6f8c02-ee82-49ec-bdd6-ff6e01863b19",
+    "id": "5434",
     "date": "2024-11-25T00:00:00",
     "type": "veggie",
     "menu1": "Veggiewrap uit de oven met guacamole en wedges"
   },
   {
-    "id": "027a56aa-482e-4bee-a3fc-1c246caf7461",
+    "id": "5435",
     "date": "2024-11-25T00:00:00",
     "type": "vlees",
     "menu1": "Zurrkoolschotel met aardappelpuree"
   },
   {
-    "id": "c8249309-f1ec-4518-a059-69f6b0a3503c",
+    "id": "5442",
     "date": "2024-11-26T00:00:00",
     "type": "grill",
     "menu1": "Pizza spek, reblochon, rode ui en zure room"
   },
   {
-    "id": "09483885-b8ad-44be-9f25-a55c5565ef8a",
+    "id": "5441",
     "date": "2024-11-26T00:00:00",
     "type": "groentvdw",
     "menu1": "Pastinaak - Rode kool - Champignons -\tPrei"
   },
   {
-    "id": "69763ba9-2a05-40fc-b8c6-ee9e7b33df88",
+    "id": "5438",
     "date": "2024-11-26T00:00:00",
     "type": "soep",
     "menu1": "Spruitjessoep"
   },
   {
-    "id": "6bb60617-ca56-4402-89d5-c9784cbb306a",
+    "id": "5439",
     "date": "2024-11-26T00:00:00",
     "type": "veggie",
     "menu1": "Pompoenquiche met feta en herfstsalade"
   },
   {
-    "id": "f8f167e2-9e0c-4fda-9150-dbf7fb2163e4",
+    "id": "5440",
     "date": "2024-11-26T00:00:00",
     "type": "vlees",
     "menu1": "Vol au vent met gefrituurde aardappel en tuinkers"
   },
   {
-    "id": "f41c7911-db09-4d8f-88e9-5aeb7feb31e4",
+    "id": "5447",
     "date": "2024-11-27T00:00:00",
     "type": "grill",
     "menu1": "Gegrilde rundsburger met lookboter, rode ui, tomatensalsa, chorizo en frieten"
   },
   {
-    "id": "ffed9fb5-7769-43e7-90ba-22b7aa5451c0",
+    "id": "5446",
     "date": "2024-11-27T00:00:00",
     "type": "groentvdw",
     "menu1": "Pastinaak - Rode kool - Champignons - Prei"
   },
   {
-    "id": "d3ce9609-c96d-4369-a065-66a6aead1611",
+    "id": "5443",
     "date": "2024-11-27T00:00:00",
     "type": "soep",
     "menu1": "Paprikasoep"
   },
   {
-    "id": "75679dcf-cda2-4319-bb20-febb2e40ee0b",
+    "id": "5444",
     "date": "2024-11-27T00:00:00",
     "type": "veggie",
     "menu1": "Geroosterde aubergine met tarwesalade en granaatappel"
   },
   {
-    "id": "a81a54d1-abf5-4532-bb4b-b97db0f7e38b",
+    "id": "5445",
     "date": "2024-11-27T00:00:00",
     "type": "vlees",
     "menu1": "Citroenkip met gebakken courgette en zoete aardappel uit de oven."
   },
   {
-    "id": "b694843b-1c2a-4469-97d4-56042004751f",
+    "id": "5452",
     "date": "2024-11-28T00:00:00",
     "type": "grill",
     "menu1": "Pizza spek, reblochon, rode ui en zure room"
   },
   {
-    "id": "ea07e355-ca21-4768-9cbd-853b4fc644c3",
+    "id": "5451",
     "date": "2024-11-28T00:00:00",
     "type": "groentvdw",
     "menu1": "Pastinaak - Rode kool - Champignons - Prei"
   },
   {
-    "id": "f795fd50-5962-4670-a715-767186b6715a",
+    "id": "5448",
     "date": "2024-11-28T00:00:00",
     "type": "soep",
     "menu1": "Knolseldersoep met croutons"
   },
   {
-    "id": "647d53cb-30b4-438f-87ee-8d0bea8466df",
+    "id": "5449",
     "date": "2024-11-28T00:00:00",
     "type": "veggie",
     "menu1": "Zoete aardappelkoekjes met salade van Chinese kool en pikante yoghurtdressing"
   },
   {
-    "id": "3d423bb8-33c2-466e-846a-d330cd3c168b",
+    "id": "5450",
     "date": "2024-11-28T00:00:00",
     "type": "vlees",
     "menu1": "Spaghetti Bolognaise"
   },
   {
-    "id": "bc36d676-8e3a-45e9-a11b-9c971ee505dd",
+    "id": "5456",
     "date": "2024-11-29T00:00:00",
     "type": "groentvdw",
     "menu1": "Pastinaak - Rode kool - Champignons - Prei"
   },
   {
-    "id": "b37c10ca-d8a1-42d5-85a3-820c3c55c1a4",
+    "id": "5453",
     "date": "2024-11-29T00:00:00",
     "type": "soep",
     "menu1": "Preisoep met mosterd"
   },
   {
-    "id": "97e9448f-dca2-43ab-820d-5858bfa12a4a",
+    "id": "5454",
     "date": "2024-11-29T00:00:00",
     "type": "veggie",
     "menu1": "Stamppot met sla, paprika met falafels, looksaus en pikante humus"
   },
   {
-    "id": "71a2ca39-4f76-4dc1-b7f6-cb6e16a4add0",
+    "id": "5455",
     "date": "2024-11-29T00:00:00",
     "type": "vlees",
     "menu1": "Risotto met groene groenten en gegrilde zalm"
