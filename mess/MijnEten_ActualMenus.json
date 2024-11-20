@@ -1,230 +1,32 @@
 [
   {
-    "ID": 5423,
-    "Date": "2024-11-20T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Pizza kip, paprika, rode uin en looksaus"
+    "id": 5423,
+    "date": "2025-11-20T00:00:00",
+    "type": "grill",
+    "menu1": "App update nodig"
   },
   {
-    "ID": 5422,
-    "Date": "2024-11-20T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
+    "id": 5422,
+    "date": "2025-11-20T00:00:00",
+    "type": "groentvdw",
+    "menu1": "App update nodig"
   },
   {
-    "ID": 5419,
-    "Date": "2024-11-20T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Bloemkool-broccolisoep"
+    "id": 5419,
+    "date": "2025-11-20T00:00:00",
+    "type": "soep",
+    "menu1": "App update nodig"
   },
   {
-    "ID": 5420,
-    "Date": "2024-11-20T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Luikse salade"
+    "id": 5420,
+    "date": "2025-11-20T00:00:00",
+    "type": "veggie",
+    "menu1": "App update nodig"
   },
   {
-    "ID": 5421,
-    "Date": "2024-11-20T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Gebakken zalm met rode curry, noedels en wokgroenten"
-  },
-  {
-    "ID": 5428,
-    "Date": "2024-11-21T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Everzwijnsteak met winterse garnituren"
-  },
-  {
-    "ID": 5427,
-    "Date": "2024-11-21T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
-  },
-  {
-    "ID": 5424,
-    "Date": "2024-11-21T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Raapjessoep met pesto"
-  },
-  {
-    "ID": 5425,
-    "Date": "2024-11-21T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Groentencurry met couscous"
-  },
-  {
-    "ID": 5426,
-    "Date": "2024-11-21T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Balletjes in tomatensaus met friet en seldersalade"
-  },
-  {
-    "ID": 5432,
-    "Date": "2024-11-22T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Witte kool in bechamel - Gebakken prei - Witloof - Mexicaanse mix"
-  },
-  {
-    "ID": 5429,
-    "Date": "2024-11-22T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Schorsenerensoep"
-  },
-  {
-    "ID": 5430,
-    "Date": "2024-11-22T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Groentenburger met zuiderse groentenmix en krieltjes"
-  },
-  {
-    "ID": 5431,
-    "Date": "2024-11-22T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Kip tikka massala met rijst"
-  },
-  {
-    "ID": 5437,
-    "Date": "2024-11-25T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Gegrilde rundsburger met lookboter, rode ui, tomatensalsa, chorizo en frieten"
-  },
-  {
-    "ID": 5436,
-    "Date": "2024-11-25T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Pastinaak - Rode kool - Champignons -\tPrei"
-  },
-  {
-    "ID": 5433,
-    "Date": "2024-11-25T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Pittige wortelsoep"
-  },
-  {
-    "ID": 5434,
-    "Date": "2024-11-25T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Veggiewrap uit de oven met guacamole en wedges"
-  },
-  {
-    "ID": 5435,
-    "Date": "2024-11-25T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Zurrkoolschotel met aardappelpuree"
-  },
-  {
-    "ID": 5442,
-    "Date": "2024-11-26T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Pizza spek, reblochon, rode ui en zure room"
-  },
-  {
-    "ID": 5441,
-    "Date": "2024-11-26T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Pastinaak - Rode kool - Champignons -\tPrei"
-  },
-  {
-    "ID": 5438,
-    "Date": "2024-11-26T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Spruitjessoep"
-  },
-  {
-    "ID": 5439,
-    "Date": "2024-11-26T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Pompoenquiche met feta en herfstsalade"
-  },
-  {
-    "ID": 5440,
-    "Date": "2024-11-26T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Vol au vent met gefrituurde aardappel en tuinkers"
-  },
-  {
-    "ID": 5447,
-    "Date": "2024-11-27T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Gegrilde rundsburger met lookboter, rode ui, tomatensalsa, chorizo en frieten"
-  },
-  {
-    "ID": 5446,
-    "Date": "2024-11-27T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Pastinaak - Rode kool - Champignons - Prei"
-  },
-  {
-    "ID": 5443,
-    "Date": "2024-11-27T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Paprikasoep"
-  },
-  {
-    "ID": 5444,
-    "Date": "2024-11-27T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Geroosterde aubergine met tarwesalade en granaatappel"
-  },
-  {
-    "ID": 5445,
-    "Date": "2024-11-27T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Citroenkip met gebakken courgette en zoete aardappel uit de oven."
-  },
-  {
-    "ID": 5452,
-    "Date": "2024-11-28T00:00:00",
-    "Type": "grill",
-    "MenuValue": "Pizza spek, reblochon, rode ui en zure room"
-  },
-  {
-    "ID": 5451,
-    "Date": "2024-11-28T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Pastinaak - Rode kool - Champignons - Prei"
-  },
-  {
-    "ID": 5448,
-    "Date": "2024-11-28T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Knolseldersoep met croutons"
-  },
-  {
-    "ID": 5449,
-    "Date": "2024-11-28T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Zoete aardappelkoekjes met salade van Chinese kool en pikante yoghurtdressing"
-  },
-  {
-    "ID": 5450,
-    "Date": "2024-11-28T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Spaghetti Bolognaise"
-  },
-  {
-    "ID": 5456,
-    "Date": "2024-11-29T00:00:00",
-    "Type": "groentvdw",
-    "MenuValue": "Pastinaak - Rode kool - Champignons - Prei"
-  },
-  {
-    "ID": 5453,
-    "Date": "2024-11-29T00:00:00",
-    "Type": "soep",
-    "MenuValue": "Preisoep met mosterd"
-  },
-  {
-    "ID": 5454,
-    "Date": "2024-11-29T00:00:00",
-    "Type": "veggie",
-    "MenuValue": "Stamppot met sla, paprika met falafels, looksaus en pikante humus"
-  },
-  {
-    "ID": 5455,
-    "Date": "2024-11-29T00:00:00",
-    "Type": "vlees",
-    "MenuValue": "Risotto met groene groenten en gegrilde zalm"
+    "id": 5421,
+    "date": "2025-11-20T00:00:00",
+    "type": "vlees",
+    "menu1": "App update nodig"
   }
 ]
