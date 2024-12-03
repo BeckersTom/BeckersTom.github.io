@@ -19,9 +19,10 @@
       <Id>5327</Id>
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>2e Episode</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Bellatrix_2_5327.jpg</Afbeelding>
       <ReeksId>341</ReeksId>
     </Strip>
   </Strips>

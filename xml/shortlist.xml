@@ -292,23 +292,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>341</Id>
-    <Titel>Bellatrix</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5327</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>341</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>43</Id>
     <Titel>Blake en Mortimer</Titel>
     <Kopen>true</Kopen>
@@ -413,16 +396,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>1773</Id>
-        <Nummer>15</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Centaur</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>CarmenMcCallum_15_1773.jpg</Afbeelding>
-        <ReeksId>54</ReeksId>
-      </Strip>
       <Strip>
         <Id>1774</Id>
         <Nummer>16</Nummer>
@@ -807,24 +780,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>86</Id>
-    <Titel>Franka</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5339</Id>
-        <Nummer>26</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Klifhanger</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Franka_26_5339.jpg</Afbeelding>
-        <ReeksId>86</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>87</Id>
     <Titel>G. Raf Zerk</Titel>
     <Kopen>true</Kopen>
@@ -1013,23 +968,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>114</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>115</Id>
-    <Titel>Jerome K. Jerome Bloks</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5332</Id>
-        <Nummer>29</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>115</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -1478,23 +1416,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>131</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>135</Id>
-    <Titel>Lady S.</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5325</Id>
-        <Nummer>17</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>135</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2425,23 +2346,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>196</Id>
-    <Titel>Robbedoes en Kwabbernoot</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5347</Id>
-        <Nummer>57</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>196</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>199</Id>
     <Titel>Roze Bottel</Titel>
     <Kopen>true</Kopen>
@@ -2618,24 +2522,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>211</Id>
-    <Titel>Storm</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5334</Id>
-        <Nummer>34</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De jagers van Umatopee</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Storm_34_5334.jpg</Afbeelding>
-        <ReeksId>211</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2733,23 +2619,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>222</Id>
-    <Titel>Thorgal</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5348</Id>
-        <Nummer>42</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>222</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>267</Id>
     <Titel>Thorgal Saga</Titel>
     <Kopen>true</Kopen>
@@ -2774,42 +2643,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>ThorgalSaga_3_5335.jpg</Afbeelding>
         <ReeksId>267</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>223</Id>
-    <Titel>Travis</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5336</Id>
-        <Nummer>15</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Europa</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Travis_15_5336.jpg</Afbeelding>
-        <ReeksId>223</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>226</Id>
-    <Titel>Trollen van Troy</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5340</Id>
-        <Nummer>26</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De ballade van de natte zee</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>TrollenvanTroy_26_5340.jpg</Afbeelding>
-        <ReeksId>226</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2904,6 +2737,7 @@
         <Titel />
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>XIII_29_5337.jpg</Afbeelding>
         <ReeksId>245</ReeksId>
       </Strip>
     </Strips>
@@ -2967,24 +2801,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>247</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>248</Id>
-    <Titel>Yoko Tsuno</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5338</Id>
-        <Nummer>31</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De arend van de Highlands</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>YokoTsuno_31_5338.jpg</Afbeelding>
-        <ReeksId>248</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

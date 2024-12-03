@@ -150,7 +150,7 @@
       <Nummer>15</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Europa</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Travis_15_5336.jpg</Afbeelding>
       <ReeksId>223</ReeksId>

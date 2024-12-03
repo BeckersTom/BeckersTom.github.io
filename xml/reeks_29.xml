@@ -81,7 +81,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Odissey</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>Androiden_8_1302.jpg</Afbeelding>
       <ReeksId>29</ReeksId>
     </Strip>
@@ -91,7 +91,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>De herder</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>Androiden_9_1303.jpg</Afbeelding>
       <ReeksId>29</ReeksId>
     </Strip>
@@ -101,7 +101,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Darwin</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>Androiden_10_4299.jpg</Afbeelding>
       <ReeksId>29</ReeksId>
     </Strip>

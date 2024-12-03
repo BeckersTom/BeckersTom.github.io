@@ -419,9 +419,10 @@
       <Id>5348</Id>
       <Nummer>42</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Özurr de Varjaag</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Thorgal_42_5348.jpg</Afbeelding>
       <ReeksId>222</ReeksId>
     </Strip>
   </Strips>

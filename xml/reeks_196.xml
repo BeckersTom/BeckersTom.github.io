@@ -569,9 +569,10 @@
       <Id>5347</Id>
       <Nummer>57</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Het geheugen van de toekomst</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>RobbedoesenKwabbernoot_57_5347.jpg</Afbeelding>
       <ReeksId>196</ReeksId>
     </Strip>
   </Strips>

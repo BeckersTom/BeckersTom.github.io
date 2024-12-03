@@ -211,7 +211,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>De eed van de vijf lords</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>BlakeenMortimer_21_1527.jpg</Afbeelding>
       <ReeksId>43</ReeksId>
     </Strip>

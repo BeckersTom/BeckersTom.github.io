@@ -260,7 +260,7 @@
       <Nummer>26</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Klifhanger</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Franka_26_5339.jpg</Afbeelding>
       <ReeksId>86</ReeksId>

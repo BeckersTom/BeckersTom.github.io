@@ -260,7 +260,7 @@
       <Nummer>26</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De ballade van de natte zee</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>TrollenvanTroy_26_5340.jpg</Afbeelding>
       <ReeksId>226</ReeksId>

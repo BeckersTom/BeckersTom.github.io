@@ -169,9 +169,10 @@
       <Id>5325</Id>
       <Nummer>17</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>In de naam van de vader, de zoon en Samarium</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>LadyS_17_5325.jpg</Afbeelding>
       <ReeksId>135</ReeksId>
     </Strip>
   </Strips>

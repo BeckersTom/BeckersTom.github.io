@@ -135,5 +135,15 @@
       <Afbeelding>Soda_13_3837.jpg</Afbeelding>
       <ReeksId>208</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5354</Id>
+      <Nummer>14</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Openbaring</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Soda_14_5354.jpg</Afbeelding>
+      <ReeksId>208</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

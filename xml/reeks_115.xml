@@ -289,9 +289,10 @@
       <Id>5332</Id>
       <Nummer>29</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Levenslang</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>JeromeKJeromeBloks_29_5332.jpg</Afbeelding>
       <ReeksId>115</ReeksId>
     </Strip>
   </Strips>
