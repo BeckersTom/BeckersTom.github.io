@@ -189,8 +189,8 @@
       <Id>2432</Id>
       <Nummer>18</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Psycholocaust</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>123</ReeksId>
     </Strip>

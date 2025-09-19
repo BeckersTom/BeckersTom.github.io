@@ -239,8 +239,8 @@
       <Id>2884</Id>
       <Nummer>24</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Aprillied</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>162</ReeksId>
     </Strip>

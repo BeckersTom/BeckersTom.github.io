@@ -1034,15 +1034,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>2432</Id>
-        <Nummer>18</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>123</ReeksId>
-      </Strip>
-      <Strip>
         <Id>2433</Id>
         <Nummer>19</Nummer>
         <Subnummer xsi:nil="true" />
@@ -1655,23 +1646,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>343</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>162</Id>
-    <Titel>Natasja</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>2884</Id>
-        <Nummer>24</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>162</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2721,24 +2695,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>243</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>245</Id>
-    <Titel>XIII</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5337</Id>
-        <Nummer>29</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIII_29_5337.jpg</Afbeelding>
-        <ReeksId>245</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

@@ -261,7 +261,7 @@
       <Subnummer xsi:nil="true" />
       <Titel>Klifhanger</Titel>
       <Aanwezig>true</Aanwezig>
-      <Gelezen>false</Gelezen>
+      <Gelezen>true</Gelezen>
       <Afbeelding>Franka_26_5339.jpg</Afbeelding>
       <ReeksId>86</ReeksId>
     </Strip>
