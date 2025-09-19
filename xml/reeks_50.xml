@@ -605,5 +605,14 @@
       <Afbeelding>BuckDanny_60_5308.jpg</Afbeelding>
       <ReeksId>50</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5363</Id>
+      <Nummer>61</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Jacht op grote hoogte</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>50</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

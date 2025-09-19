@@ -429,7 +429,16 @@
       <Id>5349</Id>
       <Nummer>43</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De hoeder van de Nijl</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>23</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5359</Id>
+      <Nummer>44</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het verboden koninkrijk</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>23</ReeksId>

@@ -29,7 +29,16 @@
       <Id>5319</Id>
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>Akte 3</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>343</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5355</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Akte 4</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>343</ReeksId>

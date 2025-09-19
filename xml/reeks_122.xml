@@ -85,5 +85,14 @@
       <Afbeelding>Kolonisatie_8_5341.jpg</Afbeelding>
       <ReeksId>122</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5360</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Narigheid</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>122</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

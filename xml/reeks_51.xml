@@ -115,5 +115,14 @@
       <Afbeelding>BuckDannyClassic_11_5344.jpg</Afbeelding>
       <ReeksId>51</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5356</Id>
+      <Nummer>12</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Atomic City</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>51</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

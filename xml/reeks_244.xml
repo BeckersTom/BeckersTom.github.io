@@ -145,5 +145,14 @@
       <Afbeelding>WoudenvanOpaal_14_5284.jpg</Afbeelding>
       <ReeksId>244</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5362</Id>
+      <Nummer>15</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De parabel van de wijze</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>244</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

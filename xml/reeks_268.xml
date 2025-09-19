@@ -35,5 +35,14 @@
       <Afbeelding>Scotland_3_5300.jpg</Afbeelding>
       <ReeksId>268</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5361</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 4</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>268</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

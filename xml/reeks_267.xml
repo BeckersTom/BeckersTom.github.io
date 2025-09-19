@@ -35,5 +35,14 @@
       <Afbeelding>ThorgalSaga_3_5335.jpg</Afbeelding>
       <ReeksId>267</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5358</Id>
+      <Nummer>4</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Van ijs en vuur</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>267</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>
