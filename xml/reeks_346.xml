@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reeks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>346</Id>
+  <Titel>Curieuze epos over de wereld die niet meer wilde draaien, Het</Titel>
+  <Kopen>true</Kopen>
+  <IsComic>false</IsComic>
+  <Strips>
+    <Strip>
+      <Id>5365</Id>
+      <Nummer>1</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Curieuzeeposoverdewerelddienietmeerwildedraaien_1_5365.jpg</Afbeelding>
+      <ReeksId>346</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5366</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Deel 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Curieuzeeposoverdewerelddienietmeerwildedraaien_2_5366.jpg</Afbeelding>
+      <ReeksId>346</ReeksId>
+    </Strip>
+  </Strips>
+</Reeks>

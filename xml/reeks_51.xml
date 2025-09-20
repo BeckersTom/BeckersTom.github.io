@@ -110,7 +110,7 @@
       <Nummer>11</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De rode schaduw</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>BuckDannyClassic_11_5344.jpg</Afbeelding>
       <ReeksId>51</ReeksId>
@@ -120,8 +120,9 @@
       <Nummer>12</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Atomic City</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>BuckDannyClassic_12_5356.jpg</Afbeelding>
       <ReeksId>51</ReeksId>
     </Strip>
   </Strips>

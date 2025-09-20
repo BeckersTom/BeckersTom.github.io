@@ -209,9 +209,10 @@
       <Id>3384</Id>
       <Nummer>21</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Antechton</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Prometheus_21_3384.jpg</Afbeelding>
       <ReeksId>189</ReeksId>
     </Strip>
     <Strip>

@@ -299,9 +299,10 @@
       <Id>5350</Id>
       <Nummer>30</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Getekend Olrik</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>BlakeenMortimer_30_5350.jpg</Afbeelding>
       <ReeksId>43</ReeksId>
     </Strip>
     <Strip>

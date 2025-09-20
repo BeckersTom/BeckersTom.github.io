@@ -175,5 +175,25 @@
       <Afbeelding>LadyMechanika_17_4379.jpg</Afbeelding>
       <ReeksId>134</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5368</Id>
+      <Nummer>18</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivel in het meer 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyMechanika_18_5368.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5369</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De duivel in het meer 2</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LadyMechanika_19_5369.jpg</Afbeelding>
+      <ReeksId>134</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

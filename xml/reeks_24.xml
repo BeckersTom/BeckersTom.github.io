@@ -189,9 +189,10 @@
       <Id>5315</Id>
       <Nummer>19</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Mr Washington</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Alfa_19_5315.jpg</Afbeelding>
       <ReeksId>24</ReeksId>
     </Strip>
   </Strips>

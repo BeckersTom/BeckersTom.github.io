@@ -370,7 +370,7 @@
       <Nummer>37</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Veni vidi vici</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_37_1259.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -380,7 +380,7 @@
       <Nummer>38</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De Helvetii</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_38_1260.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -390,7 +390,7 @@
       <Nummer>39</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De god zonder naam</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_39_1261.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -400,7 +400,7 @@
       <Nummer>40</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Het oog van de minotaurus</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_40_4296.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -410,7 +410,7 @@
       <Nummer>41</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De koningin van de amazones</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_41_4365.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -420,7 +420,7 @@
       <Nummer>42</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Het schild van Achilles</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Alex_42_5305.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
@@ -430,8 +430,9 @@
       <Nummer>43</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De hoeder van de Nijl</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_43_5349.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
     </Strip>
     <Strip>
@@ -439,8 +440,9 @@
       <Nummer>44</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Het verboden koninkrijk</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Alex_44_5359.jpg</Afbeelding>
       <ReeksId>23</ReeksId>
     </Strip>
   </Strips>

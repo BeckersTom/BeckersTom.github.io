@@ -110,8 +110,9 @@
       <Nummer>11</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Marlowe</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Androiden_11_4300.jpg</Afbeelding>
       <ReeksId>29</ReeksId>
     </Strip>
     <Strip>

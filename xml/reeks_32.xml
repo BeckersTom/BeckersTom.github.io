@@ -180,6 +180,16 @@
       <Nummer>18</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Stromboli reloaded</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Aquablue_18_5330.jpg</Afbeelding>
+      <ReeksId>32</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5364</Id>
+      <Nummer>19</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel />
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>32</ReeksId>

@@ -79,9 +79,10 @@
       <Id>4346</Id>
       <Nummer>8</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Het Sheppard-syndroom</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>OlympusMons_8_4346.jpg</Afbeelding>
       <ReeksId>170</ReeksId>
     </Strip>
     <Strip>

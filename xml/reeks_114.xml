@@ -400,7 +400,7 @@
       <Nummer>40</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De vermiste</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Jeremiah_40_5307.jpg</Afbeelding>
       <ReeksId>114</ReeksId>
@@ -408,6 +408,16 @@
     <Strip>
       <Id>5331</Id>
       <Nummer>41</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Het hemelse casino</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Jeremiah_41_5331.jpg</Afbeelding>
+      <ReeksId>114</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5367</Id>
+      <Nummer>42</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel />
       <Aanwezig>false</Aanwezig>

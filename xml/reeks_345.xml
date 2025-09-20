@@ -10,6 +10,25 @@
       <Nummer>1</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Volume 1</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Utopie_1_5357.jpg</Afbeelding>
+      <ReeksId>345</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5370</Id>
+      <Nummer>2</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Volume 2</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>345</ReeksId>
+    </Strip>
+    <Strip>
+      <Id>5371</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Volume 3</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>345</ReeksId>

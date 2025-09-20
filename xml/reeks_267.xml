@@ -20,7 +20,7 @@
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Wendigo</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>ThorgalSaga_2_4374.jpg</Afbeelding>
       <ReeksId>267</ReeksId>
@@ -30,7 +30,7 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Shaïgan</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>ThorgalSaga_3_5335.jpg</Afbeelding>
       <ReeksId>267</ReeksId>
@@ -40,8 +40,9 @@
       <Nummer>4</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Van ijs en vuur</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>ThorgalSaga_4_5358.jpg</Afbeelding>
       <ReeksId>267</ReeksId>
     </Strip>
   </Strips>

@@ -46,109 +46,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>23</Id>
-    <Titel>Alex</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>1259</Id>
-        <Nummer>37</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Veni vidi vici</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_37_1259.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>1260</Id>
-        <Nummer>38</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De Helvetii</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_38_1260.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>1261</Id>
-        <Nummer>39</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De god zonder naam</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_39_1261.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4296</Id>
-        <Nummer>40</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Het oog van de minotaurus</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_40_4296.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>4365</Id>
-        <Nummer>41</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De koningin van de amazones</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_41_4365.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5305</Id>
-        <Nummer>42</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Het schild van Achilles</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alex_42_5305.jpg</Afbeelding>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5349</Id>
-        <Nummer>43</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De hoeder van de Nijl</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>23</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5359</Id>
-        <Nummer>44</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Het verboden koninkrijk</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>23</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>24</Id>
-    <Titel>Alfa</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5315</Id>
-        <Nummer>19</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>24</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
@@ -173,15 +70,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4300</Id>
-        <Nummer>11</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Marlowe</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>29</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4301</Id>
         <Nummer>12</Nummer>
         <Subnummer xsi:nil="true" />
@@ -199,10 +87,10 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>5330</Id>
-        <Nummer>18</Nummer>
+        <Id>5364</Id>
+        <Nummer>19</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel>Stromboli reloaded</Titel>
+        <Titel />
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>32</ReeksId>
@@ -301,23 +189,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>43</Id>
-    <Titel>Blake en Mortimer</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5350</Id>
-        <Nummer>30</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>43</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>44</Id>
     <Titel>Blauwbloezen, De</Titel>
     <Kopen>true</Kopen>
@@ -395,33 +266,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>50</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>51</Id>
-    <Titel>Buck Danny Classic</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5344</Id>
-        <Nummer>11</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De rode schaduw</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>BuckDannyClassic_11_5344.jpg</Afbeelding>
-        <ReeksId>51</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5356</Id>
-        <Nummer>12</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Atomic City</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>51</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -986,18 +830,8 @@
         <ReeksId>114</ReeksId>
       </Strip>
       <Strip>
-        <Id>5307</Id>
-        <Nummer>40</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De vermiste</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Jeremiah_40_5307.jpg</Afbeelding>
-        <ReeksId>114</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5331</Id>
-        <Nummer>41</Nummer>
+        <Id>5367</Id>
+        <Nummer>42</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel />
         <Aanwezig>false</Aanwezig>
@@ -1051,22 +885,13 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>5341</Id>
-        <Nummer>8</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Voorspelling</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Kolonisatie_8_5341.jpg</Afbeelding>
-        <ReeksId>122</ReeksId>
-      </Strip>
-      <Strip>
         <Id>5360</Id>
         <Nummer>9</Nummer>
         <Subnummer xsi:nil="true" />
         <Titel>Narigheid</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Kolonisatie_9_5360.jpg</Afbeelding>
         <ReeksId>122</ReeksId>
       </Strip>
     </Strips>
@@ -1455,24 +1280,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>140</Id>
-    <Titel>Lefranc</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5324</Id>
-        <Nummer>35</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>H-bommen op Almeria</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Lefranc_35_5324.jpg</Afbeelding>
-        <ReeksId>140</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>144</Id>
     <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
     <Kopen>true</Kopen>
@@ -1677,46 +1484,11 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>343</Id>
-    <Titel>Morgen</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5319</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Akte 3</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>343</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5355</Id>
-        <Nummer>4</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Akte 4</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>343</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>170</Id>
     <Titel>Olympus Mons</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>4346</Id>
-        <Nummer>8</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>170</ReeksId>
-      </Strip>
       <Strip>
         <Id>4347</Id>
         <Nummer>9</Nummer>
@@ -1742,23 +1514,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>171</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>173</Id>
-    <Titel>Op zoek naar de tijdvogel</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5351</Id>
-        <Nummer>12</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>173</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2259,15 +2014,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>3384</Id>
-        <Nummer>21</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel />
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>189</ReeksId>
-      </Strip>
-      <Strip>
         <Id>4349</Id>
         <Nummer>22</Nummer>
         <Subnummer xsi:nil="true" />
@@ -2465,6 +2211,7 @@
         <Titel>Deel 4</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Scotland_4_5361.jpg</Afbeelding>
         <ReeksId>268</ReeksId>
       </Strip>
     </Strips>
@@ -2663,53 +2410,25 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>267</Id>
-    <Titel>Thorgal Saga</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4374</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Wendigo</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>ThorgalSaga_2_4374.jpg</Afbeelding>
-        <ReeksId>267</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5335</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Shaïgan</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>ThorgalSaga_3_5335.jpg</Afbeelding>
-        <ReeksId>267</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5358</Id>
-        <Nummer>4</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Van ijs en vuur</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>267</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>345</Id>
     <Titel>Utopie</Titel>
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>5357</Id>
-        <Nummer>1</Nummer>
+        <Id>5370</Id>
+        <Nummer>2</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel>Volume 1</Titel>
+        <Titel>Volume 2</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>345</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5371</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Volume 3</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>345</ReeksId>
@@ -2807,6 +2526,7 @@
         <Titel>De parabel van de wijze</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>WoudenvanOpaal_15_5362.jpg</Afbeelding>
         <ReeksId>244</ReeksId>
       </Strip>
     </Strips>

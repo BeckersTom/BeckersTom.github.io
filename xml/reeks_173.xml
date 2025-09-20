@@ -119,9 +119,10 @@
       <Id>5351</Id>
       <Nummer>12</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
-      <Aanwezig>false</Aanwezig>
+      <Titel>Omegon</Titel>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Opzoeknaardetijdvogel_12_5351.jpg</Afbeelding>
       <ReeksId>173</ReeksId>
     </Strip>
   </Strips>

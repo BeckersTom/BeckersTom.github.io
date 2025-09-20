@@ -80,7 +80,7 @@
       <Nummer>8</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Voorspelling</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Kolonisatie_8_5341.jpg</Afbeelding>
       <ReeksId>122</ReeksId>
@@ -92,6 +92,7 @@
       <Titel>Narigheid</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Kolonisatie_9_5360.jpg</Afbeelding>
       <ReeksId>122</ReeksId>
     </Strip>
   </Strips>

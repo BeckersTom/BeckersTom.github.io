@@ -30,8 +30,9 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Akte 3</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Morgen_3_5319.jpg</Afbeelding>
       <ReeksId>343</ReeksId>
     </Strip>
     <Strip>
@@ -39,8 +40,9 @@
       <Nummer>4</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Akte 4</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Morgen_4_5355.jpg</Afbeelding>
       <ReeksId>343</ReeksId>
     </Strip>
   </Strips>
