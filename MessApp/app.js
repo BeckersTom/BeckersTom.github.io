@@ -17,5 +17,7 @@ setInterval(updateDateTime, 1000);
 updateDateTime();
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/MessApp/service-worker.js');
+  // Register the service worker with a path relative to this page so the
+  // service worker scope is limited to the `MessApp/` folder.
+  navigator.serviceWorker.register('./service-worker.js');
 }

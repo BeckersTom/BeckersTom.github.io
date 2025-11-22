@@ -1,11 +1,11 @@
 const CACHE_NAME = 'messapp-cache-v1';
 const urlsToCache = [
-  '/MessApp/',
-  '/MessApp/index.html',
-  '/MessApp/styles.css',
-  '/MessApp/app.js',
-  '/MessApp/icon-192.png',
-  '/MessApp/icon-512.png'
+  './',
+  './index.html',
+  './styles.css',
+  './app.js',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', event => {
