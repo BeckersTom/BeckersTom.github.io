@@ -2,7 +2,7 @@ const CACHE_NAME = 'messapp-cache-v1';
 const urlsToCache = [
   './',
   './index.html',
-  './styles.css',
+  './style/general.css',
   './app.js',
   './images/icon-192.png',
   './images/icon-512.png'
