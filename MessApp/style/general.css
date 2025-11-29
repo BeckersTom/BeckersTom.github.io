@@ -19,7 +19,12 @@ body {
   font-family: 'Filmcryptic', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   text-align: center;
   margin-top: 50px;
+  /* Background: stretched image if present, fall back to color */
   background-color: #27c622;
+  background-image: url('../images/background.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; /* use 'cover' to fill while preserving aspect ratio; use '100% 100%' to force stretch */
   color: #333;
 }
 
