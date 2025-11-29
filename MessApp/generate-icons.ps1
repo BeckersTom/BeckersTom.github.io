@@ -17,16 +17,16 @@ if (-not (Test-Path -Path .\images)) {
 
 if (Get-Command magick -ErrorAction SilentlyContinue) {
   Write-Host "Using ImageMagick (magick)"
-  magick convert icon-192.svg -resize 192x192 images/icon-192.png
-  magick convert icon-512.svg -resize 512x512 images/icon-512.png
+  magick convert images/icon-192.svg -resize 192x192 images/icon-192.png
+  magick convert images/icon-512.svg -resize 512x512 images/icon-512.png
   Write-Host "Generated images/icon-192.png and images/icon-512.png"
   return
 }
 
 if (Get-Command inkscape -ErrorAction SilentlyContinue) {
   Write-Host "Using Inkscape"
-  inkscape icon-192.svg --export-type=png --export-filename=images/icon-192.png --export-width=192 --export-height=192
-  inkscape icon-512.svg --export-type=png --export-filename=images/icon-512.png --export-width=512 --export-height=512
+  inkscape images/icon-192.svg --export-type=png --export-filename=images/icon-192.png --export-width=192 --export-height=192
+  inkscape images/icon-512.svg --export-type=png --export-filename=images/icon-512.png --export-width=512 --export-height=512
   Write-Host "Generated images/icon-192.png and images/icon-512.png"
   return
 }
