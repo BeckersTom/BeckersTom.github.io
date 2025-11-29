@@ -24,7 +24,7 @@ body {
   background-image: url('../images/background.png');
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover; /* use 'cover' to fill while preserving aspect ratio; use '100% 100%' to force stretch */
+  background-size: 100% 100%; /* force stretch to fill exactly (may distort aspect ratio) */
   color: #333;
 }
 
