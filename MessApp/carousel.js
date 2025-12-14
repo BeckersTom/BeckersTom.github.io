@@ -69,6 +69,63 @@
     dotsContainer.innerHTML = '';
   }
 
+  function getTodayKey() {
+    const now = new Date();
+    return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  }
+
+  function getYesterdayKey() {
+    const d = new Date();
+    d.setDate(d.getDate() - 1);
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  }
+
+  function buildDateNav(groupedMap) {
+    // remove existing nav if present
+    let existing = carouselEl.querySelector('.date-nav');
+    if (existing) existing.remove();
+
+    const keys = Array.from(groupedMap.keys()).sort();
+    const today = getTodayKey();
+    const yesterday = getYesterdayKey();
+
+    // only keep yesterday, today and future dates
+    const filtered = keys.filter(k => k >= yesterday);
+    if (filtered.length === 0) return;
+
+    const nav = document.createElement('div');
+    nav.className = 'date-nav';
+
+    filtered.forEach((k) => {
+      const btn = document.createElement('button');
+      btn.className = 'date-button';
+      btn.dataset.date = k;
+      let label = k;
+      if (k === today) label = 'Today';
+      else if (k === yesterday) label = 'Yesterday';
+      else {
+        const d = new Date(k);
+        label = d.toLocaleDateString(undefined, { weekday: 'short', day: 'numeric', month: 'short' });
+      }
+      btn.textContent = label;
+      btn.addEventListener('click', () => selectDate(k, groupedMap));
+      nav.appendChild(btn);
+    });
+
+    carouselEl.insertBefore(nav, carouselEl.firstChild);
+  }
+
+  function selectDate(key, groupedMap) {
+    const nav = carouselEl.querySelector('.date-nav');
+    if (nav) {
+      nav.querySelectorAll('.date-button').forEach(b => b.classList.toggle('active', b.dataset.date === key));
+    }
+    const items = groupedMap.get(key) || [];
+    buildSlidesForDay(items);
+    // update URL hash without adding history entry
+    try { history.replaceState(null, '', `#${key}`); } catch (e) {}
+  }
+
   const TYPE_IMAGE = {
     'grill': 'grill.png',
     'soep': 'soep.png',
@@ -192,9 +249,11 @@
       return;
     }
     const grouped = groupByDate(data);
+    buildDateNav(grouped);
+
     const requested = getRequestedDate();
-    const items = grouped.get(requested) || [];
-    buildSlidesForDay(items);
+    const initial = grouped.has(requested) ? requested : (grouped.has(getTodayKey()) ? getTodayKey() : Array.from(grouped.keys()).sort()[0]);
+    selectDate(initial, grouped);
   })();
 
 })();
