@@ -1,0 +1,423 @@
+// Configuration
+const CONFIG = {
+    DATA_URL: 'https://github.netvark.net/mess/ActualMenus.json',
+    CACHE_NAME: 'menu-app-cache-v1',
+    DATA_CACHE_KEY: 'menu-data-cache',
+    MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentevdw'],
+    MENU_IMAGES: {
+        soep: 'images/soep.png',
+        vlees: 'images/vlees.png',
+        veggie: 'images/veggie.png',
+        grill: 'images/grill.png',
+        groentevdw: 'images/groentevdw.png'
+    }
+};
+
+// Dutch locale data
+const DUTCH_DAYS = ['zondag', 'maandag', 'dinsdag', 'woensdag', 'donderdag', 'vrijdag', 'zaterdag'];
+const DUTCH_MONTHS = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'];
+
+// App State
+let appState = {
+    menuData: null,
+    days: [],
+    currentDayIndex: 0,
+    touchStartX: 0,
+    touchStartTime: 0
+};
+
+// Initialize Service Worker and check for updates
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js')
+        .then(registration => {
+            console.log('Service Worker registered');
+            
+            // Check for updates periodically
+            setInterval(() => {
+                registration.update();
+            }, 60000); // Check every minute
+            
+            // Listen for updates
+            registration.addEventListener('updatefound', () => {
+                const newWorker = registration.installing;
+                newWorker.addEventListener('statechange', () => {
+                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                        // New service worker is ready, refresh the page
+                        console.log('PWA update available, reloading...');
+                        window.location.reload();
+                    }
+                });
+            });
+        })
+        .catch(err => console.error('Service Worker registration failed:', err));
+}
+
+// Initialize App
+document.addEventListener('DOMContentLoaded', () => {
+    loadMenuData();
+    setupEventListeners();
+});
+
+/**
+ * Setup event listeners for touch and navigation
+ */
+function setupEventListeners() {
+    const carouselSlides = document.getElementById('carouselSlides');
+    
+    // Touch events for swipe
+    carouselSlides.addEventListener('touchstart', handleTouchStart, false);
+    carouselSlides.addEventListener('touchmove', handleTouchMove, false);
+    carouselSlides.addEventListener('touchend', handleTouchEnd, false);
+    
+    // Keyboard navigation for testing
+    document.addEventListener('keydown', handleKeyPress);
+}
+
+/**
+ * Load menu data from URL or cache
+ */
+async function loadMenuData() {
+    try {
+        // Try to fetch from URL
+        const response = await fetch(CONFIG.DATA_URL);
+        if (response.ok) {
+            const data = await response.json();
+            appState.menuData = data;
+            // Cache the data
+            await cacheMenuData(data);
+            processMenuData();
+            return;
+        }
+    } catch (error) {
+        console.error('Error fetching menu data:', error);
+    }
+    
+    // Fallback to cached data
+    const cachedData = await getCachedMenuData();
+    if (cachedData && cachedData.length > 0) {
+        appState.menuData = cachedData;
+        processMenuData();
+    } else {
+        showNoData();
+    }
+}
+
+/**
+ * Process menu data and extract days with future dates
+ */
+function processMenuData() {
+    const today = getToday();
+    const daysSet = new Set();
+    
+    // Filter data for today and future dates
+    const filteredData = appState.menuData.filter(item => {
+        const itemDate = new Date(item.date);
+        const itemDateOnly = new Date(itemDate.getFullYear(), itemDate.getMonth(), itemDate.getDate());
+        return itemDateOnly >= today;
+    });
+    
+    if (filteredData.length === 0) {
+        showNoData();
+        return;
+    }
+    
+    // Extract unique dates
+    filteredData.forEach(item => {
+        const itemDate = new Date(item.date);
+        const dateKey = itemDate.toISOString().split('T')[0];
+        daysSet.add(dateKey);
+    });
+    
+    // Sort dates and create days array
+    appState.days = Array.from(daysSet).sort();
+    
+    if (appState.days.length === 0) {
+        showNoData();
+        return;
+    }
+    
+    // Hide loading and render carousel
+    document.getElementById('loadingIndicator').style.display = 'none';
+    renderCarousel();
+    showCarousel();
+}
+
+/**
+ * Render the carousel slides and dots
+ */
+function renderCarousel() {
+    const carouselSlides = document.getElementById('carouselSlides');
+    const dotNavigation = document.getElementById('dotNavigation');
+    
+    carouselSlides.innerHTML = '';
+    dotNavigation.innerHTML = '';
+    
+    appState.days.forEach((dateStr, index) => {
+        // Create slide
+        const slide = createSlide(dateStr, index);
+        carouselSlides.appendChild(slide);
+        
+        // Create dot
+        const dot = document.createElement('div');
+        dot.className = `dot ${index === 0 ? 'active' : ''}`;
+        dot.addEventListener('click', () => goToDay(index));
+        dotNavigation.appendChild(dot);
+    });
+    
+    // Set active slide
+    updateActiveSlide();
+}
+
+/**
+ * Create a carousel slide for a specific date
+ */
+function createSlide(dateStr, dayIndex) {
+    const slide = document.createElement('div');
+    slide.className = `carousel-slide ${dayIndex === 0 ? 'active' : ''}`;
+    slide.setAttribute('data-day-index', dayIndex);
+    
+    const date = new Date(dateStr + 'T00:00:00');
+    const menuItems = getMenuItemsForDate(dateStr);
+    
+    // Header
+    const header = document.createElement('div');
+    header.className = 'slide-header';
+    header.innerHTML = `
+        <div class="date-info">
+            ${getDutchDayName(date.getDay())}<br>
+            ${date.getDate()} ${getDutchMonthName(date.getMonth())}
+        </div>
+        <img src="images/header.png" alt="Header" class="header-logo" onerror="this.style.display='none'">
+    `;
+    
+    // Menu Items
+    const menuContainer = document.createElement('div');
+    menuContainer.className = 'menu-items';
+    
+    CONFIG.MENU_TYPES.forEach(type => {
+        const menuItem = menuItems[type] || '';
+        const row = document.createElement('div');
+        row.className = 'menu-row';
+        
+        row.innerHTML = `
+            <img src="${CONFIG.MENU_IMAGES[type]}" alt="${type}" class="menu-row-image" onerror="this.style.display='none'">
+            <div class="menu-row-text">${menuItem}</div>
+        `;
+        
+        menuContainer.appendChild(row);
+    });
+    
+    // Footer
+    const footer = document.createElement('div');
+    footer.className = 'slide-footer';
+    footer.innerHTML = `
+        <img src="images/header.png" alt="Header" class="footer-logo" onerror="this.style.display='none'">
+        <div class="footer-date-info">
+            ${getDutchDayName(date.getDay())}<br>
+            ${date.getDate()} ${getDutchMonthName(date.getMonth())}
+        </div>
+    `;
+    
+    slide.appendChild(header);
+    slide.appendChild(menuContainer);
+    slide.appendChild(footer);
+    
+    return slide;
+}
+
+/**
+ * Get menu items for a specific date
+ */
+function getMenuItemsForDate(dateStr) {
+    const items = {};
+    
+    CONFIG.MENU_TYPES.forEach(type => {
+        const item = appState.menuData.find(
+            data => data.date.startsWith(dateStr) && data.type === type
+        );
+        items[type] = item ? item.menu1 : 'Niet beschikbaar';
+    });
+    
+    return items;
+}
+
+/**
+ * Update active slide and dot
+ */
+function updateActiveSlide() {
+    // Update slides
+    document.querySelectorAll('.carousel-slide').forEach((slide, index) => {
+        if (index === appState.currentDayIndex) {
+            slide.classList.add('active');
+        } else {
+            slide.classList.remove('active');
+        }
+    });
+    
+    // Update dots
+    document.querySelectorAll('.dot').forEach((dot, index) => {
+        if (index === appState.currentDayIndex) {
+            dot.classList.add('active');
+        } else {
+            dot.classList.remove('active');
+        }
+    });
+}
+
+/**
+ * Go to a specific day
+ */
+function goToDay(index) {
+    if (index >= 0 && index < appState.days.length) {
+        appState.currentDayIndex = index;
+        updateActiveSlide();
+    }
+}
+
+/**
+ * Navigate to next day
+ */
+function nextDay() {
+    if (appState.currentDayIndex < appState.days.length - 1) {
+        goToDay(appState.currentDayIndex + 1);
+    }
+}
+
+/**
+ * Navigate to previous day
+ */
+function prevDay() {
+    if (appState.currentDayIndex > 0) {
+        goToDay(appState.currentDayIndex - 1);
+    }
+}
+
+// Touch handling
+function handleTouchStart(e) {
+    appState.touchStartX = e.changedTouches[0].clientX;
+    appState.touchStartTime = Date.now();
+}
+
+function handleTouchMove(e) {
+    // Prevent scrolling while swiping
+    if (e.target.closest('.menu-items')) {
+        return;
+    }
+    e.preventDefault();
+}
+
+function handleTouchEnd(e) {
+    const touchEndX = e.changedTouches[0].clientX;
+    const touchDuration = Date.now() - appState.touchStartTime;
+    const swipeDistance = appState.touchStartX - touchEndX;
+    const minSwipeDistance = 50;
+    const maxSwipeDuration = 300;
+    
+    if (Math.abs(swipeDistance) > minSwipeDistance && touchDuration < maxSwipeDuration) {
+        if (swipeDistance > 0) {
+            // Swiped left - go to next
+            nextDay();
+        } else {
+            // Swiped right - go to previous
+            prevDay();
+        }
+    }
+}
+
+// Keyboard navigation for testing
+function handleKeyPress(e) {
+    if (e.key === 'ArrowRight') {
+        nextDay();
+    } else if (e.key === 'ArrowLeft') {
+        prevDay();
+    }
+}
+
+/**
+ * Show carousel
+ */
+function showCarousel() {
+    document.getElementById('carouselSlides').parentElement.style.display = 'flex';
+}
+
+/**
+ * Show no data message
+ */
+function showNoData() {
+    document.getElementById('loadingIndicator').style.display = 'none';
+    document.getElementById('noDataMessage').style.display = 'flex';
+}
+
+/**
+ * Cache menu data
+ */
+async function cacheMenuData(data) {
+    try {
+        const cacheStorage = window.caches || localStorage;
+        if (window.caches) {
+            const cache = await caches.open(CONFIG.CACHE_NAME);
+            const response = new Response(JSON.stringify(data), {
+                headers: { 'Content-Type': 'application/json' }
+            });
+            await cache.put(CONFIG.DATA_URL, response);
+        } else {
+            localStorage.setItem(CONFIG.DATA_CACHE_KEY, JSON.stringify(data));
+        }
+    } catch (error) {
+        console.error('Error caching menu data:', error);
+    }
+}
+
+/**
+ * Get cached menu data
+ */
+async function getCachedMenuData() {
+    try {
+        if (window.caches) {
+            const cache = await caches.open(CONFIG.CACHE_NAME);
+            const response = await cache.match(CONFIG.DATA_URL);
+            if (response) {
+                return await response.json();
+            }
+        } else {
+            const cached = localStorage.getItem(CONFIG.DATA_CACHE_KEY);
+            if (cached) {
+                return JSON.parse(cached);
+            }
+        }
+    } catch (error) {
+        console.error('Error retrieving cached menu data:', error);
+    }
+    return null;
+}
+
+/**
+ * Get today's date at midnight
+ */
+function getToday() {
+    const today = new Date();
+    return new Date(today.getFullYear(), today.getMonth(), today.getDate());
+}
+
+/**
+ * Get Dutch day name
+ */
+function getDutchDayName(dayIndex) {
+    return DUTCH_DAYS[dayIndex];
+}
+
+/**
+ * Get Dutch month name
+ */
+function getDutchMonthName(monthIndex) {
+    return DUTCH_MONTHS[monthIndex];
+}
+
+/**
+ * Refresh menu data when app comes to focus
+ */
+document.addEventListener('visibilitychange', () => {
+    if (!document.hidden && appState.menuData) {
+        loadMenuData();
+    }
+});

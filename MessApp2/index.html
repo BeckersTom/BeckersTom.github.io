@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+    <meta name="description" content="Menu app with offline support">
+    <meta name="theme-color" content="#1a1a1a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Menu App">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="images/icon-192.png">
+    <link rel="apple-touch-icon" href="images/icon-180.png">
+    <link rel="stylesheet" href="styles.css">
+    <title>Menu App</title>
+</head>
+<body>
+    <div id="app" class="app-container">
+        <!-- Carousel Container -->
+        <div class="carousel-container">
+            <!-- Carousel Slides -->
+            <div class="carousel-slides" id="carouselSlides"></div>
+            
+            <!-- Dot Navigation -->
+            <div class="dot-navigation" id="dotNavigation"></div>
+        </div>
+        
+        <!-- Loading Indicator -->
+        <div class="loading-indicator" id="loadingIndicator">
+            <div class="spinner"></div>
+            <p>Menu laden...</p>
+        </div>
+        
+        <!-- Error Message -->
+        <div class="error-message" id="errorMessage" style="display: none;">
+            <p id="errorText"></p>
+        </div>
+        
+        <!-- No Data Message -->
+        <div class="no-data-message" id="noDataMessage" style="display: none;">
+            <p>Geen menugegevens beschikbaar</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
