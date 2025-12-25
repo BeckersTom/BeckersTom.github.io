@@ -9,7 +9,7 @@ const CONFIG = {
         vlees: 'images/vlees.png',
         veggie: 'images/veggie.png',
         grill: 'images/grill.png',
-        groentevdw: 'images/groentevdw.png'
+        groentevdw: 'images/groentvdw.png'
     }
 };
 
