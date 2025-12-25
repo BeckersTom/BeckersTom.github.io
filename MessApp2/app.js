@@ -23,7 +23,9 @@ let appState = {
     days: [],
     currentDayIndex: 0,
     touchStartX: 0,
-    touchStartTime: 0
+    touchStartTime: 0,
+    touchDragging: false,
+    containerWidth: 0
 };
 
 // Initialize Service Worker and check for updates
@@ -65,9 +67,17 @@ function setupEventListeners() {
     const carouselSlides = document.getElementById('carouselSlides');
     
     // Touch events for swipe
-    carouselSlides.addEventListener('touchstart', handleTouchStart, false);
-    carouselSlides.addEventListener('touchmove', handleTouchMove, false);
+    carouselSlides.addEventListener('touchstart', handleTouchStart, { passive: true });
+    carouselSlides.addEventListener('touchmove', handleTouchMove, { passive: false });
     carouselSlides.addEventListener('touchend', handleTouchEnd, false);
+    carouselSlides.addEventListener('touchcancel', handleTouchEnd, false);
+    
+    // Mouse events for drag support (desktop)
+    carouselSlides.addEventListener('mousedown', handleMouseDown, false);
+    // mousemove/up are attached to document to capture drags outside the element
+    document.addEventListener('mousemove', handleMouseMove, false);
+    document.addEventListener('mouseup', handleMouseUp, false);
+    document.addEventListener('mouseleave', handleMouseUp, false);
     
     // Keyboard navigation for testing
     document.addEventListener('keydown', handleKeyPress);
@@ -245,22 +255,14 @@ function getMenuItemsForDate(dateStr) {
  * Update active slide and dot
  */
 function updateActiveSlide() {
-    // Update slides
-    document.querySelectorAll('.carousel-slide').forEach((slide, index) => {
-        if (index === appState.currentDayIndex) {
-            slide.classList.add('active');
-        } else {
-            slide.classList.remove('active');
-        }
-    });
-    
+    // Slide the container using transform for smooth animation
+    const container = document.getElementById('carouselSlides');
+    container.style.transition = 'transform 0.35s ease-in-out';
+    container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
+
     // Update dots
     document.querySelectorAll('.dot').forEach((dot, index) => {
-        if (index === appState.currentDayIndex) {
-            dot.classList.add('active');
-        } else {
-            dot.classList.remove('active');
-        }
+        dot.classList.toggle('active', index === appState.currentDayIndex);
     });
 }
 
@@ -294,33 +296,101 @@ function prevDay() {
 
 // Touch handling
 function handleTouchStart(e) {
-    appState.touchStartX = e.changedTouches[0].clientX;
+    const touch = e.changedTouches[0];
+    appState.touchStartX = touch.clientX;
     appState.touchStartTime = Date.now();
+    appState.touchDragging = true;
+    const container = document.getElementById('carouselSlides');
+    appState.containerWidth = container.clientWidth || window.innerWidth;
+    // stop any ongoing transition while dragging
+    container.style.transition = 'none';
 }
 
 function handleTouchMove(e) {
     // Prevent scrolling while swiping
+    if (!appState.touchDragging) return;
     if (e.target.closest('.menu-items')) {
+        // allow scrolling inside menu items
         return;
     }
     e.preventDefault();
+    const touch = e.changedTouches[0];
+    const deltaX = touch.clientX - appState.touchStartX;
+    const container = document.getElementById('carouselSlides');
+    const percent = (deltaX / appState.containerWidth) * 100;
+    const base = -appState.currentDayIndex * 100;
+    container.style.transform = `translateX(${base + percent}%)`;
 }
 
 function handleTouchEnd(e) {
-    const touchEndX = e.changedTouches[0].clientX;
+    if (!appState.touchDragging) return;
+    appState.touchDragging = false;
+    const touch = e.changedTouches ? e.changedTouches[0] : null;
+    const touchEndX = touch ? touch.clientX : appState.touchStartX;
     const touchDuration = Date.now() - appState.touchStartTime;
-    const swipeDistance = appState.touchStartX - touchEndX;
-    const minSwipeDistance = 50;
-    const maxSwipeDuration = 300;
-    
-    if (Math.abs(swipeDistance) > minSwipeDistance && touchDuration < maxSwipeDuration) {
-        if (swipeDistance > 0) {
-            // Swiped left - go to next
+    const deltaX = touchEndX - appState.touchStartX;
+    const absX = Math.abs(deltaX);
+    const minSwipeDistance = Math.max(30, appState.containerWidth * 0.12); // adaptive threshold
+    const container = document.getElementById('carouselSlides');
+    // restore transition
+    container.style.transition = 'transform 0.35s ease-in-out';
+
+    if (absX > minSwipeDistance && touchDuration < 1000) {
+        if (deltaX < 0) {
             nextDay();
         } else {
-            // Swiped right - go to previous
             prevDay();
         }
+    } else {
+        // snap back to current
+        container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
+    }
+}
+
+// Mouse handling (desktop drag)
+function handleMouseDown(e) {
+    if (e.button !== 0) return; // only left button
+    appState.touchStartX = e.clientX;
+    appState.touchStartTime = Date.now();
+    appState.touchDragging = true;
+    const container = document.getElementById('carouselSlides');
+    appState.containerWidth = container.clientWidth || window.innerWidth;
+    container.style.transition = 'none';
+    e.preventDefault();
+}
+
+function handleMouseMove(e) {
+    if (!appState.touchDragging) return;
+    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
+        return; // allow scrolling inside menu items
+    }
+    e.preventDefault();
+    const deltaX = e.clientX - appState.touchStartX;
+    const container = document.getElementById('carouselSlides');
+    const percent = (deltaX / appState.containerWidth) * 100;
+    const base = -appState.currentDayIndex * 100;
+    container.style.transform = `translateX(${base + percent}%)`;
+}
+
+function handleMouseUp(e) {
+    if (!appState.touchDragging) return;
+    appState.touchDragging = false;
+    const touchEndX = e.clientX;
+    const touchDuration = Date.now() - appState.touchStartTime;
+    const deltaX = touchEndX - appState.touchStartX;
+    const absX = Math.abs(deltaX);
+    const minSwipeDistance = Math.max(30, appState.containerWidth * 0.12);
+    const container = document.getElementById('carouselSlides');
+    container.style.transition = 'transform 0.35s ease-in-out';
+
+    if (absX > minSwipeDistance && touchDuration < 1000) {
+        if (deltaX < 0) {
+            nextDay();
+        } else {
+            prevDay();
+        }
+    } else {
+        container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
     }
 }
 
