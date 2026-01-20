@@ -1,5 +1,4 @@
 // Service Worker for offline support
-// Update version timestamp to force cache invalidation and updates
 const CACHE_VERSION = Date.now().toString();
 const CACHE_NAME = `menu-app-cache-${CACHE_VERSION}`;
 const DATA_CACHE_NAME = `menu-app-data-${CACHE_VERSION}`;
@@ -16,11 +15,11 @@ const urlsToCache = [
     '/images/vlees.png',
     '/images/veggie.png',
     '/images/grill.png',
-    '/images/groentevdw.png',
+    '/images/groentvdw.png',
     '/fonts/Filmcryptic.ttf'
 ];
 
-// Install event - cache essential files
+// Install
 self.addEventListener('install', event => {
     event.waitUntil(
         caches.open(CACHE_NAME).then(cache => {
@@ -36,7 +35,7 @@ self.addEventListener('install', event => {
     self.skipWaiting();
 });
 
-// Activate event - clean up old caches
+// Activate
 self.addEventListener('activate', event => {
     event.waitUntil(
         caches.keys().then(cacheNames => {
@@ -52,17 +51,17 @@ self.addEventListener('activate', event => {
     self.clients.claim();
 });
 
-// Fetch event - serve from cache, fallback to network
+// Fetch
 self.addEventListener('fetch', event => {
     const { request } = event;
     const url = new URL(request.url);
 
-    // Handle data requests (JSON)
-    if (request.method === 'GET' && request.headers.get('accept')?.includes('application/json')) {
+    // JSON data - network first with cache fallback
+    if (request.method === 'GET' && url.pathname.includes('.json')) {
         event.respondWith(
             fetch(request)
                 .then(response => {
-                    if (!response || response.status !== 200 || response.type === 'error') {
+                    if (!response || response.status !== 200) {
                         return response;
                     }
                     const responseClone = response.clone();
@@ -78,7 +77,7 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    // Handle document requests
+    // Navigation - network first
     if (request.mode === 'navigate') {
         event.respondWith(
             fetch(request)
@@ -95,7 +94,7 @@ self.addEventListener('fetch', event => {
         return;
     }
 
-    // Handle other requests (CSS, JS, images, fonts)
+    // Assets - cache first
     event.respondWith(
         caches.match(request).then(response => {
             if (response) {
@@ -103,11 +102,9 @@ self.addEventListener('fetch', event => {
             }
             return fetch(request)
                 .then(response => {
-                    // Don't cache non-successful responses
                     if (!response || response.status !== 200 || response.type === 'error') {
                         return response;
                     }
-                    
                     const responseClone = response.clone();
                     caches.open(CACHE_NAME).then(cache => {
                         cache.put(request, responseClone);
@@ -115,14 +112,7 @@ self.addEventListener('fetch', event => {
                     return response;
                 })
                 .catch(() => {
-                    // Return a fallback for failed requests
-                    return new Response('Offline', {
-                        status: 503,
-                        statusText: 'Service Unavailable',
-                        headers: new Headers({
-                            'Content-Type': 'text/plain'
-                        })
-                    });
+                    return new Response('Offline', { status: 503 });
                 });
         })
     );

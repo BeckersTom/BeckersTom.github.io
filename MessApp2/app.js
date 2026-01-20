@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
     DATA_URL: 'https://github.netvark.net/mess/ActualMenus.json',
-    CACHE_NAME: 'menu-app-cache-v1',
+    CACHE_NAME: 'menu-app-cache',
     DATA_CACHE_KEY: 'menu-data-cache',
     MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentevdw'],
     MENU_IMAGES: {
@@ -13,7 +13,7 @@ const CONFIG = {
     }
 };
 
-// Dutch locale data
+// Dutch locale
 const DUTCH_DAYS = ['zondag', 'maandag', 'dinsdag', 'woensdag', 'donderdag', 'vrijdag', 'zaterdag'];
 const DUTCH_MONTHS = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'];
 
@@ -22,30 +22,22 @@ let appState = {
     menuData: null,
     days: [],
     currentDayIndex: 0,
-    touchStartX: 0,
-    touchStartTime: 0,
-    touchDragging: false,
+    dragging: false,
+    dragStartX: 0,
+    dragStartTime: 0,
     containerWidth: 0
 };
 
-// Initialize Service Worker and check for updates
+// Service Worker Registration
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('service-worker.js')
         .then(registration => {
             console.log('Service Worker registered');
-            
-            // Check for updates periodically
-            setInterval(() => {
-                registration.update();
-            }, 60000); // Check every minute
-            
-            // Listen for updates
+            setInterval(() => registration.update(), 60000);
             registration.addEventListener('updatefound', () => {
                 const newWorker = registration.installing;
                 newWorker.addEventListener('statechange', () => {
                     if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                        // New service worker is ready, refresh the page
-                        console.log('PWA update available, reloading...');
                         window.location.reload();
                     }
                 });
@@ -54,33 +46,43 @@ if ('serviceWorker' in navigator) {
         .catch(err => console.error('Service Worker registration failed:', err));
 }
 
-// Initialize App
+// Initialize
 document.addEventListener('DOMContentLoaded', () => {
     loadMenuData();
     setupEventListeners();
 });
 
 /**
- * Setup event listeners for touch and navigation
+ * Setup event listeners for carousel interaction
  */
 function setupEventListeners() {
-    const carouselSlides = document.getElementById('carouselSlides');
+    const container = document.getElementById('carouselSlides');
     
-    // Touch events for swipe
-    carouselSlides.addEventListener('touchstart', handleTouchStart, { passive: true });
-    carouselSlides.addEventListener('touchmove', handleTouchMove, { passive: false });
-    carouselSlides.addEventListener('touchend', handleTouchEnd, false);
-    carouselSlides.addEventListener('touchcancel', handleTouchEnd, false);
+    // Touch events
+    container.addEventListener('touchstart', handleDragStart, { passive: true });
+    container.addEventListener('touchmove', handleDragMove, { passive: false });
+    container.addEventListener('touchend', handleDragEnd, false);
+    container.addEventListener('touchcancel', handleDragEnd, false);
     
-    // Mouse events for drag support (desktop)
-    carouselSlides.addEventListener('mousedown', handleMouseDown, false);
-    // mousemove/up are attached to document to capture drags outside the element
-    document.addEventListener('mousemove', handleMouseMove, false);
-    document.addEventListener('mouseup', handleMouseUp, false);
-    document.addEventListener('mouseleave', handleMouseUp, false);
+    // Mouse events
+    container.addEventListener('mousedown', handleDragStart, false);
+    document.addEventListener('mousemove', handleDragMove, false);
+    document.addEventListener('mouseup', handleDragEnd, false);
+    document.addEventListener('mouseleave', handleDragEnd, false);
     
-    // Keyboard navigation for testing
-    document.addEventListener('keydown', handleKeyPress);
+    // Keyboard navigation
+    document.addEventListener('keydown', e => {
+        if (e.key === 'ArrowLeft') prevDay();
+        else if (e.key === 'ArrowRight') nextDay();
+    });
+    
+    // Dot clicks
+    document.addEventListener('click', e => {
+        if (e.target.classList.contains('dot')) {
+            const index = Array.from(document.querySelectorAll('.dot')).indexOf(e.target);
+            goToDay(index);
+        }
+    });
 }
 
 /**
@@ -88,12 +90,10 @@ function setupEventListeners() {
  */
 async function loadMenuData() {
     try {
-        // Try to fetch from URL
         const response = await fetch(CONFIG.DATA_URL);
         if (response.ok) {
             const data = await response.json();
             appState.menuData = data;
-            // Cache the data
             await cacheMenuData(data);
             processMenuData();
             return;
@@ -102,10 +102,10 @@ async function loadMenuData() {
         console.error('Error fetching menu data:', error);
     }
     
-    // Fallback to cached data
-    const cachedData = await getCachedMenuData();
-    if (cachedData && cachedData.length > 0) {
-        appState.menuData = cachedData;
+    // Fallback to cache
+    const cached = await getCachedMenuData();
+    if (cached && cached.length > 0) {
+        appState.menuData = cached;
         processMenuData();
     } else {
         showNoData();
@@ -113,32 +113,32 @@ async function loadMenuData() {
 }
 
 /**
- * Process menu data and extract days with future dates
+ * Process menu data and extract days
  */
 function processMenuData() {
     const today = getToday();
     const daysSet = new Set();
     
-    // Filter data for today and future dates
-    const filteredData = appState.menuData.filter(item => {
+    // Filter data for today and future
+    const filtered = appState.menuData.filter(item => {
         const itemDate = new Date(item.date);
         const itemDateOnly = new Date(itemDate.getFullYear(), itemDate.getMonth(), itemDate.getDate());
         return itemDateOnly >= today;
     });
     
-    if (filteredData.length === 0) {
+    if (filtered.length === 0) {
         showNoData();
         return;
     }
     
     // Extract unique dates
-    filteredData.forEach(item => {
+    filtered.forEach(item => {
         const itemDate = new Date(item.date);
         const dateKey = itemDate.toISOString().split('T')[0];
         daysSet.add(dateKey);
     });
     
-    // Sort dates and create days array
+    // Sort and render
     appState.days = Array.from(daysSet).sort();
     
     if (appState.days.length === 0) {
@@ -146,45 +146,39 @@ function processMenuData() {
         return;
     }
     
-    // Hide loading and render carousel
-    document.getElementById('loadingIndicator').style.display = 'none';
+    document.getElementById('loading').style.display = 'none';
     renderCarousel();
-    showCarousel();
+    document.getElementById('carousel').style.display = 'flex';
 }
 
 /**
- * Render the carousel slides and dots
+ * Render carousel
  */
 function renderCarousel() {
-    const carouselSlides = document.getElementById('carouselSlides');
-    const dotNavigation = document.getElementById('dotNavigation');
+    const container = document.getElementById('carouselSlides');
+    const dotContainer = document.getElementById('dotNavigation');
     
-    carouselSlides.innerHTML = '';
-    dotNavigation.innerHTML = '';
+    container.innerHTML = '';
+    dotContainer.innerHTML = '';
     
     appState.days.forEach((dateStr, index) => {
-        // Create slide
-        const slide = createSlide(dateStr, index);
-        carouselSlides.appendChild(slide);
+        const slide = createSlide(dateStr);
+        container.appendChild(slide);
         
-        // Create dot
         const dot = document.createElement('div');
-        dot.className = `dot ${index === 0 ? 'active' : ''}`;
-        dot.addEventListener('click', () => goToDay(index));
-        dotNavigation.appendChild(dot);
+        dot.className = `dot${index === 0 ? ' active' : ''}`;
+        dotContainer.appendChild(dot);
     });
     
-    // Set active slide
-    updateActiveSlide();
+    updateCarousel();
 }
 
 /**
- * Create a carousel slide for a specific date
+ * Create carousel slide
  */
-function createSlide(dateStr, dayIndex) {
+function createSlide(dateStr) {
     const slide = document.createElement('div');
-    slide.className = `carousel-slide ${dayIndex === 0 ? 'active' : ''}`;
-    slide.setAttribute('data-day-index', dayIndex);
+    slide.className = 'carousel-slide';
     
     const date = new Date(dateStr + 'T00:00:00');
     const menuItems = getMenuItemsForDate(dateStr);
@@ -194,26 +188,23 @@ function createSlide(dateStr, dayIndex) {
     header.className = 'slide-header';
     header.innerHTML = `
         <div class="date-info">
-            ${getDutchDayName(date.getDay())}<br>
-            ${date.getDate()} ${getDutchMonthName(date.getMonth())}
+            ${DUTCH_DAYS[date.getDay()]}<br>
+            ${date.getDate()} ${DUTCH_MONTHS[date.getMonth()]}
         </div>
         <img src="images/header.png" alt="Header" class="header-logo" onerror="this.style.display='none'">
     `;
     
-    // Menu Items
+    // Menu items
     const menuContainer = document.createElement('div');
     menuContainer.className = 'menu-items';
     
     CONFIG.MENU_TYPES.forEach(type => {
-        const menuItem = menuItems[type] || '';
         const row = document.createElement('div');
         row.className = 'menu-row';
-        
         row.innerHTML = `
             <img src="${CONFIG.MENU_IMAGES[type]}" alt="${type}" class="menu-row-image" onerror="this.style.display='none'">
-            <div class="menu-row-text">${menuItem}</div>
+            <div class="menu-row-text">${menuItems[type] || 'Niet beschikbaar'}</div>
         `;
-        
         menuContainer.appendChild(row);
     });
     
@@ -223,8 +214,8 @@ function createSlide(dateStr, dayIndex) {
     footer.innerHTML = `
         <img src="images/header.png" alt="Header" class="footer-logo" onerror="this.style.display='none'">
         <div class="footer-date-info">
-            ${getDutchDayName(date.getDay())}<br>
-            ${date.getDate()} ${getDutchMonthName(date.getMonth())}
+            ${DUTCH_DAYS[date.getDay()]}<br>
+            ${date.getDate()} ${DUTCH_MONTHS[date.getMonth()]}
         </div>
     `;
     
@@ -236,233 +227,153 @@ function createSlide(dateStr, dayIndex) {
 }
 
 /**
- * Get menu items for a specific date
+ * Get menu items for date
  */
 function getMenuItemsForDate(dateStr) {
     const items = {};
-    
     CONFIG.MENU_TYPES.forEach(type => {
-        const item = appState.menuData.find(
-            data => data.date.startsWith(dateStr) && data.type === type
-        );
-        items[type] = item ? item.menu1 : 'Niet beschikbaar';
+        const item = appState.menuData.find(d => d.date.startsWith(dateStr) && d.type === type);
+        items[type] = item ? item.menu1 : '';
     });
-    
     return items;
 }
 
 /**
- * Update active slide and dot
+ * Update carousel position and dots
  */
-function updateActiveSlide() {
-    // Slide the container using transform for smooth animation
+function updateCarousel() {
     const container = document.getElementById('carouselSlides');
-    container.style.transition = 'transform 0.35s ease-in-out';
     container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
-
-    // Update dots
+    
     document.querySelectorAll('.dot').forEach((dot, index) => {
         dot.classList.toggle('active', index === appState.currentDayIndex);
     });
 }
 
 /**
- * Go to a specific day
+ * Navigate to day
  */
 function goToDay(index) {
     if (index >= 0 && index < appState.days.length) {
         appState.currentDayIndex = index;
-        updateActiveSlide();
+        updateCarousel();
     }
 }
 
-/**
- * Navigate to next day
- */
 function nextDay() {
     if (appState.currentDayIndex < appState.days.length - 1) {
         goToDay(appState.currentDayIndex + 1);
     }
 }
 
-/**
- * Navigate to previous day
- */
 function prevDay() {
     if (appState.currentDayIndex > 0) {
         goToDay(appState.currentDayIndex - 1);
     }
 }
 
-// Touch handling
-function handleTouchStart(e) {
-    const touch = e.changedTouches[0];
-    appState.touchStartX = touch.clientX;
-    appState.touchStartTime = Date.now();
-    appState.touchDragging = true;
+/**
+ * Drag handling
+ */
+function handleDragStart(e) {
+    if (e.type === 'mousedown' && e.button !== 0) return;
+    
+    const touch = e.touches ? e.touches[0] : e;
+    appState.dragging = true;
+    appState.dragStartX = touch.clientX;
+    appState.dragStartTime = Date.now();
+    
     const container = document.getElementById('carouselSlides');
     appState.containerWidth = container.clientWidth || window.innerWidth;
-    // stop any ongoing transition while dragging
     container.style.transition = 'none';
 }
 
-function handleTouchMove(e) {
-    // Prevent scrolling while swiping
-    if (!appState.touchDragging) return;
-    if (e.target.closest('.menu-items')) {
-        // allow scrolling inside menu items
+function handleDragMove(e) {
+    if (!appState.dragging) return;
+    
+    const touch = e.touches ? e.touches[0] : e;
+    
+    // Allow scroll in menu items
+    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
         return;
     }
+    
     e.preventDefault();
-    const touch = e.changedTouches[0];
-    const deltaX = touch.clientX - appState.touchStartX;
+    
+    const deltaX = touch.clientX - appState.dragStartX;
     const container = document.getElementById('carouselSlides');
     const percent = (deltaX / appState.containerWidth) * 100;
     const base = -appState.currentDayIndex * 100;
     container.style.transform = `translateX(${base + percent}%)`;
 }
 
-function handleTouchEnd(e) {
-    if (!appState.touchDragging) return;
-    appState.touchDragging = false;
-    const touch = e.changedTouches ? e.changedTouches[0] : null;
-    const touchEndX = touch ? touch.clientX : appState.touchStartX;
-    const touchDuration = Date.now() - appState.touchStartTime;
-    const deltaX = touchEndX - appState.touchStartX;
+function handleDragEnd(e) {
+    if (!appState.dragging) return;
+    appState.dragging = false;
+    
+    const touch = e.changedTouches ? e.changedTouches[0] : e;
+    const deltaX = touch.clientX - appState.dragStartX;
+    const duration = Date.now() - appState.dragStartTime;
     const absX = Math.abs(deltaX);
-    const minSwipeDistance = Math.max(30, appState.containerWidth * 0.12); // adaptive threshold
+    const threshold = Math.max(30, appState.containerWidth * 0.12);
+    
     const container = document.getElementById('carouselSlides');
-    // restore transition
     container.style.transition = 'transform 0.35s ease-in-out';
-
-    if (absX > minSwipeDistance && touchDuration < 1000) {
+    
+    if (absX > threshold && duration < 1000) {
         if (deltaX < 0) {
             nextDay();
         } else {
             prevDay();
         }
     } else {
-        // snap back to current
-        container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
-    }
-}
-
-// Mouse handling (desktop drag)
-function handleMouseDown(e) {
-    if (e.button !== 0) return; // only left button
-    appState.touchStartX = e.clientX;
-    appState.touchStartTime = Date.now();
-    appState.touchDragging = true;
-    const container = document.getElementById('carouselSlides');
-    appState.containerWidth = container.clientWidth || window.innerWidth;
-    container.style.transition = 'none';
-    e.preventDefault();
-}
-
-function handleMouseMove(e) {
-    if (!appState.touchDragging) return;
-    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
-        return; // allow scrolling inside menu items
-    }
-    e.preventDefault();
-    const deltaX = e.clientX - appState.touchStartX;
-    const container = document.getElementById('carouselSlides');
-    const percent = (deltaX / appState.containerWidth) * 100;
-    const base = -appState.currentDayIndex * 100;
-    container.style.transform = `translateX(${base + percent}%)`;
-}
-
-function handleMouseUp(e) {
-    if (!appState.touchDragging) return;
-    appState.touchDragging = false;
-    const touchEndX = e.clientX;
-    const touchDuration = Date.now() - appState.touchStartTime;
-    const deltaX = touchEndX - appState.touchStartX;
-    const absX = Math.abs(deltaX);
-    const minSwipeDistance = Math.max(30, appState.containerWidth * 0.12);
-    const container = document.getElementById('carouselSlides');
-    container.style.transition = 'transform 0.35s ease-in-out';
-
-    if (absX > minSwipeDistance && touchDuration < 1000) {
-        if (deltaX < 0) {
-            nextDay();
-        } else {
-            prevDay();
-        }
-    } else {
-        container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
-    }
-}
-
-// Keyboard navigation for testing
-function handleKeyPress(e) {
-    if (e.key === 'ArrowRight') {
-        nextDay();
-    } else if (e.key === 'ArrowLeft') {
-        prevDay();
+        updateCarousel();
     }
 }
 
 /**
- * Show carousel
- */
-function showCarousel() {
-    document.getElementById('carouselSlides').parentElement.style.display = 'flex';
-}
-
-/**
- * Show no data message
+ * Show no data
  */
 function showNoData() {
-    document.getElementById('loadingIndicator').style.display = 'none';
-    document.getElementById('noDataMessage').style.display = 'flex';
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('noData').style.display = 'flex';
 }
 
 /**
- * Cache menu data
+ * Caching
  */
 async function cacheMenuData(data) {
     try {
-        const cacheStorage = window.caches || localStorage;
         if (window.caches) {
             const cache = await caches.open(CONFIG.CACHE_NAME);
-            const response = new Response(JSON.stringify(data), {
-                headers: { 'Content-Type': 'application/json' }
-            });
+            const response = new Response(JSON.stringify(data), { headers: { 'Content-Type': 'application/json' } });
             await cache.put(CONFIG.DATA_URL, response);
         } else {
             localStorage.setItem(CONFIG.DATA_CACHE_KEY, JSON.stringify(data));
         }
     } catch (error) {
-        console.error('Error caching menu data:', error);
+        console.error('Error caching data:', error);
     }
 }
 
-/**
- * Get cached menu data
- */
 async function getCachedMenuData() {
     try {
         if (window.caches) {
             const cache = await caches.open(CONFIG.CACHE_NAME);
             const response = await cache.match(CONFIG.DATA_URL);
-            if (response) {
-                return await response.json();
-            }
+            if (response) return await response.json();
         } else {
             const cached = localStorage.getItem(CONFIG.DATA_CACHE_KEY);
-            if (cached) {
-                return JSON.parse(cached);
-            }
+            if (cached) return JSON.parse(cached);
         }
     } catch (error) {
-        console.error('Error retrieving cached menu data:', error);
+        console.error('Error retrieving cached data:', error);
     }
     return null;
 }
 
 /**
- * Get today's date at midnight
+ * Utility functions
  */
 function getToday() {
     const today = new Date();
@@ -470,21 +381,7 @@ function getToday() {
 }
 
 /**
- * Get Dutch day name
- */
-function getDutchDayName(dayIndex) {
-    return DUTCH_DAYS[dayIndex];
-}
-
-/**
- * Get Dutch month name
- */
-function getDutchMonthName(monthIndex) {
-    return DUTCH_MONTHS[monthIndex];
-}
-
-/**
- * Refresh menu data when app comes to focus
+ * Refresh data when app comes to focus
  */
 document.addEventListener('visibilitychange', () => {
     if (!document.hidden && appState.menuData) {

@@ -71,8 +71,8 @@ html, body {
     text-align: center;
 }
 
-/* Error & No Data Messages */
-.error-message, .no-data-message {
+/* No Data Message */
+.no-data-message {
     position: absolute;
     top: 0;
     left: 0;
@@ -85,7 +85,7 @@ html, body {
     z-index: 900;
 }
 
-.error-message p, .no-data-message p {
+.no-data-message p {
     color: #ffffff;
     font-size: 20px;
     text-align: center;
@@ -109,7 +109,6 @@ html, body {
     position: relative;
     overflow: hidden;
     display: flex;
-    /* enable smooth sliding via transform on the container */
     transition: transform 0.35s ease-in-out;
 }
 
@@ -123,7 +122,6 @@ html, body {
     flex-direction: column;
     overflow: hidden;
 }
-
 
 /* Header */
 .slide-header {
@@ -187,7 +185,7 @@ html, body {
     color: #ffffff;
     display: flex;
     align-items: center;
-    text-align: left;
+    text-align: center;
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
@@ -290,8 +288,7 @@ html, body {
     .menu-row-text {
         font-size: 12px;
     }
-
-    /* Reduce header/footer logos on very small screens so they don't dominate */
+    
     .header-logo, .footer-logo {
         height: 80px;
     }

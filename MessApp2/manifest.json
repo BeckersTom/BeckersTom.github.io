@@ -1,7 +1,7 @@
 {
   "name": "Menu App",
   "short_name": "Menu",
-  "description": "Menu app with offline support and carousel navigation",
+  "description": "Menu app with offline support",
   "start_url": "/MessApp2/",
   "scope": "/MessApp2/",
   "display": "standalone",
@@ -32,30 +32,6 @@
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "images/screenshot-1.png",
-      "sizes": "540x720",
-      "type": "image/png",
-      "form_factor": "narrow"
-    }
-  ],
-  "categories": ["food"],
-  "shortcuts": [
-    {
-      "name": "View Menu",
-      "short_name": "Menu",
-      "description": "View today's menu",
-      "url": "/MessApp2/",
-      "icons": [
-        {
-          "src": "images/icon-192.png",
-          "sizes": "192x192",
-          "type": "image/png"
-        }
-      ]
     }
   ]
 }
