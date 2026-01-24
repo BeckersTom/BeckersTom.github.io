@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
     DATA_URL: 'https://github.netvark.net/mess/ActualMenus.json',
-    CACHE_NAME: 'menu-app-cache',
+    CACHE_NAME: 'menu-app-cache-v2',
     DATA_CACHE_KEY: 'menu-data-cache',
     MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentvdw'],
     MENU_IMAGES: {
@@ -90,32 +90,24 @@ function setupEventListeners() {
  */
 async function loadMenuData() {
     try {
-        console.log('Fetching menu data from:', CONFIG.DATA_URL);
         const response = await fetch(CONFIG.DATA_URL);
-        console.log('Fetch response status:', response.status);
         if (response.ok) {
             const data = await response.json();
-            console.log('Data loaded successfully, items:', data.length);
             appState.menuData = data;
             await cacheMenuData(data);
             processMenuData();
             return;
-        } else {
-            console.warn('Fetch failed with status:', response.status);
         }
     } catch (error) {
         console.error('Error fetching menu data:', error);
     }
     
     // Fallback to cache
-    console.log('Attempting to load cached data...');
     const cached = await getCachedMenuData();
     if (cached && cached.length > 0) {
-        console.log('Cached data found, items:', cached.length);
         appState.menuData = cached;
         processMenuData();
     } else {
-        console.log('No cached data available');
         showNoData();
     }
 }
@@ -160,18 +152,16 @@ function processMenuData() {
     // Sort and render
     appState.days = Array.from(daysSet).sort();
     
-    console.log('Filtered days:', appState.days);
-    console.log('Days with data count:', appState.days.length);
-    
-    // Log what items exist for each day
-    appState.days.forEach(dateStr => {
-        const itemsForDay = appState.menuData.filter(d => d.date.startsWith(dateStr));
-        console.log(`Date ${dateStr}: ${itemsForDay.length} items -`, itemsForDay.map(i => i.type).join(', '));
-    });
+    if (appState.days.length === 0) {
+        showNoData();
+        return;
+    }
     
     document.getElementById('loading').style.display = 'none';
-    renderCarousel();
     document.getElementById('carousel').style.display = 'flex';
+    
+    // Render carousel
+    renderCarousel();
 }
 
 /**
@@ -184,12 +174,8 @@ function renderCarousel() {
     container.innerHTML = '';
     dotContainer.innerHTML = '';
     
-    console.log('Rendering carousel with', appState.days.length, 'days');
-    
     appState.days.forEach((dateStr, index) => {
-        console.log(`Creating slide ${index + 1} for ${dateStr}`);
         const slide = createSlide(dateStr);
-        console.log(`Slide ${index + 1} created, children:`, slide.children.length);
         container.appendChild(slide);
         
         const dot = document.createElement('div');
@@ -197,9 +183,11 @@ function renderCarousel() {
         dotContainer.appendChild(dot);
     });
     
-    console.log('Total slides in container:', container.children.length);
+    // Initialize carousel with no transform and with transition disabled
+    container.style.transition = 'none';
+    container.style.transform = 'translateX(0%)';
     
-    // Wait for browser to layout the container before updating carousel
+    // Wait for browser to layout and then update
     requestAnimationFrame(() => {
         updateCarousel();
     });
@@ -247,8 +235,6 @@ function createSlide(dateStr) {
         menuContainer.appendChild(row);
     });
     
-    console.log(`Menu container for ${dateStr} has ${menuContainer.children.length} rows`);
-    
     // Footer
     const footer = document.createElement('div');
     footer.className = 'slide-footer';
@@ -264,8 +250,6 @@ function createSlide(dateStr) {
     slide.appendChild(menuContainer);
     slide.appendChild(footer);
     
-    console.log(`Slide for ${dateStr} height: ${slide.offsetHeight}, menu-items height: ${menuContainer.offsetHeight}`);
-    
     return slide;
 }
 
@@ -278,7 +262,6 @@ function getMenuItemsForDate(dateStr) {
         const item = appState.menuData.find(d => d.date.startsWith(dateStr) && d.type === type);
         items[type] = item ? item.menu1 : 'Niet beschikbaar';
     });
-    console.log(`Menu items for ${dateStr}:`, items);
     return items;
 }
 
@@ -287,27 +270,15 @@ function getMenuItemsForDate(dateStr) {
  */
 function updateCarousel() {
     const container = document.getElementById('carouselSlides');
-    console.log('Updating carousel to day index:', appState.currentDayIndex);
     
-    // Ensure transition is enabled
-    container.style.transition = 'transform 0.35s ease-in-out';
-    
+    // Calculate the transform
     const translateValue = -appState.currentDayIndex * 100;
-    const transformString = `translateX(${translateValue}%)`;
-    console.log('Applying transform:', transformString);
     
-    // Force a repaint to ensure transition works
-    void container.offsetWidth;
+    // Apply transform and transition
+    container.style.transition = 'transform 0.35s ease-in-out';
+    container.style.transform = `translateX(${translateValue}%)`;
     
-    container.style.transform = transformString;
-    console.log('Transform actually applied:', container.style.transform);
-    
-    // Log slides
-    Array.from(container.children).forEach((slide, i) => {
-        const rect = slide.getBoundingClientRect();
-        console.log(`Slide ${i}: width=${slide.clientWidth}, visible=${rect.width > 0}, left=${Math.round(rect.left)}`);
-    });
-    
+    // Update dots
     document.querySelectorAll('.dot').forEach((dot, index) => {
         dot.classList.toggle('active', index === appState.currentDayIndex);
     });
