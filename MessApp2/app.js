@@ -186,13 +186,13 @@ function renderCarousel() {
         dotContainer.appendChild(dot);
     });
     
-    // Initialize carousel with no transform and with transition disabled
+    // Initialize carousel - disable transition and set to show first slide
     container.style.transition = 'none';
     container.style.transform = 'translateX(0%)';
     
-    // Wait for browser to layout and then update
+    // Wait for browser to layout, then enable transition for future navigation
     requestAnimationFrame(() => {
-        updateCarousel();
+        container.style.transition = 'transform 0.35s ease-in-out';
     });
 }
 
@@ -277,7 +277,7 @@ function updateCarousel() {
     // Calculate the transform
     const translateValue = -appState.currentDayIndex * 100;
     
-    // Apply transform and transition
+    // Apply both transition and transform
     container.style.transition = 'transform 0.35s ease-in-out';
     container.style.transform = `translateX(${translateValue}%)`;
     
