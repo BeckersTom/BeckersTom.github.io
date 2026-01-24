@@ -3,13 +3,13 @@ const CONFIG = {
     DATA_URL: 'https://github.netvark.net/mess/ActualMenus.json',
     CACHE_NAME: 'menu-app-cache',
     DATA_CACHE_KEY: 'menu-data-cache',
-    MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentevdw'],
+    MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentvdw'],
     MENU_IMAGES: {
         soep: 'images/soep.png',
         vlees: 'images/vlees.png',
         veggie: 'images/veggie.png',
         grill: 'images/grill.png',
-        groentevdw: 'images/groentvdw.png'
+        groentvdw: 'images/groentvdw.png'
     }
 };
 
@@ -90,24 +90,32 @@ function setupEventListeners() {
  */
 async function loadMenuData() {
     try {
+        console.log('Fetching menu data from:', CONFIG.DATA_URL);
         const response = await fetch(CONFIG.DATA_URL);
+        console.log('Fetch response status:', response.status);
         if (response.ok) {
             const data = await response.json();
+            console.log('Data loaded successfully, items:', data.length);
             appState.menuData = data;
             await cacheMenuData(data);
             processMenuData();
             return;
+        } else {
+            console.warn('Fetch failed with status:', response.status);
         }
     } catch (error) {
         console.error('Error fetching menu data:', error);
     }
     
     // Fallback to cache
+    console.log('Attempting to load cached data...');
     const cached = await getCachedMenuData();
     if (cached && cached.length > 0) {
+        console.log('Cached data found, items:', cached.length);
         appState.menuData = cached;
         processMenuData();
     } else {
+        console.log('No cached data available');
         showNoData();
     }
 }
@@ -119,11 +127,23 @@ function processMenuData() {
     const today = getToday();
     const daysSet = new Set();
     
-    // Filter data for today and future
+    // Filter data for today and future, excluding weekends (Saturday=6, Sunday=0)
     const filtered = appState.menuData.filter(item => {
-        const itemDate = new Date(item.date);
-        const itemDateOnly = new Date(itemDate.getFullYear(), itemDate.getMonth(), itemDate.getDate());
-        return itemDateOnly >= today;
+        // Parse date string "YYYY-MM-DDTHH:MM:SS"
+        const dateParts = item.date.split('T')[0].split('-');
+        const year = parseInt(dateParts[0]);
+        const month = parseInt(dateParts[1]);
+        const day = parseInt(dateParts[2]);
+        // Use UTC to avoid timezone confusion
+        const itemDateUTC = new Date(Date.UTC(year, month - 1, day));
+        const dayOfWeek = itemDateUTC.getUTCDay();
+        // Skip Saturdays (6) and Sundays (0)
+        if (dayOfWeek === 0 || dayOfWeek === 6) {
+            return false;
+        }
+        // Create local date for comparison
+        const itemDateLocal = new Date(year, month - 1, day);
+        return itemDateLocal >= today;
     });
     
     if (filtered.length === 0) {
@@ -131,20 +151,23 @@ function processMenuData() {
         return;
     }
     
-    // Extract unique dates
+    // Extract unique dates from filtered data (use date string directly to avoid timezone issues)
     filtered.forEach(item => {
-        const itemDate = new Date(item.date);
-        const dateKey = itemDate.toISOString().split('T')[0];
+        const dateKey = item.date.split('T')[0]; // Extract YYYY-MM-DD part
         daysSet.add(dateKey);
     });
     
     // Sort and render
     appState.days = Array.from(daysSet).sort();
     
-    if (appState.days.length === 0) {
-        showNoData();
-        return;
-    }
+    console.log('Filtered days:', appState.days);
+    console.log('Days with data count:', appState.days.length);
+    
+    // Log what items exist for each day
+    appState.days.forEach(dateStr => {
+        const itemsForDay = appState.menuData.filter(d => d.date.startsWith(dateStr));
+        console.log(`Date ${dateStr}: ${itemsForDay.length} items -`, itemsForDay.map(i => i.type).join(', '));
+    });
     
     document.getElementById('loading').style.display = 'none';
     renderCarousel();
@@ -161,8 +184,12 @@ function renderCarousel() {
     container.innerHTML = '';
     dotContainer.innerHTML = '';
     
+    console.log('Rendering carousel with', appState.days.length, 'days');
+    
     appState.days.forEach((dateStr, index) => {
+        console.log(`Creating slide ${index + 1} for ${dateStr}`);
         const slide = createSlide(dateStr);
+        console.log(`Slide ${index + 1} created, children:`, slide.children.length);
         container.appendChild(slide);
         
         const dot = document.createElement('div');
@@ -170,7 +197,12 @@ function renderCarousel() {
         dotContainer.appendChild(dot);
     });
     
-    updateCarousel();
+    console.log('Total slides in container:', container.children.length);
+    
+    // Wait for browser to layout the container before updating carousel
+    requestAnimationFrame(() => {
+        updateCarousel();
+    });
 }
 
 /**
@@ -180,7 +212,14 @@ function createSlide(dateStr) {
     const slide = document.createElement('div');
     slide.className = 'carousel-slide';
     
-    const date = new Date(dateStr + 'T00:00:00');
+    // Parse date string directly to avoid timezone issues
+    const dateParts = dateStr.split('-');
+    const year = parseInt(dateParts[0]);
+    const month = parseInt(dateParts[1]);
+    const day = parseInt(dateParts[2]);
+    const dateUTC = new Date(Date.UTC(year, month - 1, day));
+    const dayOfWeek = dateUTC.getUTCDay();
+    
     const menuItems = getMenuItemsForDate(dateStr);
     
     // Header
@@ -188,8 +227,8 @@ function createSlide(dateStr) {
     header.className = 'slide-header';
     header.innerHTML = `
         <div class="date-info">
-            ${DUTCH_DAYS[date.getDay()]}<br>
-            ${date.getDate()} ${DUTCH_MONTHS[date.getMonth()]}
+            ${DUTCH_DAYS[dayOfWeek]}<br>
+            ${day} ${DUTCH_MONTHS[month - 1]}
         </div>
         <img src="images/header.png" alt="Header" class="header-logo" onerror="this.style.display='none'">
     `;
@@ -208,20 +247,24 @@ function createSlide(dateStr) {
         menuContainer.appendChild(row);
     });
     
+    console.log(`Menu container for ${dateStr} has ${menuContainer.children.length} rows`);
+    
     // Footer
     const footer = document.createElement('div');
     footer.className = 'slide-footer';
     footer.innerHTML = `
         <img src="images/header.png" alt="Header" class="footer-logo" onerror="this.style.display='none'">
         <div class="footer-date-info">
-            ${DUTCH_DAYS[date.getDay()]}<br>
-            ${date.getDate()} ${DUTCH_MONTHS[date.getMonth()]}
+            ${DUTCH_DAYS[dayOfWeek]}<br>
+            ${day} ${DUTCH_MONTHS[month - 1]}
         </div>
     `;
     
     slide.appendChild(header);
     slide.appendChild(menuContainer);
     slide.appendChild(footer);
+    
+    console.log(`Slide for ${dateStr} height: ${slide.offsetHeight}, menu-items height: ${menuContainer.offsetHeight}`);
     
     return slide;
 }
@@ -233,8 +276,9 @@ function getMenuItemsForDate(dateStr) {
     const items = {};
     CONFIG.MENU_TYPES.forEach(type => {
         const item = appState.menuData.find(d => d.date.startsWith(dateStr) && d.type === type);
-        items[type] = item ? item.menu1 : '';
+        items[type] = item ? item.menu1 : 'Niet beschikbaar';
     });
+    console.log(`Menu items for ${dateStr}:`, items);
     return items;
 }
 
@@ -243,7 +287,26 @@ function getMenuItemsForDate(dateStr) {
  */
 function updateCarousel() {
     const container = document.getElementById('carouselSlides');
-    container.style.transform = `translateX(-${appState.currentDayIndex * 100}%)`;
+    console.log('Updating carousel to day index:', appState.currentDayIndex);
+    
+    // Ensure transition is enabled
+    container.style.transition = 'transform 0.35s ease-in-out';
+    
+    const translateValue = -appState.currentDayIndex * 100;
+    const transformString = `translateX(${translateValue}%)`;
+    console.log('Applying transform:', transformString);
+    
+    // Force a repaint to ensure transition works
+    void container.offsetWidth;
+    
+    container.style.transform = transformString;
+    console.log('Transform actually applied:', container.style.transform);
+    
+    // Log slides
+    Array.from(container.children).forEach((slide, i) => {
+        const rect = slide.getBoundingClientRect();
+        console.log(`Slide ${i}: width=${slide.clientWidth}, visible=${rect.width > 0}, left=${Math.round(rect.left)}`);
+    });
     
     document.querySelectorAll('.dot').forEach((dot, index) => {
         dot.classList.toggle('active', index === appState.currentDayIndex);
