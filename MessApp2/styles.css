@@ -109,7 +109,9 @@ html, body {
     position: relative;
     overflow: hidden;
     display: flex;
+    flex-direction: row;
     transition: transform 0.35s ease-in-out;
+    will-change: transform;
 }
 
 /* Carousel Slide */
