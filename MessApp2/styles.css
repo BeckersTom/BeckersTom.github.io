@@ -129,8 +129,8 @@ html, body {
 /* Header */
 .slide-header {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: space-around;
+    align-items: center;
     padding: 15px 30px;
     background: rgba(0, 0, 0, 0.3);
     border-bottom: 2px solid rgba(255, 255, 255, 0.2);
@@ -197,7 +197,7 @@ html, body {
 /* Footer */
 .slide-footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-end;
     padding: 15px 30px;
     background: rgba(0, 0, 0, 0.3);

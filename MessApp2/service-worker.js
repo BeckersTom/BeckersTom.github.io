@@ -1,4 +1,5 @@
 // Service Worker for offline support
+// Version: 1.1
 const CACHE_VERSION = Date.now().toString();
 const CACHE_NAME = `menu-app-cache-${CACHE_VERSION}`;
 const DATA_CACHE_NAME = `menu-app-data-${CACHE_VERSION}`;
