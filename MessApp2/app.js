@@ -175,7 +175,7 @@ function renderCarousel() {
     dotContainer.innerHTML = '';
     
     appState.days.forEach((dateStr, index) => {
-        const slide = createSlide(dateStr);
+        const slide = createSlide(dateStr, index);
         // Add data attribute for debugging
         slide.setAttribute('data-day-index', index);
         slide.setAttribute('data-date', dateStr);
@@ -199,7 +199,7 @@ function renderCarousel() {
 /**
  * Create carousel slide
  */
-function createSlide(dateStr) {
+function createSlide(dateStr, index) {
     const slide = document.createElement('div');
     slide.className = 'carousel-slide';
     

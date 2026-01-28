@@ -108,7 +108,7 @@ html, body {
     width: 100%;
     flex: 1;
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     display: flex;
     flex-direction: row;
     transition: transform 0.35s ease-in-out;
