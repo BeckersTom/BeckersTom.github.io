@@ -188,6 +188,7 @@ html, body {
     color: #ffffff;
     display: flex;
     align-items: center;
+    justify-content: center;
     text-align: center;
     word-wrap: break-word;
     overflow-wrap: break-word;
