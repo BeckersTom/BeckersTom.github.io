@@ -1,84 +1,66 @@
 [
   {
-    "id": "7475",
-    "date": "2026-01-28T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Carnivore"
-  },
-  {
-    "id": "7474",
-    "date": "2026-01-28T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Gebakken Bloemkool - Ratatouille - Knolselder - Prei"
-  },
-  {
-    "id": "7471",
-    "date": "2026-01-28T00:00:00",
-    "type": "soep",
-    "menu1": "Minestronesoep met gemalen kaas"
-  },
-  {
-    "id": "7472",
-    "date": "2026-01-28T00:00:00",
-    "type": "veggie",
-    "menu1": "Noedels met groentenloempia en currysaus"
-  },
-  {
-    "id": "7473",
-    "date": "2026-01-28T00:00:00",
-    "type": "vlees",
-    "menu1": "Wrap met kip en scampi, mangochutney en aardappelwedges"
-  },
-  {
-    "id": "7480",
+    "id": "7498",
     "date": "2026-01-29T00:00:00",
     "type": "grill",
     "menu1": "Bagel met gegrilde kip,spek en cheddar"
   },
   {
-    "id": "7479",
+    "id": "7497",
     "date": "2026-01-29T00:00:00",
     "type": "groentvdw",
     "menu1": "Gebakken Bloemkool - Ratatouille - Knolselder - Prei"
   },
   {
-    "id": "7476",
+    "id": "0",
+    "date": "2026-01-29T00:00:00",
+    "type": "kcal",
+    "menu1": "APP UPDATE NODIG!"
+  },
+  {
+    "id": "7494",
     "date": "2026-01-29T00:00:00",
     "type": "soep",
     "menu1": "Preisoep"
   },
   {
-    "id": "7477",
+    "id": "7495",
     "date": "2026-01-29T00:00:00",
     "type": "veggie",
     "menu1": "Gegratineerde pastaschotel met champignons en spinazie"
   },
   {
-    "id": "7478",
+    "id": "7496",
     "date": "2026-01-29T00:00:00",
     "type": "vlees",
     "menu1": "Wildstoofpotje met gebakken witloof en kroketten"
   },
   {
-    "id": "7484",
+    "id": "7502",
     "date": "2026-01-30T00:00:00",
     "type": "groentvdw",
     "menu1": "Gebakken Bloemkool - Ratatouille - Knolselder - Prei"
   },
   {
-    "id": "7481",
+    "id": "0",
+    "date": "2026-01-30T00:00:00",
+    "type": "kcal",
+    "menu1": "APP UPDATE NODIG!"
+  },
+  {
+    "id": "7499",
     "date": "2026-01-30T00:00:00",
     "type": "soep",
     "menu1": "Tom Kha kai"
   },
   {
-    "id": "7482",
+    "id": "7500",
     "date": "2026-01-30T00:00:00",
     "type": "veggie",
     "menu1": "Portobello-burger met spiegelei en zoete aardappelfrieten"
   },
   {
-    "id": "7483",
+    "id": "7501",
     "date": "2026-01-30T00:00:00",
     "type": "vlees",
     "menu1": "Steak peperroomsaus met frieten"
