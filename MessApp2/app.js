@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-    DATA_URL: 'https://github.netvark.net/mess/ActualMenus.json',
+    DATA_URL: 'https://github.netvark.net/mess/ActualMenusNew.json',
     CACHE_NAME: 'menu-app-cache-v2',
     DATA_CACHE_KEY: 'menu-data-cache',
     MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentvdw'],
