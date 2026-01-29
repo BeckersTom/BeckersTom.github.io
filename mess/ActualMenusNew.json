@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7498",
+    "date": "2026-01-29T00:00:00",
+    "type": "grill",
+    "menu1": "Bagel met gegrilde kip,spek en cheddar"
+  },
+  {
+    "id": "7497",
+    "date": "2026-01-29T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken Bloemkool - Ratatouille - Knolselder - Prei"
+  },
+  {
+    "id": "7494",
+    "date": "2026-01-29T00:00:00",
+    "type": "soep",
+    "menu1": "Preisoep"
+  },
+  {
+    "id": "7495",
+    "date": "2026-01-29T00:00:00",
+    "type": "veggie",
+    "menu1": "Gegratineerde pastaschotel met champignons en spinazie"
+  },
+  {
+    "id": "7496",
+    "date": "2026-01-29T00:00:00",
+    "type": "vlees",
+    "menu1": "Wildstoofpotje met gebakken witloof en kroketten"
+  },
+  {
+    "id": "7502",
+    "date": "2026-01-30T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Gebakken Bloemkool - Ratatouille - Knolselder - Prei"
+  },
+  {
+    "id": "7499",
+    "date": "2026-01-30T00:00:00",
+    "type": "soep",
+    "menu1": "Tom Kha kai"
+  },
+  {
+    "id": "7500",
+    "date": "2026-01-30T00:00:00",
+    "type": "veggie",
+    "menu1": "Portobello-burger met spiegelei en zoete aardappelfrieten"
+  },
+  {
+    "id": "7501",
+    "date": "2026-01-30T00:00:00",
+    "type": "vlees",
+    "menu1": "Steak peperroomsaus met frieten"
+  }
+]
