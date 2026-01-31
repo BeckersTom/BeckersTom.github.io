@@ -117,6 +117,9 @@ async function loadMenuData() {
  */
 function processMenuData() {
     const today = getToday();
+    const todayStr = formatDate(today);
+    const previousWorkday = getPreviousWorkday(today);
+    const previousWorkdayStr = formatDate(previousWorkday);
     const daysSet = new Set();
     
     // Filter data for today and future, excluding weekends (Saturday=6, Sunday=0)
@@ -148,9 +151,17 @@ function processMenuData() {
         const dateKey = item.date.split('T')[0]; // Extract YYYY-MM-DD part
         daysSet.add(dateKey);
     });
+
+    // Add previous workday if available in data
+    if (hasMenuForDate(previousWorkdayStr)) {
+        daysSet.add(previousWorkdayStr);
+    }
     
     // Sort and render
     appState.days = Array.from(daysSet).sort();
+
+    const defaultIndex = appState.days.findIndex(dateStr => dateStr >= todayStr);
+    appState.currentDayIndex = defaultIndex >= 0 ? defaultIndex : 0;
     
     if (appState.days.length === 0) {
         showNoData();
@@ -182,13 +193,13 @@ function renderCarousel() {
         container.appendChild(slide);
         
         const dot = document.createElement('div');
-        dot.className = `dot${index === 0 ? ' active' : ''}`;
+        dot.className = `dot${index === appState.currentDayIndex ? ' active' : ''}`;
         dotContainer.appendChild(dot);
     });
     
-    // Initialize carousel - disable transition and set to show first slide
+    // Initialize carousel - disable transition and set to show default slide
     container.style.transition = 'none';
-    container.style.transform = 'translateX(0%)';
+    container.style.transform = `translateX(${-appState.currentDayIndex * 100}%)`;
     
     // Wait for browser to layout, then enable transition for future navigation
     requestAnimationFrame(() => {
@@ -266,6 +277,13 @@ function getMenuItemsForDate(dateStr) {
         items[type] = item ? item.menu1 : 'Niet beschikbaar';
     });
     return items;
+}
+
+/**
+ * Check if menu data exists for a date
+ */
+function hasMenuForDate(dateStr) {
+    return appState.menuData.some(item => item.date.startsWith(dateStr));
 }
 
 /**
@@ -415,6 +433,21 @@ async function getCachedMenuData() {
 function getToday() {
     const today = new Date();
     return new Date(today.getFullYear(), today.getMonth(), today.getDate());
+}
+
+function formatDate(date) {
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}-${month}-${day}`;
+}
+
+function getPreviousWorkday(date) {
+    const d = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+    do {
+        d.setDate(d.getDate() - 1);
+    } while (d.getDay() === 0 || d.getDay() === 6);
+    return d;
 }
 
 /**
