@@ -243,13 +243,13 @@
     "id": "7648",
     "date": "2026-02-05T00:00:00",
     "type": "veggie",
-    "menu1": "Graved lax van zalm met aardappelsalade en mosterddressing"
+    "menu1": "Vegetarische balletjes in tomatensaus met butternutpuree"
   },
   {
     "id": "7649",
     "date": "2026-02-05T00:00:00",
     "type": "vlees",
-    "menu1": "Balletjes in tomatensaus met butternutpuree"
+    "menu1": "Graved lax van zalm met aardappelsalade en mosterddressing"
   },
   {
     "id": "7655",
@@ -421,3 +421,4 @@
   }
 
 ]
+
