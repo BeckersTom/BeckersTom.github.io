@@ -19,7 +19,7 @@ This PWA displays menu data for today and all future days in a smooth carousel i
 ## Directory Structure
 
 ```
-MessApp2/
+MessApp3/
 ├── index.html              # Main HTML structure
 ├── styles.css              # Stylesheet with responsive design
 ├── app.js                  # Main application logic
@@ -182,7 +182,7 @@ python -m http.server 8000
 npx http-server
 ```
 
-Then open: `http://localhost:8000/MessApp2/`
+Then open: `http://localhost:8000/MessApp3/`
 
 **Note**: Service Worker registration requires HTTPS or localhost
 

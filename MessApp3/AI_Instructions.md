@@ -2,7 +2,7 @@ Build a static PWA webapp to be used on Android and iPhone.
 I want to build a progressive webapp.
 
 Folder structure:
-The app must be located in the MessApp2 directory.
+The app must be located in the MessApp3 directory.
 The images for the app can be found in the images folder.
 The fonts for the app can be found in the fonts folder.
 
