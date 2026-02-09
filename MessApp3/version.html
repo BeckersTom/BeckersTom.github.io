@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+    <meta name="description" content="LekkerInMess version info">
+    <meta name="theme-color" content="#1a1a1a">
+    <link rel="stylesheet" href="styles.css">
+    <title>LekkerInMess Version</title>
+</head>
+<body>
+    <div class="app-container">
+        <main class="version-page">
+            <h1 class="version-title">LekkerInMess</h1>
+            <div class="version-number" id="versionNumber">3.02</div>
+            <div class="version-qr-wrap">
+                <img class="version-qr-image" id="versionQr" alt="QR code naar index.html">
+                <div class="version-qr-fallback is-hidden" id="qrFallback">
+                    <div>Open:</div>
+                    <a href="index.html">index.html</a>
+                </div>
+            </div>
+            <a class="version-email" href="mailto:tom.beckers@gmail.com">tom.beckers@gmail.com</a>
+        </main>
+    </div>
+
+    <script src="config.js"></script>
+    <script>
+        const targetUrl = new URL('index.html', window.location.href).toString();
+        const qrImage = document.getElementById('versionQr');
+        const qrFallback = document.getElementById('qrFallback');
+        qrImage.src = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(targetUrl)}`;
+
+        const showFallback = () => {
+            qrImage.style.display = 'none';
+            qrFallback.classList.remove('is-hidden');
+        };
+
+        qrImage.addEventListener('error', showFallback);
+        if (navigator && navigator.onLine === false) {
+            showFallback();
+        }
+
+        const versionNumber = document.getElementById('versionNumber');
+        if (window.CONFIG && window.CONFIG.VERSION) {
+            versionNumber.textContent = window.CONFIG.VERSION;
+        }
+
+        const goBack = event => {
+            if (event.target && event.target.closest && event.target.closest('a')) {
+                return;
+            }
+            window.location.href = 'index.html';
+        };
+
+        document.addEventListener('click', goBack);
+        document.addEventListener('touchend', goBack);
+    </script>
+</body>
+</html>

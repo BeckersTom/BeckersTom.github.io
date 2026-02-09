@@ -1,17 +1,8 @@
 // Configuration
-const CONFIG = {
-    DATA_URL: 'https://github.netvark.net/mess/ActualMenusNew.json',
-    CACHE_NAME: 'menu-app-cache-v2',
-    DATA_CACHE_KEY: 'menu-data-cache',
-    MENU_TYPES: ['soep', 'vlees', 'veggie', 'grill', 'groentvdw'],
-    MENU_IMAGES: {
-        soep: 'images/soep.png',
-        vlees: 'images/vlees.png',
-        veggie: 'images/veggie.png',
-        grill: 'images/grill.png',
-        groentvdw: 'images/groentvdw.png'
-    }
-};
+const CONFIG = window.CONFIG;
+if (!CONFIG) {
+    throw new Error('CONFIG is not defined');
+}
 
 // Dutch locale
 const DUTCH_DAYS = ['zondag', 'maandag', 'dinsdag', 'woensdag', 'donderdag', 'vrijdag', 'zaterdag'];
@@ -234,6 +225,10 @@ function createSlide(dateStr, index) {
         </div>
         <img src="images/header.png" alt="Header" class="header-logo" onerror="this.style.display='none'">
     `;
+    const headerLogo = header.querySelector('.header-logo');
+    if (headerLogo) {
+        attachVersionShortcut(headerLogo);
+    }
     
     // Menu items
     const menuContainer = document.createElement('div');
@@ -265,6 +260,27 @@ function createSlide(dateStr, index) {
     slide.appendChild(footer);
     
     return slide;
+}
+
+/**
+ * Double-tap or double-click the header logo to open version page
+ */
+function attachVersionShortcut(target) {
+    let lastTapTime = 0;
+
+    target.addEventListener('dblclick', () => {
+        window.location.href = 'version.html';
+    });
+
+    target.addEventListener('touchend', event => {
+        const now = Date.now();
+        const timeSinceLastTap = now - lastTapTime;
+        lastTapTime = now;
+        if (timeSinceLastTap > 0 && timeSinceLastTap < 350) {
+            event.preventDefault();
+            window.location.href = 'version.html';
+        }
+    }, { passive: false });
 }
 
 /**

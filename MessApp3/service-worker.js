@@ -22,7 +22,9 @@ const STATIC_ASSET_EXTENSIONS = [
 const urlsToCache = [
     '/',
     '/index.html',
+    '/version.html',
     '/styles.css',
+    '/config.js',
     '/app.js',
     '/manifest.json',
     '/images/background.png',
