@@ -52,11 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
 function setupEventListeners() {
     const container = document.getElementById('carouselSlides');
     
-    // Touch events - use 'capture' phase and non-passive for better control
-    container.addEventListener('touchstart', handleDragStart, { passive: false, capture: false });
-    container.addEventListener('touchmove', handleDragMove, { passive: false, capture: false });
-    container.addEventListener('touchend', handleDragEnd, { capture: false });
-    container.addEventListener('touchcancel', handleDragEnd, { capture: false });
+    // Touch events
+    container.addEventListener('touchstart', handleDragStart, { passive: true });
+    container.addEventListener('touchmove', handleDragMove, { passive: false });
+    container.addEventListener('touchend', handleDragEnd, false);
+    container.addEventListener('touchcancel', handleDragEnd, false);
     
     // Mouse events
     container.addEventListener('mousedown', handleDragStart, false);
@@ -425,11 +425,6 @@ function prevDay() {
 function handleDragStart(e) {
     if (e.type === 'mousedown' && e.button !== 0) return;
     
-    // Prevent default Safari behaviors on touch
-    if (e.type === 'touchstart') {
-        e.preventDefault();
-    }
-    
     const touch = e.touches ? e.touches[0] : e;
     appState.dragging = true;
     appState.dragStartX = touch.clientX;
@@ -448,27 +443,12 @@ function handleDragMove(e) {
     const touch = e.touches ? e.touches[0] : e;
     const deltaX = touch.clientX - appState.dragStartX;
     const deltaY = touch.clientY - appState.dragStartY;
-    const absX = Math.abs(deltaX);
-    const absY = Math.abs(deltaY);
-    const isInMenu = e.target && e.target.closest && e.target.closest('.menu-items');
-    const axisLockThreshold = 6;
-    
-    if (!appState.dragAxis && (absX > axisLockThreshold || absY > axisLockThreshold)) {
-        if (isInMenu && absY > absX) {
-            appState.dragging = false;
-            return;
-        }
-        appState.dragAxis = 'x';
-    }
-    
-    if (appState.dragAxis !== 'x') {
+    // Allow scroll in menu items
+    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
         return;
     }
     
-    // Prevent default for touch events to enable carousel drag
-    if (e.type === 'touchmove') {
-        e.preventDefault();
-    }
+    e.preventDefault();
     
     const container = document.getElementById('carouselSlides');
     const percent = (deltaX / appState.containerWidth) * 100;
