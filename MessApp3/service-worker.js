@@ -20,21 +20,26 @@ const STATIC_ASSET_EXTENSIONS = [
 ];
 
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/version.html',
-    '/styles.css',
-    '/config.js',
-    '/app.js',
-    '/manifest.json',
-    '/images/background.png',
-    '/images/header.png',
-    '/images/soep.png',
-    '/images/vlees.png',
-    '/images/veggie.png',
-    '/images/grill.png',
-    '/images/groentvdw.png',
-    '/fonts/Filmcryptic.ttf'
+    '/MessApp3/',
+    '/MessApp3/index.html',
+    '/MessApp3/version.html',
+    '/MessApp3/styles.css',
+    '/MessApp3/config.js',
+    '/MessApp3/app.js',
+    '/MessApp3/manifest.json',
+    '/MessApp3/images/background.png',
+    '/MessApp3/images/header.png',
+    '/MessApp3/images/light.png',
+    '/MessApp3/images/acodvrt.png',
+    '/MessApp3/images/soep.png',
+    '/MessApp3/images/vlees.png',
+    '/MessApp3/images/veggie.png',
+    '/MessApp3/images/grill.png',
+    '/MessApp3/images/groentvdw.png',
+    '/MessApp3/images/icon-180.png',
+    '/MessApp3/images/icon-192.png',
+    '/MessApp3/images/icon-512.png',
+    '/MessApp3/fonts/Filmcryptic.ttf'
 ];
 
 // Install

@@ -11,6 +11,7 @@ const DUTCH_MONTHS = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'j
 // App State
 let appState = {
     menuData: null,
+    infoSlide: null,
     days: [],
     currentDayIndex: 0,
     dragging: false,
@@ -87,6 +88,7 @@ async function loadMenuData() {
             appState.menuData = data;
             await cacheMenuData(data);
             processMenuData();
+            loadInfoSlide();
             return;
         }
     } catch (error) {
@@ -98,6 +100,7 @@ async function loadMenuData() {
     if (cached && cached.length > 0) {
         appState.menuData = cached;
         processMenuData();
+        loadInfoSlide();
     } else {
         showNoData();
     }
@@ -188,6 +191,18 @@ function renderCarousel() {
         dotContainer.appendChild(dot);
     });
     
+    // Add info slide at the end if available
+    if (appState.infoSlide) {
+        const infoSlide = createInfoSlide(appState.infoSlide);
+        infoSlide.setAttribute('data-type', 'info');
+        container.appendChild(infoSlide);
+        
+        const dot = document.createElement('div');
+        const isCurrentInfo = appState.currentDayIndex === appState.days.length;
+        dot.className = `dot${isCurrentInfo ? ' active' : ''}`;
+        dotContainer.appendChild(dot);
+    }
+    
     // Initialize carousel - disable transition and set to show default slide
     container.style.transition = 'none';
     container.style.transform = `translateX(${-appState.currentDayIndex * 100}%)`;
@@ -263,6 +278,63 @@ function createSlide(dateStr, index) {
 }
 
 /**
+ * Create info slide from configuration
+ */
+function createInfoSlide(infoData) {
+    const slide = document.createElement('div');
+    slide.className = 'carousel-slide';
+    
+    // Header
+    const header = document.createElement('div');
+    header.className = 'slide-header';
+    header.innerHTML = `
+        <div class="date-info">
+            ${infoData.title || 'Info'}
+        </div>
+        <img src="images/header.png" alt="Header" class="header-logo" onerror="this.style.display='none'">
+    `;
+    
+    // Content items
+    const menuContainer = document.createElement('div');
+    menuContainer.className = 'menu-items';
+    menuContainer.style.cssText = 'padding: 15px 20px;';
+    
+    if (infoData.content && Array.isArray(infoData.content)) {
+        infoData.content.forEach(item => {
+            if (item.type === 'text') {
+                const textEl = document.createElement('div');
+                textEl.style.cssText = 'text-align: center; color: #ffffff; margin: 12px 0; font-size: 16px; line-height: 1.5; padding: 0 10px;';
+                textEl.textContent = item.value;
+                menuContainer.appendChild(textEl);
+            } else if (item.type === 'image') {
+                const img = document.createElement('img');
+                img.src = item.src;
+                img.alt = item.alt || 'Info image';
+                img.style.cssText = 'max-width: 100%; max-height: 150px; margin: 15px auto; display: block; object-fit: contain;';
+                img.onerror = function() { this.style.display = 'none'; };
+                menuContainer.appendChild(img);
+            }
+        });
+    }
+    
+    // Footer
+    const footer = document.createElement('div');
+    footer.className = 'slide-footer';
+    footer.innerHTML = `
+        <img src="images/header.png" alt="Header" class="footer-logo" onerror="this.style.display='none'">
+        <div class="footer-date-info">
+            ${infoData.title || 'Info'}
+        </div>
+    `;
+    
+    slide.appendChild(header);
+    slide.appendChild(menuContainer);
+    slide.appendChild(footer);
+    
+    return slide;
+}
+
+/**
  * Double-tap or double-click the header logo to open version page
  */
 function attachVersionShortcut(target) {
@@ -325,14 +397,16 @@ function updateCarousel() {
  * Navigate to day
  */
 function goToDay(index) {
-    if (index >= 0 && index < appState.days.length) {
+    const maxIndex = appState.infoSlide ? appState.days.length : appState.days.length - 1;
+    if (index >= 0 && index <= maxIndex) {
         appState.currentDayIndex = index;
         updateCarousel();
     }
 }
 
 function nextDay() {
-    if (appState.currentDayIndex < appState.days.length - 1) {
+    const maxIndex = appState.infoSlide ? appState.days.length : appState.days.length - 1;
+    if (appState.currentDayIndex < maxIndex) {
         goToDay(appState.currentDayIndex + 1);
     }
 }
@@ -448,6 +522,56 @@ async function getCachedMenuData() {
         }
     } catch (error) {
         console.error('Error retrieving cached data:', error);
+    }
+    return null;
+}
+
+/**
+ * Load info slide from online source
+ */
+async function loadInfoSlide() {
+    try {
+        const response = await fetch(CONFIG.INFO_SLIDE_URL);
+        if (response.ok) {
+            const data = await response.json();
+            appState.infoSlide = data;
+            await cacheInfoSlide(data);
+            renderCarousel();
+            return;
+        }
+    } catch (error) {
+        console.error('Error fetching info slide:', error);
+    }
+    
+    // Fallback to cache
+    const cached = await getCachedInfoSlide();
+    if (cached) {
+        appState.infoSlide = cached;
+        renderCarousel();
+    }
+}
+
+async function cacheInfoSlide(data) {
+    try {
+        if (window.caches) {
+            const cache = await caches.open(CONFIG.CACHE_NAME);
+            const response = new Response(JSON.stringify(data), { headers: { 'Content-Type': 'application/json' } });
+            await cache.put(CONFIG.INFO_SLIDE_URL, response);
+        }
+    } catch (error) {
+        console.error('Error caching info slide:', error);
+    }
+}
+
+async function getCachedInfoSlide() {
+    try {
+        if (window.caches) {
+            const cache = await caches.open(CONFIG.CACHE_NAME);
+            const response = await cache.match(CONFIG.INFO_SLIDE_URL);
+            if (response) return await response.json();
+        }
+    } catch (error) {
+        console.error('Error retrieving cached info slide:', error);
     }
     return null;
 }
