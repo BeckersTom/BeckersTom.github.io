@@ -113,6 +113,7 @@ html, body {
     flex-direction: row;
     transition: transform 0.35s ease-in-out;
     will-change: transform;
+    touch-action: pan-y;
 }
 
 /* Carousel Slide */

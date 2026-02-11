@@ -16,8 +16,10 @@ let appState = {
     currentDayIndex: 0,
     dragging: false,
     dragStartX: 0,
+    dragStartY: 0,
     dragStartTime: 0,
-    containerWidth: 0
+    containerWidth: 0,
+    dragAxis: null
 };
 
 // Service Worker Registration
@@ -431,7 +433,9 @@ function handleDragStart(e) {
     const touch = e.touches ? e.touches[0] : e;
     appState.dragging = true;
     appState.dragStartX = touch.clientX;
+    appState.dragStartY = touch.clientY;
     appState.dragStartTime = Date.now();
+    appState.dragAxis = null;
     
     const container = document.getElementById('carouselSlides');
     appState.containerWidth = container.clientWidth || window.innerWidth;
@@ -442,10 +446,22 @@ function handleDragMove(e) {
     if (!appState.dragging) return;
     
     const touch = e.touches ? e.touches[0] : e;
+    const deltaX = touch.clientX - appState.dragStartX;
+    const deltaY = touch.clientY - appState.dragStartY;
+    const absX = Math.abs(deltaX);
+    const absY = Math.abs(deltaY);
+    const isInMenu = e.target && e.target.closest && e.target.closest('.menu-items');
+    const axisLockThreshold = 6;
     
-    // Allow scroll in menu items
-    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
-        appState.dragging = false;
+    if (!appState.dragAxis && (absX > axisLockThreshold || absY > axisLockThreshold)) {
+        if (isInMenu && absY > absX) {
+            appState.dragging = false;
+            return;
+        }
+        appState.dragAxis = 'x';
+    }
+    
+    if (appState.dragAxis !== 'x') {
         return;
     }
     
@@ -454,7 +470,6 @@ function handleDragMove(e) {
         e.preventDefault();
     }
     
-    const deltaX = touch.clientX - appState.dragStartX;
     const container = document.getElementById('carouselSlides');
     const percent = (deltaX / appState.containerWidth) * 100;
     const base = -appState.currentDayIndex * 100;
