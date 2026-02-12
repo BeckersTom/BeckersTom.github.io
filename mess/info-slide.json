@@ -3,24 +3,16 @@
   "content": [
     {
       "type": "text",
-      "value": "Welkom bij LekkerInMess!"
-    },
-    {
-      "type": "text",
-      "value": "De snelste manier om het dagelijkse menu te checken."
+      "value": "Deze app word u aangeboden door:"
     },
     {
       "type": "image",
-      "src": "images/acodvrt.png",
-      "alt": "LekkerInMess Logo"
+      "src": "images/acod.png",
+      "alt": "ACOD Logo"
     },
     {
       "type": "text",
-      "value": "Volledig offline beschikbaar en altijd up-to-date."
-    },
-    {
-      "type": "text",
-      "value": "Installeer de app op je thuisscherm voor snel toegang!"
+      "value": "Installeer de app op je thuisscherm voor snelle toegang!"
     }
   ]
 }
