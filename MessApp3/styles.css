@@ -228,14 +228,17 @@ html, body {
     display: flex;
     justify-content: center;
     gap: 8px;
-    padding: 12px 0 8px 0;
-    background: rgba(0, 0, 0, 0.4);
+    padding: 12px 0 calc(8px + env(safe-area-inset-bottom));
+    background: rgba(0, 0, 0, 0.6);
     flex-shrink: 0;
+    position: sticky;
+    bottom: 0;
+    z-index: 5;
 }
 
 .dot {
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     background: rgba(255, 255, 255, 0.5);
     cursor: pointer;

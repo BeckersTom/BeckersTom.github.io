@@ -1,5 +1,5 @@
 window.CONFIG = {
-    VERSION: '3.03',
+    VERSION: '3.04',
     DATA_URL: 'https://github.netvark.net/mess/ActualMenusNew.json',
     INFO_SLIDE_URL: 'https://github.netvark.net/mess/info-slide.json',
     CACHE_NAME: 'menu-app-cache-v2',
