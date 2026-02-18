@@ -245,5 +245,15 @@
       <Afbeelding>LargoWinch_24_5288.jpg</Afbeelding>
       <ReeksId>139</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5382</Id>
+      <Nummer>25</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Als de goden je in de steek laten...</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>LargoWinch_25_5382.jpg</Afbeelding>
+      <ReeksId>139</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

@@ -139,18 +139,20 @@
       <Id>4367</Id>
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>Gebogen, sta ik weer op</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_14_4367.jpg</Afbeelding>
       <ReeksId>55</ReeksId>
     </Strip>
     <Strip>
       <Id>5346</Id>
       <Nummer>15</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>Hart der duisternis</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Carthago_15_5346.jpg</Afbeelding>
       <ReeksId>55</ReeksId>
     </Strip>
   </Strips>

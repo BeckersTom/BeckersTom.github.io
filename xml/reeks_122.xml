@@ -90,7 +90,7 @@
       <Nummer>9</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Narigheid</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Kolonisatie_9_5360.jpg</Afbeelding>
       <ReeksId>122</ReeksId>

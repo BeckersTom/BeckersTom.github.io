@@ -46,6 +46,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>24</Id>
+    <Titel>Alfa</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5379</Id>
+        <Nummer>20</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Black Holes</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Alfa_20_5379.jpg</Afbeelding>
+        <ReeksId>24</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
@@ -168,6 +186,16 @@
         <Afbeelding>Asterix_39_4282.jpg</Afbeelding>
         <ReeksId>37</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5383</Id>
+        <Nummer>41</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Asterix in Lusitania</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Asterix_41_5383.jpg</Afbeelding>
+        <ReeksId>37</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -185,6 +213,24 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>BaardKale_34_1475.jpg</Afbeelding>
         <ReeksId>39</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>341</Id>
+    <Titel>Bellatrix</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5380</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>3e Episode</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Bellatrix_3_5380.jpg</Afbeelding>
+        <ReeksId>341</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -314,18 +360,20 @@
         <Id>4367</Id>
         <Nummer>14</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Gebogen, sta ik weer op</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Carthago_14_4367.jpg</Afbeelding>
         <ReeksId>55</ReeksId>
       </Strip>
       <Strip>
         <Id>5346</Id>
         <Nummer>15</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Hart der duisternis</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Carthago_15_5346.jpg</Afbeelding>
         <ReeksId>55</ReeksId>
       </Strip>
     </Strips>
@@ -579,9 +627,10 @@
         <Id>4318</Id>
         <Nummer>9</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Sahondra</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Conquests_9_4318.jpg</Afbeelding>
         <ReeksId>68</ReeksId>
       </Strip>
       <Strip>
@@ -641,6 +690,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>83</Id>
+    <Titel>Europa</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5376</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De verloren missie</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Europa_3_5376.jpg</Afbeelding>
+        <ReeksId>83</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>84</Id>
     <Titel>Fanny K.</Titel>
     <Kopen>true</Kopen>
@@ -689,6 +756,24 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>92</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>93</Id>
+    <Titel>Golden City</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5384</Id>
+        <Nummer>16</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De jacht op de metamorfen</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>GoldenCity_16_5384.jpg</Afbeelding>
+        <ReeksId>93</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -814,6 +899,23 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>113</Id>
+    <Titel>January Jones</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5386</Id>
+        <Nummer>13</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Bestemming Bandoeng</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <ReeksId>113</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>114</Id>
     <Titel>Jeremiah</Titel>
     <Kopen>true</Kopen>
@@ -833,9 +935,10 @@
         <Id>5367</Id>
         <Nummer>42</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>De lakei</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Jeremiah_42_5367.jpg</Afbeelding>
         <ReeksId>114</ReeksId>
       </Strip>
     </Strips>
@@ -879,24 +982,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>122</Id>
-    <Titel>Kolonisatie</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5360</Id>
-        <Nummer>9</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Narigheid</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Kolonisatie_9_5360.jpg</Afbeelding>
-        <ReeksId>122</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>123</Id>
     <Titel>Konvooi</Titel>
     <Kopen>true</Kopen>
@@ -906,9 +991,10 @@
         <Id>2433</Id>
         <Nummer>19</Nummer>
         <Subnummer xsi:nil="true" />
-        <Titel />
+        <Titel>Time-out</Titel>
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
+        <Afbeelding>Konvooi_19_2433.jpg</Afbeelding>
         <ReeksId>123</ReeksId>
       </Strip>
       <Strip>
@@ -1280,6 +1366,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>139</Id>
+    <Titel>Largo Winch</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5382</Id>
+        <Nummer>25</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Als de goden je in de steek laten...</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>LargoWinch_25_5382.jpg</Afbeelding>
+        <ReeksId>139</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>144</Id>
     <Titel>Lucky Luke (uitg. Lucky Comics)</Titel>
     <Kopen>true</Kopen>
@@ -1518,6 +1622,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>174</Id>
+    <Titel>Orbital</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5374</Id>
+        <Nummer>9</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Opstand</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Orbital_9_5374.jpg</Afbeelding>
+        <ReeksId>174</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>336</Id>
     <Titel>Outlaws</Titel>
     <Kopen>true</Kopen>
@@ -1531,6 +1653,16 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Outlaws_2_5343.jpg</Afbeelding>
+        <ReeksId>336</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5375</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Voorbode</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Outlaws_3_5375.jpg</Afbeelding>
         <ReeksId>336</ReeksId>
       </Strip>
     </Strips>
@@ -2116,6 +2248,16 @@
         <Afbeelding>RikRingersnieuweavonturenvan_7_5342.jpg</Afbeelding>
         <ReeksId>194</ReeksId>
       </Strip>
+      <Strip>
+        <Id>5377</Id>
+        <Nummer>8</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Dead Sugar</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>RikRingersnieuweavonturenvan_8_5377.jpg</Afbeelding>
+        <ReeksId>194</ReeksId>
+      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -2195,24 +2337,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>Sangre_4_5333.jpg</Afbeelding>
         <ReeksId>203</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>268</Id>
-    <Titel>Scotland</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5361</Id>
-        <Nummer>4</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Deel 4</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Scotland_4_5361.jpg</Afbeelding>
-        <ReeksId>268</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2313,6 +2437,24 @@
     </Strips>
   </Reeks>
   <Reeks>
+    <Id>211</Id>
+    <Titel>Storm</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5385</Id>
+        <Nummer>35</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De nacht van Angul</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Storm_35_5385.jpg</Afbeelding>
+        <ReeksId>211</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2406,6 +2548,42 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>221</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>222</Id>
+    <Titel>Thorgal</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5378</Id>
+        <Nummer>43</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel> De wraak van de godin Skaedhi</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>Thorgal_43_5378.jpg</Afbeelding>
+        <ReeksId>222</ReeksId>
+      </Strip>
+    </Strips>
+  </Reeks>
+  <Reeks>
+    <Id>267</Id>
+    <Titel>Thorgal Saga</Titel>
+    <Kopen>true</Kopen>
+    <IsComic>false</IsComic>
+    <Strips>
+      <Strip>
+        <Id>5381</Id>
+        <Nummer>5</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>De stad in beweging</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
+        <Afbeelding>ThorgalSaga_5_5381.jpg</Afbeelding>
+        <ReeksId>267</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2563,6 +2741,15 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>XIIITrilogy_2_5298.jpg</Afbeelding>
+        <ReeksId>342</ReeksId>
+      </Strip>
+      <Strip>
+        <Id>5373</Id>
+        <Nummer>3</Nummer>
+        <Subnummer xsi:nil="true" />
+        <Titel>Jones - De zonnedans</Titel>
+        <Aanwezig>false</Aanwezig>
+        <Gelezen>false</Gelezen>
         <ReeksId>342</ReeksId>
       </Strip>
     </Strips>

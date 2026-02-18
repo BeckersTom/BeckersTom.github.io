@@ -25,5 +25,15 @@
       <Afbeelding>Europa_2_1992.jpg</Afbeelding>
       <ReeksId>83</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5376</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De verloren missie</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Europa_3_5376.jpg</Afbeelding>
+      <ReeksId>83</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

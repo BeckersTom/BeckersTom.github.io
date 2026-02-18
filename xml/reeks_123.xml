@@ -192,15 +192,17 @@
       <Titel>Psycholocaust</Titel>
       <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_18_2432.jpg</Afbeelding>
       <ReeksId>123</ReeksId>
     </Strip>
     <Strip>
       <Id>2433</Id>
       <Nummer>19</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>Time-out</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Konvooi_19_2433.jpg</Afbeelding>
       <ReeksId>123</ReeksId>
     </Strip>
     <Strip>

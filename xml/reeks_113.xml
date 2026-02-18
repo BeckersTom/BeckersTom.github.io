@@ -125,5 +125,14 @@
       <Afbeelding>JanuaryJones_12_4329.jpg</Afbeelding>
       <ReeksId>113</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5386</Id>
+      <Nummer>13</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Bestemming Bandoeng</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>113</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

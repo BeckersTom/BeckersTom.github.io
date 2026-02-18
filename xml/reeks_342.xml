@@ -25,5 +25,14 @@
       <Afbeelding>XIIITrilogy_2_5298.jpg</Afbeelding>
       <ReeksId>342</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5373</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Jones - De zonnedans</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <ReeksId>342</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

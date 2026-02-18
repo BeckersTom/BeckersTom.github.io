@@ -306,6 +306,16 @@
       <ReeksId>43</ReeksId>
     </Strip>
     <Strip>
+      <Id>5372</Id>
+      <Nummer>31</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De Atlantische dreiging</Titel>
+      <Aanwezig>true</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>BlakeenMortimer_31_5372.jpg</Afbeelding>
+      <ReeksId>43</ReeksId>
+    </Strip>
+    <Strip>
       <Id>1506</Id>
       <Nummer>1000</Nummer>
       <Subnummer>S6</Subnummer>

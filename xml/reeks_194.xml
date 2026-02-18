@@ -75,5 +75,15 @@
       <Afbeelding>RikRingersnieuweavonturenvan_7_5342.jpg</Afbeelding>
       <ReeksId>194</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5377</Id>
+      <Nummer>8</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Dead Sugar</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>RikRingersnieuweavonturenvan_8_5377.jpg</Afbeelding>
+      <ReeksId>194</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

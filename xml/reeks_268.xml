@@ -40,7 +40,7 @@
       <Nummer>4</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Deel 4</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Scotland_4_5361.jpg</Afbeelding>
       <ReeksId>268</ReeksId>

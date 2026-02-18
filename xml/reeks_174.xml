@@ -85,5 +85,15 @@
       <Afbeelding>Orbital_8_3176.jpg</Afbeelding>
       <ReeksId>174</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5374</Id>
+      <Nummer>9</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Opstand</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Orbital_9_5374.jpg</Afbeelding>
+      <ReeksId>174</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

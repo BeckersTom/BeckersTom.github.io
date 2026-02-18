@@ -419,9 +419,10 @@
       <Id>5367</Id>
       <Nummer>42</Nummer>
       <Subnummer xsi:nil="true" />
-      <Titel />
+      <Titel>De lakei</Titel>
       <Aanwezig>false</Aanwezig>
       <Gelezen>false</Gelezen>
+      <Afbeelding>Jeremiah_42_5367.jpg</Afbeelding>
       <ReeksId>114</ReeksId>
     </Strip>
   </Strips>

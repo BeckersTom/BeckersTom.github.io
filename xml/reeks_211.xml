@@ -356,6 +356,16 @@
       <ReeksId>211</ReeksId>
     </Strip>
     <Strip>
+      <Id>5385</Id>
+      <Nummer>35</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De nacht van Angul</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Storm_35_5385.jpg</Afbeelding>
+      <ReeksId>211</ReeksId>
+    </Strip>
+    <Strip>
       <Id>4288</Id>
       <Nummer>1000</Nummer>
       <Subnummer>S2</Subnummer>

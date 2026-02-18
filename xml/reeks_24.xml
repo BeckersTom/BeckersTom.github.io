@@ -195,5 +195,15 @@
       <Afbeelding>Alfa_19_5315.jpg</Afbeelding>
       <ReeksId>24</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5379</Id>
+      <Nummer>20</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Black Holes</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Alfa_20_5379.jpg</Afbeelding>
+      <ReeksId>24</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

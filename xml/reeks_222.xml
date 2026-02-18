@@ -425,5 +425,15 @@
       <Afbeelding>Thorgal_42_5348.jpg</Afbeelding>
       <ReeksId>222</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5378</Id>
+      <Nummer>43</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel> De wraak van de godin Skaedhi</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Thorgal_43_5378.jpg</Afbeelding>
+      <ReeksId>222</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

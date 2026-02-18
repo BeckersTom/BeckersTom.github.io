@@ -155,5 +155,15 @@
       <Afbeelding>GoldenCity_15_5295.jpg</Afbeelding>
       <ReeksId>93</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5384</Id>
+      <Nummer>16</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>De jacht op de metamorfen</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>GoldenCity_16_5384.jpg</Afbeelding>
+      <ReeksId>93</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

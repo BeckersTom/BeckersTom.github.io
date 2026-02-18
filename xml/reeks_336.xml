@@ -25,5 +25,15 @@
       <Afbeelding>Outlaws_2_5343.jpg</Afbeelding>
       <ReeksId>336</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5375</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>Voorbode</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Outlaws_3_5375.jpg</Afbeelding>
+      <ReeksId>336</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>

@@ -25,5 +25,15 @@
       <Afbeelding>Bellatrix_2_5327.jpg</Afbeelding>
       <ReeksId>341</ReeksId>
     </Strip>
+    <Strip>
+      <Id>5380</Id>
+      <Nummer>3</Nummer>
+      <Subnummer xsi:nil="true" />
+      <Titel>3e Episode</Titel>
+      <Aanwezig>false</Aanwezig>
+      <Gelezen>false</Gelezen>
+      <Afbeelding>Bellatrix_3_5380.jpg</Afbeelding>
+      <ReeksId>341</ReeksId>
+    </Strip>
   </Strips>
 </Reeks>
