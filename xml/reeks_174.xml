@@ -90,7 +90,7 @@
       <Nummer>9</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Opstand</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Orbital_9_5374.jpg</Afbeelding>
       <ReeksId>174</ReeksId>

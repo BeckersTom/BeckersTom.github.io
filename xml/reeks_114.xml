@@ -420,7 +420,7 @@
       <Nummer>42</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De lakei</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Jeremiah_42_5367.jpg</Afbeelding>
       <ReeksId>114</ReeksId>

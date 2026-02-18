@@ -430,7 +430,7 @@
       <Nummer>43</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel> De wraak van de godin Skaedhi</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Thorgal_43_5378.jpg</Afbeelding>
       <ReeksId>222</ReeksId>

@@ -360,7 +360,7 @@
       <Nummer>35</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De nacht van Angul</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Storm_35_5385.jpg</Afbeelding>
       <ReeksId>211</ReeksId>

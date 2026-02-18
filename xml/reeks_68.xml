@@ -90,7 +90,7 @@
       <Nummer>9</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Sahondra</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Conquests_9_4318.jpg</Afbeelding>
       <ReeksId>68</ReeksId>

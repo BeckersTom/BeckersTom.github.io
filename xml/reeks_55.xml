@@ -140,7 +140,7 @@
       <Nummer>14</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Gebogen, sta ik weer op</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Carthago_14_4367.jpg</Afbeelding>
       <ReeksId>55</ReeksId>
@@ -150,7 +150,7 @@
       <Nummer>15</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Hart der duisternis</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Carthago_15_5346.jpg</Afbeelding>
       <ReeksId>55</ReeksId>

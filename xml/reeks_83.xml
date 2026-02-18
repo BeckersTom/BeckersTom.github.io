@@ -30,7 +30,7 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De verloren missie</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Europa_3_5376.jpg</Afbeelding>
       <ReeksId>83</ReeksId>

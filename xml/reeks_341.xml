@@ -30,7 +30,7 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>3e Episode</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Bellatrix_3_5380.jpg</Afbeelding>
       <ReeksId>341</ReeksId>

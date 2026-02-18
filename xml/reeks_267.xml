@@ -50,7 +50,7 @@
       <Nummer>5</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De stad in beweging</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>ThorgalSaga_5_5381.jpg</Afbeelding>
       <ReeksId>267</ReeksId>

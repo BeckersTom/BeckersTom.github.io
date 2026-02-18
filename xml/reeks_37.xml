@@ -410,7 +410,7 @@
       <Nummer>41</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Asterix in Lusitania</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>Asterix_41_5383.jpg</Afbeelding>
       <ReeksId>37</ReeksId>

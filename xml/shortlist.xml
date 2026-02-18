@@ -46,24 +46,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>24</Id>
-    <Titel>Alfa</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5379</Id>
-        <Nummer>20</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Black Holes</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Alfa_20_5379.jpg</Afbeelding>
-        <ReeksId>24</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>25</Id>
     <Titel>Alfa - Eerste Wapenfeiten</Titel>
     <Kopen>true</Kopen>
@@ -186,16 +168,6 @@
         <Afbeelding>Asterix_39_4282.jpg</Afbeelding>
         <ReeksId>37</ReeksId>
       </Strip>
-      <Strip>
-        <Id>5383</Id>
-        <Nummer>41</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Asterix in Lusitania</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Asterix_41_5383.jpg</Afbeelding>
-        <ReeksId>37</ReeksId>
-      </Strip>
     </Strips>
   </Reeks>
   <Reeks>
@@ -213,24 +185,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>BaardKale_34_1475.jpg</Afbeelding>
         <ReeksId>39</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>341</Id>
-    <Titel>Bellatrix</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5380</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>3e Episode</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Bellatrix_3_5380.jpg</Afbeelding>
-        <ReeksId>341</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -347,52 +301,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>54</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>55</Id>
-    <Titel>Carthago</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>4367</Id>
-        <Nummer>14</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Gebogen, sta ik weer op</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Carthago_14_4367.jpg</Afbeelding>
-        <ReeksId>55</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5346</Id>
-        <Nummer>15</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Hart der duisternis</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Carthago_15_5346.jpg</Afbeelding>
-        <ReeksId>55</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>56</Id>
-    <Titel>Carthago Adventures</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>1794</Id>
-        <Nummer>6</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De bron</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>CarthagoAdventures_6_1794.jpg</Afbeelding>
-        <ReeksId>56</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -624,16 +532,6 @@
     <IsComic>false</IsComic>
     <Strips>
       <Strip>
-        <Id>4318</Id>
-        <Nummer>9</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Sahondra</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Conquests_9_4318.jpg</Afbeelding>
-        <ReeksId>68</ReeksId>
-      </Strip>
-      <Strip>
         <Id>5328</Id>
         <Nummer>10</Nummer>
         <Subnummer xsi:nil="true" />
@@ -686,24 +584,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>DeesDubbeldaverendedadenvan_3_1934.jpg</Afbeelding>
         <ReeksId>72</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>83</Id>
-    <Titel>Europa</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5376</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De verloren missie</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Europa_3_5376.jpg</Afbeelding>
-        <ReeksId>83</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -899,23 +779,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>113</Id>
-    <Titel>January Jones</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5386</Id>
-        <Nummer>13</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Bestemming Bandoeng</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>113</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>114</Id>
     <Titel>Jeremiah</Titel>
     <Kopen>true</Kopen>
@@ -929,16 +792,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <Afbeelding>Jeremiah_38_2294.jpg</Afbeelding>
-        <ReeksId>114</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5367</Id>
-        <Nummer>42</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De lakei</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Jeremiah_42_5367.jpg</Afbeelding>
         <ReeksId>114</ReeksId>
       </Strip>
     </Strips>
@@ -987,16 +840,6 @@
     <Kopen>true</Kopen>
     <IsComic>false</IsComic>
     <Strips>
-      <Strip>
-        <Id>2433</Id>
-        <Nummer>19</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Time-out</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Konvooi_19_2433.jpg</Afbeelding>
-        <ReeksId>123</ReeksId>
-      </Strip>
       <Strip>
         <Id>2434</Id>
         <Nummer>20</Nummer>
@@ -1618,52 +1461,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>171</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>174</Id>
-    <Titel>Orbital</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5374</Id>
-        <Nummer>9</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Opstand</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Orbital_9_5374.jpg</Afbeelding>
-        <ReeksId>174</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>336</Id>
-    <Titel>Outlaws</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5343</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De kusten van Midaluss</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Outlaws_2_5343.jpg</Afbeelding>
-        <ReeksId>336</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5375</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Voorbode</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Outlaws_3_5375.jpg</Afbeelding>
-        <ReeksId>336</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2437,24 +2234,6 @@
     </Strips>
   </Reeks>
   <Reeks>
-    <Id>211</Id>
-    <Titel>Storm</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5385</Id>
-        <Nummer>35</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De nacht van Angul</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Storm_35_5385.jpg</Afbeelding>
-        <ReeksId>211</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
     <Id>215</Id>
     <Titel>Tanguy en Laverdure</Titel>
     <Kopen>true</Kopen>
@@ -2548,42 +2327,6 @@
         <Aanwezig>false</Aanwezig>
         <Gelezen>false</Gelezen>
         <ReeksId>221</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>222</Id>
-    <Titel>Thorgal</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5378</Id>
-        <Nummer>43</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel> De wraak van de godin Skaedhi</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>Thorgal_43_5378.jpg</Afbeelding>
-        <ReeksId>222</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>267</Id>
-    <Titel>Thorgal Saga</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5381</Id>
-        <Nummer>5</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>De stad in beweging</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>ThorgalSaga_5_5381.jpg</Afbeelding>
-        <ReeksId>267</ReeksId>
       </Strip>
     </Strips>
   </Reeks>
@@ -2724,33 +2467,6 @@
         <Gelezen>false</Gelezen>
         <Afbeelding>XIIIMystery_14_5304.jpg</Afbeelding>
         <ReeksId>246</ReeksId>
-      </Strip>
-    </Strips>
-  </Reeks>
-  <Reeks>
-    <Id>342</Id>
-    <Titel>XIII Trilogy</Titel>
-    <Kopen>true</Kopen>
-    <IsComic>false</IsComic>
-    <Strips>
-      <Strip>
-        <Id>5298</Id>
-        <Nummer>2</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Jones - Rood Alcatraz</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <Afbeelding>XIIITrilogy_2_5298.jpg</Afbeelding>
-        <ReeksId>342</ReeksId>
-      </Strip>
-      <Strip>
-        <Id>5373</Id>
-        <Nummer>3</Nummer>
-        <Subnummer xsi:nil="true" />
-        <Titel>Jones - De zonnedans</Titel>
-        <Aanwezig>false</Aanwezig>
-        <Gelezen>false</Gelezen>
-        <ReeksId>342</ReeksId>
       </Strip>
     </Strips>
   </Reeks>

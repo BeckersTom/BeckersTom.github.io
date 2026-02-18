@@ -60,7 +60,7 @@
       <Nummer>6</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>De bron</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>CarthagoAdventures_6_1794.jpg</Afbeelding>
       <ReeksId>56</ReeksId>

@@ -20,7 +20,7 @@
       <Nummer>2</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Jones - Rood Alcatraz</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <Afbeelding>XIIITrilogy_2_5298.jpg</Afbeelding>
       <ReeksId>342</ReeksId>
@@ -30,7 +30,7 @@
       <Nummer>3</Nummer>
       <Subnummer xsi:nil="true" />
       <Titel>Jones - De zonnedans</Titel>
-      <Aanwezig>false</Aanwezig>
+      <Aanwezig>true</Aanwezig>
       <Gelezen>false</Gelezen>
       <ReeksId>342</ReeksId>
     </Strip>
