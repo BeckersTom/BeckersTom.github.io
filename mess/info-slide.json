@@ -3,16 +3,7 @@
   "content": [
     {
       "type": "text",
-      "value": "Deze app word u aangeboden door:"
-    },
-    {
-      "type": "image",
-      "src": "images/acod.png",
-      "alt": "ACOD Logo"
-    },
-    {
-      "type": "text",
-      "value": "Installeer de app op je thuisscherm voor snelle toegang!"
+      "value": "Uw reclame hier!"
     }
   ]
 }
