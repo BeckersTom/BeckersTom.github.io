@@ -256,7 +256,7 @@ function createSlide(dateStr, index) {
         row.className = 'menu-row';
         row.innerHTML = `
             <img src="${CONFIG.MENU_IMAGES[type]}" alt="${type}" class="menu-row-image" onerror="this.style.display='none'">
-            <div class="menu-row-text">${menuItems[type] || 'Niet beschikbaar'}</div>
+            <div class="menu-row-text">${menuItems[type] || '-'}</div>
         `;
         menuContainer.appendChild(row);
     });
@@ -364,7 +364,7 @@ function getMenuItemsForDate(dateStr) {
     const items = {};
     CONFIG.MENU_TYPES.forEach(type => {
         const item = appState.menuData.find(d => d.date.startsWith(dateStr) && d.type === type);
-        items[type] = item ? item.menu1 : 'Niet beschikbaar';
+        items[type] = item ? item.menu1 : '-';
     });
     return items;
 }
