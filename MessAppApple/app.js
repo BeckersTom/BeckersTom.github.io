@@ -53,10 +53,13 @@ function setupEventListeners() {
     const container = document.getElementById('carouselSlides');
     
     // Touch events
-    container.addEventListener('touchstart', handleDragStart, { passive: true });
-    container.addEventListener('touchmove', handleDragMove, { passive: false });
-    container.addEventListener('touchend', handleDragEnd, false);
-    container.addEventListener('touchcancel', handleDragEnd, false);
+    // Use non-passive touchstart so we can decide to prevent default on move,
+    // and attach move/end to document so swipes are tracked even when finger
+    // leaves the container (important on iPhone).
+    container.addEventListener('touchstart', handleDragStart, { passive: false });
+    document.addEventListener('touchmove', handleDragMove, { passive: false });
+    document.addEventListener('touchend', handleDragEnd, false);
+    document.addEventListener('touchcancel', handleDragEnd, false);
     
     // Mouse events
     container.addEventListener('mousedown', handleDragStart, false);
@@ -439,17 +442,27 @@ function handleDragStart(e) {
 
 function handleDragMove(e) {
     if (!appState.dragging) return;
-    
+
     const touch = e.touches ? e.touches[0] : e;
     const deltaX = touch.clientX - appState.dragStartX;
     const deltaY = touch.clientY - appState.dragStartY;
-    // Allow scroll in menu items
-    if (e.target && e.target.closest && e.target.closest('.menu-items')) {
+
+    // Determine drag axis on first meaningful movement
+    if (!appState.dragAxis) {
+        const absX = Math.abs(deltaX);
+        const absY = Math.abs(deltaY);
+        if (absX < 5 && absY < 5) return; // ignore tiny moves
+        appState.dragAxis = absX > absY ? 'x' : 'y';
+    }
+
+    // If vertical movement dominates, allow native scrolling
+    if (appState.dragAxis === 'y') {
+        appState.dragging = false;
         return;
     }
-    
+
+    // Horizontal swipe handling
     e.preventDefault();
-    
     const container = document.getElementById('carouselSlides');
     const percent = (deltaX / appState.containerWidth) * 100;
     const base = -appState.currentDayIndex * 100;
