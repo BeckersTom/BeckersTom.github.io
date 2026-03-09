@@ -44,17 +44,21 @@ const urlsToCache = [
 
 // Install
 self.addEventListener('install', event => {
-    event.waitUntil(
-        caches.open(CACHE_NAME).then(cache => {
-            return Promise.all(
-                urlsToCache.map(url => {
-                    return cache.add(url).catch(err => {
-                        console.warn(`Failed to cache ${url}:`, err);
-                    });
-                })
-            );
-        })
-    );
+    event.waitUntil((async () => {
+        const cache = await caches.open(CACHE_NAME);
+        for (const url of urlsToCache) {
+            try {
+                const resp = await fetch(url);
+                if (resp && resp.ok) {
+                    await cache.put(url, resp.clone());
+                } else {
+                    console.warn(`Skipped caching ${url} — fetch returned ${resp ? resp.status : 'no response'}`);
+                }
+            } catch (err) {
+                console.warn(`Failed to cache ${url}:`, err);
+            }
+        }
+    })());
     self.skipWaiting();
 });
 
