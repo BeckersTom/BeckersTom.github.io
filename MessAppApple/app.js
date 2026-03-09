@@ -119,9 +119,10 @@ function processMenuData() {
     const todayStr = formatDate(today);
     const previousWorkday = getPreviousWorkday(today);
     const previousWorkdayStr = formatDate(previousWorkday);
+    const endOfNextWeek = getEndOfNextWeek(today);
     const daysSet = new Set();
     
-    // Filter data for today and future, excluding weekends (Saturday=6, Sunday=0)
+    // Filter data for today up to end of next week, excluding weekends (Saturday=6, Sunday=0)
     const filtered = appState.menuData.filter(item => {
         // Parse date string "YYYY-MM-DDTHH:MM:SS"
         const dateParts = item.date.split('T')[0].split('-');
@@ -137,7 +138,7 @@ function processMenuData() {
         }
         // Create local date for comparison
         const itemDateLocal = new Date(year, month - 1, day);
-        return itemDateLocal >= today;
+        return itemDateLocal >= today && itemDateLocal <= endOfNextWeek;
     });
     
     if (filtered.length === 0) {
@@ -607,9 +608,16 @@ function getPreviousWorkday(date) {
     return d;
 }
 
-/**
- * Refresh data when app comes to focus
- */
+function getEndOfNextWeek(today) {
+    const d = new Date(today);
+    // Find next Sunday (day 0)
+    const daysToNextSunday = (7 - d.getDay()) % 7;
+    if (daysToNextSunday === 0) daysToNextSunday = 7; // if today is Sunday, next Sunday is in 7 days
+    d.setDate(d.getDate() + daysToNextSunday);
+    // Then add 7 days to get the Sunday after that (end of next week)
+    d.setDate(d.getDate() + 7);
+    return d;
+}
 document.addEventListener('visibilitychange', () => {
     if (!document.hidden && appState.menuData) {
         loadMenuData();
