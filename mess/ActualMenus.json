@@ -1,371 +1,5 @@
 [
   {
-    "id": "8250",
-    "date": "2026-06-25T00:00:00",
-    "type": "grill",
-    "menu1": "Flammkuchen"
-  },
-  {
-    "id": "8249",
-    "date": "2026-06-25T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Erwten - Bloemkool - Boterboontjes - Halve tomaat"
-  },
-  {
-    "id": "8246",
-    "date": "2026-06-25T00:00:00",
-    "type": "soep",
-    "menu1": "Waterkerssoep"
-  },
-  {
-    "id": "8247",
-    "date": "2026-06-25T00:00:00",
-    "type": "veggie",
-    "menu1": "Zaalouk met parelcouscous en feta"
-  },
-  {
-    "id": "8248",
-    "date": "2026-06-25T00:00:00",
-    "type": "vlees",
-    "menu1": "Steak met chiliboter, avocado ananas salade met limoen en krieltjes uit de oven"
-  },
-  {
-    "id": "8254",
-    "date": "2026-06-26T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Erwten - Bloemkool - Boterboontjes - Halve tomaat"
-  },
-  {
-    "id": "8251",
-    "date": "2026-06-26T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep"
-  },
-  {
-    "id": "8252",
-    "date": "2026-06-26T00:00:00",
-    "type": "veggie",
-    "menu1": "Kaaskroketten met gefruite peterselie, citroen en gemengde salade"
-  },
-  {
-    "id": "8253",
-    "date": "2026-06-26T00:00:00",
-    "type": "vlees",
-    "menu1": "Zweedse balletjes met puree"
-  },
-  {
-    "id": "8258",
-    "date": "2026-06-28T00:00:00",
-    "type": "grill",
-    "menu1": "Schartongrolletjes met krieltjes en botercitroensaus"
-  },
-  {
-    "id": "8255",
-    "date": "2026-06-28T00:00:00",
-    "type": "soep",
-    "menu1": "Tomatensoep"
-  },
-  {
-    "id": "8256",
-    "date": "2026-06-28T00:00:00",
-    "type": "veggie",
-    "menu1": "Pompoen-Linzen Lasagne - Vegetarische aardappelschotel met tomaat, spinazie en geitenkaas"
-  },
-  {
-    "id": "8257",
-    "date": "2026-06-28T00:00:00",
-    "type": "vlees",
-    "menu1": "Orloffgebraad op z’n Italiaans met pasta - Moussaka"
-  },
-  {
-    "id": "8263",
-    "date": "2026-06-29T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza salami"
-  },
-  {
-    "id": "8262",
-    "date": "2026-06-29T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Romanesco kool - Gebakken mais met rode paprika - Tuinbonen - Vergeten groenten"
-  },
-  {
-    "id": "8259",
-    "date": "2026-06-29T00:00:00",
-    "type": "soep",
-    "menu1": "Spinaziesoep met lente ui"
-  },
-  {
-    "id": "8260",
-    "date": "2026-06-29T00:00:00",
-    "type": "veggie",
-    "menu1": "Thaise curry met veggie kip, groenten en kokos met rijst en geroosterde pinda"
-  },
-  {
-    "id": "8261",
-    "date": "2026-06-29T00:00:00",
-    "type": "vlees",
-    "menu1": "Kipgyros met paprikareepjes, tzatziki en Griekse pasta"
-  },
-  {
-    "id": "8268",
-    "date": "2026-06-30T00:00:00",
-    "type": "grill",
-    "menu1": "Burger met spek, kaas en homemade spicysaus, steakhouse frieten"
-  },
-  {
-    "id": "8267",
-    "date": "2026-06-30T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Romanesco kool - Gebakken mais met rode paprika - Tuinbonen - Vergeten groenten"
-  },
-  {
-    "id": "8264",
-    "date": "2026-06-30T00:00:00",
-    "type": "soep",
-    "menu1": "Tom Kha Kai"
-  },
-  {
-    "id": "8265",
-    "date": "2026-06-30T00:00:00",
-    "type": "veggie",
-    "menu1": "Veggie balletjes in tomatensaus met frietjes"
-  },
-  {
-    "id": "8266",
-    "date": "2026-06-30T00:00:00",
-    "type": "vlees",
-    "menu1": "Ovenschotel met pasta en vis"
-  },
-  {
-    "id": "8273",
-    "date": "2026-07-01T00:00:00",
-    "type": "grill",
-    "menu1": "Mosselen met frieten 15€"
-  },
-  {
-    "id": "8272",
-    "date": "2026-07-01T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Romanesco kool - Gebakken mais met rode paprika - Tuinbonen - Vergeten groenten"
-  },
-  {
-    "id": "8269",
-    "date": "2026-07-01T00:00:00",
-    "type": "soep",
-    "menu1": "Groene groentesoep"
-  },
-  {
-    "id": "8270",
-    "date": "2026-07-01T00:00:00",
-    "type": "veggie",
-    "menu1": "Pad thai met tofu en cashewnoten"
-  },
-  {
-    "id": "8271",
-    "date": "2026-07-01T00:00:00",
-    "type": "vlees",
-    "menu1": "Vol au vent met frietjes en zomerse salade"
-  },
-  {
-    "id": "8278",
-    "date": "2026-07-02T00:00:00",
-    "type": "grill",
-    "menu1": "Burger met spek, kaas en homemade spicysaus, steakhouse frieten"
-  },
-  {
-    "id": "8277",
-    "date": "2026-07-02T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Romanesco kool - Gebakken mais met rode paprika - Tuinbonen - Vergeten groenten"
-  },
-  {
-    "id": "8274",
-    "date": "2026-07-02T00:00:00",
-    "type": "soep",
-    "menu1": "Bloemkoolsoep met bieslook"
-  },
-  {
-    "id": "8275",
-    "date": "2026-07-02T00:00:00",
-    "type": "veggie",
-    "menu1": "Salade van zoete aardappel, mango, avocado en halloumi"
-  },
-  {
-    "id": "8276",
-    "date": "2026-07-02T00:00:00",
-    "type": "vlees",
-    "menu1": "Enchilada's met gehakt en cheddar"
-  },
-  {
-    "id": "8282",
-    "date": "2026-07-03T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Romanesco kool - Gebakken mais met rode paprika - Tuinbonen - Vergeten groenten"
-  },
-  {
-    "id": "8279",
-    "date": "2026-07-03T00:00:00",
-    "type": "soep",
-    "menu1": "Wortelsoep"
-  },
-  {
-    "id": "8280",
-    "date": "2026-07-03T00:00:00",
-    "type": "veggie",
-    "menu1": "Traybake met puntpaprika, radijs, witloof, geitenkaas, appel en druiven"
-  },
-  {
-    "id": "8281",
-    "date": "2026-07-03T00:00:00",
-    "type": "vlees",
-    "menu1": "Bulgogi beef bowl met rijst"
-  },
-  {
-    "id": "8286",
-    "date": "2026-07-06T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli - Wortelen - Venkel uit de oven - Spinazie"
-  },
-  {
-    "id": "8283",
-    "date": "2026-07-06T00:00:00",
-    "type": "soep",
-    "menu1": "Franse ajuinsoep"
-  },
-  {
-    "id": "8284",
-    "date": "2026-07-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Pasta pesto met gedroogde tomaten, rucola en parmezaan"
-  },
-  {
-    "id": "8285",
-    "date": "2026-07-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Scampi Thaise curry met rijst"
-  },
-  {
-    "id": "8290",
-    "date": "2026-07-07T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli - Wortelen - Venkel uit de oven - Spinazie"
-  },
-  {
-    "id": "8287",
-    "date": "2026-07-07T00:00:00",
-    "type": "soep",
-    "menu1": "Parmentiersoep"
-  },
-  {
-    "id": "8288",
-    "date": "2026-07-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Chili sin carne met wedges, zure room, guacamole en nacho's"
-  },
-  {
-    "id": "8289",
-    "date": "2026-07-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Lasagne bolognaise"
-  },
-  {
-    "id": "8294",
-    "date": "2026-07-08T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli - Wortelen - Venkel uit de oven - Spinazie"
-  },
-  {
-    "id": "8291",
-    "date": "2026-07-08T00:00:00",
-    "type": "soep",
-    "menu1": "Bloemkoolsoep met Bosuitjes"
-  },
-  {
-    "id": "8292",
-    "date": "2026-07-08T00:00:00",
-    "type": "veggie",
-    "menu1": "Melanzane alla Parmigiana met schiatta"
-  },
-  {
-    "id": "8293",
-    "date": "2026-07-08T00:00:00",
-    "type": "vlees",
-    "menu1": "Kipbrochette champignon, friet en salade"
-  },
-  {
-    "id": "8298",
-    "date": "2026-07-09T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli - Wortelen - Venkel uit de oven - Spinazie"
-  },
-  {
-    "id": "8295",
-    "date": "2026-07-09T00:00:00",
-    "type": "soep",
-    "menu1": "Pastinaaksoep met curry"
-  },
-  {
-    "id": "8296",
-    "date": "2026-07-09T00:00:00",
-    "type": "veggie",
-    "menu1": "Portobelloburger met spiegelei en zoete aardappelfrieten"
-  },
-  {
-    "id": "8297",
-    "date": "2026-07-09T00:00:00",
-    "type": "vlees",
-    "menu1": "Homemade Italiaanse frikandon met mozzearella, slaatje en gebakken aardappelen"
-  },
-  {
-    "id": "8302",
-    "date": "2026-07-10T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Broccoli - Wortelen - Venkel uit de oven - Spinazie"
-  },
-  {
-    "id": "8299",
-    "date": "2026-07-10T00:00:00",
-    "type": "soep",
-    "menu1": "Kokos currysoep"
-  },
-  {
-    "id": "8300",
-    "date": "2026-07-10T00:00:00",
-    "type": "veggie",
-    "menu1": "Salade van gegrilde nectarines, halloumi en quinoa"
-  },
-  {
-    "id": "8301",
-    "date": "2026-07-10T00:00:00",
-    "type": "vlees",
-    "menu1": "Salade van Zuiderse groenten met parelcouscous, kruidige kippenreepjes en frisse yoghurtdressing"
-  },
-  {
-    "id": "8306",
-    "date": "2026-07-13T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Bloemkool - Duo van courgette - halve tomaat - Gebakken champignons"
-  },
-  {
-    "id": "8303",
-    "date": "2026-07-13T00:00:00",
-    "type": "soep",
-    "menu1": "Romige wortelsoep met courgette"
-  },
-  {
-    "id": "8304",
-    "date": "2026-07-13T00:00:00",
-    "type": "veggie",
-    "menu1": "Noedels met groentenloempia met zoet zure saus"
-  },
-  {
-    "id": "8305",
-    "date": "2026-07-13T00:00:00",
-    "type": "vlees",
-    "menu1": "Farfalle met broccoli, kerstomaatjes, groen kruidensausje en gerookte- &amp; gepocheerde zalm"
-  },
-  {
     "id": "8311",
     "date": "2026-07-14T00:00:00",
     "type": "grill",
@@ -444,27 +78,129 @@
     "menu1": "Gelakte ribbetjes met frisse aardappelsalade en koolsla"
   },
   {
-    "id": "8323",
+    "id": "8327",
     "date": "2026-07-17T00:00:00",
     "type": "groentvdw",
     "menu1": "Bloemkool - Duo van courgette - halve tomaat - Gebakken champignons"
   },
   {
-    "id": "8320",
+    "id": "8324",
     "date": "2026-07-17T00:00:00",
     "type": "soep",
     "menu1": "Soepje van zomergroenten"
   },
   {
-    "id": "8321",
+    "id": "8325",
     "date": "2026-07-17T00:00:00",
     "type": "veggie",
     "menu1": "Tomatenrisotto met pangrattato en burrata"
   },
   {
-    "id": "8322",
+    "id": "8326",
     "date": "2026-07-17T00:00:00",
     "type": "vlees",
     "menu1": "Libanese kibbeh met fattoush salade"
+  },
+  {
+    "id": "8331",
+    "date": "2026-07-20T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Groene bonen - Wortelen - Maïs Tex Mex - Aubergine met sesam"
+  },
+  {
+    "id": "8328",
+    "date": "2026-07-20T00:00:00",
+    "type": "soep",
+    "menu1": "Kippenroomsoep"
+  },
+  {
+    "id": "8329",
+    "date": "2026-07-20T00:00:00",
+    "type": "veggie",
+    "menu1": "Mexicaanse quinoasalade met avocado, mais en bonen"
+  },
+  {
+    "id": "8330",
+    "date": "2026-07-20T00:00:00",
+    "type": "vlees",
+    "menu1": "Koreaans spek met groentenrijst"
+  },
+  {
+    "id": "8332",
+    "date": "2026-07-21T00:00:00",
+    "type": "soep",
+    "menu1": "Feestdag"
+  },
+  {
+    "id": "8336",
+    "date": "2026-07-22T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Groene bonen - Wortelen - Maïs Tex Mex - Aubergine met sesam"
+  },
+  {
+    "id": "8333",
+    "date": "2026-07-22T00:00:00",
+    "type": "soep",
+    "menu1": "Preisoep"
+  },
+  {
+    "id": "8334",
+    "date": "2026-07-22T00:00:00",
+    "type": "veggie",
+    "menu1": "Salade van geroosterde groenten met gefrituurde halloumi en krieltjes"
+  },
+  {
+    "id": "8335",
+    "date": "2026-07-22T00:00:00",
+    "type": "vlees",
+    "menu1": "Tongrolletjes duglérè met pomme duchesse"
+  },
+  {
+    "id": "8340",
+    "date": "2026-07-23T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Groene bonen - Wortelen - Maïs Tex Mex - Aubergine met sesam"
+  },
+  {
+    "id": "8337",
+    "date": "2026-07-23T00:00:00",
+    "type": "soep",
+    "menu1": "Kervelsoep"
+  },
+  {
+    "id": "8338",
+    "date": "2026-07-23T00:00:00",
+    "type": "veggie",
+    "menu1": "Risotto met champignons, spinazie en parmezaan"
+  },
+  {
+    "id": "8339",
+    "date": "2026-07-23T00:00:00",
+    "type": "vlees",
+    "menu1": "Thaïse rundvleessalade met glasnoedels, komkommersalade, koriander en munt"
+  },
+  {
+    "id": "8344",
+    "date": "2026-07-24T00:00:00",
+    "type": "groentvdw",
+    "menu1": "Groene bonen - Wortelen - Maïs Tex Mex - Aubergine met sesam"
+  },
+  {
+    "id": "8341",
+    "date": "2026-07-24T00:00:00",
+    "type": "soep",
+    "menu1": "Courgettesoep met munt"
+  },
+  {
+    "id": "8342",
+    "date": "2026-07-24T00:00:00",
+    "type": "veggie",
+    "menu1": "Tabouleh met falafel en hummus"
+  },
+  {
+    "id": "8343",
+    "date": "2026-07-24T00:00:00",
+    "type": "vlees",
+    "menu1": "Stoofvlees met frieten"
   }
 ]
