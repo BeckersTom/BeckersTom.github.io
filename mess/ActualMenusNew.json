@@ -1,143 +1,5 @@
 [
   {
-    "id": "8590",
-    "date": "2026-10-05T00:00:00",
-    "type": "grill",
-    "menu1": "Wrap met gegrilde kip, mangochutney, zure room, guacamole, scampi en aardappelwedges&nbsp;"
-  },
-  {
-    "id": "8589",
-    "date": "2026-10-05T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Prei - Vergeten groenten - Romanesco kool - Gebakken mais met rode paprika"
-  },
-  {
-    "id": "8586",
-    "date": "2026-10-05T00:00:00",
-    "type": "soep",
-    "menu1": "Pittige rode linzensoep"
-  },
-  {
-    "id": "8587",
-    "date": "2026-10-05T00:00:00",
-    "type": "veggie",
-    "menu1": "Falafelwrap met hummus, groenten en yoghurtdressing"
-  },
-  {
-    "id": "8588",
-    "date": "2026-10-05T00:00:00",
-    "type": "vlees",
-    "menu1": "Gewokte rundreepjes, teriyakisaus, Chinese kool, sojascheuten en mienoedels"
-  },
-  {
-    "id": "8595",
-    "date": "2026-10-06T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Bianca met gorgonzola, aubergine en spek"
-  },
-  {
-    "id": "8594",
-    "date": "2026-10-06T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Prei - Vergeten groenten - Romanesco kool - Gebakken mais met rode paprika"
-  },
-  {
-    "id": "8591",
-    "date": "2026-10-06T00:00:00",
-    "type": "soep",
-    "menu1": "Kippensoep"
-  },
-  {
-    "id": "8592",
-    "date": "2026-10-06T00:00:00",
-    "type": "veggie",
-    "menu1": "Tortollini met romige rode pesto, kersttomaatjes, geroosterde pijnboompitten en rucola"
-  },
-  {
-    "id": "8593",
-    "date": "2026-10-06T00:00:00",
-    "type": "vlees",
-    "menu1": "Schnitzel met mediterane ovengroenten en gebakken krieltjes"
-  },
-  {
-    "id": "8599",
-    "date": "2026-10-07T00:00:00",
-    "type": "grill",
-    "menu1": "Prei - Vergeten groenten - Romanesco kool - Gebakken mais met rode paprika"
-  },
-  {
-    "id": "8596",
-    "date": "2026-10-07T00:00:00",
-    "type": "soep",
-    "menu1": "Currysoep met gebakken appel"
-  },
-  {
-    "id": "8597",
-    "date": "2026-10-07T00:00:00",
-    "type": "veggie",
-    "menu1": "Shakshuka van groene groenten met kokos"
-  },
-  {
-    "id": "8598",
-    "date": "2026-10-07T00:00:00",
-    "type": "vlees",
-    "menu1": "Romige ovenschotel met zalm, prei en bieslookpuee"
-  },
-  {
-    "id": "8613",
-    "date": "2026-10-08T00:00:00",
-    "type": "grill",
-    "menu1": "Pizza Bianca met gorgonzola, aubergine en spek"
-  },
-  {
-    "id": "8612",
-    "date": "2026-10-08T00:00:00",
-    "type": "groentvdw",
-    "menu1": "Prei - Vergeten groenten - Romanesco kool - Gebakken mais met rode paprika"
-  },
-  {
-    "id": "8609",
-    "date": "2026-10-08T00:00:00",
-    "type": "soep",
-    "menu1": "Bloemkool-broccolisoep met bieslook"
-  },
-  {
-    "id": "8610",
-    "date": "2026-10-08T00:00:00",
-    "type": "veggie",
-    "menu1": "Parmegiana alla melanzane met lookbrood en salade"
-  },
-  {
-    "id": "8611",
-    "date": "2026-10-08T00:00:00",
-    "type": "vlees",
-    "menu1": "Pad thai met scampi"
-  },
-  {
-    "id": "8617",
-    "date": "2026-10-09T00:00:00",
-    "type": "grill",
-    "menu1": "Prei - Vergeten groenten - Romanesco kool - Gebakken mais met rode paprika"
-  },
-  {
-    "id": "8614",
-    "date": "2026-10-09T00:00:00",
-    "type": "soep",
-    "menu1": "Parmentiersoep"
-  },
-  {
-    "id": "8615",
-    "date": "2026-10-09T00:00:00",
-    "type": "veggie",
-    "menu1": "Kaaskroketten met gefruite peterselie, citroen en gemengde salade"
-  },
-  {
-    "id": "8616",
-    "date": "2026-10-09T00:00:00",
-    "type": "vlees",
-    "menu1": "Moussaka met Griekse salade"
-  },
-  {
     "id": "8621",
     "date": "2026-10-12T00:00:00",
     "type": "groentvdw",
@@ -192,85 +54,85 @@
     "menu1": "Gebakken rijst met pittige satésaus, kipbrochette, atjar tjampoer en kroepoek"
   },
   {
-    "id": "8631",
+    "id": "8645",
     "date": "2026-10-14T00:00:00",
     "type": "grill",
     "menu1": "Pizza kip BBQ, maïs, rode ui"
   },
   {
-    "id": "8630",
+    "id": "8644",
     "date": "2026-10-14T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Broccoli - Knolselder - Champignons"
   },
   {
-    "id": "8627",
+    "id": "8641",
     "date": "2026-10-14T00:00:00",
     "type": "soep",
     "menu1": "Witloofsoep met witbier"
   },
   {
-    "id": "8628",
+    "id": "8642",
     "date": "2026-10-14T00:00:00",
     "type": "veggie",
     "menu1": "Toast champignon room, spiegelei en salade van avocado"
   },
   {
-    "id": "8629",
+    "id": "8643",
     "date": "2026-10-14T00:00:00",
     "type": "vlees",
     "menu1": "Varkenswangetjes met spek en ajuin met knolselderpuree"
   },
   {
-    "id": "8636",
+    "id": "8650",
     "date": "2026-10-15T00:00:00",
     "type": "grill",
     "menu1": "Rundsburger op brioche, cheddar, spek, augurk en bbq-saus"
   },
   {
-    "id": "8635",
+    "id": "8649",
     "date": "2026-10-15T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Broccoli - Knolselder - Champignons"
   },
   {
-    "id": "8632",
+    "id": "8646",
     "date": "2026-10-15T00:00:00",
     "type": "soep",
     "menu1": "Tomatensoep met balletjes"
   },
   {
-    "id": "8633",
+    "id": "8647",
     "date": "2026-10-15T00:00:00",
     "type": "veggie",
     "menu1": "Halloumi shoarma tomatensalsa, tzatziki en pitabrood"
   },
   {
-    "id": "8634",
+    "id": "8648",
     "date": "2026-10-15T00:00:00",
     "type": "vlees",
     "menu1": "Vol au vent met vidée, gemengde salade frieten"
   },
   {
-    "id": "8640",
+    "id": "8654",
     "date": "2026-10-16T00:00:00",
     "type": "groentvdw",
     "menu1": "Witte kool in bechamel - Broccoli - Knolselder - Champignons"
   },
   {
-    "id": "8637",
+    "id": "8651",
     "date": "2026-10-16T00:00:00",
     "type": "soep",
     "menu1": "Ajuinsoep met diablotins"
   },
   {
-    "id": "8638",
+    "id": "8652",
     "date": "2026-10-16T00:00:00",
     "type": "veggie",
     "menu1": "Traybake van appel, geitenkaas, witloof en radijs"
   },
   {
-    "id": "8639",
+    "id": "8653",
     "date": "2026-10-16T00:00:00",
     "type": "vlees",
     "menu1": "Ribbetjes met aardappel in de schil, koolsla"
